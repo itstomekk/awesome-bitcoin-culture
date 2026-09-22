@@ -82,13 +82,16 @@ coins, AI-slop generated in bulk.
   American.
 - [YuZapata](http://yuzapata.art) — Street art/digital, "Palometa the Pigeon" character;
   "Orange Fruit Dove". Latin American.
-- [CA Danner](https://timechainartmagazine.com/artist-directory/) — Digital/print series,
+- [CA Danner](http://www.cadanner.com/) — Digital/print series,
   "Satoshi White Paper Series". Auctioned via Bitcoin for the Arts.
-- [Lady RedHorns](https://timechainartmagazine.com/artist-directory/) — Mixed media, "Angels of
+  ([X/Twitter](https://twitter.com/cityalley21))
+- [Lady RedHorns](https://redhornsbtc.store/) — Mixed media, "Angels of
   Freedom" series ("The Transfer of Light", "The Bitcoin Keeper", "The Temptation of Bitcoin
   Angel"). Auctioned via Bitcoin for the Arts.
-- [Shipwreck Sean](https://timechainartmagazine.com/artist-directory/) — Illustration, "HODL On"
+  ([Instagram](https://www.instagram.com/lady_redhorns), [X/Twitter](https://x.com/LRedhorns))
+- [Shipwreck Sean](https://x.com/artbyshipwreck) — Illustration, "HODL On"
   (2026). Auctioned via Bitcoin for the Arts.
+  ([Instagram](https://www.instagram.com/shipwrecksean/))
 
 **More artists — from the [Timechain Art Magazine directory](https://timechainartmagazine.com/artist-directory/),
 medium/style verified per-artist (2026-09-22 audit):**
@@ -98,8 +101,9 @@ medium/style verified per-artist (2026-09-22 audit):**
   sovereignty.
 - [Psyfer](https://www.psyferpunkart.com/about) — Multidisciplinary, digital-numismatics-focused
   art; London-based practice examining the semiotics of power.
-- [RYR](https://timechainartmagazine.com/artist/ryr/) — Painting, street art, and contemporary
+- [RYR](https://www.ryrstudio.com/) — Painting, street art, and contemporary
   mixed media; retains graffiti's raw energy while addressing money, value, and technology.
+  ([X/Twitter](https://x.com/ryrartist))
 - [Tommy Marcheschi](https://www.tommy.studio/) — Oil, acrylic, aerosol, and mixed media;
   describes his politically charged work as "pre-emptive propaganda."
 - [George Bodine](https://georgebodineart.com/) — Oil painting of landscapes, cityscapes, and
@@ -108,30 +112,32 @@ medium/style verified per-artist (2026-09-22 audit):**
   and gold; recurring *Ichthys* forms connect Bitcoin to ancient symbolism.
 - [Sweedgraffixx](https://sweedgraffixx.ch/) — Acrylic and mixed-media painting; dense, colorful,
   hand-worked surfaces, including the "Scarcity" canvas.
-- [B](https://timechainartmagazine.com/artist/b/) — Airbrush-based physical art; featured in BTC
+- [B](https://x.com/cryptbdango) — Airbrush-based physical art; featured in BTC
   Prague's Bitcoin-only gallery.
 - [The Great Print](https://timechainartmagazine.com/artist/the-great-print/) — Detailed pen
   drawing and traditional Bitcoin-focused artwork; also develops visual identities for Bitcoin
   companies.
-- [Kenneth Burris](https://timechainartmagazine.com/artist/kenneth-burris/) — Oil painting
+- [Kenneth Burris](https://kennethburris.com/data-becoming-form-series/) — Oil painting
   informed by landscapes and verified Bitcoin block data. Also a BFTA Board Advisor, see
-  [Grants, Funders & Patronage](#grants-funders--patronage).
+  [Grants, Funders & Patronage](#grants-funders--patronage). ([X/Twitter](https://x.com/KBStudioNYC))
 - [Gareth Eckley](https://garetheckley.com/) — Gemstone carving and jewelry sculpture; "Bitcoin
   Gem Artwork" series uses sacred geometry and the Golden Ratio.
-- [Bitko Yinowsky](https://timechainartmagazine.com/artist/bitko-yinowsky/) — Conceptual Bitcoin
+- [Bitko Yinowsky](https://bitko.cc/) — Conceptual Bitcoin
   character art; a fictional persona representing decentralization, scarcity, and resistance
-  (medium not specified).
+  (medium not specified). ([Nostr](https://primal.net/p/npub1k6rrkx80gkhxe9ycd5rpcjsaynf7034wvauffn928tqg5z0p2ekqhjx6lp))
 - [Kanuto](https://kanuto.io/) — Wood, acrylic, and paint, physical-only artworks; translates
   Bitcoin transactions into handcrafted forms with cypherpunk themes.
 - [Sea Is Medicine](https://btcaloha.shop/pages/about) — Collage and wearable art with surf and
   sea imagery; BTC Aloha turns the practice into sustainable shirts and beach accessories.
-- [Maxis Club](https://timechainartmagazine.com/artist/maxis-club/) — Meme art, humor, and satire;
+- [Maxis Club](https://maxisclub.carrd.co/) — Meme art, humor, and satire;
   daily collection aiming for 2,100 limited memes tied to Bitcoin's 21-million supply cap.
+  ([X/Twitter](https://x.com/MaxisClub), [Nostr](https://primal.net/p/npub1pazuhetzx5w8yyt59lszeslxlywkeadnq6rncre7nlqv2uxnxuwq8c56r9))
 - [mx12art](https://mx12.art/) — Painting and hand-painted wearable art; connects proof of work
   and sovereignty with a personal story of rebuilding identity after memory loss.
-- [Bitcoin Trading Cards](https://timechainartmagazine.com/artist/bitcoin-trading-cards/) —
+- [Bitcoin Trading Cards](https://basedtradingcards.com/) —
   Physical collectible card art and storytelling; limited editions present Bitcoin culture and
   history through scarcity and proof-of-work themes.
+  ([X/Twitter](https://x.com/btc_cards), [Nostr](https://primal.net/p/npub1yjryjq2kdganuc69zme9agk0q4rjcnlxel3fwp3xm9z68phsxngsqd33a9))
 - [A13MW](https://www.a13mw.com/) — Painting, drawing, printmaking, and hand-drawn frame-by-frame
   animation; "Buzzbee, the African Bitcoin Queen" anchors the animation work.
 - [Modeotec](https://timechainartmagazine.com/artist/modeotec/) — Assemblage from recycled
@@ -170,12 +176,15 @@ medium/style verified per-artist (2026-09-22 audit):**
 - [Dustin D. Trammell](https://timechainartmagazine.com/artist/dustin-trammell/) — Experimental
   multimedia and digital-culture practice involving game design (no single visual medium
   specified).
-- [Missatoshi_girl](https://timechainartmagazine.com/artist/missatoshi-girl-bitcoin-artist/) —
+- [Missatoshi_girl](https://missatoshigirl.pvh-labs.com/) —
   Street-art-influenced mixed media using recycled and repurposed materials; graffiti language
   addressing privacy, freedom, and decentralization.
-- [Chiefmonkey](https://timechainartmagazine.com/artist/chiefmonkey/) — Laser-cut, layered works
+  ([Instagram](https://instagram.com/missatoshi_girl), [X/Twitter](https://x.com/Missatoshi_girl),
+  [Nostr](https://primal.net/p/npub1cax06cljhz5mugtrrxdjvhw8ekepum7l4c7etmj6nwaunzdtxmyqf3cjwe))
+- [Chiefmonkey](https://hodlr.rocks/) — Laser-cut, layered works
   combining text, symbolism, and structure; closely tied to cypherpunk philosophy and Nostr.
-- [MadMunky](https://timechainartmagazine.com/artist/madmunky/) — Wood, resin, and mixed-media
+  ([Nostr](https://primal.net/p/npub1a3um269aaf3u5cy37kuykrrrnsg2pyv7za06pxjduv25lq5sdujs2qmdj6))
+- [MadMunky](https://madmunky2140.carrd.co/) — Wood, resin, and mixed-media
   sculpture with sound and video extensions; "Manifesto 2140" series uses oak, epoxy, and hardwax
   oil.
 
