@@ -82,6 +82,48 @@ coins, AI-slop generated in bulk.
   Keeper", "The Temptation of Bitcoin Angel"). Auctioned via Bitcoin for the Arts.
 - Shipwreck Sean — Illustration, "HODL On" (2026). Auctioned via Bitcoin for the Arts.
 
+**More artists — from the [Timechain Art Magazine directory](https://timechainartmagazine.com/artist-directory/):**
+*(Listed via their Timechain profile; medium/style not yet individually verified — flagged for a
+follow-up pass.)*
+
+- [Gus Grillasca](https://timechainartmagazine.com/artist/gus-grillasca/)
+- [Psyfer](https://timechainartmagazine.com/artist/psyfer/)
+- [RYR](https://timechainartmagazine.com/artist/ryr/)
+- [Tommy Marcheschi](https://timechainartmagazine.com/artist/tommy-marcheschi/)
+- [George Bodine](https://timechainartmagazine.com/artist/george-bodine/)
+- [Antonio Batzu](https://timechainartmagazine.com/artist/antonio-batzu/)
+- [Sweedgraffixx](https://timechainartmagazine.com/artist/sweedgraffix/)
+- [B](https://timechainartmagazine.com/artist/b/)
+- [The Great Print](https://timechainartmagazine.com/artist/the-great-print/)
+- [Kenneth Burris](https://timechainartmagazine.com/artist/kenneth-burris/) — also a BFTA Board
+  Advisor, see [Grants, Funders & Patronage](#grants-funders--patronage).
+- [Gareth Eckley](https://timechainartmagazine.com/artist/gareth-eckley/)
+- [Bitko Yinowsky](https://timechainartmagazine.com/artist/bitko-yinowsky/)
+- [Kanuto](https://timechainartmagazine.com/artist/kanuto/)
+- [Sea Is Medicine](https://timechainartmagazine.com/artist/sea-is-medicine/)
+- [Maxis Club](https://timechainartmagazine.com/artist/maxis-club/)
+- [mx12art](https://timechainartmagazine.com/artist/mx12art/)
+- [Bitcoin Trading Cards](https://timechainartmagazine.com/artist/bitcoin-trading-cards/)
+- [A13MW](https://timechainartmagazine.com/artist/a13mw/)
+- [Modeotec](https://timechainartmagazine.com/artist/modeotec/)
+- [Bitchair](https://timechainartmagazine.com/artist/bitchair/)
+- [Blu3baer](https://timechainartmagazine.com/artist/blu3baer/)
+- [Yonat Vaks](https://timechainartmagazine.com/artist/yonat-vaks/)
+- [Studio Zeitwerk](https://timechainartmagazine.com/artist/studio-zeitwerk/)
+- [Rare Scrilla](https://timechainartmagazine.com/artist/rare-scrilla/)
+- [5Ksana](https://timechainartmagazine.com/artist/5ksana/)
+- [Amy DiGi](https://timechainartmagazine.com/artist/amy-digi-2/)
+- [House of Ralfus](https://timechainartmagazine.com/artist/house-of-ralfus/)
+- [Adam Kadmon](https://timechainartmagazine.com/artist/adam-kadmon/)
+- [Isolabellart](https://timechainartmagazine.com/artist/isolabellart/)
+- [Puzzle](https://timechainartmagazine.com/artist/puzzle/)
+- [ZETRA](https://timechainartmagazine.com/artist/zetra/)
+- [Anik Malcolm](https://timechainartmagazine.com/artist/anik-malcolm/)
+- [Dustin D. Trammell](https://timechainartmagazine.com/artist/dustin-trammell/)
+- [Missatoshi_girl](https://timechainartmagazine.com/artist/missatoshi-girl-bitcoin-artist/)
+- [Chiefmonkey](https://timechainartmagazine.com/artist/chiefmonkey/)
+- [MadMunky](https://timechainartmagazine.com/artist/madmunky/)
+
 ### Institutions & Spaces
 
 - [BMAG — Bitcoin Museum & Art Gallery](https://museum.b.tc) — Nashville, TN. Physical museum and
@@ -144,7 +186,8 @@ coins, AI-slop generated in bulk.
 
 - [Bitcoin Magazine](https://bitcoinmagazine.com) — Culture vertical + print.
 - [Bitcoin Art Magazine](https://bitcoinartmagazine.com) — *(access blocked, needs manual check)*
-- Timechain Art Magazine — timechainartmagazine.com *(access blocked, needs manual check)*
+- [Timechain Art Magazine](https://timechainartmagazine.com) — runs a public [Artist
+  Directory](https://timechainartmagazine.com/artist-directory/), source for many entries above.
 
 ## Grants, Funders & Patronage
 
