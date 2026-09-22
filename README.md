@@ -48,6 +48,11 @@ coins, AI-slop generated in bulk.
 
 ## Visual Art
 
+### Collectives
+
+- [2140Art](https://2140art.com) — Online magazine and community collective covering Bitcoin-inspired
+  art, music, and culture; hosts a virtual gallery (oncyber.io) for artists in the "2140" movement.
+
 ### Artists
 
 - [Bitcoin Apex](https://bitcoinapexart.com) — Pencil, Dürer-esque portraiture.
@@ -207,24 +212,26 @@ medium/style verified per-artist (2026-09-22 audit):**
 
 ## Film & Documentary
 
-- *The Bitcoin Experiment* (2016), dir. Amund Sjølie Sveen.
-- *The Blockchain and Us* (2017), dir. Manuel Stagars.
-- *Money Electric: The Bitcoin Mystery* (HBO).
-- Bitfinex's El Salvador Bitcoin documentary.
-- *The Rise and Rise of Bitcoin* (2014).
-- *Banking on Bitcoin* (2016).
-- *The Bitcoin Gospel* (2015).
-- *Magic Money* (2017).
-- Various early "Bitcoin Film" studio shorts (Uganda, Argentina, organic farmers — 2013–14).
-- *Dirty Coin* — documentary on Bitcoin mining's environmental narrative; billed as the
-  most-screened Bitcoin documentary in the world, featured at Bitcoin for the Arts' Bitcoin Arts
-  Park.
 - *[The Anatomy of Bitcoin](https://anatomyofbitcoin.com)* — an open-source (MIT-licensed),
   community-funded hyper-realism film visualizing how the Bitcoin protocol actually works, down
   to elliptic-curve cryptography and node topology. Community contributions welcome.
+- *[Finding Home](https://indeehub.studio/film/finding-home)* (2025), hosted by Avi Burra —
+  4-episode docuseries connecting immigrants seeking a new home with Bitcoiners seeking a new
+  money, shot in New York, Prague, Paraguay, and London/Manchester.
+- *[Dirty Coin](https://www.dirtycointhemovie.com)* (2024), dir. Alana Mediavilla — Bitcoin mining
+  documentary filmed across four continents; won Best Movie at Bitcoin FilmFest's Warsaw premiere;
+  billed as the most-screened Bitcoin documentary in the world, also featured at Bitcoin for the
+  Arts' Bitcoin Arts Park.
+- *[The Rise and Rise of Bitcoin](https://en.wikipedia.org/wiki/The_Rise_and_Rise_of_Bitcoin)*
+  (2014), dir. Nicholas Mross — early feature documentary, premiered at Tribeca.
+- *[Money Electric: The Bitcoin Mystery](https://www.hbo.com/movies/money-electric-the-bitcoin-mystery)*
+  (2024), dir. Cullen Hoback — HBO documentary investigating Satoshi Nakamoto's identity.
+- *[No More Inflation](https://bitcoinfilmfest.com/part-one-official-selection-feature-films-at-bff25)*
+  (2024), dir. Maiku Tsukai — documentary asking why everything gets more expensive; screened at
+  Bitcoin FilmFest 2025.
 
-> **Gap:** weak coverage of 2024–2026 output. Bitcoin FilmFest's own network is the best source
-> here — not yet tapped.
+> **Gap:** weak coverage of 2024–2026 output beyond what's listed above. Bitcoin FilmFest's own
+> network is the best source here — not yet fully tapped.
 
 ## Sculpture
 
@@ -239,6 +246,8 @@ medium/style verified per-artist (2026-09-22 audit):**
   Freedom Publishing House (2022). 21 contributor stories from named authors.
 - *Bitcoin: A Treasure to HODL* by Lindey Magee — children's book, read as a sponsored live event
   at Bitcoin for the Arts' Bitcoin Arts Park.
+- [Konsensus](https://konsensus.net) — publishing house for sovereignty-themed books and essays;
+  no trackers, no cookies, no consent banner.
 
 > **Thin category.** Likely more exists on Nostr/Substack that open web search doesn't surface
 > well. Needs a direct ask to Tomek's network.
@@ -273,6 +282,11 @@ medium/style verified per-artist (2026-09-22 audit):**
   covering the Bitcoin ecosystem through short, fast-cut documentary and commentary segments.
 - [Citadel21](https://www.citadel21.com) — Cultural zine and long-form investigative journalism
   in the Bitcoin space, by hodlonaut; print zines via [shop.citadel21.com](https://shop.citadel21.com).
+- [The Bitcoin Muse](https://thebitcoinmuse.com) — Podcast profiling Bitcoin creators across
+  painting, sculpture, filmmaking, AI art, and collectibles.
+- [Bitcoin Art Podcast](https://timechainartmagazine.com/podcast/) — Timechain Art Magazine's "The
+  Movement of Art," long-form conversations with Bitcoin artists; also on
+  [Fountain](https://fountain.fm/show/UzdQQbRUXphFNRA03uzH), YouTube, and Rumble.
 
 ## Grants, Funders & Patronage
 
@@ -329,7 +343,9 @@ Two exceptions worth naming directly here, since they're culture-first rather th
 - **[Bitcoin FilmFest](https://bitcoinfilmfest.com)** — "the heart of Bitcoin Cinema." Annual
   Warsaw festival (Kinoteka), now in its 4th+ edition; screens Bitcoin-themed documentaries,
   shorts, and features, awards the Golden Rabbits, and runs the European Halving Party. This
-  project's parent event.
+  project's parent event. BFF'26 (June 2026) Golden Rabbit for Best Movie and the Audience Choice
+  award both went to *Bitcoin Castle* (orig. *Bitcoin Schloss*), a German dark comedy about a
+  Bitcoin prepper, dir. Bruno Schiebel.
 - **[Revolution.Rocks](https://www.revolution.rocks/)** — Two-day music-and-culture festival on
   Belgrade's floating club Zappa Barka. Night one is a live Value4Value concert (Lightning
   micropayments direct to performing artists, no platform cut), night two is panels on
