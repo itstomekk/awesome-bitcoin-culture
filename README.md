@@ -175,6 +175,22 @@ medium/style verified per-artist (2026-09-22 audit):**
   series draws on Renaissance symbolism.
 - [Isolabellart](https://isolabellart.it.com/) — Oil painting inspired by light, silence, and
   place; each work is unique and offered exclusively for Bitcoin.
+- [Asanoha](https://asanoha.gold/) — Sacred-geometry and gold-leaf painting inspired by
+  traditional Japanese craft; also runs Timechain Art Magazine, see
+  [Grants, Funders & Patronage](#grants-funders--patronage).
+- [HACKZERO](https://x.com/hack355) — AI/Midjourney promptcraft, prolific Bitcoin imagery.
+- [Jure Kastelic](https://www.whitecrypt.com/jure-kastelic) — Bitcoin-mythology painting; also
+  works in sculpture and glass collaboration.
+- [Cyber / Street Cyber](https://www.streetcyber.art/) — Stencil art and paste-ups; "Born
+  Debt-Free" series.
+- [Tom Badley](https://tombadley.net/) — Banknote design, lithography, and letterpress; author
+  of *Art & Money*.
+- [Lena](https://justlenasart.com/) — Apparel and jewelry design for the Bitcoin community.
+- [Moozi](https://x.com/l3itc0in) — Custom-trained AI models, Persian-inspired painterly style.
+- [Bitcoin Cartoons](https://www.bitcoincartoons.io/) — Whimsical illustration and cartooning
+  for the Bitcoin community.
+- [Rebel Money](https://www.rebelmoney.art/) — Mixed-media art made from currency, exploring
+  monetary sovereignty ("Libertas Ex Arte").
 - [Puzzle](https://puzzlingpuzzle.art/) — Laser-cut wood sculpture with layered construction and
   embedded or programmed LED lighting; digital vector designs become luminous physical pieces.
 - [ZETRA](https://zetra.studio/) — Painting, print, sculpture, and installation with street-art
@@ -229,6 +245,8 @@ medium/style verified per-artist (2026-09-22 audit):**
 - *[No More Inflation](https://bitcoinfilmfest.com/part-one-official-selection-feature-films-at-bff25)*
   (2024), dir. Maiku Tsukai — documentary asking why everything gets more expensive; screened at
   Bitcoin FilmFest 2025.
+- *Bitcoin Shooter* — self-taught nonfiction filmmaker documenting Bitcoin's early culture; guest
+  on [The Bitcoin Muse](https://thebitcoinmuse.com/bitcoinshooter) podcast.
 
 > **Gap:** weak coverage of 2024–2026 output beyond what's listed above. Bitcoin FilmFest's own
 > network is the best source here — not yet fully tapped.
@@ -267,6 +285,11 @@ medium/style verified per-artist (2026-09-22 audit):**
   conventional distribution.
 - [Scardust](https://metalstorm.net/bands/band.php?band_id=13193), Longy, The Higher Low, Roger 9000 — international acts on the Revolution.Rocks
   Belgrade lineup (value-for-value live performance), all via [revolution.rocks](https://www.revolution.rocks).
+- [Kane Mayfield](https://kanemayfield.com/) — Hip-hop musician and Bitcoin ordinal artist;
+  co-founder of Inscribed Audio, encodes Bitcoin transactions into music.
+- [Kontext](https://primal.net/p/npub1qfc7rwddjl3lzhkhgge8ch82xjfm6e3gqcgk8zm6pahz3tvvl7gq88xnrh) —
+  Estonian writer and musician; author of *A Stoic Resurrection*, draws parallels between Bitcoin
+  and Stoicism.
 
 > **Thin category.** Tomek's own BFF network (festival musical acts, conference performers)
 > likely knows more than open search surfaces. The Value4Value music scene (Wavlake, Fountain,
@@ -287,6 +310,10 @@ medium/style verified per-artist (2026-09-22 audit):**
 - [Bitcoin Art Podcast](https://timechainartmagazine.com/podcast/) — Timechain Art Magazine's "The
   Movement of Art," long-form conversations with Bitcoin artists; also on
   [Fountain](https://fountain.fm/show/UzdQQbRUXphFNRA03uzH), YouTube, and Rumble.
+- [Jimmy Song](https://jimmysong.org/) — Bitcoin developer, author, and educator; wrote *Fiat
+  Ruins Everything*, arguing fiat debases art.
+- [The Cultural Tutor](https://areopagus.culturaltutor.com/) — Essayist ("Areopagus" series)
+  contextualizing Bitcoin artists within perennial cultural traditions.
 
 ## 💰 Grants, Funders & Patronage
 
