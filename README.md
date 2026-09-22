@@ -55,33 +55,40 @@ coins, AI-slop generated in bulk.
 - [Flo Montoya](https://scarce.city) — Poster and wheatpaste, protest-art tradition.
 - [Madex](https://madex.art) — Mixed media; creative director of Bull Bitcoin.
 - [Anik Todd](https://scarce.city) — Painting, sound, carpentry.
-- Marcus Connor — Wood, installations, and music. Illustrated the "Bitcoin Roller Coaster Guy"
+- [Marcus Connor](https://timechainartmagazine.com/artist/marcus-connor/) — Wood, installations, and music. Illustrated the "Bitcoin Roller Coaster Guy"
   meme; released the album *Blues Before Bitcoin* (2024).
 - [Brekkie von Bitcoin](https://scarce.city) — Hand-carved stone, 24k gold leaf.
 - [Ariel Birdie](https://scarce.city) — Mixed media, including the "Bitcoin Buddha" piece.
 - [Coldie](https://scarce.city) — Stereoscopic/magnetic portraits, "Filthy Fiat" series.
 - [Luis Simo](https://scarce.city) — Pixel mosaic, "Pepernica".
 - [Cypherpunk Now](https://scarce.city) — Glass sculpture, from the Prague Parallelní Polis scene.
-- MEAR ONE — Painting and muralism, metaphysical surrealism; shown at the Museum of Graffiti.
-  ([store.bitcoinmagazine.com](https://store.bitcoinmagazine.com))
-- Alex Schaefer — Oil painting. [Saatchi Art](https://www.saatchiart.com), `@paintwithalex`.
-- Cryptograffiti — Street art. `@cryptograffiti`.
+- [MEAR ONE](https://store.bitcoinmagazine.com) — Painting and muralism, metaphysical surrealism;
+  shown at the Museum of Graffiti.
+- [Alex Schaefer](https://www.saatchiart.com/paintwithalex) — Oil painting, expressionism; famous
+  for the 2011 "banks on fire" series.
+- [cryptograffiti](https://cryptograffiti.com) — Mixed-media/screen-print; first artist to
+  dedicate his career fully to Bitcoin/crypto.
 - [Lina Seiche](https://thelittlehodler.com) — Comic and graphic art.
 - [Lucho Poletti](https://luchopoletti.com) — Visual/graphic art, also apparel.
-- Sarah Foster — Acrylic, art-history reinterpretation. Represented by Bitcoin Art Gallery Wynwood.
-- Johnny Dollar — Post-pop surrealism, cypherpunk themes, pseudonymous. Represented by Bitcoin
-  Art Gallery Wynwood.
-- Andy Risquez (elRAiSE) — Venezuelan/US, Miami-Caracas. Represented by Bitcoin Art Gallery
-  Wynwood.
-- Juliette Garzón (Juls) — Pop art and sculpture, Venezuelan. Represented by Bitcoin Art Gallery
-  Wynwood.
-- Superama — AR art, "Satoshi is Female". Latin American.
-- YuZapata — Minimalist street art, "Orange Fruit Dove". Latin American.
-- CA Danner — Digital/print series, "Satoshi White Paper Series". Auctioned via Bitcoin for the
-  Arts.
-- Lady RedHorns — Mixed media, "Angels of Freedom" series ("The Transfer of Light", "The Bitcoin
-  Keeper", "The Temptation of Bitcoin Angel"). Auctioned via Bitcoin for the Arts.
-- Shipwreck Sean — Illustration, "HODL On" (2026). Auctioned via Bitcoin for the Arts.
+- [Sarah Foster](https://bitcoinartgallery.com) — Acrylic, art-history reinterpretation.
+  Represented by Bitcoin Art Gallery Wynwood.
+- [Johnny Dollar](https://bitcoinartgallery.com) — Post-pop surrealism, cypherpunk themes,
+  pseudonymous. Represented by Bitcoin Art Gallery Wynwood.
+- [Andy Risquez (elRAiSE)](https://bitcoinartgallery.com) — Venezuelan/US, Miami-Caracas.
+  Represented by Bitcoin Art Gallery Wynwood.
+- [Juliette Garzón (Juls)](https://bitcoinartgallery.com) — Pop art and sculpture, Venezuelan.
+  Represented by Bitcoin Art Gallery Wynwood.
+- [Superama](https://www.xverse.app/blog/bitcoin-art) — AR art, "Satoshi is Female". Latin
+  American.
+- [YuZapata](http://yuzapata.art) — Street art/digital, "Palometa the Pigeon" character;
+  "Orange Fruit Dove". Latin American.
+- [CA Danner](https://timechainartmagazine.com/artist-directory/) — Digital/print series,
+  "Satoshi White Paper Series". Auctioned via Bitcoin for the Arts.
+- [Lady RedHorns](https://timechainartmagazine.com/artist-directory/) — Mixed media, "Angels of
+  Freedom" series ("The Transfer of Light", "The Bitcoin Keeper", "The Temptation of Bitcoin
+  Angel"). Auctioned via Bitcoin for the Arts.
+- [Shipwreck Sean](https://timechainartmagazine.com/artist-directory/) — Illustration, "HODL On"
+  (2026). Auctioned via Bitcoin for the Arts.
 
 **More artists — from the [Timechain Art Magazine directory](https://timechainartmagazine.com/artist-directory/):**
 *(Listed via their Timechain profile; medium/style not yet individually verified — flagged for a
@@ -158,14 +165,14 @@ follow-up pass.)*
   to elliptic-curve cryptography and node topology. Community contributions welcome.
 
 > **Gap:** weak coverage of 2024–2026 output. Bitcoin FilmFest's own network is the best source
-> here — not yet tapped. See Phase 2 in `PLAN.md`.
+> here — not yet tapped.
 
 ## Sculpture
 
 - [Statue of Satoshi](https://www.statueofsatoshi.com) — Budapest, Hungary. Bronze, reflective
   face. By Gergely Réka & Tamás Gilly.
-- Brekkie von Bitcoin — Rock/stone sculpture (also listed under Visual Art — medium overlaps).
-- FractalEncrypt — Sculpture. `@FractalEncrypt`.
+- [Brekkie von Bitcoin](https://scarce.city) — Rock/stone sculpture (also listed under Visual Art — medium overlaps).
+- [FractalEncrypt](https://timechainartmagazine.com/artist/fractalencrypt) — Sculpture, cypherpunk digital-to-physical work.
 
 ## Literature
 
@@ -179,18 +186,19 @@ follow-up pass.)*
 
 ## Music
 
-- The Orange Pill Jam Project — Bandcamp/SoundCloud.
+- [The Orange Pill Jam Project](https://orangepilljam.bandcamp.com) — Zürich-based, copyleft/open-source Bitcoin-only music collective.
 - Marcus Connor — *Blues Before Bitcoin* (2024 album).
-- Tip_NZ — Rap/video.
-- Ainsley Costello — Singer-songwriter; first artist on Wavlake to hit 1 million sats
+  ([Timechain profile](https://timechainartmagazine.com/artist/marcus-connor/))
+- [Tip_NZ](https://btcartgallery.com/category/song) — NZ Bitcoin rap.
+- [Ainsley Costello](https://ainsleycostello.com) — Singer-songwriter; first artist on Wavlake to hit 1 million sats
   ("Cherry On Top"), performs the Value4Value/Bitcoin conference circuit (Bitcoin Arts Park,
   Revolution.Rocks).
-- Joe Martin — UK singer-songwriter; early Wavlake/Fountain adopter, cited as earning more from
+- [Joe Martin](https://wavlake.com/joe-martin) — UK singer-songwriter; early Wavlake/Fountain adopter, cited as earning more from
   sats than traditional streaming ("High Gravity"). Plays Revolution.Rocks.
-- Man Like Kweks — Tanzanian hip-hop artist; documented earning far more via Wavlake sats than
+- [Man Like Kweks](https://wavlake.com/man-like-kweks) — Tanzanian hip-hop artist; documented earning far more via Wavlake sats than
   conventional distribution.
-- Scardust, Longy, The Higher Low, Roger 9000 — international acts on the Revolution.Rocks
-  Belgrade lineup (value-for-value live performance).
+- [Scardust](https://metalstorm.net/bands/band.php?band_id=13193), Longy, The Higher Low, Roger 9000 — international acts on the Revolution.Rocks
+  Belgrade lineup (value-for-value live performance), all via [revolution.rocks](https://www.revolution.rocks).
 
 > **Thin category.** Tomek's own BFF network (festival musical acts, conference performers)
 > likely knows more than open search surfaces. The Value4Value music scene (Wavlake, Fountain,
@@ -242,8 +250,14 @@ sponsorships, patronage infrastructure.
   content with BFTA.
 - **Pubkey DC** (Washington, DC) — Hosts the in-person night of BFTA's Art + Zap Weekend
   fundraiser.
-- **BFTA Board Advisors** — Buttercup Roberts, Kyle Knight, Julie Costello, Camas Logue, Valerie
-  Love, Kenneth Burris.
+- **BFTA Board Advisors** — [Buttercup Roberts](https://www.bitcoinforthearts.org/about/leadership),
+  [Kyle Knight](https://thebitcoinpivot.com) (Bitcoin Pivot podcast host),
+  [Julie Costello](https://www.linkedin.com/in/julie-costello),
+  [Camas Logue](https://www.camaslogue.com) (multidisciplinary painter/carver, enrolled Klamath
+  Tribes member), [Valerie Love](https://www.bitcoinforthearts.org/about/leadership),
+  [Kenneth Burris](https://timechainartmagazine.com/artist/kenneth-burris/) (also listed as an
+  artist above). Buttercup Roberts and Valerie Love link to the BFTA leadership page — individual
+  profiles weren't confidently identified.
 
 ## Platforms
 
@@ -285,15 +299,7 @@ named-creator rule for other sections. This section is deliberately looser: entr
 need individual attribution, just to be a genuinely recognizable, lasting part of Bitcoin's
 internet culture (not a one-off tweet or a promotional gimmick).
 
-*(Section seeded, needs real entries — open item for Phase 2.)*
-
 ---
-
-## Open questions (not yet resolved)
-
-- None blocking Phase 1. Events/Discussion-Groups scope was resolved 2026-09-21 (Events links
-  out, paid discussion products excluded). Memes was resolved the same day (included, relaxed
-  rule).
 
 ## Contributing
 
