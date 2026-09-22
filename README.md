@@ -30,23 +30,23 @@ coins, AI-slop generated in bulk.
 
 ## Contents
 
-- [Visual Art](#visual-art)
+- [🎨 Visual Art](#visual-art)
   - [Artists](#artists)
   - [Institutions & Spaces](#institutions--spaces)
-- [Film & Documentary](#film--documentary)
-- [Sculpture](#sculpture)
-- [Literature](#literature)
-- [Music](#music)
-- [Publications & Media](#publications--media)
-- [Grants, Funders & Patronage](#grants-funders--patronage)
-- [Platforms](#platforms)
-- [Events & Festivals](#events--festivals)
-- [Memes & Internet Culture](#memes--internet-culture)
+- [🎬 Film & Documentary](#film--documentary)
+- [🗿 Sculpture](#sculpture)
+- [📚 Literature](#literature)
+- [🎵 Music](#music)
+- [📰 Publications & Media](#publications--media)
+- [💰 Grants, Funders & Patronage](#grants-funders--patronage)
+- [🧱 Platforms](#platforms)
+- [🎪 Events & Festivals](#events--festivals)
+- [😂 Memes & Internet Culture](#memes--internet-culture)
 - [Contributing](#contributing)
 
 ---
 
-## Visual Art
+## 🎨 Visual Art
 
 ### Collectives
 
@@ -210,7 +210,7 @@ medium/style verified per-artist (2026-09-22 audit):**
 - [Bitcoin Magazine — Culture](https://bitcoinmagazine.com/culture) — Not dedicated to art but
   runs recurring art coverage, including annual conference gallery previews.
 
-## Film & Documentary
+## 🎬 Film & Documentary
 
 - *[The Anatomy of Bitcoin](https://anatomyofbitcoin.com)* — an open-source (MIT-licensed),
   community-funded hyper-realism film visualizing how the Bitcoin protocol actually works, down
@@ -233,14 +233,14 @@ medium/style verified per-artist (2026-09-22 audit):**
 > **Gap:** weak coverage of 2024–2026 output beyond what's listed above. Bitcoin FilmFest's own
 > network is the best source here — not yet fully tapped.
 
-## Sculpture
+## 🗿 Sculpture
 
 - [Statue of Satoshi](https://www.statueofsatoshi.com) — Budapest, Hungary. Bronze, reflective
   face. By Gergely Réka & Tamás Gilly.
 - [Brekkie von Bitcoin](https://scarce.city) — Rock/stone sculpture (also listed under Visual Art — medium overlaps).
 - [FractalEncrypt](https://timechainartmagazine.com/artist/fractalencrypt) — Sculpture, cypherpunk digital-to-physical work.
 
-## Literature
+## 📚 Literature
 
 - *21 Futures: Tales from the Timechain*, ed. Philip Charter. Published by Konsensus Network /
   Freedom Publishing House (2022). 21 contributor stories from named authors.
@@ -252,7 +252,7 @@ medium/style verified per-artist (2026-09-22 audit):**
 > **Thin category.** Likely more exists on Nostr/Substack that open web search doesn't surface
 > well. Needs a direct ask to Tomek's network.
 
-## Music
+## 🎵 Music
 
 - [The Orange Pill Jam Project](https://orangepilljam.bandcamp.com) — Zürich-based, copyleft/open-source Bitcoin-only music collective.
 - Marcus Connor — *Blues Before Bitcoin* (2024 album).
@@ -272,7 +272,7 @@ medium/style verified per-artist (2026-09-22 audit):**
 > likely knows more than open search surfaces. The Value4Value music scene (Wavlake, Fountain,
 > Nostr) is a rich, under-tapped source — see Platforms below.
 
-## Publications & Media
+## 📰 Publications & Media
 
 - [Bitcoin Magazine](https://bitcoinmagazine.com) — Culture vertical + print.
 - [Bitcoin Art Magazine](https://bitcoinartmagazine.com) — *(access blocked, needs manual check)*
@@ -288,7 +288,7 @@ medium/style verified per-artist (2026-09-22 audit):**
   Movement of Art," long-form conversations with Bitcoin artists; also on
   [Fountain](https://fountain.fm/show/UzdQQbRUXphFNRA03uzH), YouTube, and Rumble.
 
-## Grants, Funders & Patronage
+## 💰 Grants, Funders & Patronage
 
 Organizations that fund or support Bitcoin-native creative work directly — grants, residencies,
 sponsorships, patronage infrastructure.
@@ -313,7 +313,7 @@ sponsorships, patronage infrastructure.
 - **[Ainsley Costello](https://ainsleycostello.com)** — Performing artist; anchors the Secondary
   Stage performance lineup at Bitcoin Arts Park. Also listed under [Music](#music).
 
-## Platforms
+## 🧱 Platforms
 
 Infrastructure that lets creators publish, distribute, or get funded directly in Bitcoin —
 distinct from the grants/patronage orgs above, these are self-serve tools any artist can use.
@@ -329,7 +329,7 @@ distinct from the grants/patronage orgs above, these are self-serve tools any ar
   artists earn Bitcoin Lightning "zaps"/"boosts" directly from listeners, often exceeding
   traditional streaming payouts. See Music above for artists active here.
 
-## Events & Festivals
+## 🎪 Events & Festivals
 
 This list tracks creative work, not events — Tomek already maintains a dedicated, actively
 updated calendar for that:
@@ -351,7 +351,7 @@ Two exceptions worth naming directly here, since they're culture-first rather th
   micropayments direct to performing artists, no platform cut), night two is panels on
   technology and creator independence. Live-streamed free on Tunestr.
 
-## Memes & Internet Culture
+## 😂 Memes & Internet Culture
 
 Bitcoin memes are a real and lasting cultural phenomenon ("toxic maximalism", recurring in-jokes,
 viral formats) but are mostly anonymous or collectively authored, which doesn't fit this list's
