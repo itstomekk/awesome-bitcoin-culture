@@ -90,47 +90,94 @@ coins, AI-slop generated in bulk.
 - [Shipwreck Sean](https://timechainartmagazine.com/artist-directory/) — Illustration, "HODL On"
   (2026). Auctioned via Bitcoin for the Arts.
 
-**More artists — from the [Timechain Art Magazine directory](https://timechainartmagazine.com/artist-directory/):**
-*(Listed via their Timechain profile; medium/style not yet individually verified — flagged for a
-follow-up pass.)*
+**More artists — from the [Timechain Art Magazine directory](https://timechainartmagazine.com/artist-directory/),
+medium/style verified per-artist (2026-09-22 audit):**
 
-- [Gus Grillasca](https://timechainartmagazine.com/artist/gus-grillasca/)
-- [Psyfer](https://timechainartmagazine.com/artist/psyfer/)
-- [RYR](https://timechainartmagazine.com/artist/ryr/)
-- [Tommy Marcheschi](https://timechainartmagazine.com/artist/tommy-marcheschi/)
-- [George Bodine](https://timechainartmagazine.com/artist/george-bodine/)
-- [Antonio Batzu](https://timechainartmagazine.com/artist/antonio-batzu/)
-- [Sweedgraffixx](https://timechainartmagazine.com/artist/sweedgraffix/)
-- [B](https://timechainartmagazine.com/artist/b/)
-- [The Great Print](https://timechainartmagazine.com/artist/the-great-print/)
-- [Kenneth Burris](https://timechainartmagazine.com/artist/kenneth-burris/) — also a BFTA Board
-  Advisor, see [Grants, Funders & Patronage](#grants-funders--patronage).
-- [Gareth Eckley](https://timechainartmagazine.com/artist/gareth-eckley/)
-- [Bitko Yinowsky](https://timechainartmagazine.com/artist/bitko-yinowsky/)
-- [Kanuto](https://timechainartmagazine.com/artist/kanuto/)
-- [Sea Is Medicine](https://timechainartmagazine.com/artist/sea-is-medicine/)
-- [Maxis Club](https://timechainartmagazine.com/artist/maxis-club/)
-- [mx12art](https://timechainartmagazine.com/artist/mx12art/)
-- [Bitcoin Trading Cards](https://timechainartmagazine.com/artist/bitcoin-trading-cards/)
-- [A13MW](https://timechainartmagazine.com/artist/a13mw/)
-- [Modeotec](https://timechainartmagazine.com/artist/modeotec/)
-- [Bitchair](https://timechainartmagazine.com/artist/bitchair/)
-- [Blu3baer](https://timechainartmagazine.com/artist/blu3baer/)
-- [Yonat Vaks](https://timechainartmagazine.com/artist/yonat-vaks/)
-- [Studio Zeitwerk](https://timechainartmagazine.com/artist/studio-zeitwerk/)
-- [Rare Scrilla](https://timechainartmagazine.com/artist/rare-scrilla/)
-- [5Ksana](https://timechainartmagazine.com/artist/5ksana/)
-- [Amy DiGi](https://timechainartmagazine.com/artist/amy-digi-2/)
-- [House of Ralfus](https://timechainartmagazine.com/artist/house-of-ralfus/)
-- [Adam Kadmon](https://timechainartmagazine.com/artist/adam-kadmon/)
-- [Isolabellart](https://timechainartmagazine.com/artist/isolabellart/)
-- [Puzzle](https://timechainartmagazine.com/artist/puzzle/)
-- [ZETRA](https://timechainartmagazine.com/artist/zetra/)
-- [Anik Malcolm](https://timechainartmagazine.com/artist/anik-malcolm/)
-- [Dustin D. Trammell](https://timechainartmagazine.com/artist/dustin-trammell/)
-- [Missatoshi_girl](https://timechainartmagazine.com/artist/missatoshi-girl-bitcoin-artist/)
-- [Chiefmonkey](https://timechainartmagazine.com/artist/chiefmonkey/)
-- [MadMunky](https://timechainartmagazine.com/artist/madmunky/)
+- [Gus Grillasca](https://timechainartmagazine.com/artist/gus-grillasca/) — Illustration, mixed
+  media, and conceptual design with cyberpunk aesthetics; examines Bitcoin, privacy, and financial
+  sovereignty.
+- [Psyfer](https://www.psyferpunkart.com/about) — Multidisciplinary, digital-numismatics-focused
+  art; London-based practice examining the semiotics of power.
+- [RYR](https://timechainartmagazine.com/artist/ryr/) — Painting, street art, and contemporary
+  mixed media; retains graffiti's raw energy while addressing money, value, and technology.
+- [Tommy Marcheschi](https://www.tommy.studio/) — Oil, acrylic, aerosol, and mixed media;
+  describes his politically charged work as "pre-emptive propaganda."
+- [George Bodine](https://georgebodineart.com/) — Oil painting of landscapes, cityscapes, and
+  figures; works both plein air and in the studio on archival supports.
+- [Antonio Batzu](https://www.antoniobatzu.com/) — Ceramic sculpture using clay, metallic lusters,
+  and gold; recurring *Ichthys* forms connect Bitcoin to ancient symbolism.
+- [Sweedgraffixx](https://sweedgraffixx.ch/) — Acrylic and mixed-media painting; dense, colorful,
+  hand-worked surfaces, including the "Scarcity" canvas.
+- [B](https://timechainartmagazine.com/artist/b/) — Airbrush-based physical art; featured in BTC
+  Prague's Bitcoin-only gallery.
+- [The Great Print](https://timechainartmagazine.com/artist/the-great-print/) — Detailed pen
+  drawing and traditional Bitcoin-focused artwork; also develops visual identities for Bitcoin
+  companies.
+- [Kenneth Burris](https://timechainartmagazine.com/artist/kenneth-burris/) — Oil painting
+  informed by landscapes and verified Bitcoin block data. Also a BFTA Board Advisor, see
+  [Grants, Funders & Patronage](#grants-funders--patronage).
+- [Gareth Eckley](https://garetheckley.com/) — Gemstone carving and jewelry sculpture; "Bitcoin
+  Gem Artwork" series uses sacred geometry and the Golden Ratio.
+- [Bitko Yinowsky](https://timechainartmagazine.com/artist/bitko-yinowsky/) — Conceptual Bitcoin
+  character art; a fictional persona representing decentralization, scarcity, and resistance
+  (medium not specified).
+- [Kanuto](https://kanuto.io/) — Wood, acrylic, and paint, physical-only artworks; translates
+  Bitcoin transactions into handcrafted forms with cypherpunk themes.
+- [Sea Is Medicine](https://btcaloha.shop/pages/about) — Collage and wearable art with surf and
+  sea imagery; BTC Aloha turns the practice into sustainable shirts and beach accessories.
+- [Maxis Club](https://timechainartmagazine.com/artist/maxis-club/) — Meme art, humor, and satire;
+  daily collection aiming for 2,100 limited memes tied to Bitcoin's 21-million supply cap.
+- [mx12art](https://mx12.art/) — Painting and hand-painted wearable art; connects proof of work
+  and sovereignty with a personal story of rebuilding identity after memory loss.
+- [Bitcoin Trading Cards](https://timechainartmagazine.com/artist/bitcoin-trading-cards/) —
+  Physical collectible card art and storytelling; limited editions present Bitcoin culture and
+  history through scarcity and proof-of-work themes.
+- [A13MW](https://www.a13mw.com/) — Painting, drawing, printmaking, and hand-drawn frame-by-frame
+  animation; "Buzzbee, the African Bitcoin Queen" anchors the animation work.
+- [Modeotec](https://timechainartmagazine.com/artist/modeotec/) — Assemblage from recycled
+  circuit boards and electronic components; discarded hardware becomes cyberpunk-inflected
+  statements about sovereignty and sound money.
+- [Bitchair](https://bitchair.store/) — Functional sculpture and furniture using woodworking,
+  fabrics, and embroidery; each limited chair is designed to be both usable furniture and Bitcoin
+  art.
+- [Blu3baer](https://timechainartmagazine.com/artist/blu3baer/) — Acrylic painting on canvas and
+  paper, plus limited prints; reworks figures from films, games, myths, and memes around Bitcoin
+  and freedom.
+- [Yonat Vaks](https://www.yonatvaks.com/aboutme) — Multidisciplinary painting, sculpture, and
+  re-imagined artifacts; the "Bitcoin Art(e)facts" series treats money as a civilization-shaping
+  force.
+- [Studio Zeitwerk](https://www.studio-zeitwerk.com/) — Sculpture in wood, concrete, and melted
+  fiat coins; block heights and mining duration become physical landscapes of time.
+- [Rare Scrilla](https://www.rarescrilla.com/) — Illustration, painting, mixed media, and
+  handcrafted work rooted in graffiti and hip-hop culture; also a DJ and producer.
+- [5Ksana](https://buybitart.com/) — Hand embroidery, sewing, and fashion craft using cotton,
+  linen, and silk; "craftivism" joins sustainable practice to Bitcoin themes.
+- [Amy DiGi](https://linktr.ee/AmyDiGi) — Traditional oil painting with symbolic Bitcoin imagery;
+  "Genesis Slice" is a 16×20-inch oil on canvas.
+- [House of Ralfus](https://houseofralfus.com/) — Relief block printing, painting, drawing, and
+  sculpture; 1/1 prints made on an 1860s Albion Press with rare handmade papers.
+- [Adam Kadmon](https://adamkadmon.my.canva.site/bitcoinart) — Carved wood panels and mixed-media
+  sculpture using gilding, acrylic, handmade paper, and engraved text; "The Bitcoin Religion"
+  series draws on Renaissance symbolism.
+- [Isolabellart](https://isolabellart.it.com/) — Oil painting inspired by light, silence, and
+  place; each work is unique and offered exclusively for Bitcoin.
+- [Puzzle](https://puzzlingpuzzle.art/) — Laser-cut wood sculpture with layered construction and
+  embedded or programmed LED lighting; digital vector designs become luminous physical pieces.
+- [ZETRA](https://zetra.studio/) — Painting, print, sculpture, and installation with street-art
+  influence and system-based abstraction; exhibited internationally.
+- [Anik Malcolm](https://anikmalcolm.com/) — Conceptual multimedia art with highly detailed,
+  meticulous compositions; focuses on freedom, resistance, and transformation.
+- [Dustin D. Trammell](https://timechainartmagazine.com/artist/dustin-trammell/) — Experimental
+  multimedia and digital-culture practice involving game design (no single visual medium
+  specified).
+- [Missatoshi_girl](https://timechainartmagazine.com/artist/missatoshi-girl-bitcoin-artist/) —
+  Street-art-influenced mixed media using recycled and repurposed materials; graffiti language
+  addressing privacy, freedom, and decentralization.
+- [Chiefmonkey](https://timechainartmagazine.com/artist/chiefmonkey/) — Laser-cut, layered works
+  combining text, symbolism, and structure; closely tied to cypherpunk philosophy and Nostr.
+- [MadMunky](https://timechainartmagazine.com/artist/madmunky/) — Wood, resin, and mixed-media
+  sculpture with sound and video extensions; "Manifesto 2140" series uses oak, epoxy, and hardwax
+  oil.
 
 ### Institutions & Spaces
 
