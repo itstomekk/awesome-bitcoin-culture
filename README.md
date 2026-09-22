@@ -156,8 +156,6 @@ follow-up pass.)*
 - *[The Anatomy of Bitcoin](https://anatomyofbitcoin.com)* — an open-source (MIT-licensed),
   community-funded hyper-realism film visualizing how the Bitcoin protocol actually works, down
   to elliptic-curve cryptography and node topology. Community contributions welcome.
-- *Hummingbird: The Bitcoin Jungle Story* — traces the origins of a Bitcoin-friendly farmers'
-  market in Uvita, Costa Rica. Streaming on [IndeeHub Studio](https://indeehub.studio).
 
 > **Gap:** weak coverage of 2024–2026 output. Bitcoin FilmFest's own network is the best source
 > here — not yet tapped. See Phase 2 in `PLAN.md`.
