@@ -39,6 +39,7 @@ coins, AI-slop generated in bulk.
 - [Music](#music)
 - [Publications & Media](#publications--media)
 - [Grants, Funders & Patronage](#grants-funders--patronage)
+- [Platforms](#platforms)
 - [Events & Festivals](#events--festivals)
 - [Memes & Internet Culture](#memes--internet-culture)
 - [Contributing](#contributing)
@@ -152,6 +153,11 @@ follow-up pass.)*
 - *Dirty Coin* — documentary on Bitcoin mining's environmental narrative; billed as the
   most-screened Bitcoin documentary in the world, featured at Bitcoin for the Arts' Bitcoin Arts
   Park.
+- *[The Anatomy of Bitcoin](https://anatomyofbitcoin.com)* — an open-source (MIT-licensed),
+  community-funded hyper-realism film visualizing how the Bitcoin protocol actually works, down
+  to elliptic-curve cryptography and node topology. Community contributions welcome.
+- *Hummingbird: The Bitcoin Jungle Story* — traces the origins of a Bitcoin-friendly farmers'
+  market in Uvita, Costa Rica. Streaming on [IndeeHub Studio](https://indeehub.studio).
 
 > **Gap:** weak coverage of 2024–2026 output. Bitcoin FilmFest's own network is the best source
 > here — not yet tapped. See Phase 2 in `PLAN.md`.
@@ -178,9 +184,19 @@ follow-up pass.)*
 - The Orange Pill Jam Project — Bandcamp/SoundCloud.
 - Marcus Connor — *Blues Before Bitcoin* (2024 album).
 - Tip_NZ — Rap/video.
+- Ainsley Costello — Singer-songwriter; first artist on Wavlake to hit 1 million sats
+  ("Cherry On Top"), performs the Value4Value/Bitcoin conference circuit (Bitcoin Arts Park,
+  Revolution.Rocks).
+- Joe Martin — UK singer-songwriter; early Wavlake/Fountain adopter, cited as earning more from
+  sats than traditional streaming ("High Gravity"). Plays Revolution.Rocks.
+- Man Like Kweks — Tanzanian hip-hop artist; documented earning far more via Wavlake sats than
+  conventional distribution.
+- Scardust, Longy, The Higher Low, Roger 9000 — international acts on the Revolution.Rocks
+  Belgrade lineup (value-for-value live performance).
 
 > **Thin category.** Tomek's own BFF network (festival musical acts, conference performers)
-> likely knows more than open search surfaces.
+> likely knows more than open search surfaces. The Value4Value music scene (Wavlake, Fountain,
+> Nostr) is a rich, under-tapped source — see Platforms below.
 
 ## Publications & Media
 
@@ -188,6 +204,10 @@ follow-up pass.)*
 - [Bitcoin Art Magazine](https://bitcoinartmagazine.com) — *(access blocked, needs manual check)*
 - [Timechain Art Magazine](https://timechainartmagazine.com) — runs a public [Artist
   Directory](https://timechainartmagazine.com/artist-directory/), source for many entries above.
+- [Bitcoin Video Magazine](https://bitcoinvideomagazine.com) — Hour-long video-first show
+  covering the Bitcoin ecosystem through short, fast-cut documentary and commentary segments.
+- [Citadel21](https://www.citadel21.com) — Cultural zine and long-form investigative journalism
+  in the Bitcoin space, by hodlonaut; print zines via [shop.citadel21.com](https://shop.citadel21.com).
 
 ## Grants, Funders & Patronage
 
@@ -227,6 +247,22 @@ sponsorships, patronage infrastructure.
 - **BFTA Board Advisors** — Buttercup Roberts, Kyle Knight, Julie Costello, Camas Logue, Valerie
   Love, Kenneth Burris.
 
+## Platforms
+
+Infrastructure that lets creators publish, distribute, or get funded directly in Bitcoin —
+distinct from the grants/patronage orgs above, these are self-serve tools any artist can use.
+
+- **[Geyser](https://geyser.fund)** — Non-custodial Bitcoin crowdfunding platform for creators,
+  builders, and causes; supports rewards-based campaigns and recurring grants, paid entirely in
+  Bitcoin/Lightning. Hosts campaigns for creative projects alongside broader Bitcoin-adoption
+  causes (including Bitcoin for the Arts' own Midwest Bitcoin Summit sponsorship campaign).
+- **[IndeeHub Studio](https://indeehub.studio)** — Lightning-enabled film streaming platform;
+  filmmakers are paid in real time (per second watched) via a connected Lightning wallet, with
+  ACH as a fiat fallback. No exclusivity required.
+- **[Wavlake](https://wavlake.com)** / **Fountain** — Value4Value music and podcast streaming;
+  artists earn Bitcoin Lightning "zaps"/"boosts" directly from listeners, often exceeding
+  traditional streaming payouts. See Music above for artists active here.
+
 ## Events & Festivals
 
 This list tracks creative work, not events — Tomek already maintains a dedicated, actively
@@ -235,6 +271,13 @@ updated calendar for that:
 - **[Awesome Bitcoin Events](https://github.com/itstomekk/awesome-bitcoin-events)** — the
   canonical source for Bitcoin conferences, meetups, retreats, festivals, and technical
   gatherings worldwide, including Bitcoin FilmFest.
+
+One exception worth naming directly here, since it's culture-first rather than industry-first:
+
+- **[Revolution.Rocks](https://www.revolution.rocks/)** — Two-day music-and-culture festival on
+  Belgrade's floating club Zappa Barka. Night one is a live Value4Value concert (Lightning
+  micropayments direct to performing artists, no platform cut), night two is panels on
+  technology and creator independence. Live-streamed free on Tunestr.
 
 ## Memes & Internet Culture
 
