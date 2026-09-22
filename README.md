@@ -38,6 +38,7 @@ coins, AI-slop generated in bulk.
 - [Literature](#literature)
 - [Music](#music)
 - [Publications & Media](#publications--media)
+- [Grants, Funders & Patronage](#grants-funders--patronage)
 - [Events & Festivals](#events--festivals)
 - [Memes & Internet Culture](#memes--internet-culture)
 - [Contributing](#contributing)
@@ -75,6 +76,11 @@ coins, AI-slop generated in bulk.
   Wynwood.
 - Superama — AR art, "Satoshi is Female". Latin American.
 - YuZapata — Minimalist street art, "Orange Fruit Dove". Latin American.
+- CA Danner — Digital/print series, "Satoshi White Paper Series". Auctioned via Bitcoin for the
+  Arts.
+- Lady RedHorns — Mixed media, "Angels of Freedom" series ("The Transfer of Light", "The Bitcoin
+  Keeper", "The Temptation of Bitcoin Angel"). Auctioned via Bitcoin for the Arts.
+- Shipwreck Sean — Illustration, "HODL On" (2026). Auctioned via Bitcoin for the Arts.
 
 ### Institutions & Spaces
 
@@ -101,6 +107,9 @@ coins, AI-slop generated in bulk.
 - *The Bitcoin Gospel* (2015).
 - *Magic Money* (2017).
 - Various early "Bitcoin Film" studio shorts (Uganda, Argentina, organic farmers — 2013–14).
+- *Dirty Coin* — documentary on Bitcoin mining's environmental narrative; billed as the
+  most-screened Bitcoin documentary in the world, featured at Bitcoin for the Arts' Bitcoin Arts
+  Park.
 
 > **Gap:** weak coverage of 2024–2026 output. Bitcoin FilmFest's own network is the best source
 > here — not yet tapped. See Phase 2 in `PLAN.md`.
@@ -116,6 +125,8 @@ coins, AI-slop generated in bulk.
 
 - *21 Futures: Tales from the Timechain*, ed. Philip Charter. Published by Konsensus Network /
   Freedom Publishing House (2022). 21 contributor stories from named authors.
+- *Bitcoin: A Treasure to HODL* by Lindey Magee — children's book, read as a sponsored live event
+  at Bitcoin for the Arts' Bitcoin Arts Park.
 
 > **Thin category.** Likely more exists on Nostr/Substack that open web search doesn't surface
 > well. Needs a direct ask to Tomek's network.
@@ -134,6 +145,44 @@ coins, AI-slop generated in bulk.
 - [Bitcoin Magazine](https://bitcoinmagazine.com) — Culture vertical + print.
 - [Bitcoin Art Magazine](https://bitcoinartmagazine.com) — *(access blocked, needs manual check)*
 - Timechain Art Magazine — timechainartmagazine.com *(access blocked, needs manual check)*
+
+## Grants, Funders & Patronage
+
+Organizations that fund or support Bitcoin-native creative work directly — grants, residencies,
+sponsorships, patronage infrastructure.
+
+- **[Bitcoin for the Arts (BFTA)](https://www.bitcoinforthearts.org/)** — Bitcoin For The Arts,
+  Inc., a US 501(c)(3) nonprofit (EIN 41-2642260), the first paying working artists exclusively
+  in Bitcoin. Runs quarterly BTC micro-grants, workshops, residencies, and co-productions across
+  visual art, theater, dance, music, writing, storytelling, and film, under a public 55/30/10/5
+  allocation rule (55% artist grants / 30% programs / 10% operations / 5% HODL Vault reserve).
+  Founded 2025 by Dion Wilson (Founder & Executive Director, Interim Board Chair). Open source:
+  [github.com/Bitcoin-For-The-Arts](https://github.com/Bitcoin-For-The-Arts/Bitcoin-For-The-Arts).
+  Programs include Bitcoin Arts Park (a cultural footprint at Bitcoin conferences, first run at
+  the Midwest Bitcoin Summit, Sept 2026, Columbus OH) and Art + Zap Weekend (a livestream +
+  in-person fundraiser at Pubkey DC).
+
+### BFTA partners & collaborators
+
+- **[Midwest Bitcoin Summit](https://www.bitcoinforthearts.org/midwest)** — Hosts BFTA's Bitcoin
+  Arts Park as a dedicated 30 ft cultural footprint on its Expo Hall floor (Columbus, OH,
+  Sept 2026).
+- **Dirty Coin** — Bitcoin mining documentary; featured screening presented inside Bitcoin Arts
+  Park.
+- **Ainsley Costello** — Performing artist; anchors the Secondary Stage performance lineup at
+  Bitcoin Arts Park.
+- **Kyle Knight** — Curator, leads the separately-run visual art gallery at the Midwest Bitcoin
+  Summit; also a BFTA Board Advisor.
+- **Short North Stage** — Columbus, OH theater; co-presents the Bitcoin Arts Park children's-book
+  reading of *Bitcoin: A Treasure to HODL* by Lindey Magee.
+- **[Timechain Art Magazine / Asanoha](https://timechainartmagazine.com)** — Donated the "Gold
+  Foil Genesis Edition" Silk Mandala Archival Serigraph to BFTA's Midwest silent auction.
+- **The Bitcoin Way** — Self-custody education partner, in production on artist-facing education
+  content with BFTA.
+- **Pubkey DC** (Washington, DC) — Hosts the in-person night of BFTA's Art + Zap Weekend
+  fundraiser.
+- **BFTA Board Advisors** — Buttercup Roberts, Kyle Knight, Julie Costello, Camas Logue, Valerie
+  Love, Kenneth Burris.
 
 ## Events & Festivals
 
