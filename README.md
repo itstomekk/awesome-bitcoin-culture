@@ -120,6 +120,9 @@ medium/style verified per-artist (2026-09-22 audit):**
 - [Kenneth Burris](https://kennethburris.com/data-becoming-form-series/) — Oil painting
   informed by landscapes and verified Bitcoin block data. Also a BFTA Board Advisor, see
   [Grants, Funders & Patronage](#grants-funders--patronage). ([X/Twitter](https://x.com/KBStudioNYC))
+- [Camas Logue](https://www.camaslogue.com) — Multidisciplinary painting, carving, printmaking,
+  and weaving grounded in place and material; enrolled member of the Klamath Tribes. Also a BFTA
+  Board Advisor, see [Grants, Funders & Patronage](#grants-funders--patronage).
 - [Gareth Eckley](https://garetheckley.com/) — Gemstone carving and jewelry sculpture; "Bitcoin
   Gem Artwork" series uses sacred geometry and the Golden Ratio.
 - [Bitko Yinowsky](https://bitko.cc/) — Conceptual Bitcoin
@@ -289,31 +292,12 @@ sponsorships, patronage infrastructure.
 
 ### BFTA partners & collaborators
 
-- **[Midwest Bitcoin Summit](https://www.bitcoinforthearts.org/midwest)** — Hosts BFTA's Bitcoin
-  Arts Park as a dedicated 30 ft cultural footprint on its Expo Hall floor (Columbus, OH,
-  Sept 2026).
-- **Dirty Coin** — Bitcoin mining documentary; featured screening presented inside Bitcoin Arts
-  Park.
-- **Ainsley Costello** — Performing artist; anchors the Secondary Stage performance lineup at
-  Bitcoin Arts Park.
-- **Kyle Knight** — Curator, leads the separately-run visual art gallery at the Midwest Bitcoin
-  Summit; also a BFTA Board Advisor.
-- **Short North Stage** — Columbus, OH theater; co-presents the Bitcoin Arts Park children's-book
-  reading of *Bitcoin: A Treasure to HODL* by Lindey Magee.
 - **[Timechain Art Magazine / Asanoha](https://timechainartmagazine.com)** — Donated the "Gold
   Foil Genesis Edition" Silk Mandala Archival Serigraph to BFTA's Midwest silent auction.
-- **The Bitcoin Way** — Self-custody education partner, in production on artist-facing education
-  content with BFTA.
-- **Pubkey DC** (Washington, DC) — Hosts the in-person night of BFTA's Art + Zap Weekend
-  fundraiser.
-- **BFTA Board Advisors** — [Buttercup Roberts](https://www.bitcoinforthearts.org/about/leadership),
-  [Kyle Knight](https://thebitcoinpivot.com) (Bitcoin Pivot podcast host),
-  [Julie Costello](https://www.linkedin.com/in/julie-costello),
-  [Camas Logue](https://www.camaslogue.com) (multidisciplinary painter/carver, enrolled Klamath
-  Tribes member), [Valerie Love](https://www.bitcoinforthearts.org/about/leadership),
-  [Kenneth Burris](https://timechainartmagazine.com/artist/kenneth-burris/) (also listed as an
-  artist above). Buttercup Roberts and Valerie Love link to the BFTA leadership page — individual
-  profiles weren't confidently identified.
+- **Dirty Coin** — Bitcoin mining documentary; featured screening presented inside Bitcoin Arts
+  Park.
+- **[Ainsley Costello](https://ainsleycostello.com)** — Performing artist; anchors the Secondary
+  Stage performance lineup at Bitcoin Arts Park. Also listed under [Music](#music).
 
 ## Platforms
 
@@ -338,10 +322,14 @@ updated calendar for that:
 
 - **[Awesome Bitcoin Events](https://github.com/itstomekk/awesome-bitcoin-events)** — the
   canonical source for Bitcoin conferences, meetups, retreats, festivals, and technical
-  gatherings worldwide, including Bitcoin FilmFest.
+  gatherings worldwide.
 
-One exception worth naming directly here, since it's culture-first rather than industry-first:
+Two exceptions worth naming directly here, since they're culture-first rather than industry-first:
 
+- **[Bitcoin FilmFest](https://bitcoinfilmfest.com)** — "the heart of Bitcoin Cinema." Annual
+  Warsaw festival (Kinoteka), now in its 4th+ edition; screens Bitcoin-themed documentaries,
+  shorts, and features, awards the Golden Rabbits, and runs the European Halving Party. This
+  project's parent event.
 - **[Revolution.Rocks](https://www.revolution.rocks/)** — Two-day music-and-culture festival on
   Belgrade's floating club Zappa Barka. Night one is a live Value4Value concert (Lightning
   micropayments direct to performing artists, no platform cut), night two is panels on
