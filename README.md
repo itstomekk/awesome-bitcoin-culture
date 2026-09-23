@@ -100,6 +100,18 @@ coins, AI-slop generated in bulk.
 
 ### Digital & Graphic Artists
 
+- [Zazawowow](https://zazawowow.co.uk) — Multidisciplinary visual artist, UX designer, and musician; 
+  hyperspace-inflected digital art with glitch and geometric abstraction; also active on 
+  [Nostr](https://primal.net/p/nprofile1qqs8hpy7lftqfdvd2rzpjcmmnpecgldlj4cgr4fxzdkr5jdhx47dv9cpp4mhxue69uhkummn9ekx7mqpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgwnrn83) 
+  and [GitHub](https://github.com/Zazawowow). Collaborator on Ivy Lumi's "Wowwowow" (2025).
+- [Fzero](https://9fold.co/worlds/fzero) — French tattoo artist and digital artist; minimalist Bitcoin symbolism 
+  (₿ symbol, lightning bolts) and large-format digital paintings ("GENESIS 113", 2026). Published in Bitcoin Art Magazine.
+  Creator of $BLEEP. 
+  ([Nostr](https://primal.net/p/nprofile1qqszf5mgc9qwuek4tfhq0t3j9qxny0nrxvthcetgfv0g9m27euqdx9cjq8ted))
+- [Tynka](https://bitcoinillustration.com) — Book illustrator and visual artist specializing in children's illustration and Bitcoin art; 
+  author of Bitcoin-native picture books; creates character-driven narrative art exploring local community, family, and Bitcoin adoption. 
+  Highly Commended in Macmillan Illustration Prize 2026. 
+  ([Nostr](https://damus.io/nprofile1qqsrr9advrdchnverna7qgcfd2gu375fjd7rtcwmu03fd94t0gfzh9gnnda2h))
 - [Flo Montoya](https://scarce.city) — Poster and wheatpaste, protest-art tradition.
 - [Coldie](https://scarce.city) — Stereoscopic/magnetic portraits, "Filthy Fiat" series.
 - [Luis Simo](https://scarce.city) — Pixel mosaic, "Pepernica".
@@ -271,6 +283,12 @@ but part of the same creative economy.
 ## 🎵 Music
 
 - [The Orange Pill Jam Project](https://orangepilljam.bandcamp.com) — Zürich-based, copyleft/open-source Bitcoin-only music collective.
+- [Ivy Lumi](https://ivylumi.com) — Singer-songwriter and Bitcoin industry native; debut EP "The Cure" (May 2025) 
+  exploring healing, presence, and Bitcoin philosophy. Host of "Life with Bitcoin" podcast. 
+  ([Spotify](https://open.spotify.com/artist/1uYsMsNj4TPBcsafwA5lbv), 
+  [YouTube @ivylumi](https://youtube.com/@ivylumi), 
+  [Fountain](https://fountain.fm/show/loveisthecure), 
+  [Geyser campaign](https://geyser.fund/project/loveisthecure))
 - Marcus Connor — *Blues Before Bitcoin* (2024 album).
   ([Timechain profile](https://timechainartmagazine.com/artist/marcus-connor/))
 - [Tip_NZ](https://btcartgallery.com/category/song) — NZ Bitcoin rap.
@@ -335,6 +353,10 @@ sponsorships, patronage infrastructure.
 Infrastructure that lets creators publish, distribute, or get funded directly in Bitcoin —
 distinct from the grants/patronage orgs above, these are self-serve tools any artist can use.
 
+- **[Ninefold](https://9fold.co)** — "Stories That Make You Build." Bitcoin culture and community 
+  agency platform; curated storytelling hub connecting brand, market, community, and cultural 
+  moments. Featured in Forbes, HBO, The Bitcoin Conference, Geyser, and Bitcoin Magazine. 
+  Contact: go@9fold.co
 - **[Geyser](https://geyser.fund)** — Non-custodial Bitcoin crowdfunding platform for creators;
   rewards-based campaigns and recurring grants, paid entirely in Bitcoin/Lightning.
 - **[IndeeHub Studio](https://indeehub.studio)** — Lightning-enabled film streaming platform;
