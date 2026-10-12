@@ -324,7 +324,7 @@ sponsorships, patronage infrastructure.
 - **[Bitcoin for the Arts (BFTA)](https://www.bitcoinforthearts.org/)** — US 501(c)(3) nonprofit
   paying working artists exclusively in Bitcoin via quarterly micro-grants; runs Bitcoin Arts Park
   at partner conferences. Founded 2025 by Dion Wilson.
-- **[Open Source Culture](https://satosh.ee/open-source-culture/)** — Satoshee initiative funding
+- **[Satoshee Open Source Culture initiative](https://satosh.ee/open-source-culture/)** — funding
   and redistributing digital creative work released into the public domain through commissions,
   BTC-funded contests, and Nostr zaps.
 
