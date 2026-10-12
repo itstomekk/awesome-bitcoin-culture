@@ -135,9 +135,9 @@ coins, AI-slop generated in bulk.
   the Bitcoin community.
 - [Anik Malcolm](https://anikmalcolm.com/) — Conceptual multimedia art with highly detailed,
   meticulous compositions; focuses on freedom, resistance, and transformation.
-- [Dustin D. Trammell](https://timechainartmagazine.com/artist/dustin-trammell/) — Experimental
-  multimedia and digital-culture practice involving game design (no single visual medium
-  specified).
+- [Dustin D. Trammell](https://www.dustintrammell.com/art) — Bitcoin artist and founding member of
+  the Bitcoin Artist Guild; his portfolio spans varied subjects and media. ([Timechain Art
+  profile](https://timechainartmagazine.com/artist/dustin-trammell/))
 - [Missatoshi_girl](https://missatoshigirl.pvh-labs.com/) — Street-art-influenced mixed media
   using recycled and repurposed materials; graffiti language addressing privacy and freedom.
   ([Instagram](https://instagram.com/missatoshi_girl), [X/Twitter](https://x.com/Missatoshi_girl),
@@ -262,6 +262,10 @@ but part of the same creative economy.
   Freedom Publishing House (2022). 21 contributor stories from named authors.
 - *Bitcoin: A Treasure to HODL* by Lindey Magee — children's book, read as a sponsored live event
   at Bitcoin for the Arts' Bitcoin Arts Park.
+- [*The Genesis Code: Block One*](https://eggore.com/) by E. G. Gore — free near-future political
+  satire about money, power, and who gets to print belief.
+- [*South of Market*](https://www.amazon.com/South-Market-Jeffrey-Peel/dp/B0FKHKLM73) by Jeffrey
+  Peel — novel about technology, geopolitics, political influence, and energy as currency.
 - [Konsensus](https://konsensus.net) — publishing house for sovereignty-themed books and essays;
   no trackers, no cookies, no consent banner.
 
