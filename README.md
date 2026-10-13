@@ -300,10 +300,16 @@ but part of the same creative economy.
 ## 📰 Publications & Media
 
 - [Bitcoin Magazine](https://bitcoinmagazine.com) — Culture vertical + print.
+- [Proof of Work](https://proofofworkmagazine.com/) — Free-to-read Bitcoin lifestyle and culture
+  magazine covering people, places, ideas, and experiences.
+- [StackChain Magazine](https://www.stackchainmagazine.net/) — Bitcoin pleb-focused magazine/zine
+  sharing stories about the people and events in the Bitcoin world.
 - [Timechain Art Magazine](https://timechainartmagazine.com) — runs a public [Artist
   Directory](https://timechainartmagazine.com/artist-directory/), source for many entries above.
 - [Bitcoin Video Magazine](https://bitcoinvideomagazine.com) — Hour-long video-first show
   covering the Bitcoin ecosystem through short, fast-cut documentary and commentary segments.
+- [Bitcoin Shipshow](https://bitcoinship.show/) — Monthly online Bitcoin meetup and live demo
+  show, streaming and publishing builder demos from Bitcoin, Lightning, and Nostr projects.
 - [Citadel21](https://www.citadel21.com) — Cultural zine and long-form investigative journalism
   in the Bitcoin space, by hodlonaut; print zines via [shop.citadel21.com](https://shop.citadel21.com).
 - [The Bitcoin Muse](https://thebitcoinmuse.com) — Podcast profiling Bitcoin creators across
