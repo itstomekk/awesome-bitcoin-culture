@@ -131,7 +131,7 @@ coins, AI-slop generated in bulk.
   the Bitcoin community.
 - [Anik Malcolm](https://anikmalcolm.com/) - Conceptual multimedia art with highly detailed,
   meticulous compositions; focuses on freedom, resistance, and transformation. His oil painting
-  "The Whole Entire Universe" renders all 21 million bitcoin as individual beads.
+  "The Whole Entire Universe" renders all 21 million coins as individual beads.
 - [Dustin D. Trammell](https://www.dustintrammell.com/art) - Bitcoin artist and founding member of
   the Bitcoin Artist Guild; his portfolio spans varied subjects and media. ([Timechain Art
   profile](https://timechainartmagazine.com/artist/dustin-trammell/))
