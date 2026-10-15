@@ -8,13 +8,11 @@ or its developer tooling. This list catalogs that work: the people who made it, 
 and the institutions that support it. It is deliberately **not** another `awesome-bitcoin`
 dev-tools/wallets/services list - those already exist and are well maintained elsewhere.
 
-## Scope
-
-Bitcoin as subject and inspiration for human creative work - film, literature, visual art,
+**Scope:** Bitcoin as subject and inspiration for human creative work - film, literature, visual art,
 sculpture, music, and long-form media that engages with Bitcoin's ideas, history, or community.
 This is not a directory of financial products, exchanges, or speculative collectible drops.
 
-## Inclusion criteria
+**Inclusion criteria:**
 
 1. **Primary intent is creative, not financial.** A painting about Bitcoin qualifies. A PFP
    collection sold for profit doesn't, even if well-made, unless it clears #2.
@@ -47,7 +45,6 @@ coins, AI-slop generated in bulk.
 - [🧱 Platforms](#-platforms)
 - [🎪 Events & Festivals](#-events--festivals)
 - [😂 Memes & Internet Culture](#-memes--internet-culture)
-- [Contributing](#contributing)
 
 ---
 
@@ -61,14 +58,12 @@ coins, AI-slop generated in bulk.
 ### Painters
 
 - [Bitcoin Apex](https://bitcoinapexart.com) - Pencil, Dürer-esque portraiture.
-- [Pepenardo (Nardo)](https://scarce.city) - Oil painting, classical technique meets meme culture.
+- [Pepenardo (Nardo)](https://scarce.city/creators/pepenardo) - Oil painting, classical technique meets meme culture.
 - [MEAR ONE](https://store.bitcoinmagazine.com) - Painting and muralism, metaphysical surrealism;
   shown at the Museum of Graffiti.
 - [Alex Schaefer](https://www.saatchiart.com/paintwithalex) - Oil painting, expressionism; famous
   for the 2011 "banks on fire" series.
-- [Sarah Foster](https://bitcoinartgallery.com) - Acrylic, art-history reinterpretation.
-  Represented by Bitcoin Art Gallery Wynwood.
-- [Johnny Dollar](https://bitcoinartgallery.com) - Post-pop surrealism, cypherpunk themes,
+- [Johnny Dollar](https://johnnydollar.art/) - Post-pop surrealism, cypherpunk themes,
   pseudonymous. Represented by Bitcoin Art Gallery Wynwood.
 - [RYR](https://www.ryrstudio.com/) - Painting, street art, and contemporary mixed media; retains
   graffiti's raw energy while addressing money, value, and technology. ([X/Twitter](https://x.com/ryrartist))
@@ -101,9 +96,9 @@ coins, AI-slop generated in bulk.
 
 ### Digital & Graphic Artists
 
-- [Flo Montoya](https://scarce.city) - Poster and wheatpaste, protest-art tradition.
-- [Coldie](https://scarce.city) - Stereoscopic/magnetic portraits, "Filthy Fiat" series.
-- [Luis Simo](https://scarce.city) - Pixel mosaic, "Pepernica".
+- [Flo Montoya](https://scarce.city/creators/flo-montoya) - Poster and wheatpaste, protest-art tradition.
+- [Coldie](https://coldie3d.com/) - Stereoscopic/magnetic portraits, "Filthy Fiat" series.
+- [Luis Simo](https://scarce.city/creators/luis-simo) - Pixel mosaic, "Pepernica".
 - [cryptograffiti](https://cryptograffiti.com) - Mixed-media/screen-print; first artist to
   dedicate his career fully to Bitcoin/crypto.
 - [Lina Seiche](https://thelittlehodler.com) - Comic and graphic art.
@@ -152,15 +147,10 @@ coins, AI-slop generated in bulk.
 ### Mixed Media & Other Artists
 
 - [Madex](https://madex.art) - Mixed media; creative director of Bull Bitcoin.
-- [Anik Todd](https://scarce.city) - Painting, sound, carpentry.
 - [Marcus Connor](https://timechainartmagazine.com/artist/marcus-connor/) - Wood, installations,
   and music. Illustrated the "Bitcoin Roller Coaster Guy" meme; released the album *Blues Before
   Bitcoin* (2024).
-- [Ariel Birdie](https://scarce.city) - Mixed media, including the "Bitcoin Buddha" piece.
-- [Andy Risquez (elRAiSE)](https://bitcoinartgallery.com) - Venezuelan/US, Miami-Caracas.
-  Represented by Bitcoin Art Gallery Wynwood.
-- [Juliette Garzón (Juls)](https://bitcoinartgallery.com) - Pop art and sculpture, Venezuelan.
-  Represented by Bitcoin Art Gallery Wynwood.
+- [Ariel Birdie](https://www.arielbird.com/) - Mixed media, including the "Bitcoin Buddha" piece.
 - [Lady RedHorns](https://redhornsbtc.store/) - Mixed media, "Angels of Freedom" series ("The
   Transfer of Light", "The Bitcoin Keeper", "The Temptation of Bitcoin Angel"). Auctioned via
   Bitcoin for the Arts. ([Instagram](https://www.instagram.com/lady_redhorns), [X/Twitter](https://x.com/LRedhorns))
@@ -205,33 +195,31 @@ but part of the same creative economy.
 - [Bitcoin Art Society](https://www.bitcoinartsociety.com) - Curator-led institution. Runs the
   Robert Mallary Art Residency; exhibits at NFC Summit, Bitcoin Asia, Ordinals Buenos Aires.
 - [Bitcoin Art Gallery](https://bitcoinartgallery.com) - Physical gallery in Wynwood, Miami.
+  Represents Sarah Foster (acrylic, art-history reinterpretation), Andy Risquez (elRAiSE,
+  Venezuelan/US, Miami-Caracas), and Juliette Garzón (Juls, Venezuelan pop art and sculpture).
 - [scarce.city](https://scarce.city) - Recurring commercial marketplace/auction hub; de facto
   backbone linking most named artists above.
-- [Timechain Art Magazine](https://timechainartmagazine.com) - Publisher and directory hub; see
-  full entry under [Publications & Media](#-publications--media).
 - [Bitcoin Magazine - Culture](https://bitcoinmagazine.com/culture) - Not dedicated to art but
   runs recurring art coverage, including annual conference gallery previews.
-- [Bitcoin FilmFest](https://bitcoinfilmfest.com) - Warsaw-based hub for the Bitcoin cinema
-  industry; festival, network, and archive. Full entry under [Events & Festivals](#-events--festivals).
 
 ## 🎬 Film & Documentary
 
-- *[The Anatomy of Bitcoin](https://anatomyofbitcoin.com)* - an open-source (MIT-licensed),
+- [The Anatomy of Bitcoin](https://anatomyofbitcoin.com) - Open-source (MIT-licensed),
   community-funded hyper-realism film visualizing how the Bitcoin protocol actually works, down
   to elliptic-curve cryptography and node topology. Community contributions welcome.
-- *[Finding Home](https://indeehub.studio/film/finding-home)* (2025), hosted by Avi Burra -
-  4-episode docuseries connecting immigrants seeking a new home with Bitcoiners seeking a new
+- [Finding Home](https://indeehub.studio/film/finding-home) - 2025 docuseries hosted by Avi Burra;
+  4 episodes connecting immigrants seeking a new home with Bitcoiners seeking a new
   money, shot in New York, Prague, Paraguay, and London/Manchester.
-- *[Dirty Coin](https://www.dirtycointhemovie.com)* (2024), dir. Alana Mediavilla - Bitcoin mining
-  documentary filmed across four continents; won Best Movie at Bitcoin FilmFest's Warsaw premiere;
+- [Dirty Coin](https://www.dirtycointhemovie.com) - 2024 Bitcoin mining documentary by Alana
+  Mediavilla, filmed across four continents; won Best Movie at Bitcoin FilmFest's Warsaw premiere;
   billed as the most-screened Bitcoin documentary in the world, also featured at Bitcoin for the
   Arts' Bitcoin Arts Park.
-- *[The Rise and Rise of Bitcoin](https://en.wikipedia.org/wiki/The_Rise_and_Rise_of_Bitcoin)*
-  (2014), dir. Nicholas Mross - early feature documentary, premiered at Tribeca.
-- *[Money Electric: The Bitcoin Mystery](https://www.hbo.com/movies/money-electric-the-bitcoin-mystery)*
-  (2024), dir. Cullen Hoback - HBO documentary investigating Satoshi Nakamoto's identity.
-- *[No More Inflation](https://bitcoinfilmfest.com/part-one-official-selection-feature-films-at-bff25)*
-  (2024), dir. Maiku Tsukai - documentary asking why everything gets more expensive; screened at
+- [The Rise and Rise of Bitcoin](https://en.wikipedia.org/wiki/The_Rise_and_Rise_of_Bitcoin) - Early
+  feature documentary (2014) by Nicholas Mross; premiered at Tribeca.
+- [Money Electric: The Bitcoin Mystery](https://www.hbo.com/movies/money-electric-the-bitcoin-mystery) - 2024
+  HBO documentary by Cullen Hoback investigating Satoshi Nakamoto's identity.
+- [No More Inflation](https://bitcoinfilmfest.com/part-one-official-selection-feature-films-at-bff25) - 2024
+  documentary by Maiku Tsukai asking why everything gets more expensive; screened at
   Bitcoin FilmFest 2025.
 
 > **Gap:** weak coverage of 2024–2026 output beyond what's listed above. Bitcoin FilmFest's own
@@ -241,9 +229,9 @@ but part of the same creative economy.
 
 - [Statue of Satoshi](https://www.statueofsatoshi.com) - Budapest, Hungary. Bronze, reflective
   face. By Gergely Réka & Tamás Gilly.
-- [Brekkie von Bitcoin](https://scarce.city) - Hand-carved stone, 24k gold leaf.
+- [Brekkie von Bitcoin](https://www.vonbitcoin.com/) - Hand-carved stone, 24k gold leaf.
 - [FractalEncrypt](https://timechainartmagazine.com/artist/fractalencrypt) - Sculpture, cypherpunk digital-to-physical work.
-- [Cypherpunk Now](https://scarce.city) - Glass sculpture, from the Prague Parallelní Polis scene.
+- [Cypherpunk Now](https://www.cypherpunknow.com/) - Glass sculpture by Martin Fischer, from the Prague Parallelní Polis scene.
 - [Antonio Batzu](https://www.antoniobatzu.com/) - Ceramic sculpture using clay, metallic lusters,
   and gold; recurring *Ichthys* forms connect Bitcoin to ancient symbolism.
 - [Gareth Eckley](https://garetheckley.com/) - Gemstone carving and jewelry sculpture; "Bitcoin
@@ -259,14 +247,14 @@ but part of the same creative economy.
 
 ## 📚 Literature
 
-- *21 Futures: Tales from the Timechain*, ed. Philip Charter. Published by Konsensus Network /
-  Freedom Publishing House (2022). 21 contributor stories from named authors.
-- *Bitcoin: A Treasure to HODL* by Lindey Magee - children's book, read as a sponsored live event
-  at Bitcoin for the Arts' Bitcoin Arts Park.
-- [*The Genesis Code: Block One*](https://eggore.com/) by E. G. Gore - free near-future political
-  satire about money, power, and who gets to print belief.
-- [*South of Market*](https://www.amazon.com/South-Market-Jeffrey-Peel/dp/B0FKHKLM73) by Jeffrey
-  Peel - novel about technology, geopolitics, political influence, and energy as currency.
+- [21 Futures: Tales from the Timechain](https://21futures.com/) - Anthology of 21 stories from
+  named authors, edited by Philip Charter; Konsensus Network / Freedom Publishing House (2023).
+- [Bitcoin: A Treasure to HODL](https://lindeymagee.com/) - Children's book by Lindey Magee; read
+  as a sponsored live event at Bitcoin for the Arts' Bitcoin Arts Park.
+- [The Genesis Code: Block One](https://eggore.com/) - Free near-future political satire by E. G.
+  Gore about money, power, and who gets to print belief.
+- [South of Market](https://www.amazon.com/South-Market-Jeffrey-Peel/dp/B0FKHKLM73) - Novel by
+  Jeffrey Peel about technology, geopolitics, political influence, and energy as currency.
 - [Konsensus](https://konsensus.net) - Publishing house for sovereignty-themed books and essays;
   no trackers, no cookies, no consent banner.
 
@@ -276,8 +264,6 @@ but part of the same creative economy.
 ## 🎵 Music
 
 - [The Orange Pill Jam Project](https://orangepilljam.bandcamp.com) - Zürich-based, copyleft/open-source Bitcoin-only music collective.
-- Marcus Connor - *Blues Before Bitcoin* (2024 album).
-  ([Timechain profile](https://timechainartmagazine.com/artist/marcus-connor/))
 - [Tip_NZ](https://btcartgallery.com/category/song) - NZ Bitcoin rap.
 - [Ainsley Costello](https://ainsleycostello.com) - Singer-songwriter; first artist on Wavlake to hit 1 million sats
   ("Cherry On Top"), performs the Value4Value/Bitcoin conference circuit (Bitcoin Arts Park,
@@ -286,8 +272,8 @@ but part of the same creative economy.
   sats than traditional streaming ("High Gravity"). Plays Revolution.Rocks.
 - [Man Like Kweks](https://wavlake.com/man-like-kweks) - Tanzanian hip-hop artist; documented earning far more via Wavlake sats than
   conventional distribution.
-- [Scardust](https://metalstorm.net/bands/band.php?band_id=13193), Longy, The Higher Low, Roger 9000 - international acts on the Revolution.Rocks
-  Belgrade lineup (value-for-value live performance), all via [revolution.rocks](https://www.revolution.rocks).
+- [Scardust](https://metalstorm.net/bands/band.php?band_id=13193) - Progressive metal band on the
+  Revolution.Rocks Belgrade value-for-value lineup, alongside Longy, The Higher Low, and Roger 9000.
 - [Kane Mayfield](https://kanemayfield.com/) - Hip-hop musician and Bitcoin ordinal artist;
   co-founder of Inscribed Audio, encodes Bitcoin transactions into music.
 - [Kontext](https://primal.net/p/npub1qfc7rwddjl3lzhkhgge8ch82xjfm6e3gqcgk8zm6pahz3tvvl7gq88xnrh) - Estonian writer and musician;
@@ -336,7 +322,7 @@ for real sats.
   magazine covering people, places, ideas, and experiences.
 - [StackChain Magazine](https://www.stackchainmagazine.net/) - Bitcoin pleb-focused magazine/zine
   sharing stories about the people and events in the Bitcoin world.
-- [Timechain Art Magazine](https://timechainartmagazine.com) - runs a public [Artist
+- [Timechain Art Magazine](https://timechainartmagazine.com) - Runs a public [Artist
   Directory](https://timechainartmagazine.com/artist-directory/), source for many entries above.
 - [Bitcoin Video Magazine](https://bitcoinvideomagazine.com) - Hour-long video-first show
   covering the Bitcoin ecosystem through short, fast-cut documentary and commentary segments.
@@ -359,50 +345,51 @@ for real sats.
 Organizations that fund or support Bitcoin-native creative work directly - grants, residencies,
 sponsorships, patronage infrastructure.
 
-- **[Bitcoin for the Arts (BFTA)](https://www.bitcoinforthearts.org/)** - US 501(c)(3) nonprofit
+- [Bitcoin for the Arts (BFTA)](https://www.bitcoinforthearts.org/) - US 501(c)(3) nonprofit
   paying working artists exclusively in Bitcoin via quarterly micro-grants; runs Bitcoin Arts Park
   at partner conferences. Founded 2025 by Dion Wilson.
-- **[Satoshee Open Source Culture initiative](https://satosh.ee/open-source-culture/)** - funding
+- [Satoshee Open Source Culture initiative](https://satosh.ee/open-source-culture/) - Funding
   and redistributing digital creative work released into the public domain through commissions,
   BTC-funded contests, and Nostr zaps.
 
 ### BFTA partners & collaborators
 
-- **[Timechain Art Magazine / Asanoha](https://timechainartmagazine.com)** - Donated the "Gold
-  Foil Genesis Edition" Silk Mandala Archival Serigraph to BFTA's Midwest silent auction.
-- **Dirty Coin** - Bitcoin mining documentary; featured screening presented inside Bitcoin Arts
-  Park.
-- **[Ainsley Costello](https://ainsleycostello.com)** - Performing artist; anchors the Secondary
-  Stage performance lineup at Bitcoin Arts Park. Also listed under [Music](#-music).
+Timechain Art Magazine / Asanoha donated the "Gold Foil Genesis Edition" Silk Mandala Archival
+Serigraph to BFTA's Midwest silent auction. The Bitcoin mining documentary Dirty Coin had a featured
+screening inside Bitcoin Arts Park. Ainsley Costello anchors the Secondary Stage performance lineup
+at Bitcoin Arts Park. All three have their own entries above.
 
 ## 🧱 Platforms
 
 Infrastructure that lets creators publish, distribute, or get funded directly in Bitcoin -
 distinct from the grants/patronage orgs above, these are self-serve tools any artist can use.
 
-- **[Geyser](https://geyser.fund)** - Non-custodial Bitcoin crowdfunding platform for creators;
+- [Geyser](https://geyser.fund) - Non-custodial Bitcoin crowdfunding platform for creators;
   rewards-based campaigns and recurring grants, paid entirely in Bitcoin/Lightning.
-- **[IndeeHub Studio](https://indeehub.studio)** - Lightning-enabled film streaming platform;
+- [IndeeHub Studio](https://indeehub.studio) - Lightning-enabled film streaming platform;
   filmmakers are paid in real time (per second watched) via a connected Lightning wallet, with
   ACH as a fiat fallback. No exclusivity required.
-- **[Wavlake](https://wavlake.com)** / **Fountain** - Value4Value music and podcast streaming;
-  artists earn Bitcoin Lightning "zaps"/"boosts" directly from listeners, often exceeding
-  traditional streaming payouts. See Music above for artists active here.
+- [Wavlake](https://wavlake.com) - Value4Value music streaming; artists earn Bitcoin Lightning
+  "zaps" directly from listeners, often exceeding traditional streaming payouts. See Music above
+  for artists active here.
+- [Fountain](https://fountain.fm) - Value4Value podcast platform and app; listeners send Lightning
+  "boosts" straight to creators.
 
 ## 🎪 Events & Festivals
 
 This list tracks creative work, not events - Tomek already maintains a dedicated, actively
 updated calendar for that:
 
-- **[Awesome Bitcoin Events](https://github.com/itstomekk/awesome-bitcoin-events)** - the
+- [Awesome Bitcoin Events](https://github.com/itstomekk/awesome-bitcoin-events) - The
   canonical source for Bitcoin conferences, meetups, retreats, festivals, and technical
   gatherings worldwide.
 
 Two exceptions worth naming directly here, since they're culture-first rather than industry-first:
 
-- **[Bitcoin FilmFest](https://bitcoinfilmfest.com)** - "The heart of Bitcoin Cinema." Annual
-  Warsaw festival (Kinoteka) screening Bitcoin films and awarding the Golden Rabbits.
-- **[Revolution.Rocks](https://www.revolution.rocks/)** - Two-day Value4Value music festival on
+- [Bitcoin FilmFest](https://bitcoinfilmfest.com) - "The heart of Bitcoin Cinema." Annual Warsaw
+  festival (Kinoteka) screening Bitcoin films and awarding the Golden Rabbits; also a year-round
+  hub, network, and archive for the Bitcoin cinema industry.
+- [Revolution.Rocks](https://www.revolution.rocks/) - Two-day Value4Value music festival on
   Belgrade's Zappa Barka; Lightning tips go straight to performing artists.
 
 ## 😂 Memes & Internet Culture
@@ -422,10 +409,3 @@ internet culture (not a one-off tweet or a promotional gimmick).
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the maintainers have waived all copyright and related rights
-to this work. See [LICENSE](LICENSE).
