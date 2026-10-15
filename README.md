@@ -40,6 +40,10 @@ coins, AI-slop generated in bulk.
 - [📚 Literature](#-literature)
 - [🎵 Music](#-music)
 - [🎮 Games](#-games)
+  - [Video Games](#video-games)
+  - [Board & Card Games](#board--card-games)
+  - [Digital Board & Card Games](#digital-board--card-games)
+  - [Wagering & Casino](#wagering--casino)
 - [📰 Publications & Media](#-publications--media)
 - [💰 Grants, Funders & Patronage](#-grants-funders--patronage)
 - [🧱 Platforms](#-platforms)
@@ -298,25 +302,119 @@ for real sats.
 <details>
 <summary>Show Bitcoin Games</summary>
 
+### Video Games
+
+- [BitByBit RUN](https://run.bitbybit.com.ar/) - Multiplayer runner race over Nostr relays where
+  rivals can zap the winner real sats.
 - [Bitcoin Billionaire](https://noodlecake.com/games/bitcoin-billionaire) - Idle clicker by
   Noodlecake Studios about mining virtual Bitcoin; no real money involved.
-- [Blockhunters](https://blockhuntersgame.com/) - Board game of strategy, luck, and bluffing around
-  ten private keys; crowdfunded on Geyser.
-- [Chain Duel](https://chainduel.net/) - PvP Snake-style game where two chains fight for the block
-  reward; skill-based Lightning wagers. ([source](https://github.com/francismars/chain-duel))
-- [Gamestr](https://gamestr.io/) - Nostr leaderboard hub for small Bitcoin-themed browser games such
-  as Sats-Man and blockstr.
-- [Satoshi Settlers](https://satoshisettlers.com) - Experimental MMO-style world builder based on
-  Bitcoin blocks, linked to Lightning.
-- [Saving Satoshi](https://savingsatoshi.com/) - Free, open-source story RPG that teaches Bitcoin
-  tech through coding challenges.
-- [SHAmory](https://shamory.com/) - Card game that teaches kids how Bitcoin mining works.
-- [Space Zappers](https://www.spacezappers.com) - Retro Space Invaders-style arcade game; 21 sats
-  per play over Lightning, Nostr-native.
+- [Bitcoinia](https://bitcoinia.org) - Retro 50-level arcade puzzler: push ledger blocks, stack
+  sats, dodge the enemies of sound money.
+- [Bitcoin Mining Block Simulator](https://bitpolito-mining-game.vercel.app) - Educational game by
+  BitPolito: pick mempool transactions, build a block header, and find a valid nonce.
+- [Bitcoin VR](https://store.steampowered.com/app/615460) - VR forest where you watch live Bitcoin
+  transactions and prune the blockchain with a bow and arrow.
 - [₿ THE GAME](https://satsymbol.org/game) - Minimalist browser game where you move the Bitcoin
   symbol; a novelty from Satsymbol.org.
+- [Chain Duel](https://chainduel.net/) - PvP Snake-style game where two chains fight for the block
+  reward; skill-based Lightning wagers. ([source](https://github.com/francismars/chain-duel))
+- [Clixel](http://clixel.io/play) - Everyone chases one moving pixel; misses grow the pot and the
+  first hit wins it in sats.
+- [Conway's Game of Pacman](https://conwaysgameofpacman.xyz/) - Pac-Man in a Game of Life arena; one
+  free game a day, continues paid in sats.
+- [Crypto Classics](https://cryptoclassics.top) - Free retro arcade remakes (Chuckie ₿, Invaders,
+  Firedrake); the weekly top score wins sats.
+- [DOOM on Bitcoin](https://ordinals.com/inscription/466) - A DOOM clone inscribed on a single
+  satoshi that runs in the browser straight from chain data.
+- [Gamestr](https://gamestr.io/) - Nostr leaderboard hub for small Bitcoin-themed browser games such
+  as Sats-Man and blockstr.
+- [Halving Massacre](https://massacre.lawallet.io) - Last-player-standing game by La Crypta: zap
+  sats to survive eliminations decided by block hashes.
+- [Hashteroids](https://hashteroids.btcdir.org) - Asteroids clone with credits bought over Lightning
+  and high scores posted to Nostr.
+- [Jippi](https://jippi.app) - Pokémon GO-style AR game: catch Bitcoin Beasts by answering Bitcoin
+  trivia and earn sats.
+- [Maximalist - Episode 1](https://fullyard.itch.io/maximalist-episode-1) - Mega Man-style
+  platformer starring Bitcoin maximalist Chad Von Mises fighting NFT monsters.
+- [One Man's Trash](https://store.steampowered.com/app/3692070) - Satirical junkyard game hunting a
+  lost hard drive full of coins, inspired by the James Howells saga.
+- [OpenBitcoin Games](https://openbitcoin.com/games) - Free browser games (Block Builder, The Last
+  Sat and more) that teach mining, fees, and odds.
+- [Proof of Score](https://proofofscore.win) - Asteroids-style shooter with pay-per-play over
+  Lightning and a daily high-score prize pool.
+- [SaruTobi](https://apps.apple.com/us/app/sarutobi-make-the-monkey-fly/id1527644721) -
+  Monkey-flinging arcade game, the first mobile Bitcoin game (2013), relaunched with sat rewards via
+  ZBD.
+- [Satoshi Settlers](https://satoshisettlers.com) - Experimental MMO-style world builder based on
+  Bitcoin blocks, linked to Lightning.
+- [Satoshi's Place](https://satoshis.place) - Collaborative million-pixel canvas where every pixel
+  costs 1 sat over Lightning.
+- [Saving Satoshi](https://savingsatoshi.com/) - Free, open-source story RPG that teaches Bitcoin
+  tech through coding challenges.
+- [Simple Bitcoin: Learn &
+  Earn](https://apps.apple.com/us/app/simple-bitcoin-learn-earn/id1487375777) - Bitcoin-only lessons
+  and quizzes that unlock spins paying sats.
+- [Snake.dance](https://snake.dance/) - Multiplayer skill snake with bosses and a daily leaderboard;
+  Lightning login, sat prizes.
+- [Space Zappers](https://www.spacezappers.com) - Retro Space Invaders-style arcade game; 21 sats
+  per play over Lightning, Nostr-native.
+- [StackerMan](https://stackerman.onrender.com/) - Bomberman-style browser game: pay 100 sats to
+  play and collect bitcoin icons worth real sats.
 - [The Game of Satoshi](https://www.thegameofsatoshi.com) - Yearly puzzle hunt inside The Satoshi
   Archive's series on Bitcoin history; prize paid in Bitcoin.
+- [Timechain Arcade](https://timechainarcade.com) - Browser arcade of Bitcoin-themed and educational
+  games with leaderboards, badges, and sat-priced credits.
+- [WHERE the F$CK is my BITCOIN](https://store.steampowered.com/app/4705620) - Co-op digging sim
+  about searching a dump for the Bitcoin you threw away.
+
+### Board & Card Games
+
+Physical tabletop games.
+
+- [Age of Bitcoin](https://www.kickstarter.com/projects/whiteelephants/age-of-bitcoin) - Board game
+  about diversifying investments, where only Bitcoin outpaces inflation.
+- [Bitcoin Puzzle Playing Cards](https://bitcoinpuzzlecards.com) - Acrylic puzzle block you must
+  "mine" to release two Bitcoin-themed card decks.
+- [Bitcoin the Card
+  Game](https://analog.games/games/08303110-5016-44c0-b84e-f9625470f831/bitcoin-the-card-game) -
+  78-card open-drafting card game with a Bitcoin theme.
+- [Bitcoin Wars](https://bitcoin-wars.com) - Bidding card game with money cards, special cards, and
+  collectible Bitcoin cards.
+- [Blockhunters](https://blockhuntersgame.com/) - Board game of strategy, luck, and bluffing around
+  ten private keys; crowdfunded on Geyser.
+- [HODL UP](https://www.freemarketkids.com/products/hodl-up-a-bitcoin-mining-game) - Family board
+  game about mining the blockchain and stacking the most sats.
+- [SHAmory](https://shamory.com/) - Card game that teaches kids how Bitcoin mining works.
+
+### Digital Board & Card Games
+
+- [Bitcoin CCG](https://bccg.gg/) - Digital companion to the physical Bitcoin Collectible Card Game
+  by Rogue Signal; play bots or people.
+- [Bitcoin Chess](https://supertestnet.github.io/bitcoin-chess/bitcoin-chess.html) - Chess by Super
+  Testnet where every move is signalled in a Bitcoin transaction via key tweaking.
+- [Bitcoin Monopoly (ecash edition)](https://github.com/bTCpy/monopoly) - Monopoly played with Cashu
+  ecash or real sats instead of play money.
+- [BTC: Proof of Play](https://btcproofofplay.itch.io/btcproofofplay) - Hearthstone-style 1v1
+  Bitcoin card battler with a live mempool hub.
+
+### Wagering & Casino
+
+Games where the main loop is betting real sats. Listed for completeness; play responsibly.
+
+- [Cashu Casino](https://github.com/babdbtc/cashucasino) - Privacy-focused open-source casino with
+  Cashu ecash, Lightning deposits, and Nostr login.
+- [Clinch](https://apps.apple.com/us/app/clinch-pvp-bitcoin-games/id6479753271) - Head-to-head skill
+  games such as blackjack and block puzzles, wagered in bitcoin.
+- [Crown & Anchor](https://www.nostrly.com/crown-anchor-game/) - Provably fair Crown and Anchor dice
+  game with Nostr login and Lightning or Cashu top-ups.
+- [Lightning Poker](https://www.lightning-poker.com) - No-limit Texas Hold'em with sats as chips;
+  Lightning buy-in and cash-out, open-source code.
+- [Nakamoto Roulette](https://nakamotoroulette.com) - Live-streamed casino roulette with Lightning
+  deposits and withdrawals.
+- [NostrDice](https://github.com/NostrDice/nostrdice) - Provably fair dice: zap a note and winnings
+  are zapped back to your Lightning address.
+- [The Daily Thunder](https://playtdt.com/) - Lightning lottery with 1-sat tickets and provably fair
+  draws every 100 Bitcoin blocks.
 
 </details>
 
