@@ -217,9 +217,30 @@ but part of the same creative economy.
   feature documentary (2014) by Nicholas Mross; premiered at Tribeca.
 - [Money Electric: The Bitcoin Mystery](https://www.hbo.com/movies/money-electric-the-bitcoin-mystery) - 2024
   HBO documentary by Cullen Hoback investigating Satoshi Nakamoto's identity.
-- [No More Inflation](https://bitcoinfilmfest.com/part-one-official-selection-feature-films-at-bff25) - 2024
-  documentary by Maiku Tsukai asking why everything gets more expensive; screened at
-  Bitcoin FilmFest 2025.
+- [No More Inflation](https://nomoreinflation.com/) - 2024 documentary by Maiku Tsukai asking why
+  everything gets more expensive; won Best Movie (Golden Rabbit) at Bitcoin FilmFest 2025. Free to
+  watch online.
+- [The Satoshi Mystery](https://www.arte.tv/en/videos/RC-021581/the-satoshi-mystery) - ARTE's
+  six-part documentary series (2021) by Rémi Forte on Bitcoin's launch, its cypherpunk roots, and
+  the search for Satoshi Nakamoto; first prize at Bitcoin FilmFest 2023 and Best Web Documentary at
+  Marseille Web Fest 2022.
+- [Human B](https://humanb-film.com/) - 2021 documentary by Aaron Mucke and Eva Mühlenbäumer
+  following six people from different countries into the Bitcoin rabbit hole; Audience Award at
+  Bitcoin FilmFest 2023. Free on YouTube.
+- [Hotel Bitcoin](https://www.deaplaneta.com/es/hotel_bitcoin) - 2024 Spanish comedy feature by
+  Manuel Sanabria and Carlos "Pocho" Villaverde: four friends find 4,000 bitcoins on a laptop and
+  hole up in a hotel until Monday; Best Story Award at Bitcoin FilmFest 2025. On Netflix.
+- [Bitcoiners](https://bitcoinersmovie.com/) - 2023 documentary by Rob Johnson following Texas
+  Bitcoiners from 2021 to 2023; Official Selection and Golden Rabbit nominee at Bitcoin FilmFest
+  2024.
+- [Death Athletic: A Dissident Architecture](https://www.encodeproductions.com/deathathletic) - 2023
+  documentary by Jessica Solce, filmed over seven years with Cody Wilson and the fight over code as
+  speech; Official Selection at Bitcoin FilmFest 2024, Best Documentary Feature at North Idaho Film
+  Festival.
+- [Who Is Bitcoin?](https://www.youtube.com/watch?v=DvHUOr8ruMw) - 10-minute puppet short (2023)
+  from Spiral starring Bitty, a grumpy seven-foot Bitcoin puppet explaining what Bitcoin is for;
+  real puppetry, no CGI. Spawned the license-free [Here Comes Bitcoin](https://herecomesbitcoin.org/)
+  character library. Screened at Bitcoin FilmFest 2024 CartoonFest.
 
 > **Gap:** weak coverage of 2024–2026 output beyond what's listed above. Bitcoin FilmFest's own
 > network is the best source here - not yet fully tapped.
