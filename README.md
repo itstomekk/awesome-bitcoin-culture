@@ -306,8 +306,6 @@ for real sats.
 
 - [BitByBit RUN](https://run.bitbybit.com.ar/) - Multiplayer runner race over Nostr relays where
   rivals can zap the winner real sats.
-- [Bitcoin Billionaire](https://noodlecake.com/games/bitcoin-billionaire) - Idle clicker by
-  Noodlecake Studios about mining virtual Bitcoin; no real money involved.
 - [Bitcoinia](https://bitcoinia.org) - Retro 50-level arcade puzzler: push ledger blocks, stack
   sats, dodge the enemies of sound money.
 - [Bitcoin Mining Block Simulator](https://bitpolito-mining-game.vercel.app) - Educational game by
