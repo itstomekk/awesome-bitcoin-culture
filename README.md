@@ -41,6 +41,7 @@ coins, AI-slop generated in bulk.
 - [🗿 Sculpture](#sculpture)
 - [📚 Literature](#literature)
 - [🎵 Music](#music)
+- [🎮 Games](#games)
 - [📰 Publications & Media](#publications--media)
 - [💰 Grants, Funders & Patronage](#grants-funders--patronage)
 - [🧱 Platforms](#platforms)
@@ -296,6 +297,37 @@ but part of the same creative economy.
 > **Thin category.** Tomek's own BFF network (festival musical acts, conference performers)
 > likely knows more than open search surfaces. The Value4Value music scene (Wavlake, Fountain,
 > Nostr) is a rich, under-tapped source — see Platforms below.
+
+## 🎮 Games
+
+Video, board, and card games where Bitcoin is the theme or the story, including games played
+for real sats.
+
+<details>
+<summary>Show 10 games</summary>
+
+- [Chain Duel](https://chainduel.net/) — PvP Snake-style game where two chains fight for the next
+  block reward; skill-based Lightning wagers, real sats in and out. By francismars.
+  ([source](https://github.com/francismars/chain-duel))
+- [Space Zappers](https://www.spacezappers.com) — Retro Space Invaders-style arcade game; 21 sats
+  per play over Lightning, Nostr-native, with a free one-minute trial.
+- [₿ THE GAME](https://satsymbol.org/game) — Minimalist browser game where you move the Bitcoin
+  symbol; a novelty from Satsymbol.org.
+- [Satoshi Settlers](https://satoshisettlers.com) — Experimental MMO-style world builder based on
+  Bitcoin blocks, linked to Lightning.
+- [The Game of Satoshi](https://www.thegameofsatoshi.com) — Yearly puzzle hunt hidden inside The
+  Satoshi Archive's animated series on Bitcoin history; free to play, prize paid in Bitcoin on-chain.
+- [Saving Satoshi](https://savingsatoshi.com/) — Free, open-source story RPG that teaches Bitcoin
+  tech through coding challenges; built by Adam Jonas, Christoph Ono, and contributors.
+- [Blockhunters](https://blockhuntersgame.com/) — Bitcoin board game of strategy, luck, and
+  bluffing around ten private keys; by Arnold Hubach and Emily Hughes, crowdfunded on Geyser.
+- [SHAmory](https://shamory.com/) — Card game that teaches kids how Bitcoin mining works.
+- [Bitcoin Billionaire](https://noodlecake.com/games/bitcoin-billionaire) — Idle clicker by
+  Noodlecake Studios about mining virtual Bitcoin; no real money involved.
+- [Gamestr](https://gamestr.io/) — Nostr leaderboard hub for small Bitcoin-themed browser games
+  such as Sats-Man and blockstr.
+
+</details>
 
 ## 📰 Publications & Media
 
