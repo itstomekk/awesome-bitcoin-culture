@@ -241,6 +241,12 @@ but part of the same creative economy.
   from Spiral starring Bitty, a grumpy seven-foot Bitcoin puppet explaining what Bitcoin is for;
   real puppetry, no CGI. Spawned the license-free [Here Comes Bitcoin](https://herecomesbitcoin.org/)
   character library. Screened at Bitcoin FilmFest 2024 CartoonFest.
+- [HODL](https://www.youtube.com/watch?v=dktBrlikweo) - 2020 comedy short by The Garcia Brothers
+  (Ice Cream Entertainment): Max inherits his uncle's Bitcoin and starts buying things his coins
+  may not cover. Made on an 86-cent budget in 8 hours; Best Short at Bitcoin FilmFest 2024.
+- [The Great Reset and the Rise of Bitcoin](https://www.youtube.com/watch?v=e0plyXEc1Ak) - 2022
+  documentary by Pierre Corbin on debt cycles, central banking, and Bitcoin as an alternative
+  monetary system; screened at the first Bitcoin FilmFest in 2023. Free on YouTube.
 
 > **Gap:** weak coverage of 2024–2026 output beyond what's listed above. Bitcoin FilmFest's own
 > network is the best source here - not yet fully tapped.
