@@ -130,7 +130,8 @@ coins, AI-slop generated in bulk.
 - [Bitcoin Cartoons](https://www.bitcoincartoons.io/) - Whimsical illustration and cartooning for
   the Bitcoin community.
 - [Anik Malcolm](https://anikmalcolm.com/) - Conceptual multimedia art with highly detailed,
-  meticulous compositions; focuses on freedom, resistance, and transformation.
+  meticulous compositions; focuses on freedom, resistance, and transformation. His oil painting
+  "The Whole Entire Universe" renders all 21 million bitcoin as individual beads.
 - [Dustin D. Trammell](https://www.dustintrammell.com/art) - Bitcoin artist and founding member of
   the Bitcoin Artist Guild; his portfolio spans varied subjects and media. ([Timechain Art
   profile](https://timechainartmagazine.com/artist/dustin-trammell/))
@@ -195,8 +196,6 @@ but part of the same creative economy.
 - [Bitcoin Art Society](https://www.bitcoinartsociety.com) - Curator-led institution. Runs the
   Robert Mallary Art Residency; exhibits at NFC Summit, Bitcoin Asia, Ordinals Buenos Aires.
 - [Bitcoin Art Gallery](https://bitcoinartgallery.com) - Physical gallery in Wynwood, Miami.
-  Represents Sarah Foster (acrylic, art-history reinterpretation), Andy Risquez (elRAiSE,
-  Venezuelan/US, Miami-Caracas), and Juliette Garzón (Juls, Venezuelan pop art and sculpture).
 - [scarce.city](https://scarce.city) - Recurring commercial marketplace/auction hub; de facto
   backbone linking most named artists above.
 - [Bitcoin Magazine - Culture](https://bitcoinmagazine.com/culture) - Not dedicated to art but
