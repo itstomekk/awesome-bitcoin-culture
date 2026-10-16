@@ -1,0 +1,332 @@
+{
+ "a13mw": {
+  "shot": "a13mw.webp"
+ },
+ "bitcoin-apex": {
+  "shot": "bitcoin-apex.webp"
+ },
+ "2140art": {
+  "shot": "2140art.webp"
+ },
+ "alex-schaefer": {
+  "shot": "alex-schaefer.webp"
+ },
+ "george-bodine": {
+  "shot": "george-bodine.webp"
+ },
+ "isolabellart": {
+  "shot": "isolabellart.webp"
+ },
+ "blu3baer": {
+  "shot": "blu3baer.webp"
+ },
+ "johnny-dollar": {
+  "shot": "johnny-dollar.webp"
+ },
+ "kenneth-burris": {
+  "shot": "kenneth-burris.webp"
+ },
+ "mx12art": {
+  "shot": "mx12art.webp"
+ },
+ "jure-kastelic": {
+  "shot": "jure-kastelic.webp"
+ },
+ "pepenardo-nardo": {
+  "shot": "pepenardo-nardo.webp"
+ },
+ "sweedgraffixx": {
+  "shot": "sweedgraffixx.webp"
+ },
+ "tommy-marcheschi": {
+  "shot": "tommy-marcheschi.webp"
+ },
+ "anik-malcolm": {
+  "shot": "anik-malcolm.webp"
+ },
+ "bitko-yinowsky": {
+  "shot": "bitko-yinowsky.webp"
+ },
+ "cyber-street-cyber": {
+  "shot": "cyber-street-cyber.webp"
+ },
+ "chiefmonkey": {
+  "shot": "chiefmonkey.webp"
+ },
+ "flo-montoya": {
+  "shot": "flo-montoya.webp"
+ },
+ "ca-danner": {
+  "shot": "ca-danner.webp"
+ },
+ "gus-grillasca": {
+  "shot": "gus-grillasca.webp"
+ },
+ "house-of-ralfus": {
+  "shot": "house-of-ralfus.webp"
+ },
+ "missatoshi-girl": {
+  "shot": null,
+  "why": "TimeoutError"
+ },
+ "luis-simo": {
+  "shot": "luis-simo.webp"
+ },
+ "lina-seiche": {
+  "shot": "lina-seiche.webp"
+ },
+ "psyfer": {
+  "shot": "psyfer.webp"
+ },
+ "the-great-print": {
+  "shot": "the-great-print.webp"
+ },
+ "tom-badley": {
+  "shot": "tom-badley.webp"
+ },
+ "5ksana": {
+  "shot": null,
+  "why": "bot-wall"
+ },
+ "ariel-birdie": {
+  "shot": "ariel-birdie.webp"
+ },
+ "yuzapata": {
+  "shot": "yuzapata.webp"
+ },
+ "camas-logue": {
+  "shot": "camas-logue.webp"
+ },
+ "kanuto": {
+  "shot": "kanuto.webp"
+ },
+ "lena": {
+  "shot": null,
+  "why": "bot-wall"
+ },
+ "madex": {
+  "shot": "madex.webp"
+ },
+ "marcus-connor": {
+  "shot": "marcus-connor.webp"
+ },
+ "modeotec": {
+  "shot": "modeotec.webp"
+ },
+ "rebel-money": {
+  "shot": "rebel-money.webp"
+ },
+ "bitcoin-art-society": {
+  "shot": "bitcoin-art-society.webp"
+ },
+ "scarce-city": {
+  "shot": "scarce-city.webp"
+ },
+ "rare-scrilla": {
+  "shot": null,
+  "why": "TimeoutError"
+ },
+ "bitchair": {
+  "shot": "bitchair.webp"
+ },
+ "bitcoiners": {
+  "shot": "bitcoiners.webp"
+ },
+ "death-athletic-a-dissident-architecture": {
+  "shot": "death-athletic-a-dissident-architecture.webp"
+ },
+ "finding-home": {
+  "shot": "finding-home.webp"
+ },
+ "hotel-bitcoin": {
+  "shot": "hotel-bitcoin.webp"
+ },
+ "no-more-inflation": {
+  "shot": "no-more-inflation.webp"
+ },
+ "the-rise-and-rise-of-bitcoin": {
+  "shot": "the-rise-and-rise-of-bitcoin.webp"
+ },
+ "the-satoshi-mystery": {
+  "shot": null,
+  "why": "bot-wall"
+ },
+ "human-b": {
+  "shot": "human-b.webp"
+ },
+ "antonio-batzu": {
+  "shot": "antonio-batzu.webp"
+ },
+ "adam-kadmon": {
+  "shot": "adam-kadmon.webp"
+ },
+ "brekkie-von-bitcoin": {
+  "shot": "brekkie-von-bitcoin.webp"
+ },
+ "cypherpunk-now": {
+  "shot": "cypherpunk-now.webp"
+ },
+ "fractalencrypt": {
+  "shot": "fractalencrypt.webp"
+ },
+ "gareth-eckley": {
+  "shot": "gareth-eckley.webp"
+ },
+ "puzzle": {
+  "shot": "puzzle.webp"
+ },
+ "statue-of-satoshi": {
+  "shot": "statue-of-satoshi.webp"
+ },
+ "studio-zeitwerk": {
+  "shot": "studio-zeitwerk.webp"
+ },
+ "south-of-market": {
+  "shot": "south-of-market.webp"
+ },
+ "joe-martin": {
+  "shot": "joe-martin.webp"
+ },
+ "ainsley-costello": {
+  "shot": "ainsley-costello.webp"
+ },
+ "kane-mayfield": {
+  "shot": "kane-mayfield.webp"
+ },
+ "kontext": {
+  "shot": null,
+  "why": "blank"
+ },
+ "man-like-kweks": {
+  "shot": "man-like-kweks.webp"
+ },
+ "scardust": {
+  "shot": "scardust.webp"
+ },
+ "the-orange-pill-jam-project": {
+  "shot": "the-orange-pill-jam-project.webp"
+ },
+ "blockstr": {
+  "shot": null,
+  "why": "Error"
+ },
+ "tip-nz": {
+  "shot": "tip-nz.webp"
+ },
+ "bitcoin-mining-block-simulator": {
+  "shot": "bitcoin-mining-block-simulator.webp"
+ },
+ "bitbybit-run": {
+  "shot": "bitbybit-run.webp"
+ },
+ "the-game": {
+  "shot": "the-game.webp"
+ },
+ "clixel": {
+  "shot": "clixel.webp"
+ },
+ "conway-s-game-of-pacman": {
+  "shot": "conway-s-game-of-pacman.webp"
+ },
+ "jippi": {
+  "shot": "jippi.webp"
+ },
+ "hashteroids": {
+  "shot": "hashteroids.webp"
+ },
+ "penguinshooter": {
+  "shot": "penguinshooter.webp"
+ },
+ "doom-on-bitcoin": {
+  "shot": "doom-on-bitcoin.webp"
+ },
+ "satoshi-settlers": {
+  "shot": "satoshi-settlers.webp"
+ },
+ "proof-of-score": {
+  "shot": "proof-of-score.webp"
+ },
+ "satoshi-speedway": {
+  "shot": "satoshi-speedway.webp"
+ },
+ "shitcoin-blaster": {
+  "shot": "shitcoin-blaster.webp"
+ },
+ "satoshi-s-place": {
+  "shot": "satoshi-s-place.webp"
+ },
+ "bitcoin-wars": {
+  "shot": "bitcoin-wars.webp"
+ },
+ "age-of-bitcoin": {
+  "shot": "age-of-bitcoin.webp"
+ },
+ "blockhunters": {
+  "shot": "blockhunters.webp"
+ },
+ "bitcoin-chess": {
+  "shot": "bitcoin-chess.webp"
+ },
+ "shamory": {
+  "shot": "shamory.webp"
+ },
+ "hodl-up": {
+  "shot": "hodl-up.webp"
+ },
+ "btc-proof-of-play": {
+  "shot": "btc-proof-of-play.webp"
+ },
+ "lightning-poker": {
+  "shot": null,
+  "why": "Error"
+ },
+ "satoshi-s-goal": {
+  "shot": "satoshi-s-goal.webp"
+ },
+ "nakamoto-roulette": {
+  "shot": "nakamoto-roulette.webp"
+ },
+ "bitcoin-video-magazine": {
+  "shot": "bitcoin-video-magazine.webp"
+ },
+ "jimmy-song": {
+  "shot": "jimmy-song.webp"
+ },
+ "nostrdice": {
+  "shot": "nostrdice.webp"
+ },
+ "stackchain-magazine": {
+  "shot": "stackchain-magazine.webp"
+ },
+ "the-bitcoin-muse": {
+  "shot": "the-bitcoin-muse.webp"
+ },
+ "bitcoin-for-the-arts-bfta": {
+  "shot": "bitcoin-for-the-arts-bfta.webp"
+ },
+ "satoshee-open-source-culture-initiative": {
+  "shot": "satoshee-open-source-culture-initiative.webp"
+ },
+ "wavlake": {
+  "shot": "wavlake.webp"
+ },
+ "indeehub-studio": {
+  "shot": "indeehub-studio.webp"
+ },
+ "geyser": {
+  "shot": "geyser.webp"
+ },
+ "revolution-rocks": {
+  "shot": "revolution-rocks.webp"
+ },
+ "bitcoin-the-card-game": {
+  "shot": null,
+  "why": "Error"
+ },
+ "tatiana-moroz": {
+  "shot": "tatiana-moroz.webp"
+ },
+ "reel-richard": {
+  "shot": "reel-richard.webp"
+ }
+}

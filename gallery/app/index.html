@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Awesome Bitcoin Culture / Archive Banners</title>
+<meta name="description" content="A catalogue of human creative work about Bitcoin: art, film, sculpture, literature, music, games, media and scene.">
+<meta name="color-scheme" content="light dark">
+<script>
+/* theme before first paint: saved choice, else the system preference */
+(function () {
+  var t = null;
+  try { t = localStorage.getItem("abc-theme"); } catch (e) {}
+  if (t !== "light" && t !== "dark") t = window.matchMedia && matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+  document.documentElement.setAttribute("data-theme", t);
+})();
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip" href="#list">Skip to list</a>
+
+<header class="top" id="top">
+  <h1 class="mark"><span class="sq" aria-hidden="true"></span>Awesome Bitcoin Culture</h1>
+  <p class="stats"><span id="showing" role="status" aria-live="polite">Showing <b>175</b> of 175</span></p>
+  <a class="src" href="https://github.com/itstomekk/awesome-bitcoin-culture" target="_blank" rel="noopener" aria-label="Source list on GitHub (opens in a new tab)"><svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>Source list</span></a>
+</header>
+
+<div class="shell">
+  <nav class="rail" id="rail" aria-label="Rooms">
+    <p class="rl" aria-hidden="true">Rooms</p>
+    <div class="ri" id="railItems"></div>
+  </nav>
+
+  <main id="list" tabindex="-1">
+    <div id="rows"></div>
+    <footer class="foot">
+      <span>Source: <a href="https://github.com/itstomekk/awesome-bitcoin-culture" target="_blank" rel="noopener"><svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span>github.com/itstomekk/awesome-bitcoin-culture</span></a></span>
+      <span>Generated from README.md</span>
+    </footer>
+  </main>
+</div>
+
+<div class="ctl" id="ctl" role="region" aria-label="Search and display controls">
+  <label class="search">
+    <span class="sr">Search works</span>
+    <input id="q" type="text" autocomplete="off" spellcheck="false" placeholder="Search name, host, text" title="Press / to search. Arrow keys move between banners, Enter opens, Esc closes.">
+    <kbd aria-hidden="true">/</kbd>
+  </label>
+  <div class="sort" id="sort" role="group" aria-label="Sort order within each room">
+    <button type="button" data-sort="az">A-Z</button>
+    <button type="button" data-sort="shuffle">Shuffle</button>
+  </div>
+  <button type="button" id="imgs" class="imgs" aria-pressed="true"><span class="wl">Images</span><span class="ws">Img</span> <i>on</i></button>
+  <button type="button" id="theme" class="theme" aria-pressed="false" title="Switch theme (T)"><span class="sr">Dark mode</span><span class="lt" aria-hidden="true">Light</span><span class="dk" aria-hidden="true">Dark</span></button>
+</div>
+
+<button type="button" id="totop" class="totop" aria-label="Back to top">&#8593;</button>
+
+<script src="../shared/data.js"></script><script src="../shared/common.js"></script>
+<script src="lum.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
