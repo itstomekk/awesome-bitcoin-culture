@@ -11,6 +11,8 @@ can vouch for.
 
 ## How to submit an entry
 
+Prefer a guided submission? [Suggest an entry using the GitHub issue form](https://github.com/itstomekk/awesome-bitcoin-culture/issues/new?template=suggest-entry.yml). For a direct pull request, use the checklist below.
+
 1. Open a PR or an issue with:
    - Name of the creator/work.
    - One-line description of the medium and what makes it notable.
