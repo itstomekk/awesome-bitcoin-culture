@@ -312,10 +312,18 @@ for real sats.
   BitPolito: pick mempool transactions, build a block header, and find a valid nonce.
 - [Bitcoin VR](https://store.steampowered.com/app/615460) - VR forest where you watch live Bitcoin
   transactions and prune the blockchain with a bow and arrow.
+- [Blockstr](https://blockstr.io/) - Tetris clone with Lightning pay-to-play and scores signed and
+  published on Nostr.
 - [₿ THE GAME](https://satsymbol.org/game) - Minimalist browser game where you move the Bitcoin
   symbol; a novelty from Satsymbol.org.
 - [Chain Duel](https://chainduel.net/) - PvP Snake-style game where two chains fight for the block
   reward; skill-based Lightning wagers. ([source](https://github.com/francismars/chain-duel))
+- [Citadel Run](https://citadelrun.com/) - Endless runner; 100 sats buys a life over Lightning,
+  scores published on Nostr with a weekly top 10.
+- [Citadel Snake](https://citadelsnake.com/) - Snake variant; 100 sats per life over Lightning, with
+  a weekly Nostr bounty board.
+- [Citadel War](https://citadelwar.com/) - Tower defense with weekly map changes, Lightning
+  payments, and scores on Nostr.
 - [Clixel](http://clixel.io/play) - Everyone chases one moving pixel; misses grow the pot and the
   first hit wins it in sats.
 - [Conway's Game of Pacman](https://conwaysgameofpacman.xyz/) - Pac-Man in a Game of Life arena; one
@@ -338,6 +346,8 @@ for real sats.
   lost hard drive full of coins, inspired by the James Howells saga.
 - [OpenBitcoin Games](https://openbitcoin.com/games) - Free browser games (Block Builder, The Last
   Sat and more) that teach mining, fees, and odds.
+- [PenguinShooter](https://lightning-fun.com/) - Browser RPG demo where paying in-game Lightning
+  invoices spawns monsters and triggers events.
 - [Proof of Score](https://proofofscore.win) - Asteroids-style shooter with pay-per-play over
   Lightning and a daily high-score prize pool.
 - [SaruTobi](https://apps.apple.com/us/app/sarutobi-make-the-monkey-fly/id1527644721) -
@@ -345,10 +355,14 @@ for real sats.
   ZBD.
 - [Satoshi Settlers](https://satoshisettlers.com) - Experimental MMO-style world builder based on
   Bitcoin blocks, linked to Lightning.
+- [Satoshi Speedway](https://www.mkplus.plus/vegas) - Hacked Mario Kart 64 that streams real sats
+  over Lightning to racers; played live at Bitcoin 2026.
 - [Satoshi's Place](https://satoshis.place) - Collaborative million-pixel canvas where every pixel
   costs 1 sat over Lightning.
 - [Saving Satoshi](https://savingsatoshi.com/) - Free, open-source story RPG that teaches Bitcoin
   tech through coding challenges.
+- [Shitcoin Blaster](https://arkapi.dev/games/shitcoin-blaster/) - Shoot-'em-up against altcoins; 5
+  sats per session over Lightning or Ark.
 - [Simple Bitcoin: Learn &
   Earn](https://apps.apple.com/us/app/simple-bitcoin-learn-earn/id1487375777) - Bitcoin-only lessons
   and quizzes that unlock spins paying sats.
@@ -394,6 +408,8 @@ Physical tabletop games.
   ecash or real sats instead of play money.
 - [BTC: Proof of Play](https://btcproofofplay.itch.io/btcproofofplay) - Hearthstone-style 1v1
   Bitcoin card battler with a live mempool hub.
+- [Satoshi's Goal](https://play.google.com/store/apps/details?id=com.SGlab.satoshisgoal) - Football
+  card game with sat rewards for rankings and missions, withdrawn over Lightning.
 
 ### Wagering & Casino
 
