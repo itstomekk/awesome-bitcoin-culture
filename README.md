@@ -293,7 +293,7 @@ but part of the same creative economy.
 <details>
 <summary>
 
-### Video Games
+#### Video Games
 
 </summary>
 
@@ -371,11 +371,10 @@ but part of the same creative economy.
   about searching a dump for the Bitcoin you threw away.
 
 </details>
-
 <details>
 <summary>
 
-### Board & Card Games
+#### Board & Card Games
 
 </summary>
 
@@ -394,11 +393,10 @@ but part of the same creative economy.
 - [SHAmory](https://shamory.com/) - Card game that teaches kids how Bitcoin mining works.
 
 </details>
-
 <details>
 <summary>
 
-### Digital Board & Card Games
+#### Digital Board & Card Games
 
 </summary>
 
@@ -414,11 +412,10 @@ but part of the same creative economy.
   card game with sat rewards for rankings and missions, withdrawn over Lightning.
 
 </details>
-
 <details>
 <summary>
 
-### Wagering & Casino
+#### Wagering & Casino
 
 </summary>
 
