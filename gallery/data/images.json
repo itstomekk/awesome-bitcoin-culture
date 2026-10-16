@@ -1536,5 +1536,21 @@
   "h": 400,
   "manual": true,
   "src": "harvest"
+ },
+ "bitpopart": {
+  "img": "img/bitpopart.webp",
+  "color": "#4b7485",
+  "w": 720,
+  "h": 440,
+  "manual": true,
+  "src": "harvest"
+ },
+ "shamshad": {
+  "img": "img/shamshad.webp",
+  "color": "#989898",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  }
 }

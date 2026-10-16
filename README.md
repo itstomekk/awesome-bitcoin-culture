@@ -126,6 +126,8 @@ coins, AI-slop generated in bulk.
 - [Bitko Yinowsky](https://bitko.cc/) - Digital Bitcoin character art; a fictional persona for
   decentralization, scarcity, and resistance.
   ([Nostr](https://primal.net/p/npub1k6rrkx80gkhxe9ycd5rpcjsaynf7034wvauffn928tqg5z0p2ekqhjx6lp))
+- [BitPopArt](https://bitpopart.com/) - Dutch pop artist making Bitcoin and Nostr art as prints,
+  GIFs, wallpapers, memes, and merch; Lightning-funded and free to share.
 - [CA Danner](http://www.cadanner.com/) - Digital/print series, "Satoshi White Paper Series".
   Auctioned via Bitcoin for the Arts. ([X/Twitter](https://twitter.com/cityalley21))
 - [Chiefmonkey](https://hodlr.rocks/) - Laser-cut, layered works combining text and symbolism,
@@ -214,6 +216,8 @@ coins, AI-slop generated in bulk.
   monetary sovereignty ("Libertas Ex Arte").
 - [Sea Is Medicine](https://btcaloha.shop/pages/about) - Collage and wearable art with surf and sea
   imagery, sold as BTC Aloha shirts and accessories.
+- [Shamshad](https://x.com/0711_BTC) - Handwritten images built entirely from readable text,
+  including a Bitcoin Whitepaper edition; editions produced by his son Schatoshi.
 - [Tructor 21](https://tructor.co/) - Murals, wheatpaste posters, sculpture, beadwork, and wearable
   design.
 - [Yonat Vaks](https://www.yonatvaks.com/aboutme) - Painting, sculpture, and re-imagined artifacts;
