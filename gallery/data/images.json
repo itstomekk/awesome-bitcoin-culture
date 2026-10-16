@@ -1,28 +1,35 @@
 {
  "2140art": {
   "img": "img/2140art.webp",
-  "color": "#5a5651",
-  "w": 350,
-  "h": 350,
-  "src": "https://2140art.com/wp-content/uploads/2023/11/2140-ArtT_sm.png"
+  "color": "#6c777a",
+  "w": 720,
+  "h": 411,
+  "manual": true,
+  "src": "harvest"
  },
  "a13mw": {
-  "img": null,
-  "color": null,
-  "why": "image-failed"
+  "img": "img/a13mw.webp",
+  "color": "#a39a58",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "alex-schaefer": {
-  "img": null,
-  "color": null,
-  "why": "page:HTTPError"
+  "img": "img/alex-schaefer.webp",
+  "color": "#874c18",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "amy-digi": {
   "img": "img/amy-digi.webp",
-  "color": "#8d7e67",
+  "color": "#8d582c",
   "w": 720,
-  "h": 720,
+  "h": 400,
   "manual": true,
-  "src": "amy-digi.png"
+  "src": "harvest"
  },
  "asanoha": {
   "img": "img/asanoha.webp",
@@ -33,25 +40,27 @@
  },
  "b": {
   "img": "img/b.webp",
-  "color": "#50402a",
-  "w": 399,
-  "h": 399,
+  "color": "#909994",
+  "w": 720,
+  "h": 400,
   "manual": true,
-  "src": "b-avatar.png"
+  "src": "harvest"
  },
  "bitcoin-apex": {
   "img": "img/bitcoin-apex.webp",
-  "color": "#453834",
+  "color": "#686566",
   "w": 720,
-  "h": 720,
-  "src": "https://static.wixstatic.com/media/86d21d_088af47f1b994ad5bcd64a83d520163e%7Emv2.png/v1/fit/w_2500,h_1330,al_c/86d21d_088af47f1b994ad5bcd64a83d520163e%7Emv2.png"
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "blu3baer": {
   "img": "img/blu3baer.webp",
-  "color": "#796352",
+  "color": "#6f5b4b",
   "w": 720,
-  "h": 823,
-  "src": "https://timechainartmagazine.com/wp-content/uploads/2026/09/opt-out-blubaer.jpg"
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "george-bodine": {
   "img": "img/george-bodine.webp",
@@ -61,28 +70,36 @@
   "src": "https://img1.wsimg.com/isteam/ip/b05693ce-cd35-4897-902a-c873b1788b07/logo/brandcrowd-d81c7feb-ac03-450e-950c-73236028dda.png"
  },
  "isolabellart": {
-  "img": null,
-  "color": null,
-  "why": "image-failed"
+  "img": "img/isolabellart.webp",
+  "color": "#466478",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "johnny-dollar": {
   "img": "img/johnny-dollar.webp",
-  "color": "#111111",
-  "w": 180,
-  "h": 180,
-  "src": "https://johnnydollar.art/wp-content/uploads/2018/06/cropped-JohnnyLogoBackDropSquare-1-180x180.png"
+  "color": "#7f8184",
+  "w": 720,
+  "h": 406,
+  "manual": true,
+  "src": "harvest"
  },
  "jure-kastelic": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/jure-kastelic.webp",
+  "color": "#9c927e",
+  "w": 720,
+  "h": 440,
+  "manual": true,
+  "src": "harvest"
  },
  "kenneth-burris": {
   "img": "img/kenneth-burris.webp",
-  "color": "#d1d2d1",
-  "w": 180,
-  "h": 180,
-  "src": "https://kennethburris.com/wp-content/uploads/2025/11/cropped-Screenshot-2025-11-01-203818-180x180.jpg"
+  "color": "#79868b",
+  "w": 720,
+  "h": 440,
+  "manual": true,
+  "src": "harvest"
  },
  "mear-one": {
   "img": "img/mear-one.webp",
@@ -93,17 +110,19 @@
  },
  "mx12art": {
   "img": "img/mx12art.webp",
-  "color": "#0e0c0c",
-  "w": 180,
-  "h": 180,
-  "src": "https://mx12.art/wp-content/uploads/2021/05/cropped-16x16px-favicoin-180x180.jpg"
+  "color": "#51372a",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "pepenardo-nardo": {
   "img": "img/pepenardo-nardo.webp",
-  "color": "#656348",
-  "w": 319,
-  "h": 319,
-  "src": "https://cdn.sanity.io/images/w4avejpr/production/3f0314deab6e2a61cb022b303bfb4364107d0e21-319x319.png"
+  "color": "#635311",
+  "w": 720,
+  "h": 360,
+  "manual": true,
+  "src": "harvest"
  },
  "ryr": {
   "img": "img/ryr.webp",
@@ -114,20 +133,27 @@
  },
  "sweedgraffixx": {
   "img": "img/sweedgraffixx.webp",
-  "color": "#241b0f",
-  "w": 180,
-  "h": 180,
-  "src": "https://sweedgraffixx.ch/wp-content/uploads/2026/07/cropped-Sweedgraffixx_Logo_2025-180x180.png"
+  "color": "#636670",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "tommy-marcheschi": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/tommy-marcheschi.webp",
+  "color": "#957079",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "anik-malcolm": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/anik-malcolm.webp",
+  "color": "#888d8f",
+  "w": 720,
+  "h": 440,
+  "manual": true,
+  "src": "harvest"
  },
  "bitcoin-cartoons": {
   "img": "img/bitcoin-cartoons.webp",
@@ -137,37 +163,44 @@
   "src": "http://bitcoincartoons.io/cdn/shop/files/Bitcoin_Badger_Party.png?v=1705375497"
  },
  "bitko-yinowsky": {
-  "img": null,
-  "color": null,
-  "why": "page:RemoteDisconnected"
+  "img": "img/bitko-yinowsky.webp",
+  "color": "#8d8b87",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "ca-danner": {
   "img": "img/ca-danner.webp",
-  "color": "#a58989",
+  "color": "#937979",
   "w": 720,
-  "h": 868,
-  "src": "https://d3zr9vspdnjxi.cloudfront.net/sites/carolea1/bg/6826489_3D60E4CB-10BB-4A89-B265-6D038AA8818D-jpeg.jpg?fba9bdcfbf6f2847f1fa9c1a2530e1ed"
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "chiefmonkey": {
   "img": "img/chiefmonkey.webp",
-  "color": "#cfd6cf",
+  "color": "#9f846b",
   "w": 720,
-  "h": 720,
-  "src": "https://hodlr.rocks/wp-content/uploads/2020/05/0-sousveillance-1x1-1.jpg"
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "coldie": {
   "img": "img/coldie.webp",
-  "color": "#161515",
+  "color": "#68606b",
   "w": 720,
-  "h": 378,
-  "src": "https://coldie3d.com/og/default.png"
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "cryptograffiti": {
   "img": "img/cryptograffiti.webp",
-  "color": "#e3e3e3",
+  "color": "#b6b5b0",
   "w": 720,
-  "h": 377,
-  "src": "https://cdn.shopify.com/s/files/1/0826/9235/files/cryptograffiti_logo_clear_background.png?height=628&pad_color=fff&v=1613696120&width=1200"
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "cyber-street-cyber": {
   "img": null,
@@ -176,24 +209,27 @@
  },
  "dustin-d-trammell": {
   "img": "img/dustin-d-trammell.webp",
-  "color": "#f3f9f4",
+  "color": "#423127",
   "w": 720,
-  "h": 426,
-  "src": "http://static1.squarespace.com/static/5f7925702fb336072a690a1c/t/5fb36abd6a3c737902e3f314/1605593801107/social-sharing_logo_dustin_trammell-51.png?format=1500w"
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "flo-montoya": {
   "img": "img/flo-montoya.webp",
-  "color": "#967671",
-  "w": 400,
-  "h": 400,
-  "src": "https://cdn.sanity.io/images/w4avejpr/production/edbcf439f629c5fa4f6665d5e1d65e3e1e5ddc36-400x400.jpg"
+  "color": "#e1dfdd",
+  "w": 720,
+  "h": 360,
+  "manual": true,
+  "src": "harvest"
  },
  "gus-grillasca": {
   "img": "img/gus-grillasca.webp",
-  "color": "#bebebe",
+  "color": "#b7b7b7",
   "w": 720,
-  "h": 721,
-  "src": "https://timechainartmagazine.com/wp-content/uploads/2026/04/Gus-Grillasca-Bitcoin-Artist.webp"
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "hackzero": {
   "img": "img/hackzero.webp",
@@ -205,15 +241,19 @@
  },
  "house-of-ralfus": {
   "img": "img/house-of-ralfus.webp",
-  "color": "#dfdacb",
-  "w": 256,
-  "h": 256,
-  "src": "https://houseofralfus.com/favicon.png?v=10"
+  "color": "#402f23",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "lina-seiche": {
-  "img": null,
-  "color": null,
-  "why": "page:RemoteDisconnected"
+  "img": "img/lina-seiche.webp",
+  "color": "#bfe2e7",
+  "w": 720,
+  "h": 292,
+  "manual": true,
+  "src": "harvest"
  },
  "lucho-poletti": {
   "img": "img/lucho-poletti.webp",
@@ -224,18 +264,19 @@
  },
  "luis-simo": {
   "img": "img/luis-simo.webp",
-  "color": "#657478",
-  "w": 400,
-  "h": 400,
-  "src": "https://cdn.sanity.io/images/w4avejpr/production/2ef2cd24e8eae8900954cb5d7848332aa2d1c48c-400x400.jpg"
+  "color": "#526264",
+  "w": 720,
+  "h": 360,
+  "manual": true,
+  "src": "harvest"
  },
  "missatoshi-girl": {
   "img": "img/missatoshi-girl.webp",
-  "color": "#bda6aa",
+  "color": "#766d6b",
   "w": 720,
-  "h": 900,
+  "h": 400,
   "manual": true,
-  "src": "missatoshi-art.png"
+  "src": "harvest"
  },
  "moozi": {
   "img": "img/moozi.webp",
@@ -267,48 +308,59 @@
  },
  "the-great-print": {
   "img": "img/the-great-print.webp",
-  "color": "#999898",
+  "color": "#858585",
   "w": 720,
-  "h": 960,
-  "src": "https://timechainartmagazine.com/wp-content/uploads/2026/06/we-are-all-satoshi.webp"
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "tom-badley": {
   "img": "img/tom-badley.webp",
-  "color": "#9c9c9c",
-  "w": 180,
-  "h": 180,
-  "src": "https://usercontent.one/wp/tombadley.net/wp-content/uploads/2025/08/cropped-WNTAWWYGB_2025-180x180.jpg?media=1791981203"
+  "color": "#b5988c",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "yuzapata": {
-  "img": null,
-  "color": null,
-  "why": "image-failed"
+  "img": "img/yuzapata.webp",
+  "color": "#a79b8b",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "5ksana": {
-  "img": null,
-  "color": null,
-  "why": "page:HTTPError"
+  "img": "img/5ksana.webp",
+  "color": "#786965",
+  "w": 720,
+  "h": 440,
+  "manual": true,
+  "src": "harvest"
  },
  "ariel-birdie": {
   "img": "img/ariel-birdie.webp",
-  "color": "#d3cfcf",
-  "w": 224,
-  "h": 100,
-  "src": "http://www.arielbird.com/uploads/1/4/9/2/149208428/published/logo-ariel-birdie.jpg?1752351951"
+  "color": "#636f98",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "camas-logue": {
   "img": "img/camas-logue.webp",
-  "color": "#303030",
+  "color": "#6f5842",
   "w": 720,
-  "h": 138,
-  "src": "http://static1.squarespace.com/static/594425546a4963ea399b257c/t/672d2f7ee0013d672cf4265e/1731014526272/Untitled.png?format=1500w"
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "kanuto": {
   "img": "img/kanuto.webp",
-  "color": "#181800",
-  "w": 180,
-  "h": 180,
-  "src": "https://kanuto.io/wp-content/uploads/2022/09/cropped-logo-websiteicon-180x180.png"
+  "color": "#24221a",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "lady-redhorns": {
   "img": "img/lady-redhorns.webp",
@@ -318,45 +370,52 @@
   "src": "http://redhornsbtc.store/cdn/shop/files/oblozhka_magazina_1_b3ea6cea-d59a-4d9a-b63e-6ea977db704d.jpg?v=1782615390"
  },
  "lena": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/lena.webp",
+  "color": "#d7d3d0",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "madex": {
   "img": "img/madex.webp",
-  "color": "#5a5049",
+  "color": "#763a38",
   "w": 720,
-  "h": 900,
-  "src": "http://madex.art/cdn/shop/files/51396507_247501929529712_3484216873922714073_n.jpg?v=1657236111"
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "marcus-connor": {
   "img": "img/marcus-connor.webp",
-  "color": "#a0a09f",
+  "color": "#8d9395",
   "w": 720,
-  "h": 720,
-  "src": "https://timechainartmagazine.com/wp-content/uploads/2026/04/Marcus-Connor-Bitcoin-Artist.webp"
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "modeotec": {
   "img": "img/modeotec.webp",
-  "color": "#877f59",
+  "color": "#726d4f",
   "w": 720,
-  "h": 720,
-  "src": "https://timechainartmagazine.com/wp-content/uploads/2026/05/Modeotec-Bitcoin-Artist.webp"
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "rare-scrilla": {
   "img": "img/rare-scrilla.webp",
-  "color": "#888f88",
+  "color": "#363230",
   "w": 720,
-  "h": 886,
+  "h": 400,
   "manual": true,
-  "src": "scrilla-polaroid.png"
+  "src": "harvest"
  },
  "rebel-money": {
   "img": "img/rebel-money.webp",
-  "color": "#2d2d2d",
+  "color": "#907a62",
   "w": 720,
-  "h": 721,
-  "src": "https://www.rebelmoney.art/assets/15150696a0781f7d.webp"
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "sea-is-medicine": {
   "img": "img/sea-is-medicine.webp",
@@ -381,10 +440,11 @@
  },
  "bitchair": {
   "img": "img/bitchair.webp",
-  "color": "#493b30",
-  "w": 180,
-  "h": 180,
-  "src": "https://bitchair.store/wp-content/uploads/2025/12/cropped-logo-new-180x180.png"
+  "color": "#997159",
+  "w": 720,
+  "h": 411,
+  "manual": true,
+  "src": "harvest"
  },
  "bitcoin-trading-cards": {
   "img": "img/bitcoin-trading-cards.webp",
@@ -405,7 +465,8 @@
   "color": "#0a0806",
   "w": 720,
   "h": 239,
-  "src": "https://ext.same-assets.com/4158576384/4252825699.png"
+  "manual": true,
+  "src": "harvest"
  },
  "bitcoin-magazine-culture": {
   "img": "img/bitcoin-magazine-culture.webp",
@@ -423,10 +484,11 @@
  },
  "scarce-city": {
   "img": "img/scarce-city.webp",
-  "color": "#7c4662",
-  "w": 480,
-  "h": 420,
-  "src": "https://scarce.city/_next/static/immutable/media/favicon.0d7q8qc1ffd2l.ico"
+  "color": "#704752",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "bitcoiners": {
   "img": "img/bitcoiners.webp",
@@ -436,9 +498,12 @@
   "src": "https://bitcoinersmovie.com/wp-content/uploads/2024/01/cropped-B-180x180.png"
  },
  "death-athletic-a-dissident-architecture": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/death-athletic-a-dissident-architecture.webp",
+  "color": "#ae9103",
+  "w": 720,
+  "h": 405,
+  "manual": true,
+  "src": "harvest"
  },
  "dirty-coin": {
   "img": "img/dirty-coin.webp",
@@ -449,10 +514,11 @@
  },
  "finding-home": {
   "img": "img/finding-home.webp",
-  "color": "#7b7f7d",
-  "w": 675,
-  "h": 1000,
-  "src": "https://d1yvaqj97q119b.cloudfront.net/e52c365b-8d2d-4f87-bf0a-46183b50fa05/films/7f4395ae-b380-4797-a573-0e25283e16ca/poster-1776258801910.webp"
+  "color": "#696c6b",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "hodl": {
   "img": "img/hodl.webp",
@@ -462,16 +528,20 @@
   "src": "https://i.ytimg.com/vi/dktBrlikweo/maxresdefault.jpg"
  },
  "hotel-bitcoin": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/hotel-bitcoin.webp",
+  "color": "#3a2f2a",
+  "w": 720,
+  "h": 405,
+  "manual": true,
+  "src": "harvest"
  },
  "human-b": {
   "img": "img/human-b.webp",
-  "color": "#77460a",
-  "w": 180,
-  "h": 180,
-  "src": "https://humanb-film.com/wp-content/uploads/2021/12/cropped-favicon_humanb-180x180.png"
+  "color": "#312816",
+  "w": 720,
+  "h": 440,
+  "manual": true,
+  "src": "harvest"
  },
  "money-electric-the-bitcoin-mystery": {
   "img": "img/money-electric-the-bitcoin-mystery.webp",
@@ -481,9 +551,12 @@
   "src": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/90e45730-bcb5-4525-aaea-44425a77c531/e14da170-bc3c-4e7d-8db0-e807f7386701?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=500"
  },
  "no-more-inflation": {
-  "img": null,
-  "color": null,
-  "why": "page:RemoteDisconnected"
+  "img": "img/no-more-inflation.webp",
+  "color": "#352525",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "the-anatomy-of-bitcoin": {
   "img": "img/the-anatomy-of-bitcoin.webp",
@@ -501,10 +574,11 @@
  },
  "the-rise-and-rise-of-bitcoin": {
   "img": "img/the-rise-and-rise-of-bitcoin.webp",
-  "color": "#f1f1f1",
-  "w": 160,
-  "h": 160,
-  "src": "https://en.wikipedia.org/static/apple-touch/wikipedia.png"
+  "color": "#a69e93",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "the-satoshi-mystery": {
   "img": "img/the-satoshi-mystery.webp",
@@ -522,42 +596,52 @@
   "src": "https://i.ytimg.com/vi/DvHUOr8ruMw/maxresdefault.jpg"
  },
  "adam-kadmon": {
-  "img": null,
-  "color": null,
-  "why": "image-failed"
+  "img": "img/adam-kadmon.webp",
+  "color": "#4b4a3f",
+  "w": 720,
+  "h": 440,
+  "manual": true,
+  "src": "harvest"
  },
  "antonio-batzu": {
-  "img": null,
-  "color": null,
-  "why": "image-failed"
+  "img": "img/antonio-batzu.webp",
+  "color": "#a2a2a2",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "brekkie-von-bitcoin": {
   "img": "img/brekkie-von-bitcoin.webp",
-  "color": "#000000",
+  "color": "#7d6c56",
   "w": 720,
-  "h": 720,
-  "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72u1yRsF3FOLoR6PUdBHk-qAjOnXCQkf6FCXu2l_TrII2Swfifn9KN87sORarc-P1sTXNTIg0jcD8K_w3bQ5aqoz52lTviYbBT81cDm3yX757Y6KdU5g6xuFfeyewQyU352AWz5Dyls9kQoqs30T6PTahG1XhGz-aNtiJgbkv7mwbxTZ18Hnb-tPmuBpILeGFTQNqO-TrvhW7toszVkJUsmpIw"
+  "h": 440,
+  "manual": true,
+  "src": "harvest"
  },
  "cypherpunk-now": {
   "img": "img/cypherpunk-now.webp",
-  "color": "#bebebe",
-  "w": 180,
-  "h": 107,
-  "src": "https://cdn.myshoptet.com/usr/www.cypherpunknow.com/user/logos/cypherpunk_future_is_now-3.png?t=1792116800"
+  "color": "#7e6d62",
+  "w": 720,
+  "h": 440,
+  "manual": true,
+  "src": "harvest"
  },
  "fractalencrypt": {
   "img": "img/fractalencrypt.webp",
-  "color": "#635445",
+  "color": "#463c33",
   "w": 720,
-  "h": 676,
-  "src": "https://timechainartmagazine.com/wp-content/uploads/2026/04/FrcatalEncrypt-Bitcoin-Art.webp"
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "gareth-eckley": {
   "img": "img/gareth-eckley.webp",
-  "color": "#151515",
-  "w": 180,
-  "h": 180,
-  "src": "https://garetheckley.com/wp-content/uploads/2026/07/cropped-Logo-Square-GE-white-black-2020-512-180x180.png"
+  "color": "#8c7655",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "madmunky": {
   "img": "img/madmunky.webp",
@@ -568,10 +652,11 @@
  },
  "puzzle": {
   "img": "img/puzzle.webp",
-  "color": "#130e19",
-  "w": 300,
-  "h": 300,
-  "src": "https://puzzlingpuzzle.art/wp-content/uploads/2025/06/favicon-300x300.png"
+  "color": "#223d6f",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "statue-of-satoshi": {
   "img": null,
@@ -580,10 +665,11 @@
  },
  "studio-zeitwerk": {
   "img": "img/studio-zeitwerk.webp",
-  "color": "#c69f66",
+  "color": "#988f8e",
   "w": 720,
-  "h": 720,
-  "src": "https://static.wixstatic.com/media/6d8610_408251cc32a649d7a74dc790c297e689~mv2.jpg/v1/fill/w_2500,h_2500,al_c/6d8610_408251cc32a649d7a74dc790c297e689~mv2.jpg"
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "21-futures-tales-from-the-timechain": {
   "img": "img/21-futures-tales-from-the-timechain.webp",
@@ -594,10 +680,11 @@
  },
  "bitcoin-a-treasure-to-hodl": {
   "img": "img/bitcoin-a-treasure-to-hodl.webp",
-  "color": "#f0f6f6",
+  "color": "#7ab4ac",
   "w": 720,
-  "h": 446,
-  "src": "http://lindeymagee.com/cdn/shop/files/Lindey_Magee_Logo.png?crop=center&height=1200&v=1752800345&width=1200"
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "konsensus": {
   "img": "img/konsensus.webp",
@@ -607,9 +694,12 @@
   "src": "https://konsensus.net/assets/og-konsensus.jpg?v=3"
  },
  "south-of-market": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/south-of-market.webp",
+  "color": "#8b7e6e",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "the-genesis-code-block-one": {
   "img": "img/the-genesis-code-block-one.webp",
@@ -619,21 +709,28 @@
   "src": "https://eggore.com/og-image.jpg"
  },
  "ainsley-costello": {
-  "img": null,
-  "color": null,
-  "why": "image-failed"
+  "img": "img/ainsley-costello.webp",
+  "color": "#674b81",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "joe-martin": {
   "img": "img/joe-martin.webp",
-  "color": "#b3b3b3",
-  "w": 180,
-  "h": 180,
-  "src": "https://wavlake.com/apple-touch-icon.png"
+  "color": "#89685e",
+  "w": 720,
+  "h": 384,
+  "manual": true,
+  "src": "harvest"
  },
  "kane-mayfield": {
-  "img": null,
-  "color": null,
-  "why": "page:RemoteDisconnected"
+  "img": "img/kane-mayfield.webp",
+  "color": "#733e36",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "kontext": {
   "img": "img/kontext.webp",
@@ -645,22 +742,27 @@
  },
  "man-like-kweks": {
   "img": "img/man-like-kweks.webp",
-  "color": "#b3b3b3",
-  "w": 180,
-  "h": 180,
-  "src": "https://wavlake.com/apple-touch-icon.png"
+  "color": "#70361b",
+  "w": 720,
+  "h": 384,
+  "manual": true,
+  "src": "harvest"
  },
  "scardust": {
-  "img": null,
-  "color": null,
-  "why": "page:HTTPError"
+  "img": "img/scardust.webp",
+  "color": "#4b4647",
+  "w": 720,
+  "h": 227,
+  "manual": true,
+  "src": "harvest"
  },
  "the-orange-pill-jam-project": {
   "img": "img/the-orange-pill-jam-project.webp",
-  "color": "#a77e51",
-  "w": 300,
-  "h": 300,
-  "src": "https://f4.bcbits.com/img/0034817368_23.jpg"
+  "color": "#8d6e49",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "tip-nz": {
   "img": null,
@@ -702,9 +804,12 @@
   "src": "blockstr-logo.png"
  },
  "the-game": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/the-game.webp",
+  "color": "#4a2007",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "chain-duel": {
   "img": "img/chain-duel.webp",
@@ -782,9 +887,12 @@
   "why": "no-image"
  },
  "jippi": {
-  "img": null,
-  "color": null,
-  "why": "image-failed"
+  "img": "img/jippi.webp",
+  "color": "#3b6959",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "maximalist-episode-1": {
   "img": "img/maximalist-episode-1.webp",
@@ -808,9 +916,12 @@
   "src": "https://openbitcoin.com/og/default.png"
  },
  "penguinshooter": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/penguinshooter.webp",
+  "color": "#587133",
+  "w": 720,
+  "h": 404,
+  "manual": true,
+  "src": "harvest"
  },
  "proof-of-score": {
   "img": "img/proof-of-score.webp",
@@ -821,10 +932,11 @@
  },
  "sarutobi": {
   "img": "img/sarutobi.webp",
-  "color": "#dddfda",
+  "color": "#1b3f3f",
   "w": 720,
-  "h": 378,
-  "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/86/ec/e586ecc7-540c-0b2e-2d32-7e184c2cc360/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.jpg"
+  "h": 405,
+  "manual": true,
+  "src": "harvest"
  },
  "satoshi-settlers": {
   "img": null,
@@ -850,10 +962,11 @@
  },
  "shitcoin-blaster": {
   "img": "img/shitcoin-blaster.webp",
-  "color": "#1c1a18",
+  "color": "#1e1b16",
   "w": 720,
-  "h": 720,
-  "src": "https://arkapi.dev/og-image.png"
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "snake-dance": {
   "img": "img/snake-dance.webp",
@@ -898,9 +1011,12 @@
   "src": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4705620/fd0d4c2e44d58cbac5e198d5587723c70242fd3e/capsule_616x353.jpg?t=1781374426"
  },
  "age-of-bitcoin": {
-  "img": null,
-  "color": null,
-  "why": "page:HTTPError"
+  "img": "img/age-of-bitcoin.webp",
+  "color": "#88764d",
+  "w": 720,
+  "h": 405,
+  "manual": true,
+  "src": "harvest"
  },
  "bitcoin-puzzle-playing-cards": {
   "img": "img/bitcoin-puzzle-playing-cards.webp",
@@ -910,24 +1026,36 @@
   "src": "https://bitcoinpuzzlecards.com/assets/hero.jpg"
  },
  "bitcoin-wars": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/bitcoin-wars.webp",
+  "color": "#4f3e3a",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "blockhunters": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/blockhunters.webp",
+  "color": "#322d28",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "hodl-up": {
-  "img": null,
-  "color": null,
-  "why": "image-failed"
+  "img": "img/hodl-up.webp",
+  "color": "#a48d72",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "shamory": {
-  "img": null,
-  "color": null,
-  "why": "page:HTTPError"
+  "img": "img/shamory.webp",
+  "color": "#938c95",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "bitcoin-ccg": {
   "img": "img/bitcoin-ccg.webp",
@@ -937,16 +1065,20 @@
   "src": "https://bccg.gg/og.jpg"
  },
  "bitcoin-chess": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/bitcoin-chess.webp",
+  "color": "#c8b9a6",
+  "w": 720,
+  "h": 409,
+  "manual": true,
+  "src": "harvest"
  },
  "bitcoin-monopoly-ecash-edition": {
   "img": "img/bitcoin-monopoly-ecash-edition.webp",
-  "color": "#f4f2ef",
+  "color": "#604d4a",
   "w": 720,
-  "h": 360,
-  "src": "https://opengraph.githubassets.com/72954f0cfd9ca68b7b5f8851e826839b9c5c3a8ca7e639dd150dcbc6cd33340e/bTCpy/monopoly"
+  "h": 405,
+  "manual": true,
+  "src": "harvest"
  },
  "btc-proof-of-play": {
   "img": null,
@@ -955,10 +1087,11 @@
  },
  "satoshi-s-goal": {
   "img": "img/satoshi-s-goal.webp",
-  "color": "#5c5864",
-  "w": 512,
-  "h": 512,
-  "src": "https://play-lh.googleusercontent.com/QewwthwUAtZXTN-uioWUZYSGDy81PDuAktsVEbVaERCe-njooaLST217vjQKhtuorzO4AiDMghIf0Zu2rG3n=s0-br30"
+  "color": "#5a5660",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "cashu-casino": {
   "img": "img/cashu-casino.webp",
@@ -969,10 +1102,11 @@
  },
  "clinch": {
   "img": "img/clinch.webp",
-  "color": "#c8ccc3",
+  "color": "#28381f",
   "w": 720,
-  "h": 378,
-  "src": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/39/82/6339826e-db1f-439a-5dbe-772a008f1361/Placeholder.mill/1200x630wa.jpg"
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "crown-anchor": {
   "img": "img/crown-anchor.webp",
@@ -990,9 +1124,12 @@
   "src": "https://bitcoin-bumblebee.com/wp-content/uploads/2023/01/ingame12.png"
  },
  "nakamoto-roulette": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/nakamoto-roulette.webp",
+  "color": "#55504e",
+  "w": 720,
+  "h": 407,
+  "manual": true,
+  "src": "harvest"
  },
  "nostrdice": {
   "img": "img/nostrdice.webp",
@@ -1010,17 +1147,19 @@
  },
  "bitcoin-art-podcast": {
   "img": "img/bitcoin-art-podcast.webp",
-  "color": "#000000",
+  "color": "#8f8b87",
   "w": 720,
-  "h": 377,
-  "src": "https://timechainartmagazine.com/wp-content/uploads/2025/11/BROADCAST-1.webp"
+  "h": 406,
+  "manual": true,
+  "src": "harvest"
  },
  "bitcoin-magazine": {
   "img": "img/bitcoin-magazine.webp",
-  "color": "#1a150d",
+  "color": "#65675b",
   "w": 720,
-  "h": 377,
-  "src": "https://bitcoinmagazine.com/wp-content/uploads/2025/02/Bitcoin-Magazine-Home-Image-1200-x-628.png"
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "bitcoin-shipshow": {
   "img": "img/bitcoin-shipshow.webp",
@@ -1038,15 +1177,19 @@
  },
  "citadel21": {
   "img": "img/citadel21.webp",
-  "color": "#171717",
+  "color": "#32323a",
   "w": 720,
-  "h": 450,
-  "src": "http://static1.squarespace.com/static/5e2372d18e3cf11ebaf2d20d/t/5f90241036ebbd41ce14c859/1603281939727/ctdl1600x1000.png?format=1500w"
+  "h": 440,
+  "manual": true,
+  "src": "harvest"
  },
  "jimmy-song": {
-  "img": null,
-  "color": null,
-  "why": "image-failed"
+  "img": "img/jimmy-song.webp",
+  "color": "#b1afaf",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "proof-of-work": {
   "img": "img/proof-of-work.webp",
@@ -1057,17 +1200,19 @@
  },
  "stackchain-magazine": {
   "img": "img/stackchain-magazine.webp",
-  "color": "#272013",
-  "w": 180,
-  "h": 180,
-  "src": "https://www.stackchainmagazine.net/wp-content/uploads/2023/12/cropped-IMG_7842-180x180.png"
+  "color": "#432413",
+  "w": 720,
+  "h": 381,
+  "manual": true,
+  "src": "harvest"
  },
  "the-bitcoin-muse": {
   "img": "img/the-bitcoin-muse.webp",
-  "color": "#3c1914",
+  "color": "#2c1310",
   "w": 720,
-  "h": 720,
-  "src": "https://cdn.myportfolio.com/3f7c459b-0ebc-4d2e-96e6-e254c6b85f73/03f43672-e44d-4e0e-8bda-79de25ef09c0_rwc_0x0x2048x2048x2048.png?h=baabef46f067a10221f9c237064dea56"
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "the-cultural-tutor": {
   "img": "img/the-cultural-tutor.webp",
@@ -1078,17 +1223,19 @@
  },
  "timechain-art-magazine": {
   "img": "img/timechain-art-magazine.webp",
-  "color": "#f4f4f4",
+  "color": "#987a6b",
   "w": 720,
-  "h": 378,
-  "src": "https://timechainartmagazine.com/wp-content/uploads/2026/07/Timechain-Art-Magazine-Logo.png"
+  "h": 405,
+  "manual": true,
+  "src": "harvest"
  },
  "bitcoin-for-the-arts-bfta": {
   "img": "img/bitcoin-for-the-arts-bfta.webp",
-  "color": "#f5ebe0",
+  "color": "#5e6461",
   "w": 720,
-  "h": 720,
-  "src": "https://bitcoinforthearts.org/social/BFTA-social-post-cream-orange-2160.png"
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "satoshee-open-source-culture-initiative": {
   "img": "img/satoshee-open-source-culture-initiative.webp",
@@ -1106,10 +1253,11 @@
  },
  "geyser": {
   "img": "img/geyser.webp",
-  "color": "#09b9a6",
-  "w": 192,
-  "h": 192,
-  "src": "https://geyser.fund/icons/192.png"
+  "color": "#ab7656",
+  "w": 720,
+  "h": 327,
+  "manual": true,
+  "src": "harvest"
  },
  "indeehub-studio": {
   "img": "img/indeehub-studio.webp",
@@ -1120,10 +1268,11 @@
  },
  "wavlake": {
   "img": "img/wavlake.webp",
-  "color": "#3c3c3c",
+  "color": "#a08318",
   "w": 720,
-  "h": 720,
-  "src": "https://firebasestorage.googleapis.com/v0/b/wavlake-alpha.appspot.com/o/assets%2Fwavlake-icon-750.png?alt=media&token=5e3f573f-9f11-45b8-96ce-913c42874211"
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "awesome-bitcoin-events": {
   "img": "img/awesome-bitcoin-events.webp",
@@ -1134,15 +1283,19 @@
  },
  "bitcoin-filmfest": {
   "img": "img/bitcoin-filmfest.webp",
-  "color": "#aecad8",
+  "color": "#1a1b1b",
   "w": 720,
-  "h": 378,
-  "src": "https://bitcoinfilmfest.com/assets/images/social/bff-social-2027.jpg"
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "revolution-rocks": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/revolution-rocks.webp",
+  "color": "#242249",
+  "w": 720,
+  "h": 440,
+  "manual": true,
+  "src": "harvest"
  },
  "maxis-club": {
   "img": "img/maxis-club.webp",
@@ -1167,10 +1320,11 @@
  },
  "simple-bitcoin-learn-earn": {
   "img": "img/simple-bitcoin-learn-earn.webp",
-  "color": "#ebe4d3",
+  "color": "#c8b37a",
   "w": 720,
-  "h": 378,
-  "src": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/55/0e/2e550eb5-89ec-c7ff-a3be-9ef7300cf6bf/Placeholder.mill/1200x630wa.jpg"
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "bitcoin-the-card-game": {
   "img": null,
@@ -1186,29 +1340,35 @@
  },
  "jake-allen": {
   "img": "img/jake-allen.webp",
-  "color": "#b1b1b1",
-  "w": 180,
-  "h": 180,
-  "src": "https://www.artworkbyja.com/apple-touch-icon.png"
+  "color": "#573b24",
+  "w": 720,
+  "h": 440,
+  "manual": true,
+  "src": "harvest"
  },
  "ksenia-buridanova": {
-  "img": null,
-  "color": null,
-  "why": "page:URLError"
+  "img": "img/ksenia-buridanova.webp",
+  "color": "#2c1e17",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "lisa-t-rner": {
   "img": "img/lisa-t-rner.webp",
-  "color": "#f1f1f1",
+  "color": "#4a433f",
   "w": 720,
-  "h": 720,
-  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lisat.se/media/lisat.se/onewebmedia/LOGGA_LISA%20TO%CC%88RNER%20ART%20RUND.png?etag=%228cf2-5fd25609%22&sourceContentType=image%2Fpng&quality=85"
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "moon": {
   "img": "img/moon.webp",
-  "color": "#a0958a",
-  "w": 512,
-  "h": 512,
-  "src": "https://i0.wp.com/moongoon.art/wp-content/uploads/2026/03/cropped-IMG_2015-rotated-1.jpeg?fit=512%2C512&#038;ssl=1"
+  "color": "#6d7462",
+  "w": 720,
+  "h": 440,
+  "manual": true,
+  "src": "harvest"
  },
  "naples": {
   "img": "img/naples.webp",
@@ -1226,10 +1386,11 @@
  },
  "petek": {
   "img": "img/petek.webp",
-  "color": "#e7e7e8",
-  "w": 180,
-  "h": 180,
-  "src": "https://static.wixstatic.com/media/ed8ce2_495f588987fa4579824a7409812c9cfb%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/ed8ce2_495f588987fa4579824a7409812c9cfb%7Emv2.jpg"
+  "color": "#96938e",
+  "w": 720,
+  "h": 440,
+  "manual": true,
+  "src": "harvest"
  },
  "proof-of-paint": {
   "img": "img/proof-of-paint.webp",
@@ -1240,15 +1401,19 @@
  },
  "trevor-jones": {
   "img": "img/trevor-jones.webp",
-  "color": "#e8e8e1",
-  "w": 711,
-  "h": 533,
-  "src": "https://www.trevorjonesart.com/wp-content/uploads/2021/12/logo-4.3-1.png"
+  "color": "#836554",
+  "w": 720,
+  "h": 440,
+  "manual": true,
+  "src": "harvest"
  },
  "x3n0533d": {
-  "img": null,
-  "color": null,
-  "why": "blocked-host"
+  "img": "img/x3n0533d.webp",
+  "color": "#646d63",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "fr-d-ric-guimont": {
   "img": "img/fr-d-ric-guimont.webp",
@@ -1264,10 +1429,11 @@
  },
  "mr-crown": {
   "img": "img/mr-crown.webp",
-  "color": "#575b5b",
+  "color": "#8d9494",
   "w": 720,
-  "h": 378,
-  "src": "https://renarchy.com/og/home"
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "nogood": {
   "img": "img/nogood.webp",
@@ -1277,43 +1443,60 @@
   "src": "https://www.nogood.studio/assets/img/NoGood_OG.png"
  },
  "tynka": {
-  "img": null,
-  "color": null,
-  "why": "image-failed"
+  "img": "img/tynka.webp",
+  "color": "#d7875a",
+  "w": 720,
+  "h": 440,
+  "manual": true,
+  "src": "harvest"
  },
  "world-of-rusty": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/world-of-rusty.webp",
+  "color": "#2f4767",
+  "w": 720,
+  "h": 405,
+  "manual": true,
+  "src": "harvest"
  },
  "zazawowow": {
-  "img": null,
-  "color": null,
-  "why": "page:URLError"
+  "img": "img/zazawowow.webp",
+  "color": "#64785a",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "btc-monk": {
-  "img": null,
-  "color": null,
-  "why": "blocked-host"
+  "img": "img/btc-monk.webp",
+  "color": "#5d563b",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "crayonsmell": {
-  "img": null,
-  "color": null,
-  "why": "blocked-host"
+  "img": "img/crayonsmell.webp",
+  "color": "#c2b8a4",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "kialara": {
   "img": "img/kialara.webp",
-  "color": "#434343",
-  "w": 232,
-  "h": 232,
-  "src": "https://kialara.com/wp-content/uploads/2023/09/kialara_favicon.jpg"
+  "color": "#707071",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "mlo-martin-lukas-ostachowski": {
   "img": "img/mlo-martin-lukas-ostachowski.webp",
-  "color": "#8b9093",
-  "w": 180,
-  "h": 180,
-  "src": "https://mlo.art/wp-content/uploads/apple-touch-icon.png"
+  "color": "#8095a5",
+  "w": 720,
+  "h": 440,
+  "manual": true,
+  "src": "harvest"
  },
  "najp": {
   "img": "img/najp.webp",
@@ -1323,25 +1506,35 @@
   "src": "https://najp.ch/wp-content/uploads/2025/07/cropped-NAJP_iPhone-180x180.png"
  },
  "tructor-21": {
-  "img": null,
-  "color": null,
-  "why": "page:RemoteDisconnected"
+  "img": "img/tructor-21.webp",
+  "color": "#6b4f54",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "ivy-lumi": {
   "img": "img/ivy-lumi.webp",
-  "color": "#171409",
+  "color": "#575c57",
   "w": 720,
-  "h": 720,
-  "src": "http://static1.squarespace.com/static/67c09fad0e90460ea6447785/t/67e997a6c3c76251d70698b7/1743361958424/animation+%282%29.gif?format=1500w"
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "mrhansel": {
-  "img": null,
-  "color": null,
-  "why": "blocked-host"
+  "img": "img/mrhansel.webp",
+  "color": "#798066",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "pepelangelo": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/pepelangelo.webp",
+  "color": "#857779",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  }
 }
