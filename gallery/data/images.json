@@ -17,9 +17,12 @@
   "why": "page:HTTPError"
  },
  "amy-digi": {
-  "img": null,
-  "color": null,
-  "why": "blocked-host"
+  "img": "img/amy-digi.webp",
+  "color": "#8d7e67",
+  "w": 720,
+  "h": 720,
+  "manual": true,
+  "src": "amy-digi.png"
  },
  "asanoha": {
   "img": "img/asanoha.webp",
@@ -29,9 +32,12 @@
   "src": "https://sovereignremnant.com/wp-content/uploads/2025/03/Gold-Asanoha-Logo@600x.png"
  },
  "b": {
-  "img": null,
-  "color": null,
-  "why": "blocked-host"
+  "img": "img/b.webp",
+  "color": "#50402a",
+  "w": 399,
+  "h": 399,
+  "manual": true,
+  "src": "b-avatar.png"
  },
  "bitcoin-apex": {
   "img": "img/bitcoin-apex.webp",
@@ -190,9 +196,12 @@
   "src": "https://timechainartmagazine.com/wp-content/uploads/2026/04/Gus-Grillasca-Bitcoin-Artist.webp"
  },
  "hackzero": {
-  "img": null,
-  "color": null,
-  "why": "blocked-host"
+  "img": "img/hackzero.webp",
+  "color": "#5b3d27",
+  "w": 400,
+  "h": 400,
+  "manual": true,
+  "src": "hackzero-avatar.png"
  },
  "house-of-ralfus": {
   "img": "img/house-of-ralfus.webp",
@@ -221,14 +230,20 @@
   "src": "https://cdn.sanity.io/images/w4avejpr/production/2ef2cd24e8eae8900954cb5d7848332aa2d1c48c-400x400.jpg"
  },
  "missatoshi-girl": {
-  "img": null,
-  "color": null,
-  "why": "page:URLError"
+  "img": "img/missatoshi-girl.webp",
+  "color": "#bda6aa",
+  "w": 720,
+  "h": 900,
+  "manual": true,
+  "src": "missatoshi-art.png"
  },
  "moozi": {
-  "img": null,
-  "color": null,
-  "why": "blocked-host"
+  "img": "img/moozi.webp",
+  "color": "#60534a",
+  "w": 400,
+  "h": 400,
+  "manual": true,
+  "src": "moozi-avatar.png"
  },
  "psyfer": {
   "img": null,
@@ -236,9 +251,12 @@
   "why": "page:HTTPError"
  },
  "shipwreck-sean": {
-  "img": null,
-  "color": null,
-  "why": "blocked-host"
+  "img": "img/shipwreck-sean.webp",
+  "color": "#3f3b34",
+  "w": 400,
+  "h": 400,
+  "manual": true,
+  "src": "shipwreck-sean-avatar.png"
  },
  "superama": {
   "img": "img/superama.webp",
@@ -326,9 +344,12 @@
   "src": "https://timechainartmagazine.com/wp-content/uploads/2026/05/Modeotec-Bitcoin-Artist.webp"
  },
  "rare-scrilla": {
-  "img": null,
-  "color": null,
-  "why": "image-failed"
+  "img": "img/rare-scrilla.webp",
+  "color": "#888f88",
+  "w": 720,
+  "h": 886,
+  "manual": true,
+  "src": "scrilla-polaroid.png"
  },
  "rebel-money": {
   "img": "img/rebel-money.webp",
@@ -486,9 +507,12 @@
   "src": "https://en.wikipedia.org/static/apple-touch/wikipedia.png"
  },
  "the-satoshi-mystery": {
-  "img": null,
-  "color": null,
-  "why": "page:HTTPError"
+  "img": "img/the-satoshi-mystery.webp",
+  "color": "#3e1c20",
+  "w": 720,
+  "h": 480,
+  "manual": true,
+  "src": "https://medias-distribution.lab.arte.tv/photos/0218507-cropped.png"
  },
  "who-is-bitcoin": {
   "img": "img/who-is-bitcoin.webp",
@@ -613,10 +637,11 @@
  },
  "kontext": {
   "img": "img/kontext.webp",
-  "color": "#56abef",
-  "w": 180,
-  "h": 180,
-  "src": "https://primal.net/assets/apple-touch-icon-a536f430.png"
+  "color": "#2a2a29",
+  "w": 720,
+  "h": 240,
+  "manual": true,
+  "src": "kontext-banner.png"
  },
  "man-like-kweks": {
   "img": "img/man-like-kweks.webp",
@@ -669,9 +694,12 @@
   "src": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/615460/capsule_616x353.jpg?t=1490959599"
  },
  "blockstr": {
-  "img": null,
-  "color": null,
-  "why": "page:HTTPError"
+  "img": "img/blockstr.webp",
+  "color": "#2e2a31",
+  "w": 400,
+  "h": 400,
+  "manual": true,
+  "src": "blockstr-logo.png"
  },
  "the-game": {
   "img": null,
@@ -954,9 +982,12 @@
   "src": "https://www.nostrly.com/cms/wp-content/uploads/2025/03/crown-and-anchor.png"
  },
  "lightning-poker": {
-  "img": null,
-  "color": null,
-  "why": "page:URLError"
+  "img": "img/lightning-poker.webp",
+  "color": "#0eba9e",
+  "w": 720,
+  "h": 441,
+  "manual": true,
+  "src": "https://bitcoin-bumblebee.com/wp-content/uploads/2023/01/ingame12.png"
  },
  "nakamoto-roulette": {
   "img": null,

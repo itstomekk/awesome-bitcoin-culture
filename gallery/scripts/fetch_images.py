@@ -100,7 +100,7 @@ def main():
     entries = json.loads((ROOT / "data" / "entries.json").read_text(encoding="utf-8"))
     out_path = ROOT / "data" / "images.json"
     old = json.loads(out_path.read_text(encoding="utf-8")) if out_path.exists() else {}
-    todo = [e for e in entries if force or not (old.get(e["id"], {}).get("img"))]
+    todo = [e for e in entries if not old.get(e["id"], {}).get("manual") and (force or not old.get(e["id"], {}).get("img"))]
     print(f"{len(todo)} to fetch of {len(entries)}")
     result = dict(old)
     with cf.ThreadPoolExecutor(max_workers=12) as ex:

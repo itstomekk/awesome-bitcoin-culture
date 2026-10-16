@@ -89,7 +89,7 @@ async def main():
     images = json.loads((ROOT / "data/images.json").read_text(encoding="utf-8"))
     path = ROOT / "data/shots.json"
     old = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
-    todo = [e for e in entries if want(e, images.get(e["id"], {})) and (force or not old.get(e["id"], {}).get("shot"))]
+    todo = [e for e in entries if want(e, images.get(e["id"], {})) and (force or not old.get(e["id"], {}).get("shot")) and not old.get(e["id"], {}).get("manual")]
     print(len(todo), "to snapshot", flush=True)
     results = dict(old)
     sem = asyncio.Semaphore(4)

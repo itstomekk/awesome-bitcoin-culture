@@ -310,6 +310,18 @@
       if (on) { a.setAttribute("aria-current", "true"); act = a; } else a.removeAttribute("aria-current");
     });
     if (act) keepInRail(act);
+    if (cur) setBar(cur);
+  }
+  /* top and bottom bars take the colour of the room being read */
+  var themeMeta = document.querySelector('meta[name="theme-color"]');
+  function syncThemeColor() {
+    var id = root.getAttribute("data-bar") || "art";
+    var c = getComputedStyle(root).getPropertyValue("--room-" + id).trim();
+    if (c && themeMeta) themeMeta.setAttribute("content", c);
+  }
+  function setBar(id) {
+    if (root.getAttribute("data-bar") !== id) root.setAttribute("data-bar", id);
+    syncThemeColor();
   }
   function keepInRail(a) { // keep the active item visible inside the rail without ever scrolling the page
     var beh = reduce.matches ? "auto" : "smooth";
@@ -464,6 +476,7 @@
   function applyTheme(t, persist) {
     root.setAttribute("data-theme", t);
     themeEl.setAttribute("aria-pressed", String(t === "dark"));
+    syncThemeColor();
     if (persist) { try { localStorage.setItem("abc-theme", t); } catch (e) { /* file:// may block storage */ } }
   }
   function stored() { try { var t = localStorage.getItem("abc-theme"); return t === "light" || t === "dark" ? t : null; } catch (e) { return null; } }

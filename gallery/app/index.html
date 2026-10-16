@@ -6,6 +6,7 @@
 <title>Awesome Bitcoin Culture / Archive Banners</title>
 <meta name="description" content="A catalogue of human creative work about Bitcoin: art, film, sculpture, literature, music, games, media and scene.">
 <meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f7931a">
 <script>
 /* theme before first paint: saved choice, else the system preference */
 (function () {
@@ -13,6 +14,9 @@
   try { t = localStorage.getItem("abc-theme"); } catch (e) {}
   if (t !== "light" && t !== "dark") t = window.matchMedia && matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
   document.documentElement.setAttribute("data-theme", t);
+  /* bar colour before first paint: the room named in the hash, else the first room */
+  var m = /(?:^|[#&])room=(art|film|sculpture|literature|music|games|media|scene)(?:[,&]|$)/.exec(location.hash);
+  document.documentElement.setAttribute("data-bar", m ? m[1] : "art");
 })();
 </script>
 <link rel="preconnect" href="https://fonts.googleapis.com">

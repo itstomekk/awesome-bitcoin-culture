@@ -85,8 +85,9 @@
   "shot": "tom-badley.webp"
  },
  "5ksana": {
-  "shot": null,
-  "why": "bot-wall"
+  "shot": "5ksana.webp",
+  "manual": true,
+  "src": "5ksana-wayback.png"
  },
  "ariel-birdie": {
   "shot": "ariel-birdie.webp"
@@ -101,8 +102,9 @@
   "shot": "kanuto.webp"
  },
  "lena": {
-  "shot": null,
-  "why": "bot-wall"
+  "shot": "lena.webp",
+  "manual": true,
+  "src": "lena-shot.png"
  },
  "madex": {
   "shot": "madex.webp"
