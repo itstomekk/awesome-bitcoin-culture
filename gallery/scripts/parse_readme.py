@@ -21,6 +21,7 @@ ROOMS = {
     "Film & Documentary": "Film & Documentary",
     "Literature": "Literature",
     "Music": "Music",
+    "Podcasts": "Podcasts",
     "Games": "Games",
     "Institutions & Spaces": "Institutions & Spaces",
     "Events & Festivals": "Events & Festivals",

@@ -38,6 +38,12 @@ coins, AI-slop generated in bulk.
 - [🎬 Film & Documentary](#-film--documentary)
 - [📚 Literature](#-literature)
 - [🎵 Music](#-music)
+- [🎙️ Podcasts](#️-podcasts)
+  - [Art & Creators](#art--creators)
+  - [Stories & People](#stories--people)
+  - [Community & Places](#community--places)
+  - [Ideas & Philosophy](#ideas--philosophy)
+  - [Narrative Series](#narrative-series)
 - [🎮 Games](#-games)
   - [Video Games](#video-games)
   - [Board & Card Games](#board--card-games)
@@ -327,6 +333,90 @@ but part of the same creative economy.
   copyleft/open-source Bitcoin-only music collective.
 - [Tip_NZ](https://btcartgallery.com/category/song) - NZ Bitcoin rap.
 
+## 🎙️ Podcasts
+
+Shows whose subject is Bitcoin's culture: its artists, its people and their stories, its local
+communities and ideas, plus narrative series that are creative works in their own right. Price,
+trading and developer shows are out of scope. Ended shows are listed only when the archive is
+still playable.
+
+### Art & Creators
+
+- [21ism Podcast](https://21ism.com/) - Bitcoin artists' stories told through vision and sound,
+  from the 21ism art collective (87 episodes, 2020-2022).
+- [Bitcoin Art Podcast](https://timechainartmagazine.com/podcast/) - Timechain Art Magazine's "The
+  Movement of Art", long-form talks with Bitcoin artists.
+- [The Bitcoin Muse](https://thebitcoinmuse.com) - Podcast profiling Bitcoin creators across
+  painting, sculpture, filmmaking, AI art, and collectibles (2023, complete).
+- [Hell Money](https://hell.money/) - Weekly show on Bitcoin's technology, culture, and vibe,
+  hosted by Casey Rodarmor and Erin.
+- [The Meme Factory™ Podcast](https://www.memefactorytm.com/pod/) - Comedy and meme-culture show
+  from the Meme Factory crew with Bitcoin guests (archive to 2024).
+- [Plebchain Radio](https://fountain.fm/show/0N6GGdZuYNNG7ysagCg9) - Weekly broadcast on Bitcoin
+  and Nostr culture, with news and live music sessions.
+
+### Stories & People
+
+- [Bitcoin People](https://open.spotify.com/show/4lhAGXtyzQJzcQJ0epPN5C) - Asks who Bitcoin owners
+  are, what they hope for, and whether they form a community (64 episodes, 2022-2024).
+- [Flirting With Bitcoin](https://www.flirtingwithbitcoin.com/podcast/) - Ian and his wife Mandana
+  talk Bitcoin as a couple, light and personal (121 episodes, 2022-2025).
+- [Life with Bitcoin](https://fountain.fm/show/sdNx4uRz7tvwVeePyonA) - Stories of people whose
+  values and life choices were shaped by Bitcoin.
+- [Meet the Bitcoin Taco Plebs](https://podcasts.apple.com/us/podcast/meet-the-bitcoin-taco-plebs-bitcoin-magazine/id1546678654) -
+  Bitcoin Magazine show where plebs tell their own stories (48 episodes, 2020-2022).
+- [Once Bitten! A Bitcoin Podcast](https://www.once-bitten.com/) - Daniel Prince collects real-life
+  stories of how Bitcoin changed individuals and families.
+- [Rabbit Hole Stories](https://podcasts.apple.com/us/podcast/rabbit-hole-stories/id1661401080) -
+  Plebs tell how they fell down the Bitcoin rabbit hole, hosted by Joël Kai Lenz and Ian Scanlon
+  (2021-2025).
+- [SatoShe Stories](https://satoshe.space/en/satoshe-stories/) - Women talk about their personal
+  path to money and Bitcoin, in German and English.
+- [Women & Bitcoin](https://bt.cx/en/women-and-bitcoin) - Sweden's first Bitcoin podcast for
+  women, hosted by Rebecka and Hani.
+- [Your Bitcoin Story](https://podcasts.apple.com/us/podcast/your-bitcoin-story/id1697280071) -
+  Personal Bitcoin stories, one guest and one story at a time.
+
+### Community & Places
+
+- [The Anita Posch Show](https://anita.onl/) - Bitcoin, human rights, and financial freedom, with a
+  focus on adoption in Africa.
+- [Bitcoiners - Live From Bitcoin Beach](https://livefrombitcoinbeach.buzzsprout.com/) -
+  Conversations with Bitcoiners passing through El Zonte, El Salvador.
+- [Einundzwanzig, der Bitcoin Podcast](https://einundzwanzig.space/podcast/) - German weekly show
+  from the Einundzwanzig community: interviews, readings, and personal Bitcoin journeys.
+- [Local Bitcoiners](https://localbitcoiners.com/) - Interviews with meetup organizers about
+  building local Bitcoin communities.
+- [One Love Bitcoin](https://onelovebitcoin.com/) - Interviews with Bitcoin advocates around the
+  world, one country at a time (four seasons, complete).
+
+### Ideas & Philosophy
+
+- [Bitcoin Audible](https://bitcoinaudible.com/) - Guy Swann reads the best Bitcoin essays and
+  articles aloud, with commentary.
+- [The Bitcoin Infinity Show](https://www.bitcoininfinityshow.com/) - Philosophy and practical
+  tools for living free, hosted by Knut Svanholm and Luke de Wolf.
+- [Citizen Bitcoin](https://citizenbitcoin.world/) - Brady Swenson on freedom, sovereignty, and
+  Bitcoin.
+- [Cypherpunk Bitstream](https://taz0.org/bitstream/) - Berlin podcast on crypto-anarchy and
+  cypherpunk history and culture (16 episodes, 2020-2021).
+- [Satoshi Nakamoto Institute](https://nakamotoinstitute.org/podcasts/) - Readings and discussion of
+  early Bitcoin, cryptography, and Austrian economics texts (2013-2014, complete).
+- [The Staying Free Podcast](https://podcasts.apple.com/us/podcast/the-staying-free-podcast/id1598397645) -
+  Real people around the world on staying free, sovereign, and sane (100 episodes, 2021-2025).
+- [The Transformation of Value](https://www.thetransformationofvalue.com/) - Cody Ellingham
+  explores freedom, money, and creativity through conversations.
+
+### Narrative Series
+
+- [De Legende van Satoshi Nakamoto](https://podcasts.apple.com/us/podcast/de-legende-van-satoshi-nakamoto-bnr/id1573914412) -
+  Dutch BNR series searching for the real Satoshi Nakamoto and the essence of Bitcoin (8 episodes,
+  complete).
+- [Dr Bitcoin - The Man Who Wasn't Satoshi Nakamoto](https://drbitcoinpod.com/) - Narrative series
+  on Craig Wright's Satoshi claim and the court case that exposed it.
+- [Exit Scam](https://www.exitscam.show/) - True-crime series on the death of Gerald Cotten and the
+  collapse of QuadrigaCX (9 episodes, complete).
+
 ## 🎮 Games
 
 <details>
@@ -497,8 +587,6 @@ sponsorships, patronage infrastructure.
 
 ### Publications & Media
 
-- [Bitcoin Art Podcast](https://timechainartmagazine.com/podcast/) - Timechain Art Magazine's "The
-  Movement of Art", long-form talks with Bitcoin artists.
 - [Bitcoin Magazine](https://bitcoinmagazine.com) - Print and online magazine; its Culture vertical
   runs recurring art coverage, including annual conference gallery previews.
 - [Bitcoin Shipshow](https://bitcoinship.show/) - Monthly online Bitcoin meetup and live demo show
@@ -513,8 +601,6 @@ sponsorships, patronage infrastructure.
   magazine covering people, places, ideas, and experiences.
 - [StackChain Magazine](https://www.stackchainmagazine.net/) - Bitcoin pleb-focused magazine/zine
   sharing stories about the people and events in the Bitcoin world.
-- [The Bitcoin Muse](https://thebitcoinmuse.com) - Podcast profiling Bitcoin creators across
-  painting, sculpture, filmmaking, AI art, and collectibles.
 - [The Cultural Tutor](https://areopagus.culturaltutor.com/) - Essayist ("Areopagus" series)
   contextualizing Bitcoin artists within perennial cultural traditions.
 - [Timechain Art Magazine](https://timechainartmagazine.com) - Runs a public [Artist

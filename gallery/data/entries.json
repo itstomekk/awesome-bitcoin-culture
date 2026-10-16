@@ -341,6 +341,17 @@
   "host": "bitko.cc"
  },
  {
+  "id": "bitpopart",
+  "name": "BitPopArt",
+  "url": "https://bitpopart.com/",
+  "desc": "Dutch pop artist making Bitcoin and Nostr art as prints, GIFs, wallpapers, memes, and merch; Lightning-funded and free to share.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Digital & Graphic Artists",
+  "host": "bitpopart.com"
+ },
+ {
   "id": "ca-danner",
   "name": "CA Danner",
   "url": "http://www.cadanner.com/",
@@ -836,6 +847,17 @@
   "host": "btcaloha.shop"
  },
  {
+  "id": "shamshad",
+  "name": "Shamshad",
+  "url": "https://x.com/0711_BTC",
+  "desc": "Handwritten images built entirely from readable text, including a Bitcoin Whitepaper edition; editions produced by his son Schatoshi.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Mixed Media & Other Artists",
+  "host": "x.com"
+ },
+ {
   "id": "tructor-21",
   "name": "Tructor 21",
   "url": "https://tructor.co/",
@@ -1329,6 +1351,336 @@
   "roomIcon": "🎵",
   "sub": "",
   "host": "btcartgallery.com"
+ },
+ {
+  "id": "21ism-podcast",
+  "name": "21ism Podcast",
+  "url": "https://21ism.com/",
+  "desc": "Bitcoin artists' stories told through vision and sound, from the 21ism art collective (87 episodes, 2020-2022).",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Art & Creators",
+  "host": "21ism.com"
+ },
+ {
+  "id": "bitcoin-art-podcast",
+  "name": "Bitcoin Art Podcast",
+  "url": "https://timechainartmagazine.com/podcast/",
+  "desc": "Timechain Art Magazine's \"The Movement of Art\", long-form talks with Bitcoin artists.",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Art & Creators",
+  "host": "timechainartmagazine.com"
+ },
+ {
+  "id": "the-bitcoin-muse",
+  "name": "The Bitcoin Muse",
+  "url": "https://thebitcoinmuse.com",
+  "desc": "Podcast profiling Bitcoin creators across painting, sculpture, filmmaking, AI art, and collectibles (2023, complete).",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Art & Creators",
+  "host": "thebitcoinmuse.com"
+ },
+ {
+  "id": "hell-money",
+  "name": "Hell Money",
+  "url": "https://hell.money/",
+  "desc": "Weekly show on Bitcoin's technology, culture, and vibe, hosted by Casey Rodarmor and Erin.",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Art & Creators",
+  "host": "hell.money"
+ },
+ {
+  "id": "the-meme-factory-podcast",
+  "name": "The Meme Factory™ Podcast",
+  "url": "https://www.memefactorytm.com/pod/",
+  "desc": "Comedy and meme-culture show from the Meme Factory crew with Bitcoin guests (archive to 2024).",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Art & Creators",
+  "host": "memefactorytm.com"
+ },
+ {
+  "id": "plebchain-radio",
+  "name": "Plebchain Radio",
+  "url": "https://fountain.fm/show/0N6GGdZuYNNG7ysagCg9",
+  "desc": "Weekly broadcast on Bitcoin and Nostr culture, with news and live music sessions.",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Art & Creators",
+  "host": "fountain.fm"
+ },
+ {
+  "id": "bitcoin-people",
+  "name": "Bitcoin People",
+  "url": "https://open.spotify.com/show/4lhAGXtyzQJzcQJ0epPN5C",
+  "desc": "Asks who Bitcoin owners are, what they hope for, and whether they form a community (64 episodes, 2022-2024).",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Stories & People",
+  "host": "open.spotify.com"
+ },
+ {
+  "id": "flirting-with-bitcoin",
+  "name": "Flirting With Bitcoin",
+  "url": "https://www.flirtingwithbitcoin.com/podcast/",
+  "desc": "Ian and his wife Mandana talk Bitcoin as a couple, light and personal (121 episodes, 2022-2025).",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Stories & People",
+  "host": "flirtingwithbitcoin.com"
+ },
+ {
+  "id": "life-with-bitcoin",
+  "name": "Life with Bitcoin",
+  "url": "https://fountain.fm/show/sdNx4uRz7tvwVeePyonA",
+  "desc": "Stories of people whose values and life choices were shaped by Bitcoin.",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Stories & People",
+  "host": "fountain.fm"
+ },
+ {
+  "id": "meet-the-bitcoin-taco-plebs",
+  "name": "Meet the Bitcoin Taco Plebs",
+  "url": "https://podcasts.apple.com/us/podcast/meet-the-bitcoin-taco-plebs-bitcoin-magazine/id1546678654",
+  "desc": "Bitcoin Magazine show where plebs tell their own stories (48 episodes, 2020-2022).",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Stories & People",
+  "host": "podcasts.apple.com"
+ },
+ {
+  "id": "once-bitten-a-bitcoin-podcast",
+  "name": "Once Bitten! A Bitcoin Podcast",
+  "url": "https://www.once-bitten.com/",
+  "desc": "Daniel Prince collects real-life stories of how Bitcoin changed individuals and families.",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Stories & People",
+  "host": "once-bitten.com"
+ },
+ {
+  "id": "rabbit-hole-stories",
+  "name": "Rabbit Hole Stories",
+  "url": "https://podcasts.apple.com/us/podcast/rabbit-hole-stories/id1661401080",
+  "desc": "Plebs tell how they fell down the Bitcoin rabbit hole, hosted by Joël Kai Lenz and Ian Scanlon (2021-2025).",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Stories & People",
+  "host": "podcasts.apple.com"
+ },
+ {
+  "id": "satoshe-stories",
+  "name": "SatoShe Stories",
+  "url": "https://satoshe.space/en/satoshe-stories/",
+  "desc": "Women talk about their personal path to money and Bitcoin, in German and English.",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Stories & People",
+  "host": "satoshe.space"
+ },
+ {
+  "id": "women-bitcoin",
+  "name": "Women & Bitcoin",
+  "url": "https://bt.cx/en/women-and-bitcoin",
+  "desc": "Sweden's first Bitcoin podcast for women, hosted by Rebecka and Hani.",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Stories & People",
+  "host": "bt.cx"
+ },
+ {
+  "id": "your-bitcoin-story",
+  "name": "Your Bitcoin Story",
+  "url": "https://podcasts.apple.com/us/podcast/your-bitcoin-story/id1697280071",
+  "desc": "Personal Bitcoin stories, one guest and one story at a time.",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Stories & People",
+  "host": "podcasts.apple.com"
+ },
+ {
+  "id": "the-anita-posch-show",
+  "name": "The Anita Posch Show",
+  "url": "https://anita.onl/",
+  "desc": "Bitcoin, human rights, and financial freedom, with a focus on adoption in Africa.",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Community & Places",
+  "host": "anita.onl"
+ },
+ {
+  "id": "bitcoiners-live-from-bitcoin-beach",
+  "name": "Bitcoiners - Live From Bitcoin Beach",
+  "url": "https://livefrombitcoinbeach.buzzsprout.com/",
+  "desc": "Conversations with Bitcoiners passing through El Zonte, El Salvador.",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Community & Places",
+  "host": "livefrombitcoinbeach.buzzsprout.com"
+ },
+ {
+  "id": "einundzwanzig-der-bitcoin-podcast",
+  "name": "Einundzwanzig, der Bitcoin Podcast",
+  "url": "https://einundzwanzig.space/podcast/",
+  "desc": "German weekly show from the Einundzwanzig community: interviews, readings, and personal Bitcoin journeys.",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Community & Places",
+  "host": "einundzwanzig.space"
+ },
+ {
+  "id": "local-bitcoiners",
+  "name": "Local Bitcoiners",
+  "url": "https://localbitcoiners.com/",
+  "desc": "Interviews with meetup organizers about building local Bitcoin communities.",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Community & Places",
+  "host": "localbitcoiners.com"
+ },
+ {
+  "id": "one-love-bitcoin",
+  "name": "One Love Bitcoin",
+  "url": "https://onelovebitcoin.com/",
+  "desc": "Interviews with Bitcoin advocates around the world, one country at a time (four seasons, complete).",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Community & Places",
+  "host": "onelovebitcoin.com"
+ },
+ {
+  "id": "bitcoin-audible",
+  "name": "Bitcoin Audible",
+  "url": "https://bitcoinaudible.com/",
+  "desc": "Guy Swann reads the best Bitcoin essays and articles aloud, with commentary.",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Ideas & Philosophy",
+  "host": "bitcoinaudible.com"
+ },
+ {
+  "id": "the-bitcoin-infinity-show",
+  "name": "The Bitcoin Infinity Show",
+  "url": "https://www.bitcoininfinityshow.com/",
+  "desc": "Philosophy and practical tools for living free, hosted by Knut Svanholm and Luke de Wolf.",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Ideas & Philosophy",
+  "host": "bitcoininfinityshow.com"
+ },
+ {
+  "id": "citizen-bitcoin",
+  "name": "Citizen Bitcoin",
+  "url": "https://citizenbitcoin.world/",
+  "desc": "Brady Swenson on freedom, sovereignty, and Bitcoin.",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Ideas & Philosophy",
+  "host": "citizenbitcoin.world"
+ },
+ {
+  "id": "cypherpunk-bitstream",
+  "name": "Cypherpunk Bitstream",
+  "url": "https://taz0.org/bitstream/",
+  "desc": "Berlin podcast on crypto-anarchy and cypherpunk history and culture (16 episodes, 2020-2021).",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Ideas & Philosophy",
+  "host": "taz0.org"
+ },
+ {
+  "id": "satoshi-nakamoto-institute",
+  "name": "Satoshi Nakamoto Institute",
+  "url": "https://nakamotoinstitute.org/podcasts/",
+  "desc": "Readings and discussion of early Bitcoin, cryptography, and Austrian economics texts (2013-2014, complete).",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Ideas & Philosophy",
+  "host": "nakamotoinstitute.org"
+ },
+ {
+  "id": "the-staying-free-podcast",
+  "name": "The Staying Free Podcast",
+  "url": "https://podcasts.apple.com/us/podcast/the-staying-free-podcast/id1598397645",
+  "desc": "Real people around the world on staying free, sovereign, and sane (100 episodes, 2021-2025).",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Ideas & Philosophy",
+  "host": "podcasts.apple.com"
+ },
+ {
+  "id": "the-transformation-of-value",
+  "name": "The Transformation of Value",
+  "url": "https://www.thetransformationofvalue.com/",
+  "desc": "Cody Ellingham explores freedom, money, and creativity through conversations.",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Ideas & Philosophy",
+  "host": "thetransformationofvalue.com"
+ },
+ {
+  "id": "de-legende-van-satoshi-nakamoto",
+  "name": "De Legende van Satoshi Nakamoto",
+  "url": "https://podcasts.apple.com/us/podcast/de-legende-van-satoshi-nakamoto-bnr/id1573914412",
+  "desc": "Dutch BNR series searching for the real Satoshi Nakamoto and the essence of Bitcoin (8 episodes, complete).",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Narrative Series",
+  "host": "podcasts.apple.com"
+ },
+ {
+  "id": "dr-bitcoin-the-man-who-wasn-t-satoshi-nakamoto",
+  "name": "Dr Bitcoin - The Man Who Wasn't Satoshi Nakamoto",
+  "url": "https://drbitcoinpod.com/",
+  "desc": "Narrative series on Craig Wright's Satoshi claim and the court case that exposed it.",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Narrative Series",
+  "host": "drbitcoinpod.com"
+ },
+ {
+  "id": "exit-scam",
+  "name": "Exit Scam",
+  "url": "https://www.exitscam.show/",
+  "desc": "True-crime series on the death of Gerald Cotten and the collapse of QuadrigaCX (9 episodes, complete).",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Narrative Series",
+  "host": "exitscam.show"
  },
  {
   "id": "bitbybit-run",
@@ -1991,17 +2343,6 @@
   "host": "satosh.ee"
  },
  {
-  "id": "bitcoin-art-podcast",
-  "name": "Bitcoin Art Podcast",
-  "url": "https://timechainartmagazine.com/podcast/",
-  "desc": "Timechain Art Magazine's \"The Movement of Art\", long-form talks with Bitcoin artists.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Publications & Media",
-  "host": "timechainartmagazine.com"
- },
- {
   "id": "bitcoin-magazine",
   "name": "Bitcoin Magazine",
   "url": "https://bitcoinmagazine.com",
@@ -2077,17 +2418,6 @@
   "roomIcon": "🏛",
   "sub": "Publications & Media",
   "host": "stackchainmagazine.net"
- },
- {
-  "id": "the-bitcoin-muse",
-  "name": "The Bitcoin Muse",
-  "url": "https://thebitcoinmuse.com",
-  "desc": "Podcast profiling Bitcoin creators across painting, sculpture, filmmaking, AI art, and collectibles.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Publications & Media",
-  "host": "thebitcoinmuse.com"
  },
  {
   "id": "the-cultural-tutor",

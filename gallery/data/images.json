@@ -1537,6 +1537,188 @@
   "manual": true,
   "src": "harvest"
  },
+ "21ism-podcast": {
+  "img": "img/21ism-podcast.webp",
+  "color": "#171717",
+  "w": 500,
+  "h": 500,
+  "src": "https://21ism.com/wp-content/uploads/2020/07/logo.png"
+ },
+ "hell-money": {
+  "img": null,
+  "color": null,
+  "why": "no-image"
+ },
+ "the-meme-factory-podcast": {
+  "img": null,
+  "color": null,
+  "why": "page:RemoteDisconnected"
+ },
+ "plebchain-radio": {
+  "img": "img/plebchain-radio.webp",
+  "color": "#2a2532",
+  "w": 720,
+  "h": 720,
+  "src": "https://feeds.fountain.fm/xRzQd3loNa0ItnvWXcOz/files/COVER_ART---DEFAULT---72d98f3f-84d4-4e69-a04a-0ed1e26b5b00.jpg"
+ },
+ "bitcoin-people": {
+  "img": null,
+  "color": null,
+  "why": "no-image"
+ },
+ "flirting-with-bitcoin": {
+  "img": "img/flirting-with-bitcoin.webp",
+  "color": "#443321",
+  "w": 720,
+  "h": 405,
+  "src": "https://www.flirtingwithbitcoin.com/media/studio/podcast-hero.jpg"
+ },
+ "life-with-bitcoin": {
+  "img": "img/life-with-bitcoin.webp",
+  "color": "#bc7741",
+  "w": 720,
+  "h": 720,
+  "src": "https://feeds.fountain.fm/IM18B8CHdx6cukJkoDX0/files/COVER_ART---DEFAULT---3c1ddfb2-2e6a-42f1-9424-24d35a7d5a16.jpg"
+ },
+ "meet-the-bitcoin-taco-plebs": {
+  "img": "img/meet-the-bitcoin-taco-plebs.webp",
+  "color": "#473e39",
+  "w": 720,
+  "h": 720,
+  "src": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/18/6c/ce/186ccefd-4115-0103-fd38-17d1e1363899/mza_6314990080795970940.png/1200x1200bf-60.jpg"
+ },
+ "once-bitten-a-bitcoin-podcast": {
+  "img": null,
+  "color": null,
+  "why": "no-image"
+ },
+ "rabbit-hole-stories": {
+  "img": "img/rabbit-hole-stories.webp",
+  "color": "#f1f0ea",
+  "w": 720,
+  "h": 720,
+  "src": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5e/73/75/5e73753d-64f7-b054-e98e-d24e32fba375/mza_17341590029667836731.jpg/1200x1200bf-60.jpg"
+ },
+ "satoshe-stories": {
+  "img": "img/satoshe-stories.webp",
+  "color": "#efeaf5",
+  "w": 720,
+  "h": 378,
+  "src": "https://satoshe.space/og/ressourcen-en.jpg"
+ },
+ "women-bitcoin": {
+  "img": "img/women-bitcoin.webp",
+  "color": "#423e3f",
+  "w": 720,
+  "h": 378,
+  "src": "https://bt.cx/btcx-bitcoin-exchange.png"
+ },
+ "your-bitcoin-story": {
+  "img": "img/your-bitcoin-story.webp",
+  "color": "#58504d",
+  "w": 720,
+  "h": 720,
+  "src": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/27/f0/f1/27f0f116-a039-4ffd-9c02-b1beb1a23a2d/mza_232378378346749831.jpg/1200x1200bf-60.jpg"
+ },
+ "the-anita-posch-show": {
+  "img": null,
+  "color": null,
+  "why": "image-failed"
+ },
+ "bitcoiners-live-from-bitcoin-beach": {
+  "img": "img/bitcoiners-live-from-bitcoin-beach.webp",
+  "color": "#3d2e2c",
+  "w": 250,
+  "h": 250,
+  "src": "https://livefrombitcoinbeach.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTA4Njk2NDA4LCJwdXIiOiJibG9iX2lkIn19--10b986f3d8545553d73bb1985b801191dfd64f41/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzI1MCwyNTAseyJjcm9wIjoiY2VudHJlIn1dLCJzYXZlciI6eyJxdWFsaXR5Ijo2MH0sImNvbG91cnNwYWNlIjoic3JnYiJ9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--21f3793904e6ce1806a5a794a691217fceef82c7/Live%20From%20Bitcoin%20Beach%20Podcast%20Cover%20Art.jpg"
+ },
+ "einundzwanzig-der-bitcoin-podcast": {
+  "img": "img/einundzwanzig-der-bitcoin-podcast.webp",
+  "color": "#b5b4b3",
+  "w": 720,
+  "h": 720,
+  "src": "http://einundzwanzig.space/img/cover/news-4fc518ae3ebfcac5525946a0112a2632.png"
+ },
+ "local-bitcoiners": {
+  "img": "img/local-bitcoiners.webp",
+  "color": "#3c2d1d",
+  "w": 720,
+  "h": 144,
+  "src": "https://localbitcoiners.com/assets/LocalBitcoiners_banner.png"
+ },
+ "one-love-bitcoin": {
+  "img": "img/one-love-bitcoin.webp",
+  "color": "#594541",
+  "w": 720,
+  "h": 405,
+  "src": "https://img.youtube.com/vi/HYVkfupzFyg/maxresdefault.jpg"
+ },
+ "bitcoin-audible": {
+  "img": "img/bitcoin-audible.webp",
+  "color": "#6e6c42",
+  "w": 300,
+  "h": 300,
+  "src": "https://bitcoinaudible.com/wp-content/uploads/2024/12/BA-DesignElement-Audio-2-512x512-1-300x300.png"
+ },
+ "the-bitcoin-infinity-show": {
+  "img": "img/the-bitcoin-infinity-show.webp",
+  "color": "#544f4c",
+  "w": 720,
+  "h": 378,
+  "src": "https://metaimg.podpage.com/ifG0DxsgkMwzV3UxYEOjpjeBwueeIsfV6EmUV_UQtO8/eyJoIjo2MzAsIm0iOiJlbmgiLCJ0IjoiVGhlIEJpdGNvaW4gSW5maW5pdHkgU2hvdyIsInRjIjoiI0VFRUVFRSIsInUiOiJodHRwczovL2ZlZWRzLmZvdW50YWluLmZtL1BHUWc5ZVd4eU9jR2h4MHVYYW1ZL2ZpbGVzL0NPVkVSX0FSVC0tLURFRkFVTFQtLS0wOTc4ZmY4Ny04ZmY4LTQ3NTgtYjdmMC00ZmNjYTk2NTBiYjIuanBnIiwidyI6MTIwMCwieGMiOiIjZmZmZmZmIn0.webp"
+ },
+ "citizen-bitcoin": {
+  "img": null,
+  "color": null,
+  "why": "no-image"
+ },
+ "cypherpunk-bitstream": {
+  "img": null,
+  "color": null,
+  "why": "no-image"
+ },
+ "satoshi-nakamoto-institute": {
+  "img": "img/satoshi-nakamoto-institute.webp",
+  "color": "#f0ebe7",
+  "w": 720,
+  "h": 405,
+  "src": "https://cdn.nakamotoinstitute.org/img/sni_opengraph_1200.jpg"
+ },
+ "the-staying-free-podcast": {
+  "img": "img/the-staying-free-podcast.webp",
+  "color": "#342e30",
+  "w": 720,
+  "h": 720,
+  "src": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d1/ec/9b/d1ec9b41-80d9-05d6-ce94-4cf9255ae646/mza_15874929465910110521.jpg/1200x1200bf-60.jpg"
+ },
+ "the-transformation-of-value": {
+  "img": "img/the-transformation-of-value.webp",
+  "color": "#379fff",
+  "w": 256,
+  "h": 256,
+  "src": "https://www.thetransformationofvalue.com/assets/63c9c0c159faaa462747acd6/6730aeca0e0d67d7234879f2_webclip.png"
+ },
+ "de-legende-van-satoshi-nakamoto": {
+  "img": "img/de-legende-van-satoshi-nakamoto.webp",
+  "color": "#9c8c63",
+  "w": 720,
+  "h": 720,
+  "src": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/81/d2/06/81d20649-d934-ff9b-b41b-e08d62c1773e/mza_7695411706394376406.jpeg/1200x1200bf-60.jpg"
+ },
+ "dr-bitcoin-the-man-who-wasn-t-satoshi-nakamoto": {
+  "img": "img/dr-bitcoin-the-man-who-wasn-t-satoshi-nakamoto.webp",
+  "color": "#9e9593",
+  "w": 720,
+  "h": 720,
+  "src": "https://faketoshi.co.uk/wp-content/uploads/2026/10/FAKETOSHI-Audiobook-Collection-Mockup-1024x1024.png"
+ },
+ "exit-scam": {
+  "img": "img/exit-scam.webp",
+  "color": "#321a04",
+  "w": 720,
+  "h": 720,
+  "src": "http://static1.squarespace.com/static/608c404eded15057d83dc644/t/6092eec29e7a426a97f01540/1620242114320/EXIT+SCAM+-+POD+CAST+ART.jpg?format=1500w"
+ },
  "bitpopart": {
   "img": "img/bitpopart.webp",
   "color": "#4b7485",
