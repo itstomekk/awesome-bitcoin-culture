@@ -142,7 +142,7 @@ coins, AI-slop generated in bulk.
 - [Coldie](https://coldie3d.com/) - Stereoscopic/magnetic portraits, "Filthy Fiat" series.
 - [cryptograffiti](https://cryptograffiti.com) - Mixed-media/screen-print; first artist to dedicate
   his career fully to Bitcoin/crypto.
-- [Cyber / Street Cyber](https://www.streetcyber.art/) - Stencil art and paste-ups; "Born Debt-Free"
+- [Cyber / Street Cyber](https://x.com/streetcyber_art) - Stencil art and paste-ups; "Born Debt-Free"
   series.
 - [Dustin D. Trammell](https://www.dustintrammell.com/art) - Bitcoin artist and founding member of
   the Bitcoin Artist Guild; his portfolio spans varied subjects and media. ([Timechain Art
@@ -170,7 +170,7 @@ coins, AI-slop generated in bulk.
   privacy, cypherpunk culture, streetwear.
 - [NoGood](https://nogood.studio/) - Amsterdam illustrator making limited prints and posters
   inspired by retro tech and the open web.
-- [Psyfer](https://www.psyferpunkart.com/about) - Multidisciplinary, digital-numismatics-focused
+- [Psyfer](https://timechainartmagazine.com/artist/psyfer/) - Multidisciplinary, digital-numismatics-focused
   art; London-based practice examining the semiotics of power.
 - [Shipwreck Sean](https://x.com/artbyshipwreck) - Illustration, "HODL On" (2026). Auctioned via
   Bitcoin for the Arts. ([Instagram](https://www.instagram.com/shipwrecksean/))
@@ -185,8 +185,6 @@ coins, AI-slop generated in bulk.
   lamps built from Bitcoin imagery and memes.
 - [YuZapata](http://yuzapata.art) - Street art/digital, "Palometa the Pigeon" character; "Orange
   Fruit Dove". Latin American.
-- [Zazawowow](https://zazawowow.co.uk) - Multidisciplinary visual artist, UX designer, and musician;
-  glitch and geometric digital art.
 
 ### Mixed Media & Other Artists
 

@@ -203,9 +203,12 @@
   "src": "harvest"
  },
  "cyber-street-cyber": {
-  "img": null,
-  "color": null,
-  "why": "page:HTTPError"
+  "img": "img/cyber-street-cyber.webp",
+  "color": "#928791",
+  "w": 720,
+  "h": 398,
+  "manual": true,
+  "src": "harvest"
  },
  "dustin-d-trammell": {
   "img": "img/dustin-d-trammell.webp",
@@ -287,9 +290,12 @@
   "src": "moozi-avatar.png"
  },
  "psyfer": {
-  "img": null,
-  "color": null,
-  "why": "page:HTTPError"
+  "img": "img/psyfer.webp",
+  "color": "#a1a2a0",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "shipwreck-sean": {
   "img": "img/shipwreck-sean.webp",
@@ -492,10 +498,11 @@
  },
  "bitcoiners": {
   "img": "img/bitcoiners.webp",
-  "color": "#2f1c05",
-  "w": 180,
-  "h": 180,
-  "src": "https://bitcoinersmovie.com/wp-content/uploads/2024/01/cropped-B-180x180.png"
+  "color": "#7b6963",
+  "w": 720,
+  "h": 405,
+  "manual": true,
+  "src": "harvest"
  },
  "death-athletic-a-dissident-architecture": {
   "img": "img/death-athletic-a-dissident-architecture.webp",
@@ -1455,14 +1462,6 @@
   "color": "#2f4767",
   "w": 720,
   "h": 405,
-  "manual": true,
-  "src": "harvest"
- },
- "zazawowow": {
-  "img": "img/zazawowow.webp",
-  "color": "#64785a",
-  "w": 720,
-  "h": 400,
   "manual": true,
   "src": "harvest"
  },
