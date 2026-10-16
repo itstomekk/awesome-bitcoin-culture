@@ -230,9 +230,6 @@ but part of the same creative economy.
 - [Who Is Bitcoin?](https://www.youtube.com/watch?v=DvHUOr8ruMw) - 2023 puppet short from Spiral
   starring Bitty, a grumpy Bitcoin; screened at Bitcoin FilmFest 2024.
 
-> **Gap:** weak coverage of 2024–2026 output beyond what's listed above. Bitcoin FilmFest's own
-> network is the best source here - not yet fully tapped.
-
 ## 🗿 Sculpture
 
 - [Adam Kadmon](https://adamkadmon.my.canva.site/bitcoinart) - Carved wood panels and gilded
@@ -268,9 +265,6 @@ but part of the same creative economy.
 - [The Genesis Code: Block One](https://eggore.com/) - Free near-future political satire by E. G.
   Gore about money, power, and who gets to print belief.
 
-> **Thin category.** Likely more exists on Nostr/Substack that open web search doesn't surface
-> well. Needs a direct ask to Tomek's network.
-
 ## 🎵 Music
 
 - [Ainsley Costello](https://ainsleycostello.com) - Singer-songwriter; first artist on Wavlake to
@@ -284,15 +278,15 @@ but part of the same creative economy.
   Stoicism.
 - [Man Like Kweks](https://wavlake.com/man-like-kweks) - Tanzanian hip-hop artist; documented
   earning far more via Wavlake sats than conventional distribution.
+- [Reel Richard](https://www.youtube.com/@Reelrichard) - Dynamic Bitcoin music videos and remixes,
+  including the "2140" techno video and halving-epoch songs.
 - [Scardust](https://metalstorm.net/bands/band.php?band_id=13193) - Progressive metal band from the
   Revolution.Rocks Belgrade value-for-value lineup.
+- [Tatiana Moroz](https://www.tatianamoroz.com/) - Singer-songwriter and Bitcoin advocate; launched
+  the Tatiana Coin artist token.
 - [The Orange Pill Jam Project](https://orangepilljam.bandcamp.com) - Zürich-based,
   copyleft/open-source Bitcoin-only music collective.
 - [Tip_NZ](https://btcartgallery.com/category/song) - NZ Bitcoin rap.
-
-> **Thin category.** Tomek's own BFF network (festival musical acts, conference performers)
-> likely knows more than open search surfaces. The Value4Value music scene (Wavlake, Fountain,
-> Nostr) is a rich, under-tapped source - see Platforms below.
 
 ## 🎮 Games
 
@@ -306,16 +300,14 @@ for real sats.
 
 - [BitByBit RUN](https://run.bitbybit.com.ar/) - Multiplayer runner race over Nostr relays where
   rivals can zap the winner real sats.
-- [Bitcoinia](https://bitcoinia.org) - Retro 50-level arcade puzzler: push ledger blocks, stack
-  sats, dodge the enemies of sound money.
 - [Bitcoin Mining Block Simulator](https://bitpolito-mining-game.vercel.app) - Educational game by
   BitPolito: pick mempool transactions, build a block header, and find a valid nonce.
 - [Bitcoin VR](https://store.steampowered.com/app/615460) - VR forest where you watch live Bitcoin
   transactions and prune the blockchain with a bow and arrow.
+- [Bitcoinia](https://bitcoinia.org) - Retro 50-level arcade puzzler: push ledger blocks, stack
+  sats, dodge the enemies of sound money.
 - [Blockstr](https://blockstr.io/) - Tetris clone with Lightning pay-to-play and scores signed and
   published on Nostr.
-- [₿ THE GAME](https://satsymbol.org/game) - Minimalist browser game where you move the Bitcoin
-  symbol; a novelty from Satsymbol.org.
 - [Chain Duel](https://chainduel.net/) - PvP Snake-style game where two chains fight for the block
   reward; skill-based Lightning wagers. ([source](https://github.com/francismars/chain-duel))
 - [Citadel Run](https://citadelrun.com/) - Endless runner; 100 sats buys a life over Lightning,
@@ -350,9 +342,8 @@ for real sats.
   invoices spawns monsters and triggers events.
 - [Proof of Score](https://proofofscore.win) - Asteroids-style shooter with pay-per-play over
   Lightning and a daily high-score prize pool.
-- [SaruTobi](https://apps.apple.com/us/app/sarutobi-make-the-monkey-fly/id1527644721) -
-  Monkey-flinging arcade game, the first mobile Bitcoin game (2013), relaunched with sat rewards via
-  ZBD.
+- [SaruTobi](https://apps.apple.com/us/app/sarutobi-make-the-monkey-fly/id1527644721) - Monkey-flinging
+  arcade game, the first mobile Bitcoin game (2013), relaunched with sat rewards via ZBD.
 - [Satoshi Settlers](https://satoshisettlers.com) - Experimental MMO-style world builder based on
   Bitcoin blocks, linked to Lightning.
 - [Satoshi Speedway](https://www.mkplus.plus/vegas) - Hacked Mario Kart 64 that streams real sats
@@ -363,15 +354,16 @@ for real sats.
   tech through coding challenges.
 - [Shitcoin Blaster](https://arkapi.dev/games/shitcoin-blaster/) - Shoot-'em-up against altcoins; 5
   sats per session over Lightning or Ark.
-- [Simple Bitcoin: Learn &
-  Earn](https://apps.apple.com/us/app/simple-bitcoin-learn-earn/id1487375777) - Bitcoin-only lessons
-  and quizzes that unlock spins paying sats.
+- [Simple Bitcoin: Learn & Earn](https://apps.apple.com/us/app/simple-bitcoin-learn-earn/id1487375777) - Bitcoin-only
+  lessons and quizzes that unlock spins paying sats.
 - [Snake.dance](https://snake.dance/) - Multiplayer skill snake with bosses and a daily leaderboard;
   Lightning login, sat prizes.
 - [Space Zappers](https://www.spacezappers.com) - Retro Space Invaders-style arcade game; 21 sats
   per play over Lightning, Nostr-native.
 - [StackerMan](https://stackerman.onrender.com/) - Bomberman-style browser game: pay 100 sats to
   play and collect bitcoin icons worth real sats.
+- [₿ THE GAME](https://satsymbol.org/game) - Minimalist browser game where you move the Bitcoin
+  symbol; a novelty from Satsymbol.org.
 - [The Game of Satoshi](https://www.thegameofsatoshi.com) - Yearly puzzle hunt inside The Satoshi
   Archive's series on Bitcoin history; prize paid in Bitcoin.
 - [Timechain Arcade](https://timechainarcade.com) - Browser arcade of Bitcoin-themed and educational
@@ -392,9 +384,8 @@ Physical tabletop games.
   about diversifying investments, where only Bitcoin outpaces inflation.
 - [Bitcoin Puzzle Playing Cards](https://bitcoinpuzzlecards.com) - Acrylic puzzle block you must
   "mine" to release two Bitcoin-themed card decks.
-- [Bitcoin the Card
-  Game](https://analog.games/games/08303110-5016-44c0-b84e-f9625470f831/bitcoin-the-card-game) -
-  78-card open-drafting card game with a Bitcoin theme.
+- [Bitcoin the Card Game](https://analog.games/games/08303110-5016-44c0-b84e-f9625470f831/bitcoin-the-card-game) - 78-card
+  open-drafting card game with a Bitcoin theme.
 - [Bitcoin Wars](https://bitcoin-wars.com) - Bidding card game with money cards, special cards, and
   collectible Bitcoin cards.
 - [Blockhunters](https://blockhuntersgame.com/) - Board game of strategy, luck, and bluffing around
@@ -504,8 +495,7 @@ distinct from the grants/patronage orgs above, these are self-serve tools any ar
 
 ## 🎪 Events & Festivals
 
-This list tracks creative work, not events - Tomek already maintains a dedicated, actively
-updated calendar for that:
+This list tracks creative work, not events. For a dedicated, actively updated calendar, see:
 
 - [Awesome Bitcoin Events](https://github.com/itstomekk/awesome-bitcoin-events) - The canonical
   source for Bitcoin conferences, meetups, retreats, festivals, and technical gatherings worldwide.
