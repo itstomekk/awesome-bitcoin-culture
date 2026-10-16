@@ -10,7 +10,7 @@
   var roomIdx = {};
   A.rooms.forEach(function (r, i) { roomIdx[r.id] = i; });
 
-  var state = { q: "", sort: "az", seed: 1, open: null, img: true, room: null };
+  var state = { q: "", sort: "az", seed: 1, open: null, img: true, room: null, suggest: null }; // suggest: null (closed) | "" | room id (form open, from the hash)
   var pinned = false;           // the hash carries a room (user chose one or scrolled into one)
   var counts = {};              // visible entries per room
   var list = [];
@@ -185,6 +185,7 @@
     state.seed = parseInt(p.get("seed"), 10) || 1;
     state.open = p.get("open") || null;
     state.img = p.get("img") !== "0";
+    state.suggest = p.has("suggest") ? (p.get("suggest") || "") : null;
   }
   function hashString() {
     var p = [];
@@ -193,6 +194,7 @@
     if (state.sort === "shuffle") p.push("sort=shuffle", "seed=" + state.seed);
     if (state.open) p.push("open=" + encodeURIComponent(state.open));
     if (!state.img) p.push("img=0");
+    if (state.suggest !== null) p.push(state.suggest ? "suggest=" + encodeURIComponent(state.suggest) : "suggest");
     return p.length ? "#" + p.join("&") : "";
   }
   var lastHash = "";
@@ -266,7 +268,7 @@
           '<h2 id="g-' + r.id + '"><span class="gl">' + A.esc(r.label) + "</span><small>" + A.esc(r.blurb) + "</small>" +
           '<span class="gc">' + g.length + "<em>" + (g.length === r.count ? "works" : "of " + r.count) + "</em></span></h2><ol>";
         g.forEach(function (e) { html += rowHtml(e); });
-        html += "</ol></section>";
+        html += '</ol><button type="button" class="sgcta" data-room="' + r.id + '"><span class="q">Missing something in ' + A.esc(r.label) + '?</span><span class="a">Suggest an entry <b aria-hidden="true">+</b></span></button></section>';
       });
     }
     rowsEl.innerHTML = html;
@@ -488,6 +490,7 @@
   /* ---------- keyboard ---------- */
   document.addEventListener("keydown", function (ev) {
     var t = ev.target, typing = t.tagName === "INPUT" || t.tagName === "TEXTAREA";
+    if (root.classList.contains("sg-open")) return; // the suggestion form handles its own keys
     if (ev.metaKey || ev.ctrlKey || ev.altKey) return;
     if (ev.key === "/" && !typing) { ev.preventDefault(); qEl.focus(); qEl.select(); return; }
     if ((ev.key === "t" || ev.key === "T") && !typing) { ev.preventDefault(); themeEl.click(); return; }
@@ -540,9 +543,32 @@
     var prevRoom = state.room;
     readHash(); render();
     if (state.room) jumpTo(state.room, true);
+    if (window.R4Suggest) window.R4Suggest.sync(state.suggest);
   }
   window.addEventListener("popstate", onNav);
   window.addEventListener("hashchange", onNav);
+
+  /* ---------- hooks for submit.js (the suggestion form) ---------- */
+  function showEntry(id) { // close any search, open that row and scroll to it
+    var e = byId[id]; if (!e) return;
+    state.q = ""; state.open = id; state.room = e.room; pinned = true;
+    render(); jumpTo(e.room, true);
+    var tries = 0, go = function () {
+      var h = headOf(id); if (!h) return;
+      reveal(h.parentNode); h.focus({ preventScroll: true });
+      if (++tries < 3) setTimeout(go, 160);
+    };
+    setTimeout(go, 120);
+  }
+  window.R4 = {
+    getSuggest: function () { return state.suggest; },
+    setSuggest: function (v) { state.suggest = v; writeHash(); },
+    showEntry: showEntry
+  };
+  rowsEl.addEventListener("click", function (ev) {
+    var c = ev.target.closest(".sgcta");
+    if (c && window.R4Suggest) window.R4Suggest.open({ room: c.dataset.room, trigger: c });
+  });
 
   /* ---------- go ---------- */
   applyTheme(root.getAttribute("data-theme") === "dark" ? "dark" : "light", false);
