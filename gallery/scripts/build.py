@@ -14,29 +14,26 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 PY = sys.executable
 
-# README sections are grouped into 8 browsable rooms (tiny sections share a room).
+# One room per README section (## heading), same order; README subsections (###) show as headings inside a room.
 ROOM_OF = {
     "Visual Art": "art",
     "Film & Documentary": "film",
-    "Sculpture": "sculpture",
     "Literature": "literature",
     "Music": "music",
     "Games": "games",
-    "Publications & Media": "media",
-    "Grants, Funders & Patronage": "scene",
-    "Platforms": "scene",
-    "Events & Festivals": "scene",
-    "Memes & Internet Culture": "scene",
+    "Institutions & Spaces": "institutions",
+    "Events & Festivals": "events",
+    "Memes & Internet Culture": "memes",
 }
 ROOMS = [
-    ("art", "Visual Art", "Rooms of paint, pixels and print"),
-    ("film", "Film", "Documentaries and features"),
-    ("sculpture", "Sculpture", "Things you can walk around"),
+    ("art", "Visual Art", "Painting, digital, mixed media and sculpture"),
+    ("film", "Film", "Film & Documentary: documentaries and features"),
     ("literature", "Literature", "Books and long reads"),
     ("music", "Music", "Sats-per-stream sound"),
     ("games", "Games", "Play for the story, or for sats"),
-    ("media", "Media", "Magazines, shows, podcasts"),
-    ("scene", "Scene", "Patrons, platforms, events, memes"),
+    ("institutions", "Institutions", "Institutions & Spaces: galleries, funders, magazines, platforms"),
+    ("events", "Events", "Events & Festivals: culture-first gatherings"),
+    ("memes", "Memes", "Memes & Internet Culture: in-jokes and meme artists"),
 ]
 
 
@@ -52,6 +49,8 @@ def main():
         run("scripts/fetch_images.py", *(["--force"] if "--force" in flags else []))
 
     entries = json.loads((ROOT / "data/entries.json").read_text(encoding="utf-8"))
+    missing = {e["room"] for e in entries} - set(ROOM_OF)
+    assert not missing, f"README sections without a room: {missing}"
     images = json.loads((ROOT / "data/images.json").read_text(encoding="utf-8")) if (ROOT / "data/images.json").exists() else {}
     shots_path = ROOT / "data/shots.json"
     shots = json.loads(shots_path.read_text(encoding="utf-8")) if shots_path.exists() else {}

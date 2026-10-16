@@ -33,10 +33,9 @@ coins, AI-slop generated in bulk.
   - [Painters](#painters)
   - [Digital & Graphic Artists](#digital--graphic-artists)
   - [Mixed Media & Other Artists](#mixed-media--other-artists)
+  - [Sculpture](#sculpture)
   - [Other / Studio & Sidework](#other--studio--sidework)
-  - [Institutions & Spaces](#institutions--spaces)
 - [🎬 Film & Documentary](#-film--documentary)
-- [🗿 Sculpture](#-sculpture)
 - [📚 Literature](#-literature)
 - [🎵 Music](#-music)
 - [🎮 Games](#-games)
@@ -44,9 +43,11 @@ coins, AI-slop generated in bulk.
   - [Board & Card Games](#board--card-games)
   - [Digital Board & Card Games](#digital-board--card-games)
   - [Wagering & Casino](#wagering--casino)
-- [📰 Publications & Media](#-publications--media)
-- [💰 Grants, Funders & Patronage](#-grants-funders--patronage)
-- [🧱 Platforms](#-platforms)
+- [🏛 Institutions & Spaces](#-institutions--spaces)
+  - [Galleries & Museums](#galleries--museums)
+  - [Grants, Funders & Patronage](#grants-funders--patronage)
+  - [Publications & Media](#publications--media)
+  - [Platforms & Marketplaces](#platforms--marketplaces)
 - [🎪 Events & Festivals](#-events--festivals)
 - [😂 Memes & Internet Culture](#-memes--internet-culture)
 
@@ -103,10 +104,6 @@ coins, AI-slop generated in bulk.
   Bitcoin culture.
 - [Pascal Boyart (PBOY)](https://en.pboy-art.com/) - Paris muralist: monumental figurative murals,
   paintings, and prints with Bitcoin imagery.
-- [Pepelangelo](https://pepelangelo.com/) - Oil paintings recasting Pepe the Frog through classical
-  art and portraiture, plus hand-finished canvas prints.
-- [Pepenardo (Nardo)](https://scarce.city/creators/pepenardo) - Oil painting, classical technique
-  meets meme culture.
 - [Petek](https://www.petek.co.uk/) - Acrylic paintings and hand-modified prints with gold leaf,
   meteorite, Moon dust, and banknotes; painted "Genesis" for PlanB.
 - [Proof of Paint](https://proofofpaint.art/) - Oil painting, illustration, and limited prints
@@ -126,8 +123,6 @@ coins, AI-slop generated in bulk.
 
 - [Anik Malcolm](https://anikmalcolm.com/) - Conceptual multimedia art with highly detailed,
   meticulous compositions; focuses on freedom, resistance, and transformation.
-- [Bitcoin Cartoons](https://www.bitcoincartoons.io/) - Whimsical illustration and cartooning for
-  the Bitcoin community.
 - [Bitko Yinowsky](https://bitko.cc/) - Digital Bitcoin character art; a fictional persona for
   decentralization, scarcity, and resistance.
   ([Nostr](https://primal.net/p/npub1k6rrkx80gkhxe9ycd5rpcjsaynf7034wvauffn928tqg5z0p2ekqhjx6lp))
@@ -211,8 +206,6 @@ coins, AI-slop generated in bulk.
   print, and sculpture; geometric abstraction in the "In Plain Sight" series.
 - [Modeotec](https://timechainartmagazine.com/artist/modeotec/) - Assemblage from recycled circuit
   boards; discarded hardware as statements about sound money.
-- [MrHansel](https://x.com/bettidlomas) - Bristol collage and acrylic work reworking Pepe imagery;
-  making Bitcoin art since 2015.
 - [NAJP](https://najp.ch/) - Swiss artist who builds paintings and collages from real US dollars,
   paint, and gold leaf.
 - [Rare Scrilla](https://www.rarescrilla.com/) - Illustration, painting, and mixed media rooted in
@@ -228,6 +221,28 @@ coins, AI-slop generated in bulk.
 - [ZETRA](https://zetra.studio/) - Painting, print, sculpture, and installation mixing street art
   with system-based abstraction.
 
+### Sculpture
+
+- [Adam Kadmon](https://adamkadmon.my.canva.site/bitcoinart) - Carved wood panels and gilded
+  mixed-media sculpture; "The Bitcoin Religion" series.
+- [Antonio Batzu](https://www.antoniobatzu.com/) - Ceramic sculpture in clay, lusters, and gold;
+  *Ichthys* forms tie Bitcoin to ancient symbolism.
+- [Brekkie von Bitcoin](https://www.vonbitcoin.com/) - Hand-carved stone, 24k gold leaf.
+- [Cypherpunk Now](https://www.cypherpunknow.com/) - Glass sculpture by Martin Fischer, from the
+  Prague Parallelní Polis scene.
+- [FractalEncrypt](https://timechainartmagazine.com/artist/fractalencrypt) - Sculpture, cypherpunk
+  digital-to-physical work.
+- [Gareth Eckley](https://garetheckley.com/) - Gemstone carving and jewelry sculpture; "Bitcoin Gem
+  Artwork" series uses sacred geometry and the Golden Ratio.
+- [MadMunky](https://madmunky2140.carrd.co/) - Wood, resin, and mixed-media sculpture with sound and
+  video; "Manifesto 2140" series.
+- [Puzzle](https://puzzlingpuzzle.art/) - Layered laser-cut wood sculpture with embedded LED
+  lighting.
+- [Statue of Satoshi](https://www.statueofsatoshi.com) - Budapest, Hungary. Bronze, reflective face.
+  By Gergely Réka & Tamás Gilly.
+- [Studio Zeitwerk](https://www.studio-zeitwerk.com/) - Sculpture in wood, concrete, and melted fiat
+  coins; block heights become landscapes of time.
+
 ### Other / Studio & Sidework
 
 Bitcoin-adjacent product lines and commercial studio projects - not individually authored art,
@@ -238,18 +253,6 @@ but part of the same creative economy.
 - [Bitcoin Trading Cards](https://basedtradingcards.com/) - Physical collectible card line telling
   Bitcoin culture through limited editions. ([X/Twitter](https://x.com/btc_cards),
   [Nostr](https://primal.net/p/npub1yjryjq2kdganuc69zme9agk0q4rjcnlxel3fwp3xm9z68phsxngsqd33a9))
-
-### Institutions & Spaces
-
-- [Bitcoin Art Gallery](https://bitcoinartgallery.com) - Physical gallery in Wynwood, Miami.
-- [Bitcoin Art Society](https://www.bitcoinartsociety.com) - Curator-led institution running the
-  Robert Mallary Art Residency and conference exhibitions.
-- [Bitcoin Magazine - Culture](https://bitcoinmagazine.com/culture) - Not dedicated to art but runs
-  recurring art coverage, including annual conference gallery previews.
-- [BMAG - Bitcoin Museum & Art Gallery](https://museum.b.tc) - Nashville museum and auction platform
-  by BTC Inc. with 170+ works and Hal Finney memorabilia.
-- [scarce.city](https://scarce.city) - Recurring commercial marketplace/auction hub; de facto
-  backbone linking most named artists above.
 
 ## 🎬 Film & Documentary
 
@@ -281,28 +284,6 @@ but part of the same creative economy.
   series by Rémi Forte on Bitcoin's origins; first prize at Bitcoin FilmFest 2023.
 - [Who Is Bitcoin?](https://www.youtube.com/watch?v=DvHUOr8ruMw) - 2023 puppet short from Spiral
   starring Bitty, a grumpy Bitcoin; screened at Bitcoin FilmFest 2024.
-
-## 🗿 Sculpture
-
-- [Adam Kadmon](https://adamkadmon.my.canva.site/bitcoinart) - Carved wood panels and gilded
-  mixed-media sculpture; "The Bitcoin Religion" series.
-- [Antonio Batzu](https://www.antoniobatzu.com/) - Ceramic sculpture in clay, lusters, and gold;
-  *Ichthys* forms tie Bitcoin to ancient symbolism.
-- [Brekkie von Bitcoin](https://www.vonbitcoin.com/) - Hand-carved stone, 24k gold leaf.
-- [Cypherpunk Now](https://www.cypherpunknow.com/) - Glass sculpture by Martin Fischer, from the
-  Prague Parallelní Polis scene.
-- [FractalEncrypt](https://timechainartmagazine.com/artist/fractalencrypt) - Sculpture, cypherpunk
-  digital-to-physical work.
-- [Gareth Eckley](https://garetheckley.com/) - Gemstone carving and jewelry sculpture; "Bitcoin Gem
-  Artwork" series uses sacred geometry and the Golden Ratio.
-- [MadMunky](https://madmunky2140.carrd.co/) - Wood, resin, and mixed-media sculpture with sound and
-  video; "Manifesto 2140" series.
-- [Puzzle](https://puzzlingpuzzle.art/) - Layered laser-cut wood sculpture with embedded LED
-  lighting.
-- [Statue of Satoshi](https://www.statueofsatoshi.com) - Budapest, Hungary. Bronze, reflective face.
-  By Gergely Réka & Tamás Gilly.
-- [Studio Zeitwerk](https://www.studio-zeitwerk.com/) - Sculpture in wood, concrete, and melted fiat
-  coins; block heights become landscapes of time.
 
 ## 📚 Literature
 
@@ -490,11 +471,32 @@ but part of the same creative economy.
 
 </details>
 
-## 📰 Publications & Media
+## 🏛 Institutions & Spaces
+
+### Galleries & Museums
+
+- [Bitcoin Art Gallery](https://bitcoinartgallery.com) - Physical gallery in Wynwood, Miami.
+- [Bitcoin Art Society](https://www.bitcoinartsociety.com) - Curator-led institution running the
+  Robert Mallary Art Residency and conference exhibitions.
+- [BMAG - Bitcoin Museum & Art Gallery](https://museum.b.tc) - Nashville museum and auction platform
+  by BTC Inc. with 170+ works and Hal Finney memorabilia.
+
+### Grants, Funders & Patronage
+
+Organizations that fund or support Bitcoin-native creative work directly - grants, residencies,
+sponsorships, patronage infrastructure.
+
+- [Bitcoin for the Arts (BFTA)](https://www.bitcoinforthearts.org/) - US nonprofit giving artists
+  quarterly micro-grants in Bitcoin; runs Bitcoin Arts Park.
+- [Satoshee Open Source Culture initiative](https://satosh.ee/open-source-culture/) - Funds
+  public-domain creative work through commissions, BTC-funded contests, and Nostr zaps.
+
+### Publications & Media
 
 - [Bitcoin Art Podcast](https://timechainartmagazine.com/podcast/) - Timechain Art Magazine's "The
   Movement of Art", long-form talks with Bitcoin artists.
-- [Bitcoin Magazine](https://bitcoinmagazine.com) - Culture vertical + print.
+- [Bitcoin Magazine](https://bitcoinmagazine.com) - Print and online magazine; its Culture vertical
+  runs recurring art coverage, including annual conference gallery previews.
 - [Bitcoin Shipshow](https://bitcoinship.show/) - Monthly online Bitcoin meetup and live demo show
   for Bitcoin, Lightning, and Nostr builders.
 - [Bitcoin Video Magazine](https://bitcoinvideomagazine.com) - Hour-long video show covering the
@@ -514,17 +516,7 @@ but part of the same creative economy.
 - [Timechain Art Magazine](https://timechainartmagazine.com) - Runs a public [Artist
   Directory](https://timechainartmagazine.com/artist-directory/), source for many entries above.
 
-## 💰 Grants, Funders & Patronage
-
-Organizations that fund or support Bitcoin-native creative work directly - grants, residencies,
-sponsorships, patronage infrastructure.
-
-- [Bitcoin for the Arts (BFTA)](https://www.bitcoinforthearts.org/) - US nonprofit giving artists
-  quarterly micro-grants in Bitcoin; runs Bitcoin Arts Park.
-- [Satoshee Open Source Culture initiative](https://satosh.ee/open-source-culture/) - Funds
-  public-domain creative work through commissions, BTC-funded contests, and Nostr zaps.
-
-## 🧱 Platforms
+### Platforms & Marketplaces
 
 Infrastructure that lets creators publish, distribute, or get funded directly in Bitcoin -
 distinct from the grants/patronage orgs above, these are self-serve tools any artist can use.
@@ -535,6 +527,8 @@ distinct from the grants/patronage orgs above, these are self-serve tools any ar
   grants paid in Bitcoin and Lightning.
 - [IndeeHub Studio](https://indeehub.studio) - Lightning film streaming platform that pays
   filmmakers in real time per second watched.
+- [scarce.city](https://scarce.city) - Recurring commercial marketplace/auction hub; de facto
+  backbone linking most named artists above.
 - [Wavlake](https://wavlake.com) - Value4Value music streaming; artists earn Lightning "zaps"
   directly from listeners.
 
@@ -559,10 +553,19 @@ viral formats) but are mostly anonymous or collectively authored, which doesn't 
 named-creator rule for other sections. This section is deliberately looser: entries here don't
 need individual attribution, just to be a genuinely recognizable, lasting part of Bitcoin's
 internet culture (not a one-off tweet or a promotional gimmick).
+Named artists whose main material is meme culture also live here.
 
+- [Bitcoin Cartoons](https://www.bitcoincartoons.io/) - Whimsical illustration and cartooning for
+  the Bitcoin community.
 - [Maxis Club](https://maxisclub.carrd.co/) - Meme art and satire; a daily series aiming for 2,100
   memes, echoing the 21 million cap. ([X/Twitter](https://x.com/MaxisClub),
   [Nostr](https://primal.net/p/npub1pazuhetzx5w8yyt59lszeslxlywkeadnq6rncre7nlqv2uxnxuwq8c56r9))
+- [MrHansel](https://x.com/bettidlomas) - Bristol collage and acrylic work reworking Pepe imagery;
+  making Bitcoin art since 2015.
+- [Pepelangelo](https://pepelangelo.com/) - Oil paintings recasting Pepe the Frog through classical
+  art and portraiture, plus hand-finished canvas prints.
+- [Pepenardo (Nardo)](https://scarce.city/creators/pepenardo) - Oil painting, classical technique
+  meets meme culture.
 
 ---
 

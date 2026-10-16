@@ -9,6 +9,8 @@
   A.entries.forEach(function (e) { byId[e.id] = e; });
   var roomIdx = {};
   A.rooms.forEach(function (r, i) { roomIdx[r.id] = i; });
+  var SUB_ORDER = {}; // README subsection order per room (entries arrive in README order)
+  A.entries.forEach(function (e) { var a = (SUB_ORDER[e.room] = SUB_ORDER[e.room] || []); if (a.indexOf(e.sub || "") < 0) a.push(e.sub || ""); });
 
   var state = { q: "", sort: "az", seed: 1, open: null, img: true, room: null, suggest: null }; // suggest: null (closed) | "" | room id (form open, from the hash)
   var pinned = false;           // the hash carries a room (user chose one or scrolled into one)
@@ -266,9 +268,17 @@
         var g = groups[r.id]; if (!g) return;
         html += '<section class="grp" id="room-' + r.id + '" data-room="' + r.id + '" aria-labelledby="g-' + r.id + '">' +
           '<h2 id="g-' + r.id + '"><span class="gl">' + A.esc(r.label) + "</span><small>" + A.esc(r.blurb) + "</small>" +
-          '<span class="gc">' + g.length + "<em>" + (g.length === r.count ? "works" : "of " + r.count) + "</em></span></h2><ol>";
-        g.forEach(function (e) { html += rowHtml(e); });
-        html += '</ol><button type="button" class="sgcta" data-room="' + r.id + '"><span class="q">Missing something in ' + A.esc(r.label) + '?</span><span class="a">Suggest an entry <b aria-hidden="true">+</b></span></button></section>';
+          '<span class="gc">' + g.length + "<em>" + (g.length === r.count ? "works" : "of " + r.count) + "</em></span></h2>";
+        var bySub = {};
+        g.forEach(function (e) { (bySub[e.sub || ""] = bySub[e.sub || ""] || []).push(e); });
+        (SUB_ORDER[r.id] || [""]).forEach(function (sn) {
+          var ge = bySub[sn]; if (!ge) return;
+          if (sn) html += '<h3 class="sub">' + A.esc(sn) + "<em>" + ge.length + "</em></h3>";
+          html += "<ol>";
+          ge.forEach(function (e) { html += rowHtml(e); });
+          html += "</ol>";
+        });
+        html += '<button type="button" class="sgcta" data-room="' + r.id + '"><span class="q">Missing something in ' + A.esc(r.label) + '?</span><span class="a">Suggest an entry <b aria-hidden="true">+</b></span></button></section>';
       });
     }
     rowsEl.innerHTML = html;

@@ -18,16 +18,16 @@
   --wash0:242,240,233; --tc0:#111; --hvw:17,17,17; --hvbg:#111;
   --cb:#f2f0e9; --cf:#111;
   --focus:#111;
-  --ic-sculpture:255,255,255; --ic-games:255,255,255; /* ink on those two bands is white, everywhere else near-black */
+  --ic-institutions:255,255,255; --ic-games:255,255,255; /* ink on those two bands is white, everywhere else near-black */
   /* room colours on the light page: flat poster bands. -ink is the text colour on that band (all >= 4.5:1) */
   --room-art:#f7931a;        --room-art-ink:#111;
   --room-film:#ee4a35;       --room-film-ink:#111;
-  --room-sculpture:#2f5be0;  --room-sculpture-ink:#fff;
+  --room-institutions:#2f5be0;  --room-institutions-ink:#fff;
   --room-literature:#7fc232; --room-literature-ink:#111;
   --room-music:#f0468f;      --room-music-ink:#111;
   --room-games:#8a44d8;      --room-games-ink:#fff;
-  --room-media:#14ab9f;      --room-media-ink:#111;
-  --room-scene:#f5cf2c;      --room-scene-ink:#111;
+  --room-events:#14ab9f;      --room-events-ink:#111;
+  --room-memes:#f5cf2c;      --room-memes-ink:#111;
   --ftop:.4;
 }
 :root[data-theme="dark"]{
@@ -36,42 +36,42 @@
   --wash0:18,17,15; --tc0:#f1ede1; --hvw:6,6,5; --hvbg:#080807;
   --cb:#1d1b18; --cf:#e9e5d9;
   --focus:#ece8dc;
-  --ic-sculpture:17,17,17; --ic-games:17,17,17; /* lifted bands carry black ink */
+  --ic-institutions:17,17,17; --ic-games:17,17,17; /* lifted bands carry black ink */
   /* on the dark page every band is the lifted variant with black text */
   --room-art:#f7931a;        --room-art-ink:#111;
   --room-film:#ff6a55;       --room-film-ink:#111;
-  --room-sculpture:#5f90ff;  --room-sculpture-ink:#111;
+  --room-institutions:#5f90ff;  --room-institutions-ink:#111;
   --room-literature:#9bd84c; --room-literature-ink:#111;
   --room-music:#ff6aa8;      --room-music-ink:#111;
   --room-games:#b983ff;      --room-games-ink:#111;
-  --room-media:#2dd0c2;      --room-media-ink:#111;
-  --room-scene:#f5cf2c;      --room-scene-ink:#111;
+  --room-events:#2dd0c2;      --room-events-ink:#111;
+  --room-memes:#f5cf2c;      --room-memes-ink:#111;
 }
 /* bright variants (--rh) for use on the near-black hover / ink surfaces: same in both themes */
 :root{
-  --hi-art:#f7931a; --hi-film:#ff6a55; --hi-sculpture:#5f90ff; --hi-literature:#9bd84c;
-  --hi-music:#ff6aa8; --hi-games:#b983ff; --hi-media:#2dd0c2; --hi-scene:#f5cf2c;
+  --hi-art:#f7931a; --hi-film:#ff6a55; --hi-institutions:#5f90ff; --hi-literature:#9bd84c;
+  --hi-music:#ff6aa8; --hi-games:#b983ff; --hi-events:#2dd0c2; --hi-memes:#f5cf2c;
 }
 /* one mapping, shared by the room section, its rail tab and anything else carrying data-room */
 [data-room="art"]{--rc:var(--room-art);--rci:var(--room-art-ink);--rh:var(--hi-art)}
 [data-room="film"]{--rc:var(--room-film);--rci:var(--room-film-ink);--rh:var(--hi-film)}
-[data-room="sculpture"]{--rc:var(--room-sculpture);--rci:var(--room-sculpture-ink);--rh:var(--hi-sculpture)}
+[data-room="institutions"]{--rc:var(--room-institutions);--rci:var(--room-institutions-ink);--rh:var(--hi-institutions)}
 [data-room="literature"]{--rc:var(--room-literature);--rci:var(--room-literature-ink);--rh:var(--hi-literature)}
 [data-room="music"]{--rc:var(--room-music);--rci:var(--room-music-ink);--rh:var(--hi-music)}
 [data-room="games"]{--rc:var(--room-games);--rci:var(--room-games-ink);--rh:var(--hi-games)}
-[data-room="media"]{--rc:var(--room-media);--rci:var(--room-media-ink);--rh:var(--hi-media)}
-[data-room="scene"]{--rc:var(--room-scene);--rci:var(--room-scene-ink);--rh:var(--hi-scene)}
+[data-room="events"]{--rc:var(--room-events);--rci:var(--room-events-ink);--rh:var(--hi-events)}
+[data-room="memes"]{--rc:var(--room-memes);--rci:var(--room-memes-ink);--rh:var(--hi-memes)}
 :root{--ga:rgb(var(--barfg));--gaf:var(--bar)}
 /* bars wear the active room's colour. html[data-bar] is set by the head script (from the hash) and by app.js (scroll-spy).
    --bar: band colour, --barfg: ink as r,g,b (so rgba(var(--barfg),.5) works), --barrule: the 2px rule against the content */
 :root{--bar:var(--room-art);--barfg:17,17,17}
 :root[data-bar="film"]{--bar:var(--room-film)}
-:root[data-bar="sculpture"]{--bar:var(--room-sculpture);--barfg:var(--ic-sculpture,17,17,17)}
+:root[data-bar="institutions"]{--bar:var(--room-institutions);--barfg:var(--ic-institutions,17,17,17)}
 :root[data-bar="literature"]{--bar:var(--room-literature)}
 :root[data-bar="music"]{--bar:var(--room-music)}
 :root[data-bar="games"]{--bar:var(--room-games);--barfg:var(--ic-games,17,17,17)}
-:root[data-bar="media"]{--bar:var(--room-media)}
-:root[data-bar="scene"]{--bar:var(--room-scene)}
+:root[data-bar="events"]{--bar:var(--room-events)}
+:root[data-bar="memes"]{--bar:var(--room-memes)}
 :root{--barrule:color-mix(in srgb,rgb(var(--barfg)) 88%,var(--bar))}
 *{box-sizing:border-box;border-radius:0}
 html{scroll-behavior:auto;-webkit-text-size-adjust:100%;scroll-padding-top:calc(var(--st) + var(--gh) + 6px);scroll-padding-bottom:calc(var(--bb) + 10px)}
@@ -342,3 +342,7 @@ body.noimg .head:focus-visible,body.noimg .head[aria-expanded="true"],html.hv bo
 @media (prefers-reduced-motion:reduce){
   *,*::before,*::after{transition:none!important;animation:none!important;scroll-behavior:auto!important}
 }
+
+/* README subsection heading inside a room */
+.grp>h3.sub{display:flex;align-items:baseline;gap:10px;margin:0;padding:14px var(--pad) 8px;font:700 12px/1.2 var(--mono);letter-spacing:.12em;text-transform:uppercase;border-bottom:2px solid var(--rc);background:var(--bg);color:var(--fg)}
+.grp>h3.sub em{font-style:normal;font-weight:400;opacity:.6;letter-spacing:.06em}

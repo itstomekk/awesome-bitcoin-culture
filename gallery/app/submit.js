@@ -9,13 +9,13 @@
   var REPO = "itstomekk/awesome-bitcoin-culture";
   var BASE = "https://github.com/" + REPO + "/issues/new?template=suggest-entry.yml";
   var MAXURL = 6000, SOFT = 140, KEY = "abc-suggest-draft-v1";
-  var CAT = { art: "Visual Art", film: "Film & Documentary", sculpture: "Sculpture", literature: "Literature", music: "Music", games: "Games", media: "Publications & Media" };
-  var SUBS = ["Grants, Funders & Patronage", "Platforms", "Events & Festivals", "Memes & Internet Culture"];
+  var CAT = { art: "Visual Art", film: "Film & Documentary", literature: "Literature", music: "Music", games: "Games", events: "Events & Festivals", memes: "Memes & Internet Culture" };
+  var SUBS = ["Galleries & Museums", "Grants, Funders & Patronage", "Publications & Media", "Platforms & Marketplaces"];
   var reduce = window.matchMedia("(prefers-reduced-motion: reduce)");
   var esc = A.esc;
 
   function categoryFor(room, sub) {
-    if (room === "scene") return sub || "";
+    if (room === "institutions") return sub || "";
     if (room === "unsure") return "Not sure";
     return CAT[room] || "";
   }
@@ -118,7 +118,7 @@
       '<section class="sg-sec" aria-labelledby="sgH1"><h3 class="sg-h" id="sgH1"><i>1</i>Which room?</h3>' +
       '<p class="sg-sub-h">Pick the closest fit. Maintainers can move it.</p>' +
       '<div class="sg-f" data-f="room"><fieldset role="radiogroup" aria-describedby="sg-room-e"><legend class="sr">Room</legend><div class="sg-chips" id="sgChips">' + chips + "</div>" +
-      '<div class="sg-sub" id="sgSub" data-room="scene" inert><div class="sg-sub-in"><div class="sg-subbox" role="group" aria-labelledby="sgSubLab"><p class="sg-lab" id="sgSubLab">What kind of Scene entry?</p><div class="sg-subs" id="sgSubs">' + subs + "</div></div></div></div></fieldset>" +
+      '<div class="sg-sub" id="sgSub" data-room="institutions" inert><div class="sg-sub-in"><div class="sg-subbox" role="group" aria-labelledby="sgSubLab"><p class="sg-lab" id="sgSubLab">What kind of Institutions &amp; Spaces entry?</p><div class="sg-subs" id="sgSubs">' + subs + "</div></div></div></div></fieldset>" +
       '<p class="sg-msg" id="sg-room-e" hidden>' + ICON_BAD + "<span></span></p></div></section>" +
       '<section class="sg-sec" aria-labelledby="sgH2"><h3 class="sg-h" id="sgH2"><i>2</i>The work</h3>' +
       field("name", "Name", "Name as it should appear in the list (an artist, work, studio or resource).", inp("name", 'type="text" maxlength="120" placeholder="e.g. Rebel Money"')) +
@@ -174,7 +174,7 @@
   function check() {
     var e = {}, n = normLink(F.link);
     if (!F.room) e.room = "Pick a room, or choose Not sure.";
-    else if (F.room === "scene" && !F.sub) e.room = "Pick what kind of Scene entry this is.";
+    else if (F.room === "institutions" && !F.sub) e.room = "Pick what kind of Institutions & Spaces entry this is.";
     if (squash(F.name).length < 2) e.name = "Add a name for the list.";
     if (n.empty) e.link = "Add a link to the work.";
     else if (!n.ok) e.link = "That does not look like a web link. Try https://example.com/the-work";
@@ -236,14 +236,14 @@
     var pn = $("sgPvN"), t = $("sgPvT"), shown = name || "Your entry name";
     pn.textContent = shown; pn.classList.toggle("is-ph", !name);
     pn.style.setProperty("--c", Math.max(7, shown.length));
-    t.textContent = F.room === "scene" && F.sub ? F.sub : F.room === "unsure" ? "Not sure" : F.room ? roomLabel(F.room) : "Room";
+    t.textContent = F.room === "institutions" && F.sub ? F.sub : F.room === "unsure" ? "Not sure" : F.room ? roomLabel(F.room) : "Room";
     $("sgPvH").textContent = n.ok ? n.host : "example.com";
     $("sgPv").setAttribute("data-pat", String(A.hash(name || "x") % 4));
   }
 
   function paint() {
     panel.setAttribute("data-room", F.room || "none");
-    var sc = F.room === "scene", sub = $("sgSub");
+    var sc = F.room === "institutions", sub = $("sgSub");
     sub.classList.toggle("is-on", sc);
     if (sc) sub.removeAttribute("inert"); else sub.setAttribute("inert", "");
     paintNotes(); paintDup(); paintPreview();
@@ -260,7 +260,7 @@
   /* ---------- events: fields ---------- */
   form.addEventListener("input", function (ev) {
     var t = ev.target;
-    if (t.name === "sgroom") { F.room = t.value; if (F.room !== "scene") F.sub = ""; touched.room = true; }
+    if (t.name === "sgroom") { F.room = t.value; if (F.room !== "institutions") F.sub = ""; touched.room = true; }
     else if (t.name === "sgsub") { F.sub = t.value; touched.room = true; }
     else if (t === rulesBox) { F.rules = rulesBox.checked; touched.rules = true; }
     else Object.keys(IN).forEach(function (k) { if (IN[k] === t) F[k] = t.value; });
@@ -305,7 +305,7 @@
   }
   $("sgCopy").addEventListener("click", function () { var b = this; copyText(readmeLine()).then(function () { flash(b, true, "README line copied"); }, function () { flash(b, false); }); });
   $("sgText").addEventListener("click", function () { var b = this; copyText(plainText()).then(function () { flash(b, true, "Copied as text"); }, function () { flash(b, false); }); });
-  function roomText() { return F.room === "scene" ? "Scene (" + (F.sub || "?") + ")" : F.room === "unsure" ? "Not sure" : roomLabel(F.room); }
+  function roomText() { return F.room === "institutions" ? "Institutions & Spaces (" + (F.sub || "?") + ")" : F.room === "unsure" ? "Not sure" : roomLabel(F.room); }
   function plainText() {
     var n = normLink(F.link);
     return ["Suggestion for Awesome Bitcoin Culture (https://github.com/" + REPO + ")", "",
@@ -336,7 +336,7 @@
   /* ---------- submit ---------- */
   function firstBad(e) { for (var i = 0; i < ORDER.length; i++) if (e[ORDER[i]]) return ORDER[i]; return null; }
   function focusField(k) {
-    var el = k === "room" ? (F.room === "scene" && !F.sub ? host.querySelector('input[name="sgsub"]') : (host.querySelector('input[name="sgroom"]:checked') || host.querySelector('input[name="sgroom"]')))
+    var el = k === "room" ? (F.room === "institutions" && !F.sub ? host.querySelector('input[name="sgsub"]') : (host.querySelector('input[name="sgroom"]:checked') || host.querySelector('input[name="sgroom"]')))
       : k === "rules" ? rulesBox : IN[k];
     if (!el) return;
     el.focus({ preventScroll: true });
@@ -389,11 +389,11 @@
   function open(opts) {
     opts = opts || {};
     var want = opts.room && validRoom(opts.room) ? opts.room : "";
-    if (isOpen) { if (want) { F.room = want; if (want !== "scene") F.sub = ""; toDom(); paint(); } return; }
+    if (isOpen) { if (want) { F.room = want; if (want !== "institutions") F.sub = ""; toDom(); paint(); } return; }
     trigger = opts.trigger || (document.activeElement && document.activeElement !== document.body ? document.activeElement : null);
     clearTimeout(hideT);
     readDraft();
-    if (want) { F.room = want; if (want !== "scene") F.sub = ""; }
+    if (want) { F.room = want; if (want !== "institutions") F.sub = ""; }
     touched = {}; attempted = false; showForm(); toDom(); paint();
     dismissConfirm();
     host.hidden = false; isOpen = true;

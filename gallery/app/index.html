@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Awesome Bitcoin Culture / Archive Banners</title>
-<meta name="description" content="A catalogue of human creative work about Bitcoin: art, film, sculpture, literature, music, games, media and scene.">
+<meta name="description" content="A catalogue of human creative work about Bitcoin: art, film, literature, music, games, institutions, events and memes.">
 <meta name="color-scheme" content="light dark">
 <meta name="theme-color" content="#f7931a">
 <script>
@@ -15,7 +15,7 @@
   if (t !== "light" && t !== "dark") t = window.matchMedia && matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
   document.documentElement.setAttribute("data-theme", t);
   /* bar colour before first paint: the room named in the hash, else the first room */
-  var m = /(?:^|[#&])room=(art|film|sculpture|literature|music|games|media|scene)(?:[,&]|$)/.exec(location.hash);
+  var m = /(?:^|[#&])room=(art|film|literature|music|games|institutions|events|memes)(?:[,&]|$)/.exec(location.hash);
   document.documentElement.setAttribute("data-bar", m ? m[1] : "art");
 })();
 </script>

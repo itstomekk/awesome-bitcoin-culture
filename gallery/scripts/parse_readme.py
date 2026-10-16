@@ -18,20 +18,17 @@ DEFAULT = _REPO_README if _REPO_README.exists() else Path(
 # room id -> (short label, accent colour used by some variants)
 ROOMS = {
     "Visual Art": "Visual Art",
-    "Film & Documentary": "Film",
-    "Sculpture": "Sculpture",
+    "Film & Documentary": "Film & Documentary",
     "Literature": "Literature",
     "Music": "Music",
     "Games": "Games",
-    "Publications & Media": "Media",
-    "Grants, Funders & Patronage": "Patrons",
-    "Platforms": "Platforms",
-    "Events & Festivals": "Events",
-    "Memes & Internet Culture": "Memes",
+    "Institutions & Spaces": "Institutions & Spaces",
+    "Events & Festivals": "Events & Festivals",
+    "Memes & Internet Culture": "Memes & Internet Culture",
 }
 
 H2 = re.compile(r"^##\s+(\S+)\s+(.*)$")
-H3 = re.compile(r"^###\s+(.*)$")
+H3 = re.compile(r"^#{3,4}\s+(.*)$")  # README ### subsections and the #### Games folds
 ITEM = re.compile(r"^- \[(?P<name>[^\]]+)\]\((?P<url>[^)\s]+)\)\s*-?\s*(?P<desc>.*)$")
 
 

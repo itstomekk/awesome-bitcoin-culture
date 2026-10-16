@@ -32,6 +32,7 @@ jobs:
         working-directory: gallery
         run: |
           python scripts/build.py --no-fetch
+          python scripts/check_parity.py
           python scripts/assemble.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

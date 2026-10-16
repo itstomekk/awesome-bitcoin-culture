@@ -196,8 +196,7 @@
   "shot": "kane-mayfield.webp"
  },
  "kontext": {
-  "shot": null,
-  "why": "blank"
+  "shot": "kontext.webp"
  },
  "man-like-kweks": {
   "shot": "man-like-kweks.webp"
@@ -209,8 +208,7 @@
   "shot": "the-orange-pill-jam-project.webp"
  },
  "blockstr": {
-  "shot": null,
-  "why": "Error"
+  "shot": "blockstr.webp"
  },
  "tip-nz": {
   "shot": "tip-nz.webp"
@@ -330,5 +328,52 @@
  },
  "reel-richard": {
   "shot": "reel-richard.webp"
+ },
+ "ksenia-buridanova": {
+  "shot": null,
+  "why": "Error"
+ },
+ "jake-allen": {
+  "shot": "jake-allen.webp"
+ },
+ "petek": {
+  "shot": "petek.webp"
+ },
+ "moon": {
+  "shot": "moon.webp"
+ },
+ "lisa-t-rner": {
+  "shot": "lisa-t-rner.webp"
+ },
+ "le-pleb-royale": {
+  "shot": "le-pleb-royale.webp"
+ },
+ "zazawowow": {
+  "shot": null,
+  "why": "Error"
+ },
+ "tynka": {
+  "shot": "tynka.webp"
+ },
+ "world-of-rusty": {
+  "shot": "world-of-rusty.webp"
+ },
+ "kialara": {
+  "shot": "kialara.webp"
+ },
+ "mlo-martin-lukas-ostachowski": {
+  "shot": "mlo-martin-lukas-ostachowski.webp"
+ },
+ "najp": {
+  "shot": "najp.webp"
+ },
+ "tructor-21": {
+  "shot": "tructor-21.webp"
+ },
+ "ivy-lumi": {
+  "shot": "ivy-lumi.webp"
+ },
+ "pepelangelo": {
+  "shot": "pepelangelo.webp"
  }
 }

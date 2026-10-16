@@ -1176,5 +1176,172 @@
   "img": null,
   "color": null,
   "why": "page:URLError"
+ },
+ "fzero": {
+  "img": "img/fzero.webp",
+  "color": "#2a2021",
+  "w": 720,
+  "h": 378,
+  "src": "https://9fold.co/og/fzero.jpg"
+ },
+ "jake-allen": {
+  "img": "img/jake-allen.webp",
+  "color": "#b1b1b1",
+  "w": 180,
+  "h": 180,
+  "src": "https://www.artworkbyja.com/apple-touch-icon.png"
+ },
+ "ksenia-buridanova": {
+  "img": null,
+  "color": null,
+  "why": "page:URLError"
+ },
+ "lisa-t-rner": {
+  "img": "img/lisa-t-rner.webp",
+  "color": "#f1f1f1",
+  "w": 720,
+  "h": 720,
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lisat.se/media/lisat.se/onewebmedia/LOGGA_LISA%20TO%CC%88RNER%20ART%20RUND.png?etag=%228cf2-5fd25609%22&sourceContentType=image%2Fpng&quality=85"
+ },
+ "moon": {
+  "img": "img/moon.webp",
+  "color": "#a0958a",
+  "w": 512,
+  "h": 512,
+  "src": "https://i0.wp.com/moongoon.art/wp-content/uploads/2026/03/cropped-IMG_2015-rotated-1.jpeg?fit=512%2C512&#038;ssl=1"
+ },
+ "naples": {
+  "img": "img/naples.webp",
+  "color": "#7b7661",
+  "w": 720,
+  "h": 357,
+  "src": "http://static1.squarespace.com/static/63a37bb292d71e29a28e0306/t/640229d95699622e35d3a213/1677863385758/Wrapped+Lemon.jpg?format=1500w"
+ },
+ "pascal-boyart-pboy": {
+  "img": "img/pascal-boyart-pboy.webp",
+  "color": "#484038",
+  "w": 720,
+  "h": 480,
+  "src": "https://static.wixstatic.com/media/61405b_9915a9388dea4c8ca98ad90d3db9b7ea%7Emv2_d_2048_1366_s_2.jpeg/v1/fit/w_2500,h_1330,al_c/61405b_9915a9388dea4c8ca98ad90d3db9b7ea%7Emv2_d_2048_1366_s_2.jpeg"
+ },
+ "petek": {
+  "img": "img/petek.webp",
+  "color": "#e7e7e8",
+  "w": 180,
+  "h": 180,
+  "src": "https://static.wixstatic.com/media/ed8ce2_495f588987fa4579824a7409812c9cfb%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/ed8ce2_495f588987fa4579824a7409812c9cfb%7Emv2.jpg"
+ },
+ "proof-of-paint": {
+  "img": "img/proof-of-paint.webp",
+  "color": "#90877b",
+  "w": 720,
+  "h": 480,
+  "src": "https://proofofpaint.art/wp-content/uploads/2024/04/DSC03864-01-1-scaled.jpeg"
+ },
+ "trevor-jones": {
+  "img": "img/trevor-jones.webp",
+  "color": "#e8e8e1",
+  "w": 711,
+  "h": 533,
+  "src": "https://www.trevorjonesart.com/wp-content/uploads/2021/12/logo-4.3-1.png"
+ },
+ "x3n0533d": {
+  "img": null,
+  "color": null,
+  "why": "blocked-host"
+ },
+ "fr-d-ric-guimont": {
+  "img": "img/fr-d-ric-guimont.webp",
+  "color": "#c8752a",
+  "w": 720,
+  "h": 378,
+  "src": "https://ratelcomic.com/images/ratel_comic_og.png"
+ },
+ "le-pleb-royale": {
+  "img": null,
+  "color": null,
+  "why": "no-image"
+ },
+ "mr-crown": {
+  "img": "img/mr-crown.webp",
+  "color": "#575b5b",
+  "w": 720,
+  "h": 378,
+  "src": "https://renarchy.com/og/home"
+ },
+ "nogood": {
+  "img": "img/nogood.webp",
+  "color": "#aba89e",
+  "w": 720,
+  "h": 378,
+  "src": "https://www.nogood.studio/assets/img/NoGood_OG.png"
+ },
+ "tynka": {
+  "img": null,
+  "color": null,
+  "why": "image-failed"
+ },
+ "world-of-rusty": {
+  "img": null,
+  "color": null,
+  "why": "no-image"
+ },
+ "zazawowow": {
+  "img": null,
+  "color": null,
+  "why": "page:URLError"
+ },
+ "btc-monk": {
+  "img": null,
+  "color": null,
+  "why": "blocked-host"
+ },
+ "crayonsmell": {
+  "img": null,
+  "color": null,
+  "why": "blocked-host"
+ },
+ "kialara": {
+  "img": "img/kialara.webp",
+  "color": "#434343",
+  "w": 232,
+  "h": 232,
+  "src": "https://kialara.com/wp-content/uploads/2023/09/kialara_favicon.jpg"
+ },
+ "mlo-martin-lukas-ostachowski": {
+  "img": "img/mlo-martin-lukas-ostachowski.webp",
+  "color": "#8b9093",
+  "w": 180,
+  "h": 180,
+  "src": "https://mlo.art/wp-content/uploads/apple-touch-icon.png"
+ },
+ "najp": {
+  "img": "img/najp.webp",
+  "color": "#171717",
+  "w": 180,
+  "h": 180,
+  "src": "https://najp.ch/wp-content/uploads/2025/07/cropped-NAJP_iPhone-180x180.png"
+ },
+ "tructor-21": {
+  "img": null,
+  "color": null,
+  "why": "page:RemoteDisconnected"
+ },
+ "ivy-lumi": {
+  "img": "img/ivy-lumi.webp",
+  "color": "#171409",
+  "w": 720,
+  "h": 720,
+  "src": "http://static1.squarespace.com/static/67c09fad0e90460ea6447785/t/67e997a6c3c76251d70698b7/1743361958424/animation+%282%29.gif?format=1500w"
+ },
+ "mrhansel": {
+  "img": null,
+  "color": null,
+  "why": "blocked-host"
+ },
+ "pepelangelo": {
+  "img": null,
+  "color": null,
+  "why": "no-image"
  }
 }
