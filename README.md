@@ -290,13 +290,12 @@ but part of the same creative economy.
 
 ## 🎮 Games
 
-Video, board, and card games where Bitcoin is the theme or the story, including games played
-for real sats.
+<details>
+<summary>
 
 ### Video Games
 
-<details>
-<summary>Show 36 video games</summary>
+</summary>
 
 - [BitByBit RUN](https://run.bitbybit.com.ar/) - Multiplayer runner race over Nostr relays where
   rivals can zap the winner real sats.
@@ -373,12 +372,12 @@ for real sats.
 
 </details>
 
+<details>
+<summary>
+
 ### Board & Card Games
 
-Physical tabletop games.
-
-<details>
-<summary>Show 7 board & card games</summary>
+</summary>
 
 - [Age of Bitcoin](https://www.kickstarter.com/projects/whiteelephants/age-of-bitcoin) - Board game
   about diversifying investments, where only Bitcoin outpaces inflation.
@@ -396,10 +395,12 @@ Physical tabletop games.
 
 </details>
 
+<details>
+<summary>
+
 ### Digital Board & Card Games
 
-<details>
-<summary>Show 5 digital board & card games</summary>
+</summary>
 
 - [Bitcoin CCG](https://bccg.gg/) - Digital companion to the physical Bitcoin Collectible Card Game
   by Rogue Signal; play bots or people.
@@ -414,12 +415,12 @@ Physical tabletop games.
 
 </details>
 
+<details>
+<summary>
+
 ### Wagering & Casino
 
-Games where the main loop is betting real sats. Listed for completeness; play responsibly.
-
-<details>
-<summary>Show 7 wagering & casino games</summary>
+</summary>
 
 - [Cashu Casino](https://github.com/babdbtc/cashucasino) - Privacy-focused open-source casino with
   Cashu ecash, Lightning deposits, and Nostr login.
