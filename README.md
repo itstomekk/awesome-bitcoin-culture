@@ -299,10 +299,10 @@ but part of the same creative economy.
 Video, board, and card games where Bitcoin is the theme or the story, including games played
 for real sats.
 
-<details>
-<summary>Show Bitcoin Games</summary>
-
 ### Video Games
+
+<details>
+<summary>Show 36 video games</summary>
 
 - [BitByBit RUN](https://run.bitbybit.com.ar/) - Multiplayer runner race over Nostr relays where
   rivals can zap the winner real sats.
@@ -379,9 +379,14 @@ for real sats.
 - [WHERE the F$CK is my BITCOIN](https://store.steampowered.com/app/4705620) - Co-op digging sim
   about searching a dump for the Bitcoin you threw away.
 
+</details>
+
 ### Board & Card Games
 
 Physical tabletop games.
+
+<details>
+<summary>Show 7 board & card games</summary>
 
 - [Age of Bitcoin](https://www.kickstarter.com/projects/whiteelephants/age-of-bitcoin) - Board game
   about diversifying investments, where only Bitcoin outpaces inflation.
@@ -398,7 +403,12 @@ Physical tabletop games.
   game about mining the blockchain and stacking the most sats.
 - [SHAmory](https://shamory.com/) - Card game that teaches kids how Bitcoin mining works.
 
+</details>
+
 ### Digital Board & Card Games
+
+<details>
+<summary>Show 5 digital board & card games</summary>
 
 - [Bitcoin CCG](https://bccg.gg/) - Digital companion to the physical Bitcoin Collectible Card Game
   by Rogue Signal; play bots or people.
@@ -411,9 +421,14 @@ Physical tabletop games.
 - [Satoshi's Goal](https://play.google.com/store/apps/details?id=com.SGlab.satoshisgoal) - Football
   card game with sat rewards for rankings and missions, withdrawn over Lightning.
 
+</details>
+
 ### Wagering & Casino
 
 Games where the main loop is betting real sats. Listed for completeness; play responsibly.
+
+<details>
+<summary>Show 7 wagering & casino games</summary>
 
 - [Cashu Casino](https://github.com/babdbtc/cashucasino) - Privacy-focused open-source casino with
   Cashu ecash, Lightning deposits, and Nostr login.
