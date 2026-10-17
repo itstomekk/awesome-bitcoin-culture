@@ -9,7 +9,7 @@
   var REPO = "itstomekk/awesome-bitcoin-culture";
   var BASE = "https://github.com/" + REPO + "/issues/new?template=suggest-entry.yml";
   var MAXURL = 6000, SOFT = 140, KEY = "abc-suggest-draft-v1";
-  var CAT = { art: "Visual Art", film: "Film & Documentary", literature: "Literature", music: "Music", games: "Games", events: "Events & Festivals", memes: "Memes & Internet Culture" };
+  var CAT = { art: "Visual Art", literature: "Literature", music: "Music", film: "Film & Documentary", games: "Games", events: "Events & Festivals" };
   var SUBS = ["Galleries & Museums", "Grants, Funders & Patronage", "Publications & Media", "Platforms & Marketplaces"];
   var reduce = window.matchMedia("(prefers-reduced-motion: reduce)");
   var esc = A.esc;
@@ -140,7 +140,7 @@
       '<section class="sg-sec" aria-labelledby="sgH5"><h3 class="sg-h" id="sgH5"><i>5</i>Before you send</h3>' +
       '<details class="sg-rules" id="sgRulesD"><summary>The list rules</summary><div class="sg-rules-in"><ol>' +
       "<li>Primary intent is creative, not financial.</li>" +
-      "<li>Made by a named human creator or an identifiable studio or collective (memes are the exception).</li>" +
+      "<li>Made by a named human creator or an identifiable studio or collective (meme art is the exception).</li>" +
       "<li>Publicly viewable or verifiable.</li>" +
       "<li>Someone can vouch for it.</li>" +
       "<li>Active or complete, not an abandoned stub.</li></ol>" +

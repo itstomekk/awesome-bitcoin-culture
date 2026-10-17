@@ -18,14 +18,13 @@ DEFAULT = _REPO_README if _REPO_README.exists() else Path(
 # room id -> (short label, accent colour used by some variants)
 ROOMS = {
     "Visual Art": "Visual Art",
-    "Film & Documentary": "Film & Documentary",
     "Literature": "Literature",
     "Music": "Music",
+    "Film & Documentary": "Film & Documentary",
     "Podcasts": "Podcasts",
     "Games": "Games",
     "Institutions & Spaces": "Institutions & Spaces",
     "Events & Festivals": "Events & Festivals",
-    "Memes & Internet Culture": "Memes & Internet Culture",
 }
 
 H2 = re.compile(r"^##\s+(\S+)\s+(.*)$")

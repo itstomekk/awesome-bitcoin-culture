@@ -17,8 +17,7 @@ This is not a directory of financial products, exchanges, or speculative collect
 1. **Primary intent is creative, not financial.** A painting about Bitcoin qualifies. A PFP
    collection sold for profit doesn't, even if well-made, unless it clears #2.
 2. **Attributable to a named human creator or identifiable studio/collective** - not an
-   anonymous generative contract. (Memes & Internet Culture is the one deliberate exception -
-   see that section.)
+   anonymous generative contract. (The Memes & Internet Culture subsection of Visual Art is the one deliberate exception.)
 3. **Publicly viewable or verifiable.** The link must show or play the actual work.
 4. **Someone can personally vouch for it.** Curation over comprehensiveness.
 5. **Active or complete**, not an abandoned stub.
@@ -35,9 +34,10 @@ coins, AI-slop generated in bulk.
   - [Mixed Media & Other Artists](#mixed-media--other-artists)
   - [Sculpture](#sculpture)
   - [Other / Studio & Sidework](#other--studio--sidework)
-- [🎬 Film & Documentary](#-film--documentary)
+  - [Memes & Internet Culture](#memes--internet-culture)
 - [📚 Literature](#-literature)
 - [🎵 Music](#-music)
+- [🎬 Film & Documentary](#-film--documentary)
 - [🎙️ Podcasts](#️-podcasts)
   - [Art & Creators](#art--creators)
   - [Stories & People](#stories--people)
@@ -55,7 +55,6 @@ coins, AI-slop generated in bulk.
   - [Publications & Media](#publications--media)
   - [Platforms & Marketplaces](#platforms--marketplaces)
 - [🎪 Events & Festivals](#-events--festivals)
-- [😂 Memes & Internet Culture](#-memes--internet-culture)
 
 ---
 
@@ -262,36 +261,26 @@ but part of the same creative economy.
   Bitcoin culture through limited editions. ([X/Twitter](https://x.com/btc_cards),
   [Nostr](https://primal.net/p/npub1yjryjq2kdganuc69zme9agk0q4rjcnlxel3fwp3xm9z68phsxngsqd33a9))
 
-## 🎬 Film & Documentary
+### Memes & Internet Culture
 
-- [Bitcoiners](https://bitcoinersmovie.com/) - 2023 documentary by Rob Johnson on Texas Bitcoiners;
-  Golden Rabbit nominee at Bitcoin FilmFest 2024.
-- [Death Athletic: A Dissident Architecture](https://www.encodeproductions.com/deathathletic) - 2023
-  documentary by Jessica Solce on Cody Wilson and code as speech; Bitcoin FilmFest 2024.
-- [Dirty Coin](https://www.dirtycointhemovie.com) - 2024 Bitcoin mining documentary by Alana
-  Mediavilla; Best Movie at Bitcoin FilmFest 2024.
-- [Finding Home](https://indeehub.studio/film/finding-home) - 2025 docuseries by Avi Burra pairing
-  immigrants seeking a home with Bitcoiners seeking new money.
-- [HODL](https://www.youtube.com/watch?v=dktBrlikweo) - 2020 comedy short by The Garcia Brothers,
-  made for 86 cents; Best Short at Bitcoin FilmFest 2024.
-- [Hotel Bitcoin](https://www.deaplaneta.com/es/hotel_bitcoin) - 2024 Spanish comedy about friends
-  who find 4,000 bitcoins; Best Story at Bitcoin FilmFest 2025.
-- [Human B](https://humanb-film.com/) - 2021 documentary following six people into Bitcoin; Audience
-  Award at Bitcoin FilmFest 2023.
-- [Money Electric: The Bitcoin Mystery](https://www.hbo.com/movies/money-electric-the-bitcoin-mystery) - 2024
-  HBO documentary by Cullen Hoback investigating Satoshi Nakamoto's identity.
-- [No More Inflation](https://nomoreinflation.com/) - 2024 documentary by Maiku Tsukai on rising
-  prices; Best Movie at Bitcoin FilmFest 2025.
-- [The Anatomy of Bitcoin](https://anatomyofbitcoin.com) - Open-source, community-funded
-  hyper-realism film showing how the Bitcoin protocol works.
-- [The Great Reset and the Rise of Bitcoin](https://www.youtube.com/watch?v=e0plyXEc1Ak) - 2022
-  documentary by Pierre Corbin on debt cycles and central banks; Bitcoin FilmFest 2023.
-- [The Rise and Rise of Bitcoin](https://en.wikipedia.org/wiki/The_Rise_and_Rise_of_Bitcoin) - Early
-  feature documentary (2014) by Nicholas Mross; premiered at Tribeca.
-- [The Satoshi Mystery](https://www.arte.tv/en/videos/RC-021581/the-satoshi-mystery) - 2021 ARTE
-  series by Rémi Forte on Bitcoin's origins; first prize at Bitcoin FilmFest 2023.
-- [Who Is Bitcoin?](https://www.youtube.com/watch?v=DvHUOr8ruMw) - 2023 puppet short from Spiral
-  starring Bitty, a grumpy Bitcoin; screened at Bitcoin FilmFest 2024.
+Bitcoin memes are a real and lasting cultural phenomenon ("toxic maximalism", recurring in-jokes,
+viral formats) but are mostly anonymous or collectively authored, which doesn't fit this list's
+named-creator rule for other sections. This section is deliberately looser: entries here don't
+need individual attribution, just to be a genuinely recognizable, lasting part of Bitcoin's
+internet culture (not a one-off tweet or a promotional gimmick).
+Named artists whose main material is meme culture also live here.
+
+- [Bitcoin Cartoons](https://www.bitcoincartoons.io/) - Whimsical illustration and cartooning for
+  the Bitcoin community.
+- [Maxis Club](https://maxisclub.carrd.co/) - Meme art and satire; a daily series aiming for 2,100
+  memes, echoing the 21 million cap. ([X/Twitter](https://x.com/MaxisClub),
+  [Nostr](https://primal.net/p/npub1pazuhetzx5w8yyt59lszeslxlywkeadnq6rncre7nlqv2uxnxuwq8c56r9))
+- [MrHansel](https://x.com/bettidlomas) - Bristol collage and acrylic work reworking Pepe imagery;
+  making Bitcoin art since 2015.
+- [Pepelangelo](https://pepelangelo.com/) - Oil paintings recasting Pepe the Frog through classical
+  art and portraiture, plus hand-finished canvas prints.
+- [Pepenardo (Nardo)](https://scarce.city/creators/pepenardo) - Oil painting, classical technique
+  meets meme culture.
 
 ## 📚 Literature
 
@@ -330,6 +319,37 @@ but part of the same creative economy.
 - [The Orange Pill Jam Project](https://orangepilljam.bandcamp.com) - Zürich-based,
   copyleft/open-source Bitcoin-only music collective.
 - [Tip_NZ](https://btcartgallery.com/category/song) - NZ Bitcoin rap.
+
+## 🎬 Film & Documentary
+
+- [Bitcoiners](https://bitcoinersmovie.com/) - 2023 documentary by Rob Johnson on Texas Bitcoiners;
+  Golden Rabbit nominee at Bitcoin FilmFest 2024.
+- [Death Athletic: A Dissident Architecture](https://www.encodeproductions.com/deathathletic) - 2023
+  documentary by Jessica Solce on Cody Wilson and code as speech; Bitcoin FilmFest 2024.
+- [Dirty Coin](https://www.dirtycointhemovie.com) - 2024 Bitcoin mining documentary by Alana
+  Mediavilla; Best Movie at Bitcoin FilmFest 2024.
+- [Finding Home](https://indeehub.studio/film/finding-home) - 2025 docuseries by Avi Burra pairing
+  immigrants seeking a home with Bitcoiners seeking new money.
+- [HODL](https://www.youtube.com/watch?v=dktBrlikweo) - 2020 comedy short by The Garcia Brothers,
+  made for 86 cents; Best Short at Bitcoin FilmFest 2024.
+- [Hotel Bitcoin](https://www.deaplaneta.com/es/hotel_bitcoin) - 2024 Spanish comedy about friends
+  who find 4,000 bitcoins; Best Story at Bitcoin FilmFest 2025.
+- [Human B](https://humanb-film.com/) - 2021 documentary following six people into Bitcoin; Audience
+  Award at Bitcoin FilmFest 2023.
+- [Money Electric: The Bitcoin Mystery](https://www.hbo.com/movies/money-electric-the-bitcoin-mystery) - 2024
+  HBO documentary by Cullen Hoback investigating Satoshi Nakamoto's identity.
+- [No More Inflation](https://nomoreinflation.com/) - 2024 documentary by Maiku Tsukai on rising
+  prices; Best Movie at Bitcoin FilmFest 2025.
+- [The Anatomy of Bitcoin](https://anatomyofbitcoin.com) - Open-source, community-funded
+  hyper-realism film showing how the Bitcoin protocol works.
+- [The Great Reset and the Rise of Bitcoin](https://www.youtube.com/watch?v=e0plyXEc1Ak) - 2022
+  documentary by Pierre Corbin on debt cycles and central banks; Bitcoin FilmFest 2023.
+- [The Rise and Rise of Bitcoin](https://en.wikipedia.org/wiki/The_Rise_and_Rise_of_Bitcoin) - Early
+  feature documentary (2014) by Nicholas Mross; premiered at Tribeca.
+- [The Satoshi Mystery](https://www.arte.tv/en/videos/RC-021581/the-satoshi-mystery) - 2021 ARTE
+  series by Rémi Forte on Bitcoin's origins; first prize at Bitcoin FilmFest 2023.
+- [Who Is Bitcoin?](https://www.youtube.com/watch?v=DvHUOr8ruMw) - 2023 puppet short from Spiral
+  starring Bitty, a grumpy Bitcoin; screened at Bitcoin FilmFest 2024.
 
 ## 🎙️ Podcasts
 
@@ -629,27 +649,6 @@ Two exceptions worth naming directly here, since they're culture-first rather th
   awarding the Golden Rabbits; also a year-round film hub.
 - [Revolution.Rocks](https://www.revolution.rocks/) - Two-day Value4Value music festival on
   Belgrade's Zappa Barka; Lightning tips go straight to performing artists.
-
-## 😂 Memes & Internet Culture
-
-Bitcoin memes are a real and lasting cultural phenomenon ("toxic maximalism", recurring in-jokes,
-viral formats) but are mostly anonymous or collectively authored, which doesn't fit this list's
-named-creator rule for other sections. This section is deliberately looser: entries here don't
-need individual attribution, just to be a genuinely recognizable, lasting part of Bitcoin's
-internet culture (not a one-off tweet or a promotional gimmick).
-Named artists whose main material is meme culture also live here.
-
-- [Bitcoin Cartoons](https://www.bitcoincartoons.io/) - Whimsical illustration and cartooning for
-  the Bitcoin community.
-- [Maxis Club](https://maxisclub.carrd.co/) - Meme art and satire; a daily series aiming for 2,100
-  memes, echoing the 21 million cap. ([X/Twitter](https://x.com/MaxisClub),
-  [Nostr](https://primal.net/p/npub1pazuhetzx5w8yyt59lszeslxlywkeadnq6rncre7nlqv2uxnxuwq8c56r9))
-- [MrHansel](https://x.com/bettidlomas) - Bristol collage and acrylic work reworking Pepe imagery;
-  making Bitcoin art since 2015.
-- [Pepelangelo](https://pepelangelo.com/) - Oil paintings recasting Pepe the Frog through classical
-  art and portraiture, plus hand-finished canvas prints.
-- [Pepenardo (Nardo)](https://scarce.city/creators/pepenardo) - Oil painting, classical technique
-  meets meme culture.
 
 ---
 

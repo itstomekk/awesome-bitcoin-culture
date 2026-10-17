@@ -21,17 +21,16 @@ body:
     attributes:
       label: Best-fit section
       options:
-        - Visual Art
-        - Film & Documentary
+        - Visual Art (incl. memes)
         - Literature
         - Music
+        - Film & Documentary
         - Games
         - Galleries & Museums
         - Grants, Funders & Patronage
         - Publications & Media
         - Platforms & Marketplaces
         - Events & Festivals
-        - Memes & Internet Culture
         - Not sure
     validations:
       required: true

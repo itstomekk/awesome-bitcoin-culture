@@ -17,25 +17,23 @@ PY = sys.executable
 # One room per README section (## heading), same order; README subsections (###) show as headings inside a room.
 ROOM_OF = {
     "Visual Art": "art",
-    "Film & Documentary": "film",
     "Literature": "literature",
     "Music": "music",
+    "Film & Documentary": "film",
     "Podcasts": "podcasts",
     "Games": "games",
     "Institutions & Spaces": "institutions",
     "Events & Festivals": "events",
-    "Memes & Internet Culture": "memes",
 }
 ROOMS = [
-    ("art", "Visual Art", "Painting, digital, mixed media and sculpture"),
-    ("film", "Film", "Film & Documentary: documentaries and features"),
+    ("art", "Visual Art", "Painting, digital, mixed media, sculpture and memes"),
     ("literature", "Literature", "Books and long reads"),
     ("music", "Music", "Sats-per-stream sound"),
+    ("film", "Film", "Film & Documentary: documentaries and features"),
     ("podcasts", "Podcasts", "Bitcoin culture in conversation: creators, stories, communities, ideas"),
     ("games", "Games", "Play for the story, or for sats"),
     ("institutions", "Institutions", "Institutions & Spaces: galleries, funders, magazines, platforms"),
     ("events", "Events", "Events & Festivals: culture-first gatherings"),
-    ("memes", "Memes", "Memes & Internet Culture: in-jokes and meme artists"),
 ]
 
 
