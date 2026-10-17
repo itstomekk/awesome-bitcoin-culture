@@ -1819,5 +1819,24 @@
   "h": 405,
   "manual": true,
   "src": "og-image"
+ },
+ "zaza": {
+  "img": "img/zaza.webp",
+  "color": "#181413",
+  "w": 720,
+  "h": 378,
+  "src": "https://9fold.co/og/zaza.jpg"
+ },
+ "bleep": {
+  "img": "img/bleep.webp",
+  "color": "#1f201f",
+  "w": 720,
+  "h": 378,
+  "src": "https://9fold.co/og/bleep.jpg"
+ },
+ "bitcoin-friends": {
+  "img": null,
+  "color": null,
+  "why": "page:HTTPError"
  }
 }

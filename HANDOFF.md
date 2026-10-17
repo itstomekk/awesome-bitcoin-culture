@@ -53,3 +53,9 @@ real entries yet — needs research).
 - Dead links found while harvesting: Cyber / Street Cyber (streetcyber.art, "website has expired"), Psyfer (psyferpunkart.com/about, domain not connected), Bitcoiners (video unavailable on the linked page). They show a snapshot of the error page; replace or drop the entries.
 - Images come from each project's own pages; owners can ask for removal (see gallery/README.md). Check permissions before any promotion beyond the list.
 
+## Update 2026-10-17
+
+- Added user-requested entries to `README.md`: `$BLEEP` and `Bitcoin & Friends` under Film & Documentary; Zaza under Visual Art. Used their own project pages (`9fold.co/worlds/bleep`, `btcandfriends.com`, and `9fold.co/worlds/zaza`).
+- Rebuilt the gallery from the README. It now has 238 entries; `$BLEEP` and Zaza have page images, while Bitcoin & Friends has no fetched image yet. Parity check passes.
+- Changes are local and uncommitted; the existing unrelated `PLAN.md` edit was left untouched.
+

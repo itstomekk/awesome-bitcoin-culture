@@ -184,6 +184,8 @@ coins, AI-slop generated in bulk.
   lamps built from Bitcoin imagery and memes.
 - [YuZapata](http://yuzapata.art) - Street art/digital, "Palometa the Pigeon" character; "Orange
   Fruit Dove". Latin American.
+- [Zaza](https://9fold.co/worlds/zaza/) - Visual artist whose Bitcoin-themed work includes the
+  films *An Ode to Nodes* and *Satoshi, A Self Portrait*.
 
 ### Mixed Media & Other Artists
 
@@ -322,6 +324,10 @@ Named artists whose main material is meme culture also live here.
 
 ## 🎬 Film & Documentary
 
+- [$BLEEP](https://9fold.co/worlds/bleep) - Biweekly retro sci-fi animated series by Fzero, following
+  an alien decoding humanity through Bitcoin, one transmission at a time.
+- [Bitcoin & Friends](https://btcandfriends.com/) - Animated Bitcoin cartoon series blending
+  character-driven storytelling and comedy; episodes are available on YouTube.
 - [Bitcoiners](https://bitcoinersmovie.com/) - 2023 documentary by Rob Johnson on Texas Bitcoiners;
   Golden Rabbit nominee at Bitcoin FilmFest 2024.
 - [Death Athletic: A Dissident Architecture](https://www.encodeproductions.com/deathathletic) - 2023

@@ -649,6 +649,17 @@
   "host": "yuzapata.art"
  },
  {
+  "id": "zaza",
+  "name": "Zaza",
+  "url": "https://9fold.co/worlds/zaza/",
+  "desc": "Visual artist whose Bitcoin-themed work includes the films An Ode to Nodes and Satoshi, A Self Portrait.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Digital & Graphic Artists",
+  "host": "9fold.co"
+ },
+ {
   "id": "5ksana",
   "name": "5Ksana",
   "url": "https://buybitart.com/",
@@ -1241,6 +1252,28 @@
   "roomIcon": "🎵",
   "sub": "",
   "host": "btcartgallery.com"
+ },
+ {
+  "id": "bleep",
+  "name": "$BLEEP",
+  "url": "https://9fold.co/worlds/bleep",
+  "desc": "Biweekly retro sci-fi animated series by Fzero, following an alien decoding humanity through Bitcoin, one transmission at a time.",
+  "room": "Film & Documentary",
+  "roomLabel": "Film & Documentary",
+  "roomIcon": "🎬",
+  "sub": "",
+  "host": "9fold.co"
+ },
+ {
+  "id": "bitcoin-friends",
+  "name": "Bitcoin & Friends",
+  "url": "https://btcandfriends.com/",
+  "desc": "Animated Bitcoin cartoon series blending character-driven storytelling and comedy; episodes are available on YouTube.",
+  "room": "Film & Documentary",
+  "roomLabel": "Film & Documentary",
+  "roomIcon": "🎬",
+  "sub": "",
+  "host": "btcandfriends.com"
  },
  {
   "id": "bitcoiners",
