@@ -1,16 +1,5 @@
 [
  {
-  "id": "2140art",
-  "name": "2140Art",
-  "url": "https://2140art.com",
-  "desc": "Online magazine and collective for Bitcoin-inspired art, music, and culture; runs a virtual gallery.",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Collectives",
-  "host": "2140art.com"
- },
- {
   "id": "a13mw",
   "name": "A13MW",
   "url": "https://www.a13mw.com/",
@@ -91,7 +80,7 @@
   "id": "fzero",
   "name": "Fzero",
   "url": "https://9fold.co/worlds/fzero",
-  "desc": "Painting rooted in a tattooing background; \"GENESIS 113\" (2026) is a 100-hour canvas on consciousness and sovereignty.",
+  "desc": "Painting rooted in a tattooing background; \"GENESIS 113\" (2026) is a 100-hour canvas on consciousness and sovereignty; also creator of the animated series $BLEEP.",
   "room": "Visual Art",
   "roomLabel": "Visual Art",
   "roomIcon": "🎨",
@@ -682,6 +671,28 @@
   "host": "arielbird.com"
  },
  {
+  "id": "bitchair",
+  "name": "Bitchair",
+  "url": "https://bitchair.store/",
+  "desc": "Limited-edition furniture with woodwork and embroidery; each chair is both usable and Bitcoin merch.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Mixed Media & Other Artists",
+  "host": "bitchair.store"
+ },
+ {
+  "id": "bitcoin-trading-cards",
+  "name": "Bitcoin Trading Cards",
+  "url": "https://basedtradingcards.com/",
+  "desc": "Physical collectible card line telling Bitcoin culture through limited editions. (X/Twitter, Nostr)",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Mixed Media & Other Artists",
+  "host": "basedtradingcards.com"
+ },
+ {
   "id": "btc-monk",
   "name": "BTC Monk",
   "url": "https://x.com/BTCmonk1",
@@ -1001,28 +1012,6 @@
   "host": "studio-zeitwerk.com"
  },
  {
-  "id": "bitchair",
-  "name": "Bitchair",
-  "url": "https://bitchair.store/",
-  "desc": "Limited-edition furniture with woodwork and embroidery; each chair is both usable and Bitcoin merch.",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Other / Studio & Sidework",
-  "host": "bitchair.store"
- },
- {
-  "id": "bitcoin-trading-cards",
-  "name": "Bitcoin Trading Cards",
-  "url": "https://basedtradingcards.com/",
-  "desc": "Physical collectible card line telling Bitcoin culture through limited editions. (X/Twitter, Nostr)",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Other / Studio & Sidework",
-  "host": "basedtradingcards.com"
- },
- {
   "id": "bitcoin-cartoons",
   "name": "Bitcoin Cartoons",
   "url": "https://www.bitcoincartoons.io/",
@@ -1100,6 +1089,17 @@
   "host": "lindeymagee.com"
  },
  {
+  "id": "jimmy-song",
+  "name": "Jimmy Song",
+  "url": "https://jimmysong.org/",
+  "desc": "Bitcoin developer, author, and educator; wrote Fiat Ruins Everything, arguing fiat debases art.",
+  "room": "Literature",
+  "roomLabel": "Literature",
+  "roomIcon": "📚",
+  "sub": "",
+  "host": "jimmysong.org"
+ },
+ {
   "id": "konsensus",
   "name": "Konsensus",
   "url": "https://konsensus.net",
@@ -1109,6 +1109,17 @@
   "roomIcon": "📚",
   "sub": "",
   "host": "konsensus.net"
+ },
+ {
+  "id": "kontext",
+  "name": "Kontext",
+  "url": "https://primal.net/p/npub1qfc7rwddjl3lzhkhgge8ch82xjfm6e3gqcgk8zm6pahz3tvvl7gq88xnrh",
+  "desc": "Estonian writer and musician; author of A Stoic Resurrection, draws parallels between Bitcoin and Stoicism.",
+  "room": "Literature",
+  "roomLabel": "Literature",
+  "roomIcon": "📚",
+  "sub": "",
+  "host": "primal.net"
  },
  {
   "id": "south-of-market",
@@ -1175,17 +1186,6 @@
   "roomIcon": "🎵",
   "sub": "",
   "host": "kanemayfield.com"
- },
- {
-  "id": "kontext",
-  "name": "Kontext",
-  "url": "https://primal.net/p/npub1qfc7rwddjl3lzhkhgge8ch82xjfm6e3gqcgk8zm6pahz3tvvl7gq88xnrh",
-  "desc": "Estonian writer and musician; author of A Stoic Resurrection, draws parallels between Bitcoin and Stoicism.",
-  "room": "Music",
-  "roomLabel": "Music",
-  "roomIcon": "🎵",
-  "sub": "",
-  "host": "primal.net"
  },
  {
   "id": "man-like-kweks",
@@ -1529,6 +1529,28 @@
   "host": "open.spotify.com"
  },
  {
+  "id": "de-legende-van-satoshi-nakamoto",
+  "name": "De Legende van Satoshi Nakamoto",
+  "url": "https://podcasts.apple.com/us/podcast/de-legende-van-satoshi-nakamoto-bnr/id1573914412",
+  "desc": "Dutch BNR series searching for the real Satoshi Nakamoto and the essence of Bitcoin (8 episodes, complete).",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Stories & People",
+  "host": "podcasts.apple.com"
+ },
+ {
+  "id": "dr-bitcoin-the-man-who-wasn-t-satoshi-nakamoto",
+  "name": "Dr Bitcoin - The Man Who Wasn't Satoshi Nakamoto",
+  "url": "https://drbitcoinpod.com/",
+  "desc": "Narrative series on Craig Wright's Satoshi claim and the court case that exposed it.",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Stories & People",
+  "host": "drbitcoinpod.com"
+ },
+ {
   "id": "flirting-with-bitcoin",
   "name": "Flirting With Bitcoin",
   "url": "https://www.flirtingwithbitcoin.com/podcast/",
@@ -1736,28 +1758,6 @@
   "roomIcon": "🎙️",
   "sub": "Ideas & Philosophy",
   "host": "thetransformationofvalue.com"
- },
- {
-  "id": "de-legende-van-satoshi-nakamoto",
-  "name": "De Legende van Satoshi Nakamoto",
-  "url": "https://podcasts.apple.com/us/podcast/de-legende-van-satoshi-nakamoto-bnr/id1573914412",
-  "desc": "Dutch BNR series searching for the real Satoshi Nakamoto and the essence of Bitcoin (8 episodes, complete).",
-  "room": "Podcasts",
-  "roomLabel": "Podcasts",
-  "roomIcon": "🎙️",
-  "sub": "Narrative Series",
-  "host": "podcasts.apple.com"
- },
- {
-  "id": "dr-bitcoin-the-man-who-wasn-t-satoshi-nakamoto",
-  "name": "Dr Bitcoin - The Man Who Wasn't Satoshi Nakamoto",
-  "url": "https://drbitcoinpod.com/",
-  "desc": "Narrative series on Craig Wright's Satoshi claim and the court case that exposed it.",
-  "room": "Podcasts",
-  "roomLabel": "Podcasts",
-  "roomIcon": "🎙️",
-  "sub": "Narrative Series",
-  "host": "drbitcoinpod.com"
  },
  {
   "id": "bitbybit-run",
@@ -2420,6 +2420,17 @@
   "host": "satosh.ee"
  },
  {
+  "id": "2140art",
+  "name": "2140Art",
+  "url": "https://2140art.com",
+  "desc": "Online magazine and collective for Bitcoin-inspired art, music, and culture; runs a virtual gallery.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Publications & Media",
+  "host": "2140art.com"
+ },
+ {
   "id": "bitcoin-magazine",
   "name": "Bitcoin Magazine",
   "url": "https://bitcoinmagazine.com",
@@ -2429,17 +2440,6 @@
   "roomIcon": "🏛",
   "sub": "Publications & Media",
   "host": "bitcoinmagazine.com"
- },
- {
-  "id": "bitcoin-shipshow",
-  "name": "Bitcoin Shipshow",
-  "url": "https://bitcoinship.show/",
-  "desc": "Monthly online Bitcoin meetup and live demo show for Bitcoin, Lightning, and Nostr builders.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Publications & Media",
-  "host": "bitcoinship.show"
  },
  {
   "id": "bitcoin-video-magazine",
@@ -2462,17 +2462,6 @@
   "roomIcon": "🏛",
   "sub": "Publications & Media",
   "host": "citadel21.com"
- },
- {
-  "id": "jimmy-song",
-  "name": "Jimmy Song",
-  "url": "https://jimmysong.org/",
-  "desc": "Bitcoin developer, author, and educator; wrote Fiat Ruins Everything, arguing fiat debases art.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Publications & Media",
-  "host": "jimmysong.org"
  },
  {
   "id": "proof-of-work",
@@ -2605,6 +2594,17 @@
   "roomIcon": "🎪",
   "sub": "",
   "host": "bitfest.uk"
+ },
+ {
+  "id": "bitcoin-shipshow",
+  "name": "Bitcoin Shipshow",
+  "url": "https://bitcoinship.show/",
+  "desc": "Monthly online Bitcoin meetup and live demo show for Bitcoin, Lightning, and Nostr builders.",
+  "room": "Events & Festivals",
+  "roomLabel": "Events & Festivals",
+  "roomIcon": "🎪",
+  "sub": "",
+  "host": "bitcoinship.show"
  },
  {
   "id": "revolution-rocks",

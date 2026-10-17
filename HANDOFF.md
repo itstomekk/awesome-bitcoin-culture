@@ -59,3 +59,11 @@ real entries yet — needs research).
 - Rebuilt the gallery from the README. It now has 238 entries; `$BLEEP` and Zaza have page images, while Bitcoin & Friends has no fetched image yet. Parity check passes.
 - Changes are local and uncommitted; the existing unrelated `PLAN.md` edit was left untouched.
 
+
+## Update 2026-10-17 (quick structure fixes)
+
+- Moved Kontext (Music) and Jimmy Song (Publications & Media) to Literature; Bitcoin Shipshow to Events & Festivals (intro now says "A few exceptions"); 2140Art from the one-entry Collectives subsection to Publications & Media.
+- Folded Bitchair and Bitcoin Trading Cards (Other / Studio & Sidework) into Mixed Media & Other Artists, and the two Narrative Series podcasts into Stories & People. Removed the empty Collectives, Other / Studio & Sidework and Narrative Series headings and their ToC lines.
+- Fzero now mentions $BLEEP (Zaza already mentioned his films).
+- Gallery rebuilt: 238 entries, parity check passes. Not pushed.
+- Still open: the bigger Visual Art regrouping (Painting & Muralism / Digital & Illustration / Comics / Sculpture & Objects / Mixed Media & Craft / Design & Merch) and Moving Image / Sound / Words grouping, awaiting Tomek's go.

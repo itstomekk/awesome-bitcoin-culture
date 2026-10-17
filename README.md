@@ -28,12 +28,10 @@ coins, AI-slop generated in bulk.
 ## Contents
 
 - [🎨 Visual Art](#-visual-art)
-  - [Collectives](#collectives)
   - [Painters](#painters)
   - [Digital & Graphic Artists](#digital--graphic-artists)
   - [Mixed Media & Other Artists](#mixed-media--other-artists)
   - [Sculpture](#sculpture)
-  - [Other / Studio & Sidework](#other--studio--sidework)
   - [Memes & Internet Culture](#memes--internet-culture)
 - [📚 Literature](#-literature)
 - [🎵 Music](#-music)
@@ -43,7 +41,6 @@ coins, AI-slop generated in bulk.
   - [Stories & People](#stories--people)
   - [Community & Places](#community--places)
   - [Ideas & Philosophy](#ideas--philosophy)
-  - [Narrative Series](#narrative-series)
 - [🎮 Games](#-games)
   - [Video Games](#video-games)
   - [Board & Card Games](#board--card-games)
@@ -59,11 +56,6 @@ coins, AI-slop generated in bulk.
 ---
 
 ## 🎨 Visual Art
-
-### Collectives
-
-- [2140Art](https://2140art.com) - Online magazine and collective for Bitcoin-inspired art, music,
-  and culture; runs a virtual gallery.
 
 ### Painters
 
@@ -81,7 +73,8 @@ coins, AI-slop generated in bulk.
 - [Blu3baer](https://timechainartmagazine.com/artist/blu3baer/) - Acrylic paintings and limited
   prints reworking figures from films, games, myths, and Bitcoin memes.
 - [Fzero](https://9fold.co/worlds/fzero) - Painting rooted in a tattooing background; "GENESIS 113"
-  (2026) is a 100-hour canvas on consciousness and sovereignty.
+  (2026) is a 100-hour canvas on consciousness and sovereignty; also
+  creator of the animated series *$BLEEP*.
 - [George Bodine](https://georgebodineart.com/) - Oil painting of landscapes, cityscapes, and
   figures, both plein air and in the studio.
 - [Isolabellart](https://isolabellart.it.com/) - Oil painting inspired by light, silence, and place;
@@ -192,6 +185,11 @@ coins, AI-slop generated in bulk.
 - [5Ksana](https://buybitart.com/) - Hand embroidery and sewing in cotton, linen, and silk;
   "craftivism" with Bitcoin themes.
 - [Ariel Birdie](https://www.arielbird.com/) - Mixed media, including the "Bitcoin Buddha" piece.
+- [Bitchair](https://bitchair.store/) - Limited-edition furniture with woodwork and embroidery; each
+  chair is both usable and Bitcoin merch.
+- [Bitcoin Trading Cards](https://basedtradingcards.com/) - Physical collectible card line telling
+  Bitcoin culture through limited editions. ([X/Twitter](https://x.com/btc_cards),
+  [Nostr](https://primal.net/p/npub1yjryjq2kdganuc69zme9agk0q4rjcnlxel3fwp3xm9z68phsxngsqd33a9))
 - [BTC Monk](https://x.com/BTCmonk1) - Pyrography, charcoal lacquer, gold leaf, and resin on
   plywood; the "Faces of Bitcoin" series.
 - [Camas Logue](https://www.camaslogue.com) - Painting, carving, printmaking, and weaving grounded
@@ -252,17 +250,6 @@ coins, AI-slop generated in bulk.
 - [Studio Zeitwerk](https://www.studio-zeitwerk.com/) - Sculpture in wood, concrete, and melted fiat
   coins; block heights become landscapes of time.
 
-### Other / Studio & Sidework
-
-Bitcoin-adjacent product lines and commercial studio projects - not individually authored art,
-but part of the same creative economy.
-
-- [Bitchair](https://bitchair.store/) - Limited-edition furniture with woodwork and embroidery; each
-  chair is both usable and Bitcoin merch.
-- [Bitcoin Trading Cards](https://basedtradingcards.com/) - Physical collectible card line telling
-  Bitcoin culture through limited editions. ([X/Twitter](https://x.com/btc_cards),
-  [Nostr](https://primal.net/p/npub1yjryjq2kdganuc69zme9agk0q4rjcnlxel3fwp3xm9z68phsxngsqd33a9))
-
 ### Memes & Internet Culture
 
 Bitcoin memes are a real and lasting cultural phenomenon ("toxic maximalism", recurring in-jokes,
@@ -290,8 +277,13 @@ Named artists whose main material is meme culture also live here.
   edited by Philip Charter (Konsensus Network, 2023).
 - [Bitcoin: A Treasure to HODL](https://lindeymagee.com/) - Children's book by Lindey Magee; read as
   a sponsored live event at Bitcoin for the Arts' Bitcoin Arts Park.
+- [Jimmy Song](https://jimmysong.org/) - Bitcoin developer, author, and educator; wrote *Fiat Ruins
+  Everything*, arguing fiat debases art.
 - [Konsensus](https://konsensus.net) - Publishing house for sovereignty-themed books and essays; no
   trackers, no cookies, no consent banner.
+- [Kontext](https://primal.net/p/npub1qfc7rwddjl3lzhkhgge8ch82xjfm6e3gqcgk8zm6pahz3tvvl7gq88xnrh) - Estonian
+  writer and musician; author of *A Stoic Resurrection*, draws parallels between Bitcoin and
+  Stoicism.
 - [South of Market](https://www.amazon.com/South-Market-Jeffrey-Peel/dp/B0FKHKLM73) - Novel by
   Jeffrey Peel about technology, geopolitics, political influence, and energy as currency.
 - [The Genesis Code: Block One](https://eggore.com/) - Free near-future political satire by E. G.
@@ -307,9 +299,6 @@ Named artists whose main material is meme culture also live here.
   adopter earning more in sats than from streaming.
 - [Kane Mayfield](https://kanemayfield.com/) - Hip-hop musician and co-founder of Inscribed Audio,
   encoding Bitcoin transactions into music.
-- [Kontext](https://primal.net/p/npub1qfc7rwddjl3lzhkhgge8ch82xjfm6e3gqcgk8zm6pahz3tvvl7gq88xnrh) - Estonian
-  writer and musician; author of *A Stoic Resurrection*, draws parallels between Bitcoin and
-  Stoicism.
 - [Man Like Kweks](https://wavlake.com/man-like-kweks) - Tanzanian hip-hop artist; documented
   earning far more via Wavlake sats than conventional distribution.
 - [Reel Richard](https://www.youtube.com/@Reelrichard) - Dynamic Bitcoin music videos and remixes,
@@ -389,6 +378,11 @@ still playable.
 
 - [Bitcoin People](https://open.spotify.com/show/4lhAGXtyzQJzcQJ0epPN5C) - Asks who Bitcoin owners
   are, what they hope for, and whether they form a community (64 episodes, 2022-2024).
+- [De Legende van Satoshi Nakamoto](https://podcasts.apple.com/us/podcast/de-legende-van-satoshi-nakamoto-bnr/id1573914412) -
+  Dutch BNR series searching for the real Satoshi Nakamoto and the essence of Bitcoin (8 episodes,
+  complete).
+- [Dr Bitcoin - The Man Who Wasn't Satoshi Nakamoto](https://drbitcoinpod.com/) - Narrative series
+  on Craig Wright's Satoshi claim and the court case that exposed it.
 - [Flirting With Bitcoin](https://www.flirtingwithbitcoin.com/podcast/) - Ian and his wife Mandana
   talk Bitcoin as a couple, light and personal (121 episodes, 2022-2025).
 - [Life with Bitcoin](https://fountain.fm/show/sdNx4uRz7tvwVeePyonA) - Stories of people whose
@@ -434,14 +428,6 @@ still playable.
   Real people around the world on staying free, sovereign, and sane (100 episodes, 2021-2025).
 - [The Transformation of Value](https://www.thetransformationofvalue.com/) - Cody Ellingham
   explores freedom, money, and creativity through conversations.
-
-### Narrative Series
-
-- [De Legende van Satoshi Nakamoto](https://podcasts.apple.com/us/podcast/de-legende-van-satoshi-nakamoto-bnr/id1573914412) -
-  Dutch BNR series searching for the real Satoshi Nakamoto and the essence of Bitcoin (8 episodes,
-  complete).
-- [Dr Bitcoin - The Man Who Wasn't Satoshi Nakamoto](https://drbitcoinpod.com/) - Narrative series
-  on Craig Wright's Satoshi claim and the court case that exposed it.
 
 ## 🎮 Games
 
@@ -613,16 +599,14 @@ sponsorships, patronage infrastructure.
 
 ### Publications & Media
 
+- [2140Art](https://2140art.com) - Online magazine and collective for Bitcoin-inspired art, music,
+  and culture; runs a virtual gallery.
 - [Bitcoin Magazine](https://bitcoinmagazine.com) - Print and online magazine; its Culture vertical
   runs recurring art coverage, including annual conference gallery previews.
-- [Bitcoin Shipshow](https://bitcoinship.show/) - Monthly online Bitcoin meetup and live demo show
-  for Bitcoin, Lightning, and Nostr builders.
 - [Bitcoin Video Magazine](https://bitcoinvideomagazine.com) - Hour-long video show covering the
   Bitcoin ecosystem in short documentary segments.
 - [Citadel21](https://www.citadel21.com) - Cultural zine and long-form investigative journalism by
   hodlonaut, with print editions.
-- [Jimmy Song](https://jimmysong.org/) - Bitcoin developer, author, and educator; wrote *Fiat Ruins
-  Everything*, arguing fiat debases art.
 - [Proof of Work](https://proofofworkmagazine.com/) - Free-to-read Bitcoin lifestyle and culture
   magazine covering people, places, ideas, and experiences.
 - [StackChain Magazine](https://www.stackchainmagazine.net/) - Bitcoin pleb-focused magazine/zine
@@ -655,12 +639,14 @@ This list tracks creative work, not events. For a dedicated, actively updated ca
 - [Awesome Bitcoin Events](https://github.com/itstomekk/awesome-bitcoin-events) - The canonical
   source for Bitcoin conferences, meetups, retreats, festivals, and technical gatherings worldwide.
 
-Three exceptions worth naming directly here, since they're culture-first rather than industry-first:
+A few exceptions worth naming directly here, since they're culture-first rather than industry-first:
 
 - [Bitcoin FilmFest](https://bitcoinfilmfest.com) - Annual Warsaw festival of Bitcoin cinema
   awarding the Golden Rabbits; also a year-round film hub.
 - [Bitfest](https://bitfest.uk/) - Four-day Manchester festival (19-22 Nov 2026) that pairs talks with a
   Bitcoin art exhibition, cinema, gaming, live music and Nostr; family-friendly.
+- [Bitcoin Shipshow](https://bitcoinship.show/) - Monthly online Bitcoin meetup and live demo show
+  for Bitcoin, Lightning, and Nostr builders.
 - [Revolution.Rocks](https://www.revolution.rocks/) - Two-day Value4Value music festival on
   Belgrade's Zappa Barka; Lightning tips go straight to performing artists.
 
