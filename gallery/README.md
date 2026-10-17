@@ -33,5 +33,8 @@ then commit `gallery/shared` and `gallery/data`.
 - `scripts/` parser, image fetcher, snapshotter, site assembler
 - `data/` intermediate JSON
 
-Pictures come from each project's own page metadata or homepage. If you are an owner and want yours removed,
+Pictures come from each project's own page metadata or homepage, or from the show's podcast cover. Ten entries with no usable
+picture (Clixel, Blockstr, Satoshi Speedway, BTC: Proof of Play, DOOM on Bitcoin, Le Pleb Royale, Satoshee, Bitcoin the Card Game,
+The Meme Factory Podcast, Cypherpunk Bitstream) use text-free AI illustrations made with gpt-image-2 (`src: generated-gpt-image-2` in
+`data/images.json`; originals in the Hermes `image-gen/2026-10-17-abc-gallery-banners/` folder). Replace them if the owner publishes real art. If you are an owner and want yours removed,
 open an issue and it will be taken out.
