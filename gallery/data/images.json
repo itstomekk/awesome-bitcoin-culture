@@ -814,11 +814,11 @@
  },
  "blockstr": {
   "img": "img/blockstr.webp",
-  "color": "#2e2a31",
-  "w": 400,
-  "h": 400,
+  "color": "#504435",
+  "w": 720,
+  "h": 405,
   "manual": true,
-  "src": "blockstr-logo.png"
+  "src": "generated-gpt-image-2"
  },
  "the-game": {
   "img": "img/the-game.webp",
@@ -858,10 +858,11 @@
  },
  "clixel": {
   "img": "img/clixel.webp",
-  "color": "#383838",
-  "w": 500,
-  "h": 500,
-  "src": "https://clixel.io/og-square.jpg"
+  "color": "#453123",
+  "w": 720,
+  "h": 405,
+  "manual": true,
+  "src": "generated-gpt-image-2"
  },
  "conway-s-game-of-pacman": {
   "img": "img/conway-s-game-of-pacman.webp",
@@ -880,10 +881,11 @@
  },
  "doom-on-bitcoin": {
   "img": "img/doom-on-bitcoin.webp",
-  "color": "#606060",
-  "w": 256,
-  "h": 256,
-  "src": "https://alpha.ordinals.net/static/favicon.png"
+  "color": "#451a18",
+  "w": 720,
+  "h": 405,
+  "manual": true,
+  "src": "generated-gpt-image-2"
  },
  "gamestr": {
   "img": "img/gamestr.webp",
@@ -969,9 +971,12 @@
   "src": "harvest"
  },
  "satoshi-speedway": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/satoshi-speedway.webp",
+  "color": "#715034",
+  "w": 720,
+  "h": 405,
+  "manual": true,
+  "src": "generated-gpt-image-2"
  },
  "satoshi-s-place": {
   "img": "img/satoshi-s-place.webp",
@@ -1109,9 +1114,12 @@
   "src": "harvest"
  },
  "btc-proof-of-play": {
-  "img": null,
-  "color": null,
-  "why": "page:HTTPError"
+  "img": "img/btc-proof-of-play.webp",
+  "color": "#48392e",
+  "w": 720,
+  "h": 405,
+  "manual": true,
+  "src": "generated-gpt-image-2"
  },
  "satoshi-s-goal": {
   "img": "img/satoshi-s-goal.webp",
@@ -1268,10 +1276,11 @@
  },
  "satoshee-open-source-culture-initiative": {
   "img": "img/satoshee-open-source-culture-initiative.webp",
-  "color": "#c2b7a2",
-  "w": 180,
-  "h": 180,
-  "src": "https://satosh.ee/wp-content/uploads/2023/06/cropped-FAVICON_512PX-180x180.png"
+  "color": "#665339",
+  "w": 720,
+  "h": 405,
+  "manual": true,
+  "src": "generated-gpt-image-2"
  },
  "fountain": {
   "img": "img/fountain.webp",
@@ -1359,9 +1368,12 @@
   "src": "harvest"
  },
  "bitcoin-the-card-game": {
-  "img": null,
-  "color": null,
-  "why": "page:URLError"
+  "img": "img/bitcoin-the-card-game.webp",
+  "color": "#573d28",
+  "w": 720,
+  "h": 405,
+  "manual": true,
+  "src": "generated-gpt-image-2"
  },
  "fzero": {
   "img": "img/fzero.webp",
@@ -1455,9 +1467,12 @@
   "src": "https://ratelcomic.com/images/ratel_comic_og.png"
  },
  "le-pleb-royale": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/le-pleb-royale.webp",
+  "color": "#71563b",
+  "w": 720,
+  "h": 405,
+  "manual": true,
+  "src": "generated-gpt-image-2"
  },
  "mr-crown": {
   "img": "img/mr-crown.webp",
@@ -1570,14 +1585,20 @@
   "src": "https://21ism.com/wp-content/uploads/2020/07/logo.png"
  },
  "hell-money": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/hell-money.webp",
+  "color": "#c4bfc0",
+  "w": 720,
+  "h": 720,
+  "manual": true,
+  "src": "podcast-cover"
  },
  "the-meme-factory-podcast": {
-  "img": null,
-  "color": null,
-  "why": "page:RemoteDisconnected"
+  "img": "img/the-meme-factory-podcast.webp",
+  "color": "#644e36",
+  "w": 720,
+  "h": 405,
+  "manual": true,
+  "src": "generated-gpt-image-2"
  },
  "plebchain-radio": {
   "img": "img/plebchain-radio.webp",
@@ -1587,9 +1608,12 @@
   "src": "https://feeds.fountain.fm/xRzQd3loNa0ItnvWXcOz/files/COVER_ART---DEFAULT---72d98f3f-84d4-4e69-a04a-0ed1e26b5b00.jpg"
  },
  "bitcoin-people": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/bitcoin-people.webp",
+  "color": "#c57f54",
+  "w": 720,
+  "h": 720,
+  "manual": true,
+  "src": "podcast-cover"
  },
  "flirting-with-bitcoin": {
   "img": "img/flirting-with-bitcoin.webp",
@@ -1613,9 +1637,12 @@
   "src": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/18/6c/ce/186ccefd-4115-0103-fd38-17d1e1363899/mza_6314990080795970940.png/1200x1200bf-60.jpg"
  },
  "once-bitten-a-bitcoin-podcast": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/once-bitten-a-bitcoin-podcast.webp",
+  "color": "#372e26",
+  "w": 720,
+  "h": 720,
+  "manual": true,
+  "src": "podcast-cover"
  },
  "rabbit-hole-stories": {
   "img": "img/rabbit-hole-stories.webp",
@@ -1646,16 +1673,20 @@
   "src": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/27/f0/f1/27f0f116-a039-4ffd-9c02-b1beb1a23a2d/mza_232378378346749831.jpg/1200x1200bf-60.jpg"
  },
  "the-anita-posch-show": {
-  "img": null,
-  "color": null,
-  "why": "image-failed"
+  "img": "img/the-anita-posch-show.webp",
+  "color": "#cbc5c4",
+  "w": 720,
+  "h": 720,
+  "manual": true,
+  "src": "podcast-cover"
  },
  "bitcoiners-live-from-bitcoin-beach": {
   "img": "img/bitcoiners-live-from-bitcoin-beach.webp",
-  "color": "#3d2e2c",
-  "w": 250,
-  "h": 250,
-  "src": "https://livefrombitcoinbeach.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTA4Njk2NDA4LCJwdXIiOiJibG9iX2lkIn19--10b986f3d8545553d73bb1985b801191dfd64f41/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzI1MCwyNTAseyJjcm9wIjoiY2VudHJlIn1dLCJzYXZlciI6eyJxdWFsaXR5Ijo2MH0sImNvbG91cnNwYWNlIjoic3JnYiJ9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--21f3793904e6ce1806a5a794a691217fceef82c7/Live%20From%20Bitcoin%20Beach%20Podcast%20Cover%20Art.jpg"
+  "color": "#3d2e2d",
+  "w": 720,
+  "h": 720,
+  "manual": true,
+  "src": "podcast-cover"
  },
  "einundzwanzig-der-bitcoin-podcast": {
   "img": "img/einundzwanzig-der-bitcoin-podcast.webp",
@@ -1680,10 +1711,11 @@
  },
  "bitcoin-audible": {
   "img": "img/bitcoin-audible.webp",
-  "color": "#6e6c42",
-  "w": 300,
-  "h": 300,
-  "src": "https://bitcoinaudible.com/wp-content/uploads/2024/12/BA-DesignElement-Audio-2-512x512-1-300x300.png"
+  "color": "#32302f",
+  "w": 720,
+  "h": 720,
+  "manual": true,
+  "src": "podcast-cover"
  },
  "the-bitcoin-infinity-show": {
   "img": "img/the-bitcoin-infinity-show.webp",
@@ -1698,9 +1730,12 @@
   "why": "no-image"
  },
  "cypherpunk-bitstream": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/cypherpunk-bitstream.webp",
+  "color": "#573d28",
+  "w": 720,
+  "h": 405,
+  "manual": true,
+  "src": "generated-gpt-image-2"
  },
  "satoshi-nakamoto-institute": {
   "img": "img/satoshi-nakamoto-institute.webp",
@@ -1718,10 +1753,11 @@
  },
  "the-transformation-of-value": {
   "img": "img/the-transformation-of-value.webp",
-  "color": "#379fff",
-  "w": 256,
-  "h": 256,
-  "src": "https://www.thetransformationofvalue.com/assets/63c9c0c159faaa462747acd6/6730aeca0e0d67d7234879f2_webclip.png"
+  "color": "#6b6043",
+  "w": 720,
+  "h": 720,
+  "manual": true,
+  "src": "podcast-cover"
  },
  "de-legende-van-satoshi-nakamoto": {
   "img": "img/de-legende-van-satoshi-nakamoto.webp",
