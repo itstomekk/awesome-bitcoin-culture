@@ -1803,5 +1803,13 @@
   "h": 405,
   "manual": true,
   "src": "og-image"
+ },
+ "finding-satoshi": {
+  "img": "img/finding-satoshi.webp",
+  "color": "#d4cfcb",
+  "w": 720,
+  "h": 387,
+  "manual": true,
+  "src": "og-image"
  }
 }

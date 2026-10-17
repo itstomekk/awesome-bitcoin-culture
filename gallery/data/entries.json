@@ -1287,6 +1287,17 @@
   "host": "indeehub.studio"
  },
  {
+  "id": "finding-satoshi",
+  "name": "Finding Satoshi",
+  "url": "https://www.findingsatoshi.com/",
+  "desc": "2026 documentary by Matthew Miele (Tucker Tooley Entertainment); journalist William Cohan and investigator Tyler Maroney spend four years hunting for Bitcoin's creator.",
+  "room": "Film & Documentary",
+  "roomLabel": "Film & Documentary",
+  "roomIcon": "🎬",
+  "sub": "",
+  "host": "findingsatoshi.com"
+ },
+ {
   "id": "hodl",
   "name": "HODL",
   "url": "https://www.youtube.com/watch?v=dktBrlikweo",

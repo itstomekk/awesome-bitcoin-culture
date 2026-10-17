@@ -330,6 +330,9 @@ Named artists whose main material is meme culture also live here.
   Mediavilla; Best Movie at Bitcoin FilmFest 2024.
 - [Finding Home](https://indeehub.studio/film/finding-home) - 2025 docuseries by Avi Burra pairing
   immigrants seeking a home with Bitcoiners seeking new money.
+- [Finding Satoshi](https://www.findingsatoshi.com/) - 2026 documentary by Matthew Miele (Tucker Tooley
+  Entertainment); journalist William Cohan and investigator Tyler Maroney spend four years hunting for
+  Bitcoin's creator.
 - [HODL](https://www.youtube.com/watch?v=dktBrlikweo) - 2020 comedy short by The Garcia Brothers,
   made for 86 cents; Best Short at Bitcoin FilmFest 2024.
 - [Hotel Bitcoin](https://www.deaplaneta.com/es/hotel_bitcoin) - 2024 Spanish comedy about friends
