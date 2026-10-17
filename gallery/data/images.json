@@ -666,9 +666,12 @@
   "src": "harvest"
  },
  "statue-of-satoshi": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/statue-of-satoshi.webp",
+  "color": "#747468",
+  "w": 720,
+  "h": 432,
+  "manual": true,
+  "src": "harvest"
  },
  "studio-zeitwerk": {
   "img": "img/studio-zeitwerk.webp",
@@ -772,16 +775,20 @@
   "src": "harvest"
  },
  "tip-nz": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/tip-nz.webp",
+  "color": "#8b857c",
+  "w": 720,
+  "h": 420,
+  "manual": true,
+  "src": "harvest"
  },
  "bitbybit-run": {
   "img": "img/bitbybit-run.webp",
-  "color": "#302435",
-  "w": 180,
-  "h": 180,
-  "src": "https://run.bitbybit.com.ar/apple-icon?1bc943d97fe9239a"
+  "color": "#40374f",
+  "w": 720,
+  "h": 420,
+  "manual": true,
+  "src": "harvest"
  },
  "bitcoinia": {
   "img": "img/bitcoinia.webp",
@@ -791,9 +798,12 @@
   "src": "https://bitcoinia.org/og-default.png"
  },
  "bitcoin-mining-block-simulator": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/bitcoin-mining-block-simulator.webp",
+  "color": "#f0f1f9",
+  "w": 720,
+  "h": 420,
+  "manual": true,
+  "src": "harvest"
  },
  "bitcoin-vr": {
   "img": "img/bitcoin-vr.webp",
@@ -855,10 +865,11 @@
  },
  "conway-s-game-of-pacman": {
   "img": "img/conway-s-game-of-pacman.webp",
-  "color": "#947a28",
-  "w": 683,
-  "h": 676,
-  "src": "https://conwaysgameofpacman.xyz/pac.png"
+  "color": "#10101a",
+  "w": 720,
+  "h": 420,
+  "manual": true,
+  "src": "harvest"
  },
  "crypto-classics": {
   "img": "img/crypto-classics.webp",
@@ -889,9 +900,12 @@
   "src": "https://massacre.lawallet.io/images/social/twitter.png"
  },
  "hashteroids": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/hashteroids.webp",
+  "color": "#0e0d0e",
+  "w": 720,
+  "h": 420,
+  "manual": true,
+  "src": "harvest"
  },
  "jippi": {
   "img": "img/jippi.webp",
@@ -932,10 +946,11 @@
  },
  "proof-of-score": {
   "img": "img/proof-of-score.webp",
-  "color": "#0a0b08",
-  "w": 192,
-  "h": 192,
-  "src": "https://proofofscore.win/static/icons/icon-192x192.png"
+  "color": "#1a1e1f",
+  "w": 720,
+  "h": 420,
+  "manual": true,
+  "src": "harvest"
  },
  "sarutobi": {
   "img": "img/sarutobi.webp",
@@ -946,9 +961,12 @@
   "src": "harvest"
  },
  "satoshi-settlers": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/satoshi-settlers.webp",
+  "color": "#13180d",
+  "w": 720,
+  "h": 420,
+  "manual": true,
+  "src": "harvest"
  },
  "satoshi-speedway": {
   "img": null,
@@ -956,9 +974,12 @@
   "why": "no-image"
  },
  "satoshi-s-place": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/satoshi-s-place.webp",
+  "color": "#c6b3b0",
+  "w": 720,
+  "h": 420,
+  "manual": true,
+  "src": "harvest"
  },
  "saving-satoshi": {
   "img": "img/saving-satoshi.webp",
@@ -1177,10 +1198,11 @@
  },
  "bitcoin-video-magazine": {
   "img": "img/bitcoin-video-magazine.webp",
-  "color": "#532911",
-  "w": 180,
-  "h": 180,
-  "src": "https://bitcoinvideomagazine.com/apple-icon.png?apple-icon.0benz0nna83fa.png"
+  "color": "#2e180d",
+  "w": 720,
+  "h": 403,
+  "manual": true,
+  "src": "harvest"
  },
  "citadel21": {
   "img": "img/citadel21.webp",
@@ -1268,10 +1290,11 @@
  },
  "indeehub-studio": {
   "img": "img/indeehub-studio.webp",
-  "color": "#70263e",
-  "w": 256,
-  "h": 256,
-  "src": "https://indeehub.studio/favicon.ico"
+  "color": "#1e1a1b",
+  "w": 720,
+  "h": 420,
+  "manual": true,
+  "src": "harvest"
  },
  "wavlake": {
   "img": "img/wavlake.webp",
@@ -1313,17 +1336,19 @@
  },
  "reel-richard": {
   "img": "img/reel-richard.webp",
-  "color": "#2d3135",
+  "color": "#2d2d2f",
   "w": 720,
-  "h": 720,
-  "src": "https://yt3.googleusercontent.com/xm31YSv4BoRCrtjSZn_PIu4zkgc2VliQnd8PhcvU3UPVd0XHIo8NeANoZbA4JcFvQlZ8cATUAg=s900-c-k-c0x00ffffff-no-rj"
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "tatiana-moroz": {
   "img": "img/tatiana-moroz.webp",
-  "color": "#020202",
-  "w": 180,
-  "h": 180,
-  "src": "https://www.tatianamoroz.com/wp-content/uploads/2021/11/cropped-TC-logo-180x180.png"
+  "color": "#131313",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  },
  "simple-bitcoin-learn-earn": {
   "img": "img/simple-bitcoin-learn-earn.webp",
@@ -1499,10 +1524,11 @@
  },
  "najp": {
   "img": "img/najp.webp",
-  "color": "#171717",
-  "w": 180,
-  "h": 180,
-  "src": "https://najp.ch/wp-content/uploads/2025/07/cropped-NAJP_iPhone-180x180.png"
+  "color": "#767569",
+  "w": 720,
+  "h": 420,
+  "manual": true,
+  "src": "harvest"
  },
  "tructor-21": {
   "img": "img/tructor-21.webp",
