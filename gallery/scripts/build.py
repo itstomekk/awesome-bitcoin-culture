@@ -26,7 +26,7 @@ ROOM_OF = {
     "Events & Festivals": "events",
 }
 ROOMS = [
-    ("art", "Visual Art", "Painting, digital, mixed media, sculpture and memes"),
+    ("art", "Visual Art", "Painting, illustration, comics, sculpture, design and memes"),
     ("literature", "Literature", "Books and long reads"),
     ("music", "Music", "Sats-per-stream sound"),
     ("film", "Film", "Film & Documentary: documentaries and features"),

@@ -67,3 +67,10 @@ real entries yet — needs research).
 - Fzero now mentions $BLEEP (Zaza already mentioned his films).
 - Gallery rebuilt: 238 entries, parity check passes. Not pushed.
 - Still open: the bigger Visual Art regrouping (Painting & Muralism / Digital & Illustration / Comics / Sculpture & Objects / Mixed Media & Craft / Design & Merch) and Moving Image / Sound / Words grouping, awaiting Tomek's go.
+
+## Update 2026-10-17 (Visual Art regrouping)
+
+- Jimmy Song removed (Tomek's call). 237 entries now.
+- Visual Art subsections replaced: Painting, Drawing & Street Art (31) / Illustration & Digital Art (16) / Comics & Picture Books (3) / Sculpture & Objects (12) / Mixed Media & Craft (21) / Design & Merch (9) / Memes & Internet Culture (5, unchanged). Every entry kept, alphabetical within each group. Bitchair is in Design & Merch with Bitcoin Trading Cards, Lena, Lucho Poletti, Le Pleb Royale, Mr.Crown, Sea Is Medicine, Tom Badley, World of Rusty. Kialara and Kanuto are in Sculpture & Objects.
+- Top-level sections (Literature, Music, Podcasts, Film, Games, Institutions, Events) were left as they are. Merging Music+Podcasts or splitting Publications & Media would change the 8 gallery rooms; not done.
+- Gallery rebuilt, parity OK. Local commits only, not pushed.

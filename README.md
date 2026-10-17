@@ -28,10 +28,12 @@ coins, AI-slop generated in bulk.
 ## Contents
 
 - [🎨 Visual Art](#-visual-art)
-  - [Painters](#painters)
-  - [Digital & Graphic Artists](#digital--graphic-artists)
-  - [Mixed Media & Other Artists](#mixed-media--other-artists)
-  - [Sculpture](#sculpture)
+  - [Painting, Drawing & Street Art](#painting-drawing--street-art)
+  - [Illustration & Digital Art](#illustration--digital-art)
+  - [Comics & Picture Books](#comics--picture-books)
+  - [Sculpture & Objects](#sculpture--objects)
+  - [Mixed Media & Craft](#mixed-media--craft)
+  - [Design & Merch](#design--merch)
   - [Memes & Internet Culture](#memes--internet-culture)
 - [📚 Literature](#-literature)
 - [🎵 Music](#-music)
@@ -57,7 +59,7 @@ coins, AI-slop generated in bulk.
 
 ## 🎨 Visual Art
 
-### Painters
+### Painting, Drawing & Street Art
 
 - [A13MW](https://www.a13mw.com/) - Painting, printmaking, and hand-drawn animation, anchored by
   "Buzzbee, the African Bitcoin Queen".
@@ -72,6 +74,10 @@ coins, AI-slop generated in bulk.
 - [Bitcoin Apex](https://bitcoinapexart.com) - Pencil, Dürer-esque portraiture.
 - [Blu3baer](https://timechainartmagazine.com/artist/blu3baer/) - Acrylic paintings and limited
   prints reworking figures from films, games, myths, and Bitcoin memes.
+- [Cyber / Street Cyber](https://x.com/streetcyber_art) - Stencil art and paste-ups; "Born Debt-Free"
+  series.
+- [Flo Montoya](https://scarce.city/creators/flo-montoya) - Poster and wheatpaste, protest-art
+  tradition.
 - [Fzero](https://9fold.co/worlds/fzero) - Painting rooted in a tattooing background; "GENESIS 113"
   (2026) is a 100-hour canvas on consciousness and sovereignty; also
   creator of the animated series *$BLEEP*.
@@ -110,6 +116,8 @@ coins, AI-slop generated in bulk.
   addressing money, value, and technology. ([X/Twitter](https://x.com/ryrartist))
 - [Sweedgraffixx](https://sweedgraffixx.ch/) - Acrylic and mixed-media painting; dense, colorful,
   hand-worked surfaces, including the "Scarcity" canvas.
+- [The Great Print](https://timechainartmagazine.com/artist/the-great-print/) - Detailed pen
+  drawings of Bitcoin themes; also designs visual identities for Bitcoin companies.
 - [Tommy Marcheschi](https://www.tommy.studio/) - Oil, acrylic, aerosol, and mixed media; describes
   his politically charged work as "pre-emptive propaganda."
 - [Trevor Jones](https://www.trevorjonesart.com/) - Oil paintings, prints, and bronze sculpture;
@@ -117,7 +125,7 @@ coins, AI-slop generated in bulk.
 - [X3N0533D](https://x.com/X3N0533D) - Watercolor and ink on paper; cyberpunk imagery on
   self-custody, node operation, and mind sovereignty.
 
-### Digital & Graphic Artists
+### Illustration & Digital Art
 
 - [Anik Malcolm](https://anikmalcolm.com/) - Conceptual multimedia art with highly detailed,
   meticulous compositions; focuses on freedom, resistance, and transformation.
@@ -128,38 +136,15 @@ coins, AI-slop generated in bulk.
   GIFs, wallpapers, memes, and merch; Lightning-funded and free to share.
 - [CA Danner](http://www.cadanner.com/) - Digital/print series, "Satoshi White Paper Series".
   Auctioned via Bitcoin for the Arts. ([X/Twitter](https://twitter.com/cityalley21))
-- [Chiefmonkey](https://hodlr.rocks/) - Laser-cut, layered works combining text and symbolism,
-  rooted in cypherpunk philosophy and Nostr.
-  ([Nostr](https://primal.net/p/npub1a3um269aaf3u5cy37kuykrrrnsg2pyv7za06pxjduv25lq5sdujs2qmdj6))
 - [Coldie](https://coldie3d.com/) - Stereoscopic/magnetic portraits, "Filthy Fiat" series.
-- [cryptograffiti](https://cryptograffiti.com) - Mixed-media/screen-print; first artist to dedicate
-  his career fully to Bitcoin/crypto.
-- [Cyber / Street Cyber](https://x.com/streetcyber_art) - Stencil art and paste-ups; "Born Debt-Free"
-  series.
 - [Dustin D. Trammell](https://www.dustintrammell.com/art) - Bitcoin artist and founding member of
   the Bitcoin Artist Guild; his portfolio spans varied subjects and media. ([Timechain Art
   profile](https://timechainartmagazine.com/artist/dustin-trammell/))
-- [Flo Montoya](https://scarce.city/creators/flo-montoya) - Poster and wheatpaste, protest-art
-  tradition.
-- [Frédéric Guimont](https://ratelcomic.com/) - Comic artist behind *Ratel*, a Robin Hood-style
-  superhero who takes on the banking system.
 - [Gus Grillasca](https://timechainartmagazine.com/artist/gus-grillasca/) - Illustration and
   conceptual design with cyberpunk aesthetics on Bitcoin, privacy, and sovereignty.
 - [HACKZERO](https://x.com/hack355) - AI/Midjourney promptcraft, prolific Bitcoin imagery.
-- [House of Ralfus](https://houseofralfus.com/) - Relief block prints, painting, and drawing; 1/1
-  prints made on an 1860s Albion Press.
-- [Le Pleb Royale](https://plebroyale.com/) - Prints, posters, stickers, and pins for the Bitcoin
-  community, including a BTCPay Server series.
-- [Lina Seiche](https://thelittlehodler.com) - Comic and graphic art.
-- [Lucho Poletti](https://luchopoletti.com) - Visual/graphic art, also apparel.
 - [Luis Simo](https://scarce.city/creators/luis-simo) - Pixel mosaic, "Pepernica".
-- [Missatoshi_girl](https://missatoshigirl.pvh-labs.com/) - Street-art mixed media from recycled
-  materials; graffiti language about privacy and freedom.
-  ([Instagram](https://instagram.com/missatoshi_girl), [X/Twitter](https://x.com/Missatoshi_girl),
-  [Nostr](https://primal.net/p/npub1cax06cljhz5mugtrrxdjvhw8ekepum7l4c7etmj6nwaunzdtxmyqf3cjwe))
 - [Moozi](https://x.com/l3itc0in) - Custom-trained AI models, Persian-inspired painterly style.
-- [Mr.Crown](https://renarchy.com/) - Poster and clothing graphics under the Renarchy project:
-  privacy, cypherpunk culture, streetwear.
 - [NoGood](https://nogood.studio/) - Amsterdam illustrator making limited prints and posters
   inspired by retro tech and the open web.
 - [Psyfer](https://timechainartmagazine.com/artist/psyfer/) - Multidisciplinary, digital-numismatics-focused
@@ -167,68 +152,20 @@ coins, AI-slop generated in bulk.
 - [Shipwreck Sean](https://x.com/artbyshipwreck) - Illustration, "HODL On" (2026). Auctioned via
   Bitcoin for the Arts. ([Instagram](https://www.instagram.com/shipwrecksean/))
 - [Superama](https://www.xverse.app/blog/bitcoin-art) - AR art, "Satoshi is Female". Latin American.
-- [The Great Print](https://timechainartmagazine.com/artist/the-great-print/) - Detailed pen
-  drawings of Bitcoin themes; also designs visual identities for Bitcoin companies.
-- [Tom Badley](https://tombadley.net/) - Banknote design, lithography, and letterpress; author of
-  *Art & Money*.
-- [Tynka](https://bitcoinillustration.com/) - Handmade illustration and Bitcoin picture books about
-  family, community, and everyday use.
-- [World of Rusty](https://www.worldofrusty.com/) - Prints, trading cards, metal pieces, and resin
-  lamps built from Bitcoin imagery and memes.
 - [YuZapata](http://yuzapata.art) - Street art/digital, "Palometa the Pigeon" character; "Orange
   Fruit Dove". Latin American.
 - [Zaza](https://9fold.co/worlds/zaza/) - Visual artist whose Bitcoin-themed work includes the
   films *An Ode to Nodes* and *Satoshi, A Self Portrait*.
 
-### Mixed Media & Other Artists
+### Comics & Picture Books
 
-- [5Ksana](https://buybitart.com/) - Hand embroidery and sewing in cotton, linen, and silk;
-  "craftivism" with Bitcoin themes.
-- [Ariel Birdie](https://www.arielbird.com/) - Mixed media, including the "Bitcoin Buddha" piece.
-- [Bitchair](https://bitchair.store/) - Limited-edition furniture with woodwork and embroidery; each
-  chair is both usable and Bitcoin merch.
-- [Bitcoin Trading Cards](https://basedtradingcards.com/) - Physical collectible card line telling
-  Bitcoin culture through limited editions. ([X/Twitter](https://x.com/btc_cards),
-  [Nostr](https://primal.net/p/npub1yjryjq2kdganuc69zme9agk0q4rjcnlxel3fwp3xm9z68phsxngsqd33a9))
-- [BTC Monk](https://x.com/BTCmonk1) - Pyrography, charcoal lacquer, gold leaf, and resin on
-  plywood; the "Faces of Bitcoin" series.
-- [Camas Logue](https://www.camaslogue.com) - Painting, carving, printmaking, and weaving grounded
-  in place; Klamath Tribes member, BFTA Advisor.
-- [Crayonsmell](https://x.com/crayonsmell) - Laser-engraved wood pieces and limited prints,
-  including "Bitcoin Mandala".
-- [Kanuto](https://kanuto.io/) - Physical-only works in wood and acrylic that turn Bitcoin
-  transactions into handcrafted forms.
-- [Kialara](https://kialara.com/) - Collectible Bitcoin art objects in stainless steel, silver, and
-  meteorite that double as secure storage; founded 2014.
-- [Lady RedHorns](https://redhornsbtc.store/) - Mixed media; "Angels of Freedom" series, auctioned
-  via Bitcoin for the Arts. ([Instagram](https://www.instagram.com/lady_redhorns),
-  [X/Twitter](https://x.com/LRedhorns))
-- [Lena](https://justlenasart.com/) - Apparel and jewelry design for the Bitcoin community.
-- [Madex](https://madex.art) - Mixed media; creative director of Bull Bitcoin.
-- [Marcus Connor](https://timechainartmagazine.com/artist/marcus-connor/) - Wood, installations, and
-  music; drew the "Bitcoin Roller Coaster Guy" meme.
-- [MLO (Martin Lukas Ostachowski)](https://mlo.art/) - Montreal artist working in painting, paper,
-  print, and sculpture; geometric abstraction in the "In Plain Sight" series.
-- [Modeotec](https://timechainartmagazine.com/artist/modeotec/) - Assemblage from recycled circuit
-  boards; discarded hardware as statements about sound money.
-- [NAJP](https://najp.ch/) - Swiss artist who builds paintings and collages from real US dollars,
-  paint, and gold leaf.
-- [Rare Scrilla](https://www.rarescrilla.com/) - Illustration, painting, and mixed media rooted in
-  graffiti and hip-hop; also a DJ and producer.
-- [Rebel Money](https://www.rebelmoney.art/) - Mixed-media art made from currency, exploring
-  monetary sovereignty ("Libertas Ex Arte").
-- [Sea Is Medicine](https://btcaloha.shop/pages/about) - Collage and wearable art with surf and sea
-  imagery, sold as BTC Aloha shirts and accessories.
-- [Shamshad](https://x.com/0711_BTC) - Handwritten images built entirely from readable text,
-  including a Bitcoin Whitepaper edition; editions produced by his son Schatoshi.
-- [Tructor 21](https://tructor.co/) - Murals, wheatpaste posters, sculpture, beadwork, and wearable
-  design.
-- [Yonat Vaks](https://www.yonatvaks.com/aboutme) - Painting, sculpture, and re-imagined artifacts;
-  "Bitcoin Art(e)facts" series on money and civilization.
-- [ZETRA](https://zetra.studio/) - Painting, print, sculpture, and installation mixing street art
-  with system-based abstraction.
+- [Frédéric Guimont](https://ratelcomic.com/) - Comic artist behind *Ratel*, a Robin Hood-style
+  superhero who takes on the banking system.
+- [Lina Seiche](https://thelittlehodler.com) - Comic and graphic art.
+- [Tynka](https://bitcoinillustration.com/) - Handmade illustration and Bitcoin picture books about
+  family, community, and everyday use.
 
-### Sculpture
+### Sculpture & Objects
 
 - [Adam Kadmon](https://adamkadmon.my.canva.site/bitcoinart) - Carved wood panels and gilded
   mixed-media sculpture; "The Bitcoin Religion" series.
@@ -241,6 +178,10 @@ coins, AI-slop generated in bulk.
   digital-to-physical work.
 - [Gareth Eckley](https://garetheckley.com/) - Gemstone carving and jewelry sculpture; "Bitcoin Gem
   Artwork" series uses sacred geometry and the Golden Ratio.
+- [Kanuto](https://kanuto.io/) - Physical-only works in wood and acrylic that turn Bitcoin
+  transactions into handcrafted forms.
+- [Kialara](https://kialara.com/) - Collectible Bitcoin art objects in stainless steel, silver, and
+  meteorite that double as secure storage; founded 2014.
 - [MadMunky](https://madmunky2140.carrd.co/) - Wood, resin, and mixed-media sculpture with sound and
   video; "Manifesto 2140" series.
 - [Puzzle](https://puzzlingpuzzle.art/) - Layered laser-cut wood sculpture with embedded LED
@@ -249,6 +190,73 @@ coins, AI-slop generated in bulk.
   By Gergely Réka & Tamás Gilly.
 - [Studio Zeitwerk](https://www.studio-zeitwerk.com/) - Sculpture in wood, concrete, and melted fiat
   coins; block heights become landscapes of time.
+
+### Mixed Media & Craft
+
+- [5Ksana](https://buybitart.com/) - Hand embroidery and sewing in cotton, linen, and silk;
+  "craftivism" with Bitcoin themes.
+- [Ariel Birdie](https://www.arielbird.com/) - Mixed media, including the "Bitcoin Buddha" piece.
+- [BTC Monk](https://x.com/BTCmonk1) - Pyrography, charcoal lacquer, gold leaf, and resin on
+  plywood; the "Faces of Bitcoin" series.
+- [Camas Logue](https://www.camaslogue.com) - Painting, carving, printmaking, and weaving grounded
+  in place; Klamath Tribes member, BFTA Advisor.
+- [Chiefmonkey](https://hodlr.rocks/) - Laser-cut, layered works combining text and symbolism,
+  rooted in cypherpunk philosophy and Nostr.
+  ([Nostr](https://primal.net/p/npub1a3um269aaf3u5cy37kuykrrrnsg2pyv7za06pxjduv25lq5sdujs2qmdj6))
+- [Crayonsmell](https://x.com/crayonsmell) - Laser-engraved wood pieces and limited prints,
+  including "Bitcoin Mandala".
+- [cryptograffiti](https://cryptograffiti.com) - Mixed-media/screen-print; first artist to dedicate
+  his career fully to Bitcoin/crypto.
+- [House of Ralfus](https://houseofralfus.com/) - Relief block prints, painting, and drawing; 1/1
+  prints made on an 1860s Albion Press.
+- [Lady RedHorns](https://redhornsbtc.store/) - Mixed media; "Angels of Freedom" series, auctioned
+  via Bitcoin for the Arts. ([Instagram](https://www.instagram.com/lady_redhorns),
+  [X/Twitter](https://x.com/LRedhorns))
+- [Madex](https://madex.art) - Mixed media; creative director of Bull Bitcoin.
+- [Marcus Connor](https://timechainartmagazine.com/artist/marcus-connor/) - Wood, installations, and
+  music; drew the "Bitcoin Roller Coaster Guy" meme.
+- [Missatoshi_girl](https://missatoshigirl.pvh-labs.com/) - Street-art mixed media from recycled
+  materials; graffiti language about privacy and freedom.
+  ([Instagram](https://instagram.com/missatoshi_girl), [X/Twitter](https://x.com/Missatoshi_girl),
+  [Nostr](https://primal.net/p/npub1cax06cljhz5mugtrrxdjvhw8ekepum7l4c7etmj6nwaunzdtxmyqf3cjwe))
+- [MLO (Martin Lukas Ostachowski)](https://mlo.art/) - Montreal artist working in painting, paper,
+  print, and sculpture; geometric abstraction in the "In Plain Sight" series.
+- [Modeotec](https://timechainartmagazine.com/artist/modeotec/) - Assemblage from recycled circuit
+  boards; discarded hardware as statements about sound money.
+- [NAJP](https://najp.ch/) - Swiss artist who builds paintings and collages from real US dollars,
+  paint, and gold leaf.
+- [Rare Scrilla](https://www.rarescrilla.com/) - Illustration, painting, and mixed media rooted in
+  graffiti and hip-hop; also a DJ and producer.
+- [Rebel Money](https://www.rebelmoney.art/) - Mixed-media art made from currency, exploring
+  monetary sovereignty ("Libertas Ex Arte").
+- [Shamshad](https://x.com/0711_BTC) - Handwritten images built entirely from readable text,
+  including a Bitcoin Whitepaper edition; editions produced by his son Schatoshi.
+- [Tructor 21](https://tructor.co/) - Murals, wheatpaste posters, sculpture, beadwork, and wearable
+  design.
+- [Yonat Vaks](https://www.yonatvaks.com/aboutme) - Painting, sculpture, and re-imagined artifacts;
+  "Bitcoin Art(e)facts" series on money and civilization.
+- [ZETRA](https://zetra.studio/) - Painting, print, sculpture, and installation mixing street art
+  with system-based abstraction.
+
+### Design & Merch
+
+- [Bitchair](https://bitchair.store/) - Limited-edition furniture with woodwork and embroidery; each
+  chair is both usable and Bitcoin merch.
+- [Bitcoin Trading Cards](https://basedtradingcards.com/) - Physical collectible card line telling
+  Bitcoin culture through limited editions. ([X/Twitter](https://x.com/btc_cards),
+  [Nostr](https://primal.net/p/npub1yjryjq2kdganuc69zme9agk0q4rjcnlxel3fwp3xm9z68phsxngsqd33a9))
+- [Le Pleb Royale](https://plebroyale.com/) - Prints, posters, stickers, and pins for the Bitcoin
+  community, including a BTCPay Server series.
+- [Lena](https://justlenasart.com/) - Apparel and jewelry design for the Bitcoin community.
+- [Lucho Poletti](https://luchopoletti.com) - Visual/graphic art, also apparel.
+- [Mr.Crown](https://renarchy.com/) - Poster and clothing graphics under the Renarchy project:
+  privacy, cypherpunk culture, streetwear.
+- [Sea Is Medicine](https://btcaloha.shop/pages/about) - Collage and wearable art with surf and sea
+  imagery, sold as BTC Aloha shirts and accessories.
+- [Tom Badley](https://tombadley.net/) - Banknote design, lithography, and letterpress; author of
+  *Art & Money*.
+- [World of Rusty](https://www.worldofrusty.com/) - Prints, trading cards, metal pieces, and resin
+  lamps built from Bitcoin imagery and memes.
 
 ### Memes & Internet Culture
 
@@ -277,8 +285,6 @@ Named artists whose main material is meme culture also live here.
   edited by Philip Charter (Konsensus Network, 2023).
 - [Bitcoin: A Treasure to HODL](https://lindeymagee.com/) - Children's book by Lindey Magee; read as
   a sponsored live event at Bitcoin for the Arts' Bitcoin Arts Park.
-- [Jimmy Song](https://jimmysong.org/) - Bitcoin developer, author, and educator; wrote *Fiat Ruins
-  Everything*, arguing fiat debases art.
 - [Konsensus](https://konsensus.net) - Publishing house for sovereignty-themed books and essays; no
   trackers, no cookies, no consent banner.
 - [Kontext](https://primal.net/p/npub1qfc7rwddjl3lzhkhgge8ch82xjfm6e3gqcgk8zm6pahz3tvvl7gq88xnrh) - Estonian
