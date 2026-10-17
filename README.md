@@ -643,10 +643,12 @@ This list tracks creative work, not events. For a dedicated, actively updated ca
 - [Awesome Bitcoin Events](https://github.com/itstomekk/awesome-bitcoin-events) - The canonical
   source for Bitcoin conferences, meetups, retreats, festivals, and technical gatherings worldwide.
 
-Two exceptions worth naming directly here, since they're culture-first rather than industry-first:
+Three exceptions worth naming directly here, since they're culture-first rather than industry-first:
 
 - [Bitcoin FilmFest](https://bitcoinfilmfest.com) - Annual Warsaw festival of Bitcoin cinema
   awarding the Golden Rabbits; also a year-round film hub.
+- [Bitfest](https://bitfest.uk/) - Four-day Manchester festival (19-22 Nov 2026) that pairs talks with a
+  Bitcoin art exhibition, cinema, gaming, live music and Nostr; family-friendly.
 - [Revolution.Rocks](https://www.revolution.rocks/) - Two-day Value4Value music festival on
   Belgrade's Zappa Barka; Lightning tips go straight to performing artists.
 

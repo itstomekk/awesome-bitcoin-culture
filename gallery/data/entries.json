@@ -2541,6 +2541,17 @@
   "host": "bitcoinfilmfest.com"
  },
  {
+  "id": "bitfest",
+  "name": "Bitfest",
+  "url": "https://bitfest.uk/",
+  "desc": "Four-day Manchester festival (19-22 Nov 2026) that pairs talks with a Bitcoin art exhibition, cinema, gaming, live music and Nostr; family-friendly.",
+  "room": "Events & Festivals",
+  "roomLabel": "Events & Festivals",
+  "roomIcon": "🎪",
+  "sub": "",
+  "host": "bitfest.uk"
+ },
+ {
   "id": "revolution-rocks",
   "name": "Revolution.Rocks",
   "url": "https://www.revolution.rocks/",

@@ -1795,5 +1795,13 @@
   "h": 400,
   "manual": true,
   "src": "harvest"
+ },
+ "bitfest": {
+  "img": "img/bitfest.webp",
+  "color": "#e2cdac",
+  "w": 720,
+  "h": 405,
+  "manual": true,
+  "src": "og-image"
  }
 }
