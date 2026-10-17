@@ -343,6 +343,9 @@ Named artists whose main material is meme culture also live here.
   HBO documentary by Cullen Hoback investigating Satoshi Nakamoto's identity.
 - [No More Inflation](https://nomoreinflation.com/) - 2024 documentary by Maiku Tsukai on rising
   prices; Best Movie at Bitcoin FilmFest 2025.
+- [Searching for Satoshi](https://www.cbc.ca/documentaries/the-passionate-eye/searching-for-satoshi-the-mysterious-disappearance-of-the-bitcoin-creator-1.7013992) -
+  2023 documentary by Paul Kemp (CBC, The Passionate Eye) on the disappearance of Bitcoin's creator; Best
+  Story at Bitcoin FilmFest 2024.
 - [The Anatomy of Bitcoin](https://anatomyofbitcoin.com) - Open-source, community-funded
   hyper-realism film showing how the Bitcoin protocol works.
 - [The Great Reset and the Rise of Bitcoin](https://www.youtube.com/watch?v=e0plyXEc1Ak) - 2022

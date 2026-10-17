@@ -1353,6 +1353,17 @@
   "host": "nomoreinflation.com"
  },
  {
+  "id": "searching-for-satoshi",
+  "name": "Searching for Satoshi",
+  "url": "https://www.cbc.ca/documentaries/the-passionate-eye/searching-for-satoshi-the-mysterious-disappearance-of-the-bitcoin-creator-1.7013992",
+  "desc": "2023 documentary by Paul Kemp (CBC, The Passionate Eye) on the disappearance of Bitcoin's creator; Best Story at Bitcoin FilmFest 2024.",
+  "room": "Film & Documentary",
+  "roomLabel": "Film & Documentary",
+  "roomIcon": "🎬",
+  "sub": "",
+  "host": "cbc.ca"
+ },
+ {
   "id": "the-anatomy-of-bitcoin",
   "name": "The Anatomy of Bitcoin",
   "url": "https://anatomyofbitcoin.com",
