@@ -394,8 +394,6 @@ still playable.
   articles aloud, with commentary.
 - [The Bitcoin Infinity Show](https://www.bitcoininfinityshow.com/) - Philosophy and practical
   tools for living free, hosted by Knut Svanholm and Luke de Wolf.
-- [Citizen Bitcoin](https://citizenbitcoin.world/) - Brady Swenson on freedom, sovereignty, and
-  Bitcoin.
 - [Cypherpunk Bitstream](https://taz0.org/bitstream/) - Berlin podcast on crypto-anarchy and
   cypherpunk history and culture (16 episodes, 2020-2021).
 - [Satoshi Nakamoto Institute](https://nakamotoinstitute.org/podcasts/) - Readings and discussion of
@@ -412,8 +410,6 @@ still playable.
   complete).
 - [Dr Bitcoin - The Man Who Wasn't Satoshi Nakamoto](https://drbitcoinpod.com/) - Narrative series
   on Craig Wright's Satoshi claim and the court case that exposed it.
-- [Exit Scam](https://www.exitscam.show/) - True-crime series on the death of Gerald Cotten and the
-  collapse of QuadrigaCX (9 episodes, complete).
 
 ## 🎮 Games
 

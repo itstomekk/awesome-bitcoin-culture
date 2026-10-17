@@ -398,13 +398,13 @@
  {
   "id": "cyber-street-cyber",
   "name": "Cyber / Street Cyber",
-  "url": "https://www.streetcyber.art/",
+  "url": "https://x.com/streetcyber_art",
   "desc": "Stencil art and paste-ups; \"Born Debt-Free\" series.",
   "room": "Visual Art",
   "roomLabel": "Visual Art",
   "roomIcon": "🎨",
   "sub": "Digital & Graphic Artists",
-  "host": "streetcyber.art"
+  "host": "x.com"
  },
  {
   "id": "dustin-d-trammell",
@@ -563,13 +563,13 @@
  {
   "id": "psyfer",
   "name": "Psyfer",
-  "url": "https://www.psyferpunkart.com/about",
+  "url": "https://timechainartmagazine.com/artist/psyfer/",
   "desc": "Multidisciplinary, digital-numismatics-focused art; London-based practice examining the semiotics of power.",
   "room": "Visual Art",
   "roomLabel": "Visual Art",
   "roomIcon": "🎨",
   "sub": "Digital & Graphic Artists",
-  "host": "psyferpunkart.com"
+  "host": "timechainartmagazine.com"
  },
  {
   "id": "shipwreck-sean",
@@ -647,17 +647,6 @@
   "roomIcon": "🎨",
   "sub": "Digital & Graphic Artists",
   "host": "yuzapata.art"
- },
- {
-  "id": "zazawowow",
-  "name": "Zazawowow",
-  "url": "https://zazawowow.co.uk",
-  "desc": "Multidisciplinary visual artist, UX designer, and musician; glitch and geometric digital art.",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Digital & Graphic Artists",
-  "host": "zazawowow.co.uk"
  },
  {
   "id": "5ksana",
@@ -1595,17 +1584,6 @@
   "host": "bitcoininfinityshow.com"
  },
  {
-  "id": "citizen-bitcoin",
-  "name": "Citizen Bitcoin",
-  "url": "https://citizenbitcoin.world/",
-  "desc": "Brady Swenson on freedom, sovereignty, and Bitcoin.",
-  "room": "Podcasts",
-  "roomLabel": "Podcasts",
-  "roomIcon": "🎙️",
-  "sub": "Ideas & Philosophy",
-  "host": "citizenbitcoin.world"
- },
- {
   "id": "cypherpunk-bitstream",
   "name": "Cypherpunk Bitstream",
   "url": "https://taz0.org/bitstream/",
@@ -1670,17 +1648,6 @@
   "roomIcon": "🎙️",
   "sub": "Narrative Series",
   "host": "drbitcoinpod.com"
- },
- {
-  "id": "exit-scam",
-  "name": "Exit Scam",
-  "url": "https://www.exitscam.show/",
-  "desc": "True-crime series on the death of Gerald Cotten and the collapse of QuadrigaCX (9 episodes, complete).",
-  "room": "Podcasts",
-  "roomLabel": "Podcasts",
-  "roomIcon": "🎙️",
-  "sub": "Narrative Series",
-  "host": "exitscam.show"
  },
  {
   "id": "bitbybit-run",
