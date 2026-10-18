@@ -1838,5 +1838,88 @@
   "img": null,
   "color": null,
   "why": "page:HTTPError"
+ },
+ "24": {
+  "img": "img/24.webp",
+  "color": "#83634b",
+  "w": 720,
+  "h": 374,
+  "src": "https://storage.ghost.io/c/f7/13/f7131de0-1874-43d9-8925-b6a27b2505f0/content/images/size/w1200/2025/12/Screenshot-2025-12-05-at-06.54.18.png"
+ },
+ "satoshi-s-fortune-a-novel": {
+  "img": null,
+  "color": null,
+  "why": "no-image"
+ },
+ "satoshi-wedding-murders": {
+  "img": "img/satoshi-wedding-murders.webp",
+  "color": "#9c9382",
+  "w": 720,
+  "h": 1732,
+  "src": "https://img1.wsimg.com/isteam/ip/0ef416e5-b291-4ffc-80d7-e3ae531ffb51/IMG_5923.png"
+ },
+ "the-hunt-for-satoshi": {
+  "img": "img/the-hunt-for-satoshi.webp",
+  "color": "#422b22",
+  "w": 500,
+  "h": 800,
+  "src": "https://arlofoxauthor.com/wp-content/uploads/2023/11/The-Hunt-for-Satoshi-USE.jpg"
+ },
+ "the-nakamoto-consensus": {
+  "img": "img/the-nakamoto-consensus.webp",
+  "color": "#676767",
+  "w": 720,
+  "h": 354,
+  "src": "https://nakamotoconsensus.io/wp-content/uploads/2024/07/logo-1-1024x504.png"
+ },
+ "walking-banks": {
+  "img": null,
+  "color": null,
+  "why": "no-image"
+ },
+ "tesi-cypher-painter": {
+  "img": "img/tesi-cypher-painter.webp",
+  "color": "#3a3939",
+  "w": 720,
+  "h": 450,
+  "src": "https://tesicypherpainter.carrd.co/assets/images/card.jpg?v=ccb7f1df"
+ },
+ "go-brrr": {
+  "img": "img/go-brrr.webp",
+  "color": "#050505",
+  "w": 720,
+  "h": 405,
+  "src": "https://www.gobrrr.me/ozypsoob/2022/02/BrrrBanner69-2.jpg"
+ },
+ "ronin-21": {
+  "img": null,
+  "color": null,
+  "why": "no-image"
+ },
+ "behemoth": {
+  "img": "img/behemoth.webp",
+  "color": "#321f2d",
+  "w": 720,
+  "h": 378,
+  "src": "https://fanfares.io/api/og/naddr1qvzqqqr6dvpzq5vg2gdn94qtws9p8zxjgn3zvsk6x52up7ee7pc9wy5nwqqgadgcqyvhwumn8ghj7enpdenxzun9wvhxummnw3erztnrdaksqfrpv5mrgvfnxanz6vnyx5ez6dpsvv6j6cnzxg6j6d3ex5crzc3e8p3rxdmrcmnmqj"
+ },
+ "cyphermunk-house": {
+  "img": "img/cyphermunk-house.webp",
+  "color": "#5d237e",
+  "w": 720,
+  "h": 358,
+  "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=756,fit=crop,f=jpeg/YBgrqnzpJqfBKV1Z/cmh-sats-image-m2WpgDyn5LH1yB2b.png"
+ },
+ "bitcoin-graffiti-jam": {
+  "img": "img/bitcoin-graffiti-jam.webp",
+  "color": "#09b9a6",
+  "w": 192,
+  "h": 192,
+  "src": "https://geyser.fund/icons/192.png"
+ },
+ "taa-temporary-autonomous-art": {
+  "img": null,
+  "color": null,
+  "why": "no-image"
  }
 }

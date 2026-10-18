@@ -49,7 +49,7 @@ coins, AI-slop generated in bulk.
   - [Digital Board & Card Games](#digital-board--card-games)
   - [Wagering & Casino](#wagering--casino)
 - [🏛 Institutions & Spaces](#-institutions--spaces)
-  - [Galleries & Museums](#galleries--museums)
+  - [Galleries, Museums & Hubs](#galleries-museums--hubs)
   - [Grants, Funders & Patronage](#grants-funders--patronage)
   - [Publications & Media](#publications--media)
   - [Platforms & Marketplaces](#platforms--marketplaces)
@@ -116,6 +116,9 @@ coins, AI-slop generated in bulk.
   addressing money, value, and technology. ([X/Twitter](https://x.com/ryrartist))
 - [Sweedgraffixx](https://sweedgraffixx.ch/) - Acrylic and mixed-media painting; dense, colorful,
   hand-worked surfaces, including the "Scarcity" canvas.
+- [Tesi Cypher Painter](https://tesicypherpainter.carrd.co/) - Portuguese painter and industrial
+  designer behind the "21 paintings project": 21 Bitcoin-message paintings left in the streets for
+  free.
 - [The Great Print](https://timechainartmagazine.com/artist/the-great-print/) - Detailed pen
   drawings of Bitcoin themes; also designs visual identities for Bitcoin companies.
 - [Tommy Marcheschi](https://www.tommy.studio/) - Oil, acrylic, aerosol, and mixed media; describes
@@ -245,12 +248,16 @@ coins, AI-slop generated in bulk.
 - [Bitcoin Trading Cards](https://basedtradingcards.com/) - Physical collectible card line telling
   Bitcoin culture through limited editions. ([X/Twitter](https://x.com/btc_cards),
   [Nostr](https://primal.net/p/npub1yjryjq2kdganuc69zme9agk0q4rjcnlxel3fwp3xm9z68phsxngsqd33a9))
+- [Go Brrr](https://www.gobrrr.me) - SLA-resin 3D-printed Bitcoin art ("Bitcoin Prints"), sold
+  alongside node, SeedSigner and cold-storage hardware kits.
 - [Le Pleb Royale](https://plebroyale.com/) - Prints, posters, stickers, and pins for the Bitcoin
   community, including a BTCPay Server series.
 - [Lena](https://justlenasart.com/) - Apparel and jewelry design for the Bitcoin community.
 - [Lucho Poletti](https://luchopoletti.com) - Visual/graphic art, also apparel.
 - [Mr.Crown](https://renarchy.com/) - Poster and clothing graphics under the Renarchy project:
   privacy, cypherpunk culture, streetwear.
+- [Ronin 21](https://ronin21.xyz/) - "Decentralized Racing": Bitcoin and Nostr racing-themed
+  streetwear and posters.
 - [Sea Is Medicine](https://btcaloha.shop/pages/about) - Collage and wearable art with surf and sea
   imagery, sold as BTC Aloha shirts and accessories.
 - [Tom Badley](https://tombadley.net/) - Banknote design, lithography, and letterpress; author of
@@ -283,6 +290,11 @@ Named artists whose main material is meme culture also live here.
 
 - [21 Futures: Tales from the Timechain](https://21futures.com/) - Anthology of 21 Bitcoin stories
   edited by Philip Charter (Konsensus Network, 2023).
+- [24](https://blog.casanostra.ink/book/) - Novel by Avi Burra about a son's search for a
+  twenty-four-word inheritance puzzle, connecting Bitcoin, cypherpunk history, and surrealist art;
+  its sequel, *July 18*, continues Oliver Battolo's story.
+- [Behemoth](https://api.fanfares.live/s/TshrzS) - Short story from the 21 Futures cypherpunk fiction
+  project, by Pleb; audio edition on Fanfares (23 min, 2,100 sats).
 - [Bitcoin: A Treasure to HODL](https://lindeymagee.com/) - Children's book by Lindey Magee; read as
   a sponsored live event at Bitcoin for the Arts' Bitcoin Arts Park.
 - [Konsensus](https://konsensus.net) - Publishing house for sovereignty-themed books and essays; no
@@ -290,10 +302,23 @@ Named artists whose main material is meme culture also live here.
 - [Kontext](https://primal.net/p/npub1qfc7rwddjl3lzhkhgge8ch82xjfm6e3gqcgk8zm6pahz3tvvl7gq88xnrh) - Estonian
   writer and musician; author of *A Stoic Resurrection*, draws parallels between Bitcoin and
   Stoicism.
+- [Satoshi’s Fortune: A Novel](https://alastair-mitchell.com/books/) - Alastair Mitchell's thriller
+  about cypherpunks and a missing Bitcoin fortune in 2011 London; its sequel, *Satoshi’s Inquisition:
+  A Novel*, follows a Bitcoin dark-web marketplace in 2012 San Francisco.
+- [Satoshi Wedding Murders](https://nolanbauerle.com/) - Cypherpunk detective fiction by Nolan
+  Bauerle (Count BTC), set in a Bitcoin-standard future where a double murder evades pervasive AI
+  witnesses.
 - [South of Market](https://www.amazon.com/South-Market-Jeffrey-Peel/dp/B0FKHKLM73) - Novel by
   Jeffrey Peel about technology, geopolitics, political influence, and energy as currency.
 - [The Genesis Code: Block One](https://eggore.com/) - Free near-future political satire by E. G.
   Gore about money, power, and who gets to print belief.
+- [The Hunt for Satoshi](https://arlofoxauthor.com/) - Techno-thriller by Arlo Fox about a podcaster
+  searching for Satoshi Nakamoto while trying to protect his family.
+- [The Nakamoto Consensus](https://nakamotoconsensus.io/) - Adventure thriller by Nicholas Nell
+  imagining Satoshi's disappearance and a fight to protect Bitcoin, with philosophical dialogue
+  woven into the story.
+- [Walking Banks](https://walkingbanks.com/) - Thriller by A.H. White about a Beijing murder
+  investigation, a vanished opponent of China's CBDC, and a hidden Bitcoin fortune.
 
 ## 🎵 Music
 
@@ -343,7 +368,7 @@ Named artists whose main material is meme culture also live here.
 - [Money Electric: The Bitcoin Mystery](https://www.hbo.com/movies/money-electric-the-bitcoin-mystery) - 2024
   HBO documentary by Cullen Hoback investigating Satoshi Nakamoto's identity.
 - [No More Inflation](https://nomoreinflation.com/) - 2024 documentary by Maiku Tsukai on rising
-  prices; Best Movie at Bitcoin FilmFest 2025.
+  prices; Best Movie at Bitcoin FilmFest 2025; also screened as *Escape Inflation*.
 - [Searching for Satoshi](https://www.cbc.ca/documentaries/the-passionate-eye/searching-for-satoshi-the-mysterious-disappearance-of-the-bitcoin-creator-1.7013992) -
   2023 documentary by Paul Kemp (CBC, The Passionate Eye) on the disappearance of Bitcoin's creator; Best
   Story at Bitcoin FilmFest 2024.
@@ -585,11 +610,13 @@ still playable.
 
 ## 🏛 Institutions & Spaces
 
-### Galleries & Museums
+### Galleries, Museums & Hubs
 
 - [Bitcoin Art Gallery](https://bitcoinartgallery.com) - Physical gallery in Wynwood, Miami.
 - [Bitcoin Art Society](https://www.bitcoinartsociety.com) - Curator-led institution running the
   Robert Mallary Art Residency and conference exhibitions.
+- [Cyphermunk House](https://www.cyphermunkhouse.com/) - London Bitcoin hub for education, culture and
+  community, with events, art and members; run by artist Psyfer.
 - [BMAG - Bitcoin Museum & Art Gallery](https://museum.b.tc) - Nashville museum and auction platform
   by BTC Inc. with 170+ works and Hal Finney memorabilia.
 
@@ -649,12 +676,18 @@ A few exceptions worth naming directly here, since they're culture-first rather 
 
 - [Bitcoin FilmFest](https://bitcoinfilmfest.com) - Annual Warsaw festival of Bitcoin cinema
   awarding the Golden Rabbits; also a year-round film hub.
-- [Bitfest](https://bitfest.uk/) - Four-day Manchester festival (19-22 Nov 2026) that pairs talks with a
-  Bitcoin art exhibition, cinema, gaming, live music and Nostr; family-friendly.
+- [Bitcoin Graffiti Jam](https://geyser.fund/project/bitcoingraffitijam) - Free one-day London graffiti jam
+  by 2140Art at Stockwell Hall of Fame (2025, back in June 2026): live painting, music, open mic and
+  kids' activities, funded on Geyser.
 - [Bitcoin Shipshow](https://bitcoinship.show/) - Monthly online Bitcoin meetup and live demo show
   for Bitcoin, Lightning, and Nostr builders.
+- [Bitfest](https://bitfest.uk/) - Four-day Manchester festival (19-22 Nov 2026) that pairs talks with a
+  Bitcoin art exhibition, cinema, gaming, live music and Nostr; family-friendly.
 - [Revolution.Rocks](https://www.revolution.rocks/) - Two-day Value4Value music festival on
   Belgrade's Zappa Barka; Lightning tips go straight to performing artists.
+- [TAA (Temporary Autonomous Art)](https://www.taaexhibitions.org/) - Underground open-access art festival
+  taking over UK venues since 2001, started by the Random Artists collective; London Bitcoin artists have
+  been invited to exhibit.
 
 ---
 

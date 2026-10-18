@@ -297,6 +297,17 @@
   "host": "sweedgraffixx.ch"
  },
  {
+  "id": "tesi-cypher-painter",
+  "name": "Tesi Cypher Painter",
+  "url": "https://tesicypherpainter.carrd.co/",
+  "desc": "Portuguese painter and industrial designer behind the \"21 paintings project\": 21 Bitcoin-message paintings left in the streets for free.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Painting, Drawing & Street Art",
+  "host": "tesicypherpainter.carrd.co"
+ },
+ {
   "id": "the-great-print",
   "name": "The Great Print",
   "url": "https://timechainartmagazine.com/artist/the-great-print/",
@@ -935,6 +946,17 @@
   "host": "basedtradingcards.com"
  },
  {
+  "id": "go-brrr",
+  "name": "Go Brrr",
+  "url": "https://www.gobrrr.me",
+  "desc": "SLA-resin 3D-printed Bitcoin art (\"Bitcoin Prints\"), sold alongside node, SeedSigner and cold-storage hardware kits.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Design & Merch",
+  "host": "gobrrr.me"
+ },
+ {
   "id": "le-pleb-royale",
   "name": "Le Pleb Royale",
   "url": "https://plebroyale.com/",
@@ -977,6 +999,17 @@
   "roomIcon": "🎨",
   "sub": "Design & Merch",
   "host": "renarchy.com"
+ },
+ {
+  "id": "ronin-21",
+  "name": "Ronin 21",
+  "url": "https://ronin21.xyz/",
+  "desc": "\"Decentralized Racing\": Bitcoin and Nostr racing-themed streetwear and posters.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Design & Merch",
+  "host": "ronin21.xyz"
  },
  {
   "id": "sea-is-medicine",
@@ -1078,6 +1111,28 @@
   "host": "21futures.com"
  },
  {
+  "id": "24",
+  "name": "24",
+  "url": "https://blog.casanostra.ink/book/",
+  "desc": "Novel by Avi Burra about a son's search for a twenty-four-word inheritance puzzle, connecting Bitcoin, cypherpunk history, and surrealist art; its sequel, July 18, continues Oliver Battolo's story.",
+  "room": "Literature",
+  "roomLabel": "Literature",
+  "roomIcon": "📚",
+  "sub": "",
+  "host": "blog.casanostra.ink"
+ },
+ {
+  "id": "behemoth",
+  "name": "Behemoth",
+  "url": "https://api.fanfares.live/s/TshrzS",
+  "desc": "Short story from the 21 Futures cypherpunk fiction project, by Pleb; audio edition on Fanfares (23 min, 2,100 sats).",
+  "room": "Literature",
+  "roomLabel": "Literature",
+  "roomIcon": "📚",
+  "sub": "",
+  "host": "api.fanfares.live"
+ },
+ {
   "id": "bitcoin-a-treasure-to-hodl",
   "name": "Bitcoin: A Treasure to HODL",
   "url": "https://lindeymagee.com/",
@@ -1111,6 +1166,28 @@
   "host": "primal.net"
  },
  {
+  "id": "satoshi-s-fortune-a-novel",
+  "name": "Satoshi’s Fortune: A Novel",
+  "url": "https://alastair-mitchell.com/books/",
+  "desc": "Alastair Mitchell's thriller about cypherpunks and a missing Bitcoin fortune in 2011 London; its sequel, Satoshi’s Inquisition: A Novel, follows a Bitcoin dark-web marketplace in 2012 San Francisco.",
+  "room": "Literature",
+  "roomLabel": "Literature",
+  "roomIcon": "📚",
+  "sub": "",
+  "host": "alastair-mitchell.com"
+ },
+ {
+  "id": "satoshi-wedding-murders",
+  "name": "Satoshi Wedding Murders",
+  "url": "https://nolanbauerle.com/",
+  "desc": "Cypherpunk detective fiction by Nolan Bauerle (Count BTC), set in a Bitcoin-standard future where a double murder evades pervasive AI witnesses.",
+  "room": "Literature",
+  "roomLabel": "Literature",
+  "roomIcon": "📚",
+  "sub": "",
+  "host": "nolanbauerle.com"
+ },
+ {
   "id": "south-of-market",
   "name": "South of Market",
   "url": "https://www.amazon.com/South-Market-Jeffrey-Peel/dp/B0FKHKLM73",
@@ -1131,6 +1208,39 @@
   "roomIcon": "📚",
   "sub": "",
   "host": "eggore.com"
+ },
+ {
+  "id": "the-hunt-for-satoshi",
+  "name": "The Hunt for Satoshi",
+  "url": "https://arlofoxauthor.com/",
+  "desc": "Techno-thriller by Arlo Fox about a podcaster searching for Satoshi Nakamoto while trying to protect his family.",
+  "room": "Literature",
+  "roomLabel": "Literature",
+  "roomIcon": "📚",
+  "sub": "",
+  "host": "arlofoxauthor.com"
+ },
+ {
+  "id": "the-nakamoto-consensus",
+  "name": "The Nakamoto Consensus",
+  "url": "https://nakamotoconsensus.io/",
+  "desc": "Adventure thriller by Nicholas Nell imagining Satoshi's disappearance and a fight to protect Bitcoin, with philosophical dialogue woven into the story.",
+  "room": "Literature",
+  "roomLabel": "Literature",
+  "roomIcon": "📚",
+  "sub": "",
+  "host": "nakamotoconsensus.io"
+ },
+ {
+  "id": "walking-banks",
+  "name": "Walking Banks",
+  "url": "https://walkingbanks.com/",
+  "desc": "Thriller by A.H. White about a Beijing murder investigation, a vanished opponent of China's CBDC, and a hidden Bitcoin fortune.",
+  "room": "Literature",
+  "roomLabel": "Literature",
+  "roomIcon": "📚",
+  "sub": "",
+  "host": "walkingbanks.com"
  },
  {
   "id": "ainsley-costello",
@@ -1367,7 +1477,7 @@
   "id": "no-more-inflation",
   "name": "No More Inflation",
   "url": "https://nomoreinflation.com/",
-  "desc": "2024 documentary by Maiku Tsukai on rising prices; Best Movie at Bitcoin FilmFest 2025.",
+  "desc": "2024 documentary by Maiku Tsukai on rising prices; Best Movie at Bitcoin FilmFest 2025; also screened as Escape Inflation.",
   "room": "Film & Documentary",
   "roomLabel": "Film & Documentary",
   "roomIcon": "🎬",
@@ -2361,7 +2471,7 @@
   "room": "Institutions & Spaces",
   "roomLabel": "Institutions & Spaces",
   "roomIcon": "🏛",
-  "sub": "Galleries & Museums",
+  "sub": "Galleries, Museums & Hubs",
   "host": "bitcoinartgallery.com"
  },
  {
@@ -2372,8 +2482,19 @@
   "room": "Institutions & Spaces",
   "roomLabel": "Institutions & Spaces",
   "roomIcon": "🏛",
-  "sub": "Galleries & Museums",
+  "sub": "Galleries, Museums & Hubs",
   "host": "bitcoinartsociety.com"
+ },
+ {
+  "id": "cyphermunk-house",
+  "name": "Cyphermunk House",
+  "url": "https://www.cyphermunkhouse.com/",
+  "desc": "London Bitcoin hub for education, culture and community, with events, art and members; run by artist Psyfer.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Galleries, Museums & Hubs",
+  "host": "cyphermunkhouse.com"
  },
  {
   "id": "bmag-bitcoin-museum-art-gallery",
@@ -2383,7 +2504,7 @@
   "room": "Institutions & Spaces",
   "roomLabel": "Institutions & Spaces",
   "roomIcon": "🏛",
-  "sub": "Galleries & Museums",
+  "sub": "Galleries, Museums & Hubs",
   "host": "museum.b.tc"
  },
  {
@@ -2574,15 +2695,15 @@
   "host": "bitcoinfilmfest.com"
  },
  {
-  "id": "bitfest",
-  "name": "Bitfest",
-  "url": "https://bitfest.uk/",
-  "desc": "Four-day Manchester festival (19-22 Nov 2026) that pairs talks with a Bitcoin art exhibition, cinema, gaming, live music and Nostr; family-friendly.",
+  "id": "bitcoin-graffiti-jam",
+  "name": "Bitcoin Graffiti Jam",
+  "url": "https://geyser.fund/project/bitcoingraffitijam",
+  "desc": "Free one-day London graffiti jam by 2140Art at Stockwell Hall of Fame (2025, back in June 2026): live painting, music, open mic and kids' activities, funded on Geyser.",
   "room": "Events & Festivals",
   "roomLabel": "Events & Festivals",
   "roomIcon": "🎪",
   "sub": "",
-  "host": "bitfest.uk"
+  "host": "geyser.fund"
  },
  {
   "id": "bitcoin-shipshow",
@@ -2596,6 +2717,17 @@
   "host": "bitcoinship.show"
  },
  {
+  "id": "bitfest",
+  "name": "Bitfest",
+  "url": "https://bitfest.uk/",
+  "desc": "Four-day Manchester festival (19-22 Nov 2026) that pairs talks with a Bitcoin art exhibition, cinema, gaming, live music and Nostr; family-friendly.",
+  "room": "Events & Festivals",
+  "roomLabel": "Events & Festivals",
+  "roomIcon": "🎪",
+  "sub": "",
+  "host": "bitfest.uk"
+ },
+ {
   "id": "revolution-rocks",
   "name": "Revolution.Rocks",
   "url": "https://www.revolution.rocks/",
@@ -2605,5 +2737,16 @@
   "roomIcon": "🎪",
   "sub": "",
   "host": "revolution.rocks"
+ },
+ {
+  "id": "taa-temporary-autonomous-art",
+  "name": "TAA (Temporary Autonomous Art)",
+  "url": "https://www.taaexhibitions.org/",
+  "desc": "Underground open-access art festival taking over UK venues since 2001, started by the Random Artists collective; London Bitcoin artists have been invited to exhibit.",
+  "room": "Events & Festivals",
+  "roomLabel": "Events & Festivals",
+  "roomIcon": "🎪",
+  "sub": "",
+  "host": "taaexhibitions.org"
  }
 ]
