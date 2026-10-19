@@ -2763,13 +2763,13 @@
  {
   "id": "age-of-bitcoin",
   "name": "Age of Bitcoin",
-  "url": "https://www.kickstarter.com/projects/whiteelephants/age-of-bitcoin",
+  "url": "https://ageofbitcoin.co/",
   "desc": "Board game about diversifying investments, where only Bitcoin outpaces inflation.",
   "room": "Games",
   "roomLabel": "Games",
   "roomIcon": "🎮",
   "sub": "Board & Card Games",
-  "host": "kickstarter.com"
+  "host": "ageofbitcoin.co"
  },
  {
   "id": "bitcoin-puzzle-playing-cards",

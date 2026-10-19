@@ -702,7 +702,7 @@ Three exceptions worth naming directly here, since they're culture-first rather 
 
 </summary>
 
-- [Age of Bitcoin](https://www.kickstarter.com/projects/whiteelephants/age-of-bitcoin) - Board game
+- [Age of Bitcoin](https://ageofbitcoin.co/) - Board game
   about diversifying investments, where only Bitcoin outpaces inflation.
 - [Bitcoin Puzzle Playing Cards](https://bitcoinpuzzlecards.com) - Acrylic puzzle block you must
   "mine" to release two Bitcoin-themed card decks.
