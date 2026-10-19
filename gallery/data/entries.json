@@ -1081,12 +1081,34 @@
   "id": "21-futures-tales-from-the-timechain",
   "name": "21 Futures: Tales from the Timechain",
   "url": "https://21futures.com/",
-  "desc": "Anthology of 21 Bitcoin stories edited by Philip Charter (Konsensus Network, 2023).",
+  "desc": "Anthology of 21 Bitcoin stories edited by Philip Charter (Konsensus Network, 2023); the second volume is Financial Fallout, dystopian financial futures.",
   "room": "Literature",
   "roomLabel": "Literature",
   "roomIcon": "📚",
   "sub": "",
   "host": "21futures.com"
+ },
+ {
+  "id": "bitcoin-is-venice",
+  "name": "Bitcoin Is Venice",
+  "url": "https://books.google.com/books/about/Bitcoin_is_Venice.html?id=Qz4VzwEACAAJ",
+  "desc": "Essays on the past and future of Bitcoin by Allen Farrington and Sacha Meyers (Bitcoin Magazine Books).",
+  "room": "Literature",
+  "roomLabel": "Literature",
+  "roomIcon": "📚",
+  "sub": "",
+  "host": "books.google.com"
+ },
+ {
+  "id": "bitcoin-savvy-kids",
+  "name": "Bitcoin Savvy Kids",
+  "url": "https://bitcoinsavvykids.com/",
+  "desc": "Picture books by Deanna Heikkinen, EdD that tell the history of money from cowrie shells to Bitcoin; chapter books for ages 9-11.",
+  "room": "Literature",
+  "roomLabel": "Literature",
+  "roomIcon": "📚",
+  "sub": "",
+  "host": "bitcoinsavvykids.com"
  },
  {
   "id": "bitcoin-a-treasure-to-hodl",
@@ -1098,6 +1120,17 @@
   "roomIcon": "📚",
   "sub": "",
   "host": "lindeymagee.com"
+ },
+ {
+  "id": "goodnight-bitcoin",
+  "name": "Goodnight Bitcoin",
+  "url": "https://shamory.com/product/goodnight-bitcoin/",
+  "desc": "Board book by Scott and Mallory Sibley (SHAmory) in which two monsters, Satoshi and Hal, create Bitcoin; the same authors wrote If You Give a Monster a Bitcoin.",
+  "room": "Literature",
+  "roomLabel": "Literature",
+  "roomIcon": "📚",
+  "sub": "",
+  "host": "shamory.com"
  },
  {
   "id": "konsensus",

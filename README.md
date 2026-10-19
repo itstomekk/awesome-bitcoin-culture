@@ -287,9 +287,18 @@ Named artists whose main material is meme culture also live here.
 ## 📚 Literature
 
 - [21 Futures: Tales from the Timechain](https://21futures.com/) - Anthology of 21 Bitcoin stories
-  edited by Philip Charter (Konsensus Network, 2023).
+  edited by Philip Charter (Konsensus Network, 2023); the second volume is
+  [Financial Fallout](https://konsensus.net/book/21-futures-financial), dystopian financial futures.
+- [Bitcoin Is Venice](https://books.google.com/books/about/Bitcoin_is_Venice.html?id=Qz4VzwEACAAJ) -
+  Essays on the past and future of Bitcoin by Allen Farrington and Sacha Meyers (Bitcoin Magazine
+  Books).
+- [Bitcoin Savvy Kids](https://bitcoinsavvykids.com/) - Picture books by Deanna Heikkinen, EdD that
+  tell the history of money from cowrie shells to Bitcoin; chapter books for ages 9-11.
 - [Bitcoin: A Treasure to HODL](https://lindeymagee.com/) - Children's book by Lindey Magee; read as
   a sponsored live event at Bitcoin for the Arts' Bitcoin Arts Park.
+- [Goodnight Bitcoin](https://shamory.com/product/goodnight-bitcoin/) - Board book by Scott and
+  Mallory Sibley (SHAmory) in which two monsters, Satoshi and Hal, create Bitcoin; the same authors
+  wrote *If You Give a Monster a Bitcoin*.
 - [Konsensus](https://konsensus.net) - Publishing house for sovereignty-themed books and essays; no
   trackers, no cookies, no consent banner.
 - [South of Market](https://www.amazon.com/South-Market-Jeffrey-Peel/dp/B0FKHKLM73) - Novel by

@@ -1838,5 +1838,22 @@
   "img": null,
   "color": null,
   "why": "page:HTTPError"
+ },
+ "bitcoin-is-venice": {
+  "img": "img/bitcoin-is-venice.webp",
+  "color": "#fbfbfb",
+  "w": 128,
+  "h": 170,
+  "src": "https://books.google.com.gt/books/content?id=Qz4VzwEACAAJ&printsec=frontcover&img=1&zoom=1"
+ },
+ "bitcoin-savvy-kids": {
+  "img": null,
+  "color": null,
+  "why": "page:RemoteDisconnected"
+ },
+ "goodnight-bitcoin": {
+  "img": null,
+  "color": null,
+  "why": "page:HTTPError"
  }
 }
