@@ -59,3 +59,10 @@ real entries yet — needs research).
 - Rebuilt the gallery from the README. It now has 238 entries; `$BLEEP` and Zaza have page images, while Bitcoin & Friends has no fetched image yet. Parity check passes.
 - Changes are local and uncommitted; the existing unrelated `PLAN.md` edit was left untouched.
 
+
+## Update 2026-10-19 (BFTA gap scan)
+
+- Scanned bitcoinforthearts.org (artists, stories, awards, programming) against the README. Added: The Bitcoin Executor (Film), Matt Finlay (Music), Hitomi Matsui (Mixed Media), Beth Alta Fletcher (Digital), Machakos Bitcoin Academy: Visima 21 (Collectives, in progress), Share Your Bitcoin Journey (Podcasts > Stories & People), Benjamin Ella in a new "Dance & Performing Arts" section. BFTA entry now names Bitcoin Arts Park at the Midwest Bitcoin Summit.
+- New gallery room `performing` (build.py, parse_readme.py, style.css, submit.js, index.html hash regex, issue form). Parity passes: 244 entries, 9 rooms.
+- Not added: Art + Zap Weekend (date unconfirmed, venue is a bar; belongs in awesome-bitcoin-events if it happened). Benjamin Ella and Beth Alta Fletcher link to Instagram (no own site) and use generated tiles; Matt Finlay too (Bandcamp snapshot was a cookie wall).
+- Local, uncommitted.

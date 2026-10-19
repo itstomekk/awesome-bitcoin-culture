@@ -11,6 +11,17 @@
   "host": "2140art.com"
  },
  {
+  "id": "machakos-bitcoin-academy-visima-21",
+  "name": "Machakos Bitcoin Academy: Visima 21",
+  "url": "https://www.bitcoinforthearts.org/artists/visima-21",
+  "desc": "Planned trail of 21 murals in Machakos, Kenya, each painted by an artist the academy chooses; built with Bitcoin for the Arts and paid in stages as stations are finished (in progress).",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Collectives",
+  "host": "bitcoinforthearts.org"
+ },
+ {
   "id": "a13mw",
   "name": "A13MW",
   "url": "https://www.a13mw.com/",
@@ -328,6 +339,17 @@
   "roomIcon": "🎨",
   "sub": "Digital & Graphic Artists",
   "host": "anikmalcolm.com"
+ },
+ {
+  "id": "beth-alta-fletcher",
+  "name": "Beth Alta Fletcher",
+  "url": "https://www.instagram.com/beth_alta_fletcher",
+  "desc": "Alaska-based Rolfer and digital artist; hand-built, pixel-by-pixel compositions such as \"Along the Watchtower\".",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Digital & Graphic Artists",
+  "host": "instagram.com"
  },
  {
   "id": "bitko-yinowsky",
@@ -713,6 +735,17 @@
   "roomIcon": "🎨",
   "sub": "Mixed Media & Other Artists",
   "host": "x.com"
+ },
+ {
+  "id": "hitomi-matsui",
+  "name": "Hitomi Matsui",
+  "url": "https://hitomimatsui.com/",
+  "desc": "Felt, paint, pixels, and code; the Nekosan white-cat series looks at money, algorithms, and sovereignty from New York.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Mixed Media & Other Artists",
+  "host": "hitomimatsui.com"
  },
  {
   "id": "kanuto",
@@ -1232,6 +1265,17 @@
   "host": "wavlake.com"
  },
  {
+  "id": "matt-finlay",
+  "name": "Matt Finlay",
+  "url": "https://mattfinlay.bandcamp.com/",
+  "desc": "Melbourne musician releasing dissident music on a pay-what-you-want basis, including the Government Approved [432Hz] EP; active on Nostr.",
+  "room": "Music",
+  "roomLabel": "Music",
+  "roomIcon": "🎵",
+  "sub": "",
+  "host": "mattfinlay.bandcamp.com"
+ },
+ {
   "id": "reel-richard",
   "name": "Reel Richard",
   "url": "https://www.youtube.com/@Reelrichard",
@@ -1285,6 +1329,17 @@
   "roomIcon": "🎵",
   "sub": "",
   "host": "btcartgallery.com"
+ },
+ {
+  "id": "benjamin-ella",
+  "name": "Benjamin Ella",
+  "url": "https://www.instagram.com/benjaminfwella",
+  "desc": "Choreographer and former Royal Ballet soloist (17 seasons); talks about Bitcoin and sound money in Share Your Bitcoin Journey, episode 4.",
+  "room": "Dance & Performing Arts",
+  "roomLabel": "Dance & Performing Arts",
+  "roomIcon": "🩰",
+  "sub": "",
+  "host": "instagram.com"
  },
  {
   "id": "bleep",
@@ -1439,6 +1494,17 @@
   "roomIcon": "🎬",
   "sub": "",
   "host": "anatomyofbitcoin.com"
+ },
+ {
+  "id": "the-bitcoin-executor",
+  "name": "The Bitcoin Executor",
+  "url": "https://thebitcoinexecutor.com/",
+  "desc": "Feature by Christopher Arcella, made in Miami and New York: an economics professor delivers a missing friend's Bitcoin hardware wallets to his heirs. In late post-production; Bitcoin for the Arts micro-grant approved.",
+  "room": "Film & Documentary",
+  "roomLabel": "Film & Documentary",
+  "roomIcon": "🎬",
+  "sub": "",
+  "host": "thebitcoinexecutor.com"
  },
  {
   "id": "the-great-reset-and-the-rise-of-bitcoin",
@@ -1626,6 +1692,17 @@
   "roomIcon": "🎙️",
   "sub": "Stories & People",
   "host": "satoshe.space"
+ },
+ {
+  "id": "share-your-bitcoin-journey",
+  "name": "Share Your Bitcoin Journey",
+  "url": "https://www.bitcoinforthearts.org/stories",
+  "desc": "Bitcoin for the Arts founder Dion Wilson interviews working artists, from dancers to writers, on how sound money changed their craft.",
+  "room": "Podcasts",
+  "roomLabel": "Podcasts",
+  "roomIcon": "🎙️",
+  "sub": "Stories & People",
+  "host": "bitcoinforthearts.org"
  },
  {
   "id": "women-bitcoin",
@@ -2456,7 +2533,7 @@
   "id": "bitcoin-for-the-arts-bfta",
   "name": "Bitcoin for the Arts (BFTA)",
   "url": "https://www.bitcoinforthearts.org/",
-  "desc": "US nonprofit giving artists quarterly micro-grants in Bitcoin; runs Bitcoin Arts Park.",
+  "desc": "US nonprofit giving artists quarterly micro-grants in Bitcoin; runs Bitcoin Arts Park at the Midwest Bitcoin Summit (Columbus, Sept 2026).",
   "room": "Institutions & Spaces",
   "roomLabel": "Institutions & Spaces",
   "roomIcon": "🏛",

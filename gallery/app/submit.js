@@ -9,7 +9,7 @@
   var REPO = "itstomekk/awesome-bitcoin-culture";
   var BASE = "https://github.com/" + REPO + "/issues/new?template=suggest-entry.yml";
   var MAXURL = 6000, SOFT = 140, KEY = "abc-suggest-draft-v1";
-  var CAT = { art: "Visual Art", literature: "Literature", music: "Music", film: "Film & Documentary", games: "Games", events: "Events & Festivals" };
+  var CAT = { art: "Visual Art", literature: "Literature", music: "Music", performing: "Dance & Performing Arts", film: "Film & Documentary", games: "Games", events: "Events & Festivals" };
   var SUBS = ["Galleries & Museums", "Grants, Funders & Patronage", "Publications & Media", "Platforms & Marketplaces"];
   var reduce = window.matchMedia("(prefers-reduced-motion: reduce)");
   var esc = A.esc;

@@ -1889,5 +1889,46 @@
   "w": 720,
   "h": 378,
   "src": "https://thesatoshiarchive.com/assets/og-image.jpg?v=2"
+ },
+ "machakos-bitcoin-academy-visima-21": {
+  "img": "img/machakos-bitcoin-academy-visima-21.webp",
+  "color": "#fde8d0",
+  "w": 715,
+  "h": 715,
+  "src": "https://bitcoinforthearts.org/featured/machakos-academy-profile.jpg"
+ },
+ "beth-alta-fletcher": {
+  "img": null,
+  "color": null,
+  "why": "instagram-placeholder-rejected"
+ },
+ "hitomi-matsui": {
+  "img": null,
+  "color": null,
+  "why": "image-failed"
+ },
+ "matt-finlay": {
+  "img": null,
+  "color": null,
+  "why": "no-image"
+ },
+ "benjamin-ella": {
+  "img": null,
+  "color": null,
+  "why": "instagram-placeholder-rejected"
+ },
+ "the-bitcoin-executor": {
+  "img": "img/the-bitcoin-executor.webp",
+  "color": "#724461",
+  "w": 720,
+  "h": 405,
+  "src": "https://thebitcoinexecutor.com/wp-content/uploads/2025/08/BTCEXEC_TITLE_01.jpg"
+ },
+ "share-your-bitcoin-journey": {
+  "img": "img/share-your-bitcoin-journey.webp",
+  "color": "#f5ebe0",
+  "w": 720,
+  "h": 720,
+  "src": "https://bitcoinforthearts.org/social/BFTA-social-post-cream-orange-2160.png"
  }
 }

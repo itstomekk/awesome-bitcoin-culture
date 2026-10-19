@@ -20,6 +20,7 @@ ROOMS = {
     "Visual Art": "Visual Art",
     "Literature": "Literature",
     "Music": "Music",
+    "Dance & Performing Arts": "Dance & Performing Arts",
     "Film & Documentary": "Film & Documentary",
     "Podcasts": "Podcasts",
     "Games": "Games",

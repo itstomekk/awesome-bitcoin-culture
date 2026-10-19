@@ -1,7 +1,7 @@
 # Awesome Bitcoin Culture [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of human creative work about Bitcoin - film, visual art, sculpture, literature,
-> music, and the events that gather this scene together.
+> music, dance, and the events that gather this scene together.
 
 Bitcoin has produced a real body of creative and cultural work, separate from its use as money
 or its developer tooling. This list catalogs that work: the people who made it, where to see it,
@@ -37,6 +37,7 @@ coins, AI-slop generated in bulk.
   - [Memes & Internet Culture](#memes--internet-culture)
 - [📚 Literature](#-literature)
 - [🎵 Music](#-music)
+- [🩰 Dance & Performing Arts](#-dance--performing-arts)
 - [🎬 Film & Documentary](#-film--documentary)
 - [🎙️ Podcasts](#️-podcasts)
   - [Art & Creators](#art--creators)
@@ -65,6 +66,9 @@ coins, AI-slop generated in bulk.
 
 - [2140Art](https://2140art.com) - Online magazine and collective for Bitcoin-inspired art, music,
   and culture; runs a virtual gallery.
+- [Machakos Bitcoin Academy: Visima 21](https://www.bitcoinforthearts.org/artists/visima-21) - Planned
+  trail of 21 murals in Machakos, Kenya, each painted by an artist the academy chooses; built with
+  Bitcoin for the Arts and paid in stages as stations are finished (in progress).
 
 ### Painters
 
@@ -129,6 +133,8 @@ coins, AI-slop generated in bulk.
 
 - [Anik Malcolm](https://anikmalcolm.com/) - Conceptual multimedia art with highly detailed,
   meticulous compositions; focuses on freedom, resistance, and transformation.
+- [Beth Alta Fletcher](https://www.instagram.com/beth_alta_fletcher) - Alaska-based Rolfer and digital
+  artist; hand-built, pixel-by-pixel compositions such as "Along the Watchtower".
 - [Bitko Yinowsky](https://bitko.cc/) - Digital Bitcoin character art; a fictional persona for
   decentralization, scarcity, and resistance.
   ([Nostr](https://primal.net/p/npub1k6rrkx80gkhxe9ycd5rpcjsaynf7034wvauffn928tqg5z0p2ekqhjx6lp))
@@ -199,6 +205,8 @@ coins, AI-slop generated in bulk.
   in place; Klamath Tribes member, BFTA Advisor.
 - [Crayonsmell](https://x.com/crayonsmell) - Laser-engraved wood pieces and limited prints,
   including "Bitcoin Mandala".
+- [Hitomi Matsui](https://hitomimatsui.com/) - Felt, paint, pixels, and code; the Nekosan white-cat
+  series looks at money, algorithms, and sovereignty from New York.
 - [Kanuto](https://kanuto.io/) - Physical-only works in wood and acrylic that turn Bitcoin
   transactions into handcrafted forms.
 - [Kialara](https://kialara.com/) - Collectible Bitcoin art objects in stainless steel, silver, and
@@ -322,6 +330,8 @@ Named artists whose main material is meme culture also live here.
   Stoicism.
 - [Man Like Kweks](https://wavlake.com/man-like-kweks) - Tanzanian hip-hop artist; documented
   earning far more via Wavlake sats than conventional distribution.
+- [Matt Finlay](https://mattfinlay.bandcamp.com/) - Melbourne musician releasing dissident music on a
+  pay-what-you-want basis, including the *Government Approved [432Hz]* EP; active on Nostr.
 - [Reel Richard](https://www.youtube.com/@Reelrichard) - Dynamic Bitcoin music videos and remixes,
   including the "2140" techno video and halving-epoch songs.
 - [Scardust](https://metalstorm.net/bands/band.php?band_id=13193) - Progressive metal band from the
@@ -332,6 +342,11 @@ Named artists whose main material is meme culture also live here.
 - [The Orange Pill Jam Project](https://orangepilljam.bandcamp.com) - Zürich-based,
   copyleft/open-source Bitcoin-only music collective.
 - [Tip_NZ](https://btcartgallery.com/category/song) - NZ Bitcoin rap.
+
+## 🩰 Dance & Performing Arts
+
+- [Benjamin Ella](https://www.instagram.com/benjaminfwella) - Choreographer and former Royal Ballet
+  soloist (17 seasons); talks about Bitcoin and sound money in *Share Your Bitcoin Journey*, episode 4.
 
 ## 🎬 Film & Documentary
 
@@ -365,6 +380,9 @@ Named artists whose main material is meme culture also live here.
   Story at Bitcoin FilmFest 2024.
 - [The Anatomy of Bitcoin](https://anatomyofbitcoin.com) - Open-source, community-funded
   hyper-realism film showing how the Bitcoin protocol works.
+- [The Bitcoin Executor](https://thebitcoinexecutor.com/) - Feature by Christopher Arcella, made in Miami
+  and New York: an economics professor delivers a missing friend's Bitcoin hardware wallets to his
+  heirs. In late post-production; Bitcoin for the Arts micro-grant approved.
 - [The Great Reset and the Rise of Bitcoin](https://www.youtube.com/watch?v=e0plyXEc1Ak) - 2022
   documentary by Pierre Corbin on debt cycles and central banks; Bitcoin FilmFest 2023.
 - [The Rise and Rise of Bitcoin](https://en.wikipedia.org/wiki/The_Rise_and_Rise_of_Bitcoin) - Early
@@ -413,6 +431,9 @@ still playable.
   (2021-2025).
 - [SatoShe Stories](https://satoshe.space/en/satoshe-stories/) - Women talk about their personal
   path to money and Bitcoin, in German and English.
+- [Share Your Bitcoin Journey](https://www.bitcoinforthearts.org/stories) - Bitcoin for the Arts founder
+  Dion Wilson interviews working artists, from dancers to writers, on how sound money changed their
+  craft.
 - [Women & Bitcoin](https://bt.cx/en/women-and-bitcoin) - Sweden's first Bitcoin podcast for
   women, hosted by Rebecka and Hani.
 - [Your Bitcoin Story](https://podcasts.apple.com/us/podcast/your-bitcoin-story/id1697280071) -
@@ -629,7 +650,8 @@ Organizations that fund or support Bitcoin-native creative work directly - grant
 sponsorships, patronage infrastructure.
 
 - [Bitcoin for the Arts (BFTA)](https://www.bitcoinforthearts.org/) - US nonprofit giving artists
-  quarterly micro-grants in Bitcoin; runs Bitcoin Arts Park.
+  quarterly micro-grants in Bitcoin; runs Bitcoin Arts Park at the
+  Midwest Bitcoin Summit (Columbus, Sept 2026).
 - [Satoshee Open Source Culture initiative](https://satosh.ee/open-source-culture/) - Funds
   public-domain creative work through commissions, BTC-funded contests, and Nostr zaps.
 

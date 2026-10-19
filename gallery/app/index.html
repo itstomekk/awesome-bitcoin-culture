@@ -31,7 +31,7 @@
   if (t !== "light" && t !== "dark") t = window.matchMedia && matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
   document.documentElement.setAttribute("data-theme", t);
   /* bar colour before first paint: the room named in the hash, else the first room */
-  var m = /(?:^|[#&])room=(art|literature|music|film|podcasts|games|institutions|events)(?:[,&]|$)/.exec(location.hash);
+  var m = /(?:^|[#&])room=(art|literature|music|performing|film|podcasts|games|institutions|events)(?:[,&]|$)/.exec(location.hash);
   document.documentElement.setAttribute("data-bar", m ? m[1] : "art");
 })();
 </script>
