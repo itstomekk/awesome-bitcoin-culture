@@ -1,7 +1,7 @@
 # Awesome Bitcoin Culture [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of human creative work about Bitcoin - film, visual art, sculpture, literature,
-> music, dance, and the events that gather this scene together.
+> music, dance, games, and the places, archives, and events that gather this scene together.
 
 Bitcoin has produced a real body of creative and cultural work, separate from its use as money
 or its developer tooling. This list catalogs that work: the people who made it, where to see it,
@@ -9,21 +9,33 @@ and the institutions that support it. It is deliberately **not** another `awesom
 dev-tools/wallets/services list - those already exist and are well maintained elsewhere.
 
 **Scope:** Bitcoin as subject and inspiration for human creative work - film, literature, visual art,
-sculpture, music, and long-form media that engages with Bitcoin's ideas, history, or community.
-This is not a directory of financial products, exchanges, or speculative collectible drops.
+sculpture, music, dance and stage, podcasts and other long-form media, and games - plus the archives,
+spaces, institutions, and events that preserve and gather that work. A game counts when the game
+itself is the work; earning or paying sats inside it is fine. Wagering & Casino is a small
+subsection for Bitcoin-native games played for stakes, not a gambling directory. This is not a
+directory of financial products, exchanges, or speculative collectible drops.
 
 **Inclusion criteria:**
 
 1. **Primary intent is creative, not financial.** A painting about Bitcoin qualifies. A PFP
    collection sold for profit doesn't, even if well-made, unless it clears #2.
-2. **Attributable to a named human creator or identifiable studio/collective** - not an
-   anonymous generative contract. (The Memes & Internet Culture subsection of Visual Art is the one deliberate exception.)
+2. **Attributable to a named human creator or identifiable studio/collective** - a consistent
+   public pseudonym counts; an anonymous generative contract does not. (The Memes & Internet
+   Culture subsection of Visual Art is the one deliberate exception.)
 3. **Publicly viewable or verifiable.** The link must show or play the actual work.
 4. **Someone can personally vouch for it.** Curation over comprehensiveness.
 5. **Active or complete**, not an abandoned stub.
 
+**AI-assisted work** is welcome when a named artist directs it and stands behind it as their own
+practice; entries say when AI is part of the process. Bulk-generated output with no identifiable
+author is not.
+
 **Explicitly excluded:** NFT/ordinals PFP collections, exchange-marketing "art" campaigns, meme
-coins, AI-slop generated in bulk.
+coins, and bulk-generated AI output with no identifiable author.
+
+**Disclosure:** the maintainer also runs Bitcoin FilmFest, Bitcoin Shipshow, Bitcoin District, and
+Awesome Bitcoin Events, which are all listed here. They were held to the same criteria as every
+other entry.
 
 ## Contents
 

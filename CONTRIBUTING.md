@@ -6,8 +6,8 @@ Thanks for helping grow this list. A few ground rules before opening a PR or iss
 
 Read the [Scope](README.md#scope) and [Inclusion criteria](README.md#inclusion-criteria) in the
 README first. Short version: real creative work about Bitcoin, made by a named person or
-identifiable group (memes are the one exception), publicly viewable, and something a maintainer
-can vouch for.
+identifiable group (a consistent pseudonym counts; memes are the one exception to naming),
+publicly viewable, and something a maintainer can vouch for.
 
 ## How to submit an entry
 
@@ -26,7 +26,8 @@ Prefer a guided submission? [Use the suggestion form on the gallery](https://its
 - Financial products, exchange marketing, speculative collectible drops.
 - Anonymous generative/bulk-minted collections.
 - Dead links or abandoned stubs.
-- AI-generated bulk content ("AI-slop").
+- Bulk-generated AI output with no identifiable author. AI-assisted work by a named artist who
+  stands behind it is fine; say so in the entry.
 
 ## Style
 
