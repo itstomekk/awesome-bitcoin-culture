@@ -51,6 +51,7 @@ coins, AI-slop generated in bulk.
   - [Wagering & Casino](#wagering--casino)
 - [🏛 Institutions & Spaces](#-institutions--spaces)
   - [Galleries & Museums](#galleries--museums)
+  - [Archives & History](#archives--history)
   - [Grants, Funders & Patronage](#grants-funders--patronage)
   - [Publications & Media](#publications--media)
   - [Platforms & Marketplaces](#platforms--marketplaces)
@@ -602,6 +603,25 @@ still playable.
   Robert Mallary Art Residency and conference exhibitions.
 - [BMAG - Bitcoin Museum & Art Gallery](https://museum.b.tc) - Nashville museum and auction platform
   by BTC Inc. with 170+ works and Hal Finney memorabilia.
+
+### Archives & History
+
+Primary sources and curated records that preserve how Bitcoin and its cypherpunk ancestry actually
+happened.
+
+- [A Cypherpunk's Manifesto (1993)](https://www.activism.net/cypherpunk/manifesto.html) - Eric Hughes's
+  founding text of the cypherpunk movement: privacy is necessary for an open society in the
+  electronic age.
+- [Cypherpunks Mailing List Archive](https://mailing-list-archive.cryptoanarchy.wiki/) - Browsable
+  archive of the 1990s list where the ideas behind PGP, Tor, and Bitcoin were argued out in public.
+- [SatoshiTimeline.com](https://satoshitimeline.com/) - Searchable timeline of 1,096 events from
+  Satoshi Nakamoto's known history: writings, emails, forum posts, and code commits.
+- [The Bitcoin Atlas](https://www.thebitcoinatlas.com/) - Interactive timeline museum of Bitcoin's
+  key moments, miners, and famous blocks, from the whitepaper onward.
+- [The Complete Satoshi](https://satoshi.nakamotoinstitute.org/) - Satoshi Nakamoto Institute's
+  library of every known Satoshi email, forum post, and line of code (CC BY-SA).
+- [The Satoshi Archive](https://thesatoshiarchive.com/about) - Year-round archive of interviews and
+  long-form episodes on Bitcoin's story; home of The Game of Satoshi.
 
 ### Grants, Funders & Patronage
 

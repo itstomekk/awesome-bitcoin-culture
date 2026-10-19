@@ -2387,6 +2387,72 @@
   "host": "museum.b.tc"
  },
  {
+  "id": "a-cypherpunk-s-manifesto-1993",
+  "name": "A Cypherpunk's Manifesto (1993)",
+  "url": "https://www.activism.net/cypherpunk/manifesto.html",
+  "desc": "Eric Hughes's founding text of the cypherpunk movement: privacy is necessary for an open society in the electronic age.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Archives & History",
+  "host": "activism.net"
+ },
+ {
+  "id": "cypherpunks-mailing-list-archive",
+  "name": "Cypherpunks Mailing List Archive",
+  "url": "https://mailing-list-archive.cryptoanarchy.wiki/",
+  "desc": "Browsable archive of the 1990s list where the ideas behind PGP, Tor, and Bitcoin were argued out in public.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Archives & History",
+  "host": "mailing-list-archive.cryptoanarchy.wiki"
+ },
+ {
+  "id": "satoshitimeline-com",
+  "name": "SatoshiTimeline.com",
+  "url": "https://satoshitimeline.com/",
+  "desc": "Searchable timeline of 1,096 events from Satoshi Nakamoto's known history: writings, emails, forum posts, and code commits.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Archives & History",
+  "host": "satoshitimeline.com"
+ },
+ {
+  "id": "the-bitcoin-atlas",
+  "name": "The Bitcoin Atlas",
+  "url": "https://www.thebitcoinatlas.com/",
+  "desc": "Interactive timeline museum of Bitcoin's key moments, miners, and famous blocks, from the whitepaper onward.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Archives & History",
+  "host": "thebitcoinatlas.com"
+ },
+ {
+  "id": "the-complete-satoshi",
+  "name": "The Complete Satoshi",
+  "url": "https://satoshi.nakamotoinstitute.org/",
+  "desc": "Satoshi Nakamoto Institute's library of every known Satoshi email, forum post, and line of code (CC BY-SA).",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Archives & History",
+  "host": "satoshi.nakamotoinstitute.org"
+ },
+ {
+  "id": "the-satoshi-archive",
+  "name": "The Satoshi Archive",
+  "url": "https://thesatoshiarchive.com/about",
+  "desc": "Year-round archive of interviews and long-form episodes on Bitcoin's story; home of The Game of Satoshi.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Archives & History",
+  "host": "thesatoshiarchive.com"
+ },
+ {
   "id": "bitcoin-for-the-arts-bfta",
   "name": "Bitcoin for the Arts (BFTA)",
   "url": "https://www.bitcoinforthearts.org/",
