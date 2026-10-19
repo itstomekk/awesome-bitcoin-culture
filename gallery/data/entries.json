@@ -352,6 +352,17 @@
   "host": "instagram.com"
  },
  {
+  "id": "bitcoin-cartoons",
+  "name": "Bitcoin Cartoons",
+  "url": "https://www.bitcoincartoons.io/",
+  "desc": "Whimsical illustration and cartooning for the Bitcoin community.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Digital & Graphic Artists",
+  "host": "bitcoincartoons.io"
+ },
+ {
   "id": "bitko-yinowsky",
   "name": "Bitko Yinowsky",
   "url": "https://bitko.cc/",
@@ -539,6 +550,17 @@
   "host": "scarce.city"
  },
  {
+  "id": "maxis-club",
+  "name": "Maxis Club",
+  "url": "https://maxisclub.carrd.co/",
+  "desc": "Meme art and satire; a daily series aiming for 2,100 memes, echoing the 21 million cap. (X/Twitter, Nostr)",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Digital & Graphic Artists",
+  "host": "maxisclub.carrd.co"
+ },
+ {
   "id": "missatoshi-girl",
   "name": "Missatoshi_girl",
   "url": "https://instagram.com/missatoshi_girl",
@@ -572,6 +594,17 @@
   "host": "renarchy.com"
  },
  {
+  "id": "mrhansel",
+  "name": "MrHansel",
+  "url": "https://x.com/bettidlomas",
+  "desc": "Bristol collage and acrylic work reworking Pepe imagery; making Bitcoin art since 2015.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Digital & Graphic Artists",
+  "host": "x.com"
+ },
+ {
   "id": "nogood",
   "name": "NoGood",
   "url": "https://nogood.studio/",
@@ -581,6 +614,28 @@
   "roomIcon": "🎨",
   "sub": "Digital & Graphic Artists",
   "host": "nogood.studio"
+ },
+ {
+  "id": "pepelangelo",
+  "name": "Pepelangelo",
+  "url": "https://pepelangelo.com/",
+  "desc": "Oil paintings recasting Pepe the Frog through classical art and portraiture, plus hand-finished canvas prints.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Digital & Graphic Artists",
+  "host": "pepelangelo.com"
+ },
+ {
+  "id": "pepenardo-nardo",
+  "name": "Pepenardo (Nardo)",
+  "url": "https://scarce.city/creators/pepenardo",
+  "desc": "Oil painting, classical technique meets meme culture.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Digital & Graphic Artists",
+  "host": "scarce.city"
  },
  {
   "id": "psyfer",
@@ -1056,61 +1111,6 @@
   "host": "basedtradingcards.com"
  },
  {
-  "id": "bitcoin-cartoons",
-  "name": "Bitcoin Cartoons",
-  "url": "https://www.bitcoincartoons.io/",
-  "desc": "Whimsical illustration and cartooning for the Bitcoin community.",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Memes & Internet Culture",
-  "host": "bitcoincartoons.io"
- },
- {
-  "id": "maxis-club",
-  "name": "Maxis Club",
-  "url": "https://maxisclub.carrd.co/",
-  "desc": "Meme art and satire; a daily series aiming for 2,100 memes, echoing the 21 million cap. (X/Twitter, Nostr)",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Memes & Internet Culture",
-  "host": "maxisclub.carrd.co"
- },
- {
-  "id": "mrhansel",
-  "name": "MrHansel",
-  "url": "https://x.com/bettidlomas",
-  "desc": "Bristol collage and acrylic work reworking Pepe imagery; making Bitcoin art since 2015.",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Memes & Internet Culture",
-  "host": "x.com"
- },
- {
-  "id": "pepelangelo",
-  "name": "Pepelangelo",
-  "url": "https://pepelangelo.com/",
-  "desc": "Oil paintings recasting Pepe the Frog through classical art and portraiture, plus hand-finished canvas prints.",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Memes & Internet Culture",
-  "host": "pepelangelo.com"
- },
- {
-  "id": "pepenardo-nardo",
-  "name": "Pepenardo (Nardo)",
-  "url": "https://scarce.city/creators/pepenardo",
-  "desc": "Oil painting, classical technique meets meme culture.",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Memes & Internet Culture",
-  "host": "scarce.city"
- },
- {
   "id": "21-futures-tales-from-the-timechain",
   "name": "21 Futures: Tales from the Timechain",
   "url": "https://21futures.com/",
@@ -1228,8 +1228,19 @@
   "room": "Music & Performing Arts",
   "roomLabel": "Music & Performing Arts",
   "roomIcon": "🎵",
-  "sub": "Music",
+  "sub": "",
   "host": "ainsleycostello.com"
+ },
+ {
+  "id": "benjamin-ella",
+  "name": "Benjamin Ella",
+  "url": "https://www.instagram.com/benjaminfwella",
+  "desc": "Choreographer and former Royal Ballet soloist (17 seasons); talks about Bitcoin and sound money in Share Your Bitcoin Journey, episode 4.",
+  "room": "Music & Performing Arts",
+  "roomLabel": "Music & Performing Arts",
+  "roomIcon": "🎵",
+  "sub": "",
+  "host": "instagram.com"
  },
  {
   "id": "ivy-lumi",
@@ -1239,7 +1250,7 @@
   "room": "Music & Performing Arts",
   "roomLabel": "Music & Performing Arts",
   "roomIcon": "🎵",
-  "sub": "Music",
+  "sub": "",
   "host": "ivylumi.com"
  },
  {
@@ -1250,7 +1261,7 @@
   "room": "Music & Performing Arts",
   "roomLabel": "Music & Performing Arts",
   "roomIcon": "🎵",
-  "sub": "Music",
+  "sub": "",
   "host": "wavlake.com"
  },
  {
@@ -1261,7 +1272,7 @@
   "room": "Music & Performing Arts",
   "roomLabel": "Music & Performing Arts",
   "roomIcon": "🎵",
-  "sub": "Music",
+  "sub": "",
   "host": "kanemayfield.com"
  },
  {
@@ -1272,7 +1283,7 @@
   "room": "Music & Performing Arts",
   "roomLabel": "Music & Performing Arts",
   "roomIcon": "🎵",
-  "sub": "Music",
+  "sub": "",
   "host": "primal.net"
  },
  {
@@ -1283,7 +1294,7 @@
   "room": "Music & Performing Arts",
   "roomLabel": "Music & Performing Arts",
   "roomIcon": "🎵",
-  "sub": "Music",
+  "sub": "",
   "host": "wavlake.com"
  },
  {
@@ -1294,7 +1305,7 @@
   "room": "Music & Performing Arts",
   "roomLabel": "Music & Performing Arts",
   "roomIcon": "🎵",
-  "sub": "Music",
+  "sub": "",
   "host": "mattfinlay.bandcamp.com"
  },
  {
@@ -1305,7 +1316,7 @@
   "room": "Music & Performing Arts",
   "roomLabel": "Music & Performing Arts",
   "roomIcon": "🎵",
-  "sub": "Music",
+  "sub": "",
   "host": "youtube.com"
  },
  {
@@ -1316,7 +1327,7 @@
   "room": "Music & Performing Arts",
   "roomLabel": "Music & Performing Arts",
   "roomIcon": "🎵",
-  "sub": "Music",
+  "sub": "",
   "host": "metalstorm.net"
  },
  {
@@ -1327,7 +1338,7 @@
   "room": "Music & Performing Arts",
   "roomLabel": "Music & Performing Arts",
   "roomIcon": "🎵",
-  "sub": "Music",
+  "sub": "",
   "host": "tatianamoroz.com"
  },
  {
@@ -1338,7 +1349,7 @@
   "room": "Music & Performing Arts",
   "roomLabel": "Music & Performing Arts",
   "roomIcon": "🎵",
-  "sub": "Music",
+  "sub": "",
   "host": "orangepilljam.bandcamp.com"
  },
  {
@@ -1349,19 +1360,8 @@
   "room": "Music & Performing Arts",
   "roomLabel": "Music & Performing Arts",
   "roomIcon": "🎵",
-  "sub": "Music",
+  "sub": "",
   "host": "btcartgallery.com"
- },
- {
-  "id": "benjamin-ella",
-  "name": "Benjamin Ella",
-  "url": "https://www.instagram.com/benjaminfwella",
-  "desc": "Choreographer and former Royal Ballet soloist (17 seasons); talks about Bitcoin and sound money in Share Your Bitcoin Journey, episode 4.",
-  "room": "Music & Performing Arts",
-  "roomLabel": "Music & Performing Arts",
-  "roomIcon": "🎵",
-  "sub": "Dance & Stage",
-  "host": "instagram.com"
  },
  {
   "id": "bitcoiners",
@@ -1890,6 +1890,479 @@
   "roomIcon": "🎙️",
   "sub": "Narrative Series",
   "host": "drbitcoinpod.com"
+ },
+ {
+  "id": "bitcoin-art-gallery",
+  "name": "Bitcoin Art Gallery",
+  "url": "https://bitcoinartgallery.com",
+  "desc": "Physical gallery in Wynwood, Miami.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Galleries & Museums",
+  "host": "bitcoinartgallery.com"
+ },
+ {
+  "id": "bitcoin-art-society",
+  "name": "Bitcoin Art Society",
+  "url": "https://www.bitcoinartsociety.com",
+  "desc": "Curator-led institution running the Robert Mallary Art Residency and conference exhibitions.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Galleries & Museums",
+  "host": "bitcoinartsociety.com"
+ },
+ {
+  "id": "bmag-bitcoin-museum-art-gallery",
+  "name": "BMAG - Bitcoin Museum & Art Gallery",
+  "url": "https://museum.b.tc",
+  "desc": "Nashville museum and auction platform by BTC Inc. with 170+ works and Hal Finney memorabilia.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Galleries & Museums",
+  "host": "museum.b.tc"
+ },
+ {
+  "id": "a-cypherpunk-s-manifesto-1993",
+  "name": "A Cypherpunk's Manifesto (1993)",
+  "url": "https://www.activism.net/cypherpunk/manifesto.html",
+  "desc": "Eric Hughes's founding text of the cypherpunk movement: privacy is necessary for an open society in the electronic age.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Archives & History",
+  "host": "activism.net"
+ },
+ {
+  "id": "cypherpunks-mailing-list-archive",
+  "name": "Cypherpunks Mailing List Archive",
+  "url": "https://mailing-list-archive.cryptoanarchy.wiki/",
+  "desc": "Browsable archive of the 1990s list where the ideas behind PGP, Tor, and Bitcoin were argued out in public.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Archives & History",
+  "host": "mailing-list-archive.cryptoanarchy.wiki"
+ },
+ {
+  "id": "satoshitimeline-com",
+  "name": "SatoshiTimeline.com",
+  "url": "https://satoshitimeline.com/",
+  "desc": "Searchable timeline of 1,096 events from Satoshi Nakamoto's known history: writings, emails, forum posts, and code commits.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Archives & History",
+  "host": "satoshitimeline.com"
+ },
+ {
+  "id": "the-bitcoin-atlas",
+  "name": "The Bitcoin Atlas",
+  "url": "https://www.thebitcoinatlas.com/",
+  "desc": "Interactive timeline museum of Bitcoin's key moments, miners, and famous blocks, from the whitepaper onward.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Archives & History",
+  "host": "thebitcoinatlas.com"
+ },
+ {
+  "id": "the-complete-satoshi",
+  "name": "The Complete Satoshi",
+  "url": "https://satoshi.nakamotoinstitute.org/",
+  "desc": "Satoshi Nakamoto Institute's library of every known Satoshi email, forum post, and line of code (CC BY-SA).",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Archives & History",
+  "host": "satoshi.nakamotoinstitute.org"
+ },
+ {
+  "id": "the-satoshi-archive",
+  "name": "The Satoshi Archive",
+  "url": "https://thesatoshiarchive.com/about",
+  "desc": "Year-round archive of interviews and long-form episodes on Bitcoin's story; home of The Game of Satoshi.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Archives & History",
+  "host": "thesatoshiarchive.com"
+ },
+ {
+  "id": "bitcoin-beach",
+  "name": "Bitcoin Beach",
+  "url": "https://www.bitcoinbeach.com/",
+  "desc": "El Zonte, El Salvador: the first Bitcoin circular economy; its podcast is listed under Podcasts.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Community Spaces",
+  "host": "bitcoinbeach.com"
+ },
+ {
+  "id": "bitcoin-chiang-mai",
+  "name": "Bitcoin Chiang Mai",
+  "url": "https://www.bitcoinchiangmai.org/",
+  "desc": "Physical Bitcoin education and community hub in Chiang Mai, Thailand, serving Southeast Asia.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Community Spaces",
+  "host": "bitcoinchiangmai.org"
+ },
+ {
+  "id": "bitcoin-district-pr-spera",
+  "name": "Bitcoin District Próspera",
+  "url": "https://thebitcoindistrict.com/",
+  "desc": "Bitcoin community inside the Próspera zone on Roatán, Honduras, with weekly workshops, coworking, and retreats.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Community Spaces",
+  "host": "thebitcoindistrict.com"
+ },
+ {
+  "id": "bitcoin-ekasi",
+  "name": "Bitcoin Ekasi",
+  "url": "https://bitcoinekasi.com/",
+  "desc": "Bitcoin circular economy in a Mossel Bay township, grown from The Surfer Kids NPO by Hermann Vivier and Jenya Zhivaleva.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Community Spaces",
+  "host": "bitcoinekasi.com"
+ },
+ {
+  "id": "bitcoin-jungle",
+  "name": "Bitcoin Jungle",
+  "url": "https://www.bitcoinjungle.app/",
+  "desc": "Open-source community project building a circular Bitcoin economy around Uvita, Costa Rica.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Community Spaces",
+  "host": "bitcoinjungle.app"
+ },
+ {
+  "id": "bitcoin-park",
+  "name": "Bitcoin Park",
+  "url": "https://bitcoinpark.com/",
+  "desc": "Community-supported campus in Nashville and Austin for meetups, workshops, and summits.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Community Spaces",
+  "host": "bitcoinpark.com"
+ },
+ {
+  "id": "dutch-bitcoin-embassy",
+  "name": "Dutch Bitcoin Embassy",
+  "url": "https://www.dutchbitcoinembassy.com/en",
+  "desc": "Netherlands hub with public events, builders, and a business circle; screens Finding Satoshi in The Hague.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Community Spaces",
+  "host": "dutchbitcoinembassy.com"
+ },
+ {
+  "id": "node-nbo",
+  "name": "Node NBO",
+  "url": "https://nodenbo.com/",
+  "desc": "Nairobi coworking space (opened May 2026) for Bitcoin, freedom tech, energy, and compute organizations in Africa.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Community Spaces",
+  "host": "nodenbo.com"
+ },
+ {
+  "id": "paraleln-polis",
+  "name": "Paralelní Polis",
+  "url": "https://parallelpolis.info/s/pp-prague",
+  "desc": "Prague hackerspace and Bitcoin-only cafe founded in 2014 by the art collective Ztohoven; ran until 2024.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Community Spaces",
+  "host": "parallelpolis.info"
+ },
+ {
+  "id": "presidio-bitcoin",
+  "name": "Presidio Bitcoin",
+  "url": "https://www.presidiobitcoin.org/",
+  "desc": "San Francisco's first dedicated Bitcoin coworking and events space, with a podcast studio.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Community Spaces",
+  "host": "presidiobitcoin.org"
+ },
+ {
+  "id": "pubkey",
+  "name": "PubKey",
+  "url": "https://dc.pubkey.com/",
+  "desc": "Bitcoin-themed tavern and event venue in Washington, DC, with a sister bar in New York.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Community Spaces",
+  "host": "dc.pubkey.com"
+ },
+ {
+  "id": "the-space",
+  "name": "The Space",
+  "url": "https://denver.space/",
+  "desc": "Denver's Bitcoin hub and venue in RiNo, with a podcast room.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Community Spaces",
+  "host": "denver.space"
+ },
+ {
+  "id": "bitcoin-for-the-arts-bfta",
+  "name": "Bitcoin for the Arts (BFTA)",
+  "url": "https://www.bitcoinforthearts.org/",
+  "desc": "US nonprofit giving artists quarterly micro-grants in Bitcoin; runs Bitcoin Arts Park at the Midwest Bitcoin Summit (Columbus, Sept 2026).",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Grants, Funders & Patronage",
+  "host": "bitcoinforthearts.org"
+ },
+ {
+  "id": "satoshee-open-source-culture-initiative",
+  "name": "Satoshee Open Source Culture initiative",
+  "url": "https://satosh.ee/open-source-culture/",
+  "desc": "Funds public-domain creative work through commissions, BTC-funded contests, and Nostr zaps.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Grants, Funders & Patronage",
+  "host": "satosh.ee"
+ },
+ {
+  "id": "bitcoin-magazine",
+  "name": "Bitcoin Magazine",
+  "url": "https://bitcoinmagazine.com",
+  "desc": "Print and online magazine; its Culture vertical runs recurring art coverage, including annual conference gallery previews.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Publications & Media",
+  "host": "bitcoinmagazine.com"
+ },
+ {
+  "id": "bitcoin-shipshow",
+  "name": "Bitcoin Shipshow",
+  "url": "https://bitcoinship.show/",
+  "desc": "Monthly online Bitcoin meetup and live demo show for Bitcoin, Lightning, and Nostr builders.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Publications & Media",
+  "host": "bitcoinship.show"
+ },
+ {
+  "id": "bitcoin-video-magazine",
+  "name": "Bitcoin Video Magazine",
+  "url": "https://bitcoinvideomagazine.com",
+  "desc": "Hour-long video show covering the Bitcoin ecosystem in short documentary segments.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Publications & Media",
+  "host": "bitcoinvideomagazine.com"
+ },
+ {
+  "id": "citadel21",
+  "name": "Citadel21",
+  "url": "https://www.citadel21.com",
+  "desc": "Cultural zine and long-form investigative journalism by hodlonaut, with print editions.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Publications & Media",
+  "host": "citadel21.com"
+ },
+ {
+  "id": "jimmy-song",
+  "name": "Jimmy Song",
+  "url": "https://jimmysong.org/",
+  "desc": "Bitcoin developer, author, and educator; wrote Fiat Ruins Everything, arguing fiat debases art.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Publications & Media",
+  "host": "jimmysong.org"
+ },
+ {
+  "id": "proof-of-work",
+  "name": "Proof of Work",
+  "url": "https://proofofworkmagazine.com/",
+  "desc": "Free-to-read Bitcoin lifestyle and culture magazine covering people, places, ideas, and experiences.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Publications & Media",
+  "host": "proofofworkmagazine.com"
+ },
+ {
+  "id": "stackchain-magazine",
+  "name": "StackChain Magazine",
+  "url": "https://www.stackchainmagazine.net/",
+  "desc": "Bitcoin pleb-focused magazine/zine sharing stories about the people and events in the Bitcoin world.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Publications & Media",
+  "host": "stackchainmagazine.net"
+ },
+ {
+  "id": "the-cultural-tutor",
+  "name": "The Cultural Tutor",
+  "url": "https://areopagus.culturaltutor.com/",
+  "desc": "Essayist (\"Areopagus\" series) contextualizing Bitcoin artists within perennial cultural traditions.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Publications & Media",
+  "host": "areopagus.culturaltutor.com"
+ },
+ {
+  "id": "timechain-art-magazine",
+  "name": "Timechain Art Magazine",
+  "url": "https://timechainartmagazine.com",
+  "desc": "Runs a public Artist Directory, source for many entries above.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Publications & Media",
+  "host": "timechainartmagazine.com"
+ },
+ {
+  "id": "fountain",
+  "name": "Fountain",
+  "url": "https://fountain.fm",
+  "desc": "Value4Value podcast platform and app; listeners send Lightning \"boosts\" straight to creators.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Platforms & Marketplaces",
+  "host": "fountain.fm"
+ },
+ {
+  "id": "geyser",
+  "name": "Geyser",
+  "url": "https://geyser.fund",
+  "desc": "Non-custodial Bitcoin crowdfunding for creators; campaigns and grants paid in Bitcoin and Lightning.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Platforms & Marketplaces",
+  "host": "geyser.fund"
+ },
+ {
+  "id": "indeehub-studio",
+  "name": "IndeeHub Studio",
+  "url": "https://indeehub.studio",
+  "desc": "Lightning film streaming platform that pays filmmakers in real time per second watched.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Platforms & Marketplaces",
+  "host": "indeehub.studio"
+ },
+ {
+  "id": "scarce-city",
+  "name": "scarce.city",
+  "url": "https://scarce.city",
+  "desc": "Recurring commercial marketplace/auction hub; de facto backbone linking most named artists above.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Platforms & Marketplaces",
+  "host": "scarce.city"
+ },
+ {
+  "id": "stacker-news",
+  "name": "Stacker News",
+  "url": "https://stacker.news/",
+  "desc": "Hacker News-style community where links, posts, and comments earn sats over Lightning.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Platforms & Marketplaces",
+  "host": "stacker.news"
+ },
+ {
+  "id": "tunestr",
+  "name": "Tunestr",
+  "url": "https://tunestr.io/",
+  "desc": "Independent music live streaming where fans zap artists directly over Lightning and Nostr.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Platforms & Marketplaces",
+  "host": "tunestr.io"
+ },
+ {
+  "id": "wavlake",
+  "name": "Wavlake",
+  "url": "https://wavlake.com",
+  "desc": "Value4Value music streaming; artists earn Lightning \"zaps\" directly from listeners.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Platforms & Marketplaces",
+  "host": "wavlake.com"
+ },
+ {
+  "id": "awesome-bitcoin-events",
+  "name": "Awesome Bitcoin Events",
+  "url": "https://github.com/itstomekk/awesome-bitcoin-events",
+  "desc": "The canonical source for Bitcoin conferences, meetups, retreats, festivals, and technical gatherings worldwide.",
+  "room": "Events & Festivals",
+  "roomLabel": "Events & Festivals",
+  "roomIcon": "🎪",
+  "sub": "",
+  "host": "github.com"
+ },
+ {
+  "id": "bitcoin-filmfest",
+  "name": "Bitcoin FilmFest",
+  "url": "https://bitcoinfilmfest.com",
+  "desc": "Annual Warsaw festival of Bitcoin cinema awarding the Golden Rabbits; also a year-round film hub.",
+  "room": "Events & Festivals",
+  "roomLabel": "Events & Festivals",
+  "roomIcon": "🎪",
+  "sub": "",
+  "host": "bitcoinfilmfest.com"
+ },
+ {
+  "id": "bitfest",
+  "name": "Bitfest",
+  "url": "https://bitfest.uk/",
+  "desc": "Four-day Manchester festival (19-22 Nov 2026) that pairs talks with a Bitcoin art exhibition, cinema, gaming, live music and Nostr; family-friendly.",
+  "room": "Events & Festivals",
+  "roomLabel": "Events & Festivals",
+  "roomIcon": "🎪",
+  "sub": "",
+  "host": "bitfest.uk"
+ },
+ {
+  "id": "revolution-rocks",
+  "name": "Revolution.Rocks",
+  "url": "https://www.revolution.rocks/",
+  "desc": "Two-day Value4Value music festival on Belgrade's Zappa Barka; Lightning tips go straight to performing artists.",
+  "room": "Events & Festivals",
+  "roomLabel": "Events & Festivals",
+  "roomIcon": "🎪",
+  "sub": "",
+  "host": "revolution.rocks"
  },
  {
   "id": "bitbybit-run",
@@ -2451,478 +2924,5 @@
   "roomIcon": "🎮",
   "sub": "Wagering & Casino",
   "host": "playtdt.com"
- },
- {
-  "id": "bitcoin-art-gallery",
-  "name": "Bitcoin Art Gallery",
-  "url": "https://bitcoinartgallery.com",
-  "desc": "Physical gallery in Wynwood, Miami.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Galleries & Museums",
-  "host": "bitcoinartgallery.com"
- },
- {
-  "id": "bitcoin-art-society",
-  "name": "Bitcoin Art Society",
-  "url": "https://www.bitcoinartsociety.com",
-  "desc": "Curator-led institution running the Robert Mallary Art Residency and conference exhibitions.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Galleries & Museums",
-  "host": "bitcoinartsociety.com"
- },
- {
-  "id": "bmag-bitcoin-museum-art-gallery",
-  "name": "BMAG - Bitcoin Museum & Art Gallery",
-  "url": "https://museum.b.tc",
-  "desc": "Nashville museum and auction platform by BTC Inc. with 170+ works and Hal Finney memorabilia.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Galleries & Museums",
-  "host": "museum.b.tc"
- },
- {
-  "id": "a-cypherpunk-s-manifesto-1993",
-  "name": "A Cypherpunk's Manifesto (1993)",
-  "url": "https://www.activism.net/cypherpunk/manifesto.html",
-  "desc": "Eric Hughes's founding text of the cypherpunk movement: privacy is necessary for an open society in the electronic age.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Archives & History",
-  "host": "activism.net"
- },
- {
-  "id": "cypherpunks-mailing-list-archive",
-  "name": "Cypherpunks Mailing List Archive",
-  "url": "https://mailing-list-archive.cryptoanarchy.wiki/",
-  "desc": "Browsable archive of the 1990s list where the ideas behind PGP, Tor, and Bitcoin were argued out in public.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Archives & History",
-  "host": "mailing-list-archive.cryptoanarchy.wiki"
- },
- {
-  "id": "satoshitimeline-com",
-  "name": "SatoshiTimeline.com",
-  "url": "https://satoshitimeline.com/",
-  "desc": "Searchable timeline of 1,096 events from Satoshi Nakamoto's known history: writings, emails, forum posts, and code commits.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Archives & History",
-  "host": "satoshitimeline.com"
- },
- {
-  "id": "the-bitcoin-atlas",
-  "name": "The Bitcoin Atlas",
-  "url": "https://www.thebitcoinatlas.com/",
-  "desc": "Interactive timeline museum of Bitcoin's key moments, miners, and famous blocks, from the whitepaper onward.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Archives & History",
-  "host": "thebitcoinatlas.com"
- },
- {
-  "id": "the-complete-satoshi",
-  "name": "The Complete Satoshi",
-  "url": "https://satoshi.nakamotoinstitute.org/",
-  "desc": "Satoshi Nakamoto Institute's library of every known Satoshi email, forum post, and line of code (CC BY-SA).",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Archives & History",
-  "host": "satoshi.nakamotoinstitute.org"
- },
- {
-  "id": "the-satoshi-archive",
-  "name": "The Satoshi Archive",
-  "url": "https://thesatoshiarchive.com/about",
-  "desc": "Year-round archive of interviews and long-form episodes on Bitcoin's story; home of The Game of Satoshi.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Archives & History",
-  "host": "thesatoshiarchive.com"
- },
- {
-  "id": "bitcoin-beach",
-  "name": "Bitcoin Beach",
-  "url": "https://www.bitcoinbeach.com/",
-  "desc": "El Zonte, El Salvador: the first Bitcoin circular economy; its podcast is listed under Podcasts.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Community Spaces",
-  "host": "bitcoinbeach.com"
- },
- {
-  "id": "bitcoin-chiang-mai",
-  "name": "Bitcoin Chiang Mai",
-  "url": "https://www.bitcoinchiangmai.org/",
-  "desc": "Physical Bitcoin education and community hub in Chiang Mai, Thailand, serving Southeast Asia.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Community Spaces",
-  "host": "bitcoinchiangmai.org"
- },
- {
-  "id": "bitcoin-district-pr-spera",
-  "name": "Bitcoin District Próspera",
-  "url": "https://thebitcoindistrict.com/",
-  "desc": "Bitcoin community inside the Próspera zone on Roatán, Honduras, with weekly workshops, coworking, and retreats.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Community Spaces",
-  "host": "thebitcoindistrict.com"
- },
- {
-  "id": "bitcoin-ekasi",
-  "name": "Bitcoin Ekasi",
-  "url": "https://bitcoinekasi.com/",
-  "desc": "Bitcoin circular economy in a Mossel Bay township, grown from The Surfer Kids NPO by Hermann Vivier and Jenya Zhivaleva.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Community Spaces",
-  "host": "bitcoinekasi.com"
- },
- {
-  "id": "bitcoin-jungle",
-  "name": "Bitcoin Jungle",
-  "url": "https://www.bitcoinjungle.app/",
-  "desc": "Open-source community project building a circular Bitcoin economy around Uvita, Costa Rica.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Community Spaces",
-  "host": "bitcoinjungle.app"
- },
- {
-  "id": "bitcoin-park",
-  "name": "Bitcoin Park",
-  "url": "https://bitcoinpark.com/",
-  "desc": "Community-supported campus in Nashville and Austin for meetups, workshops, and summits.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Community Spaces",
-  "host": "bitcoinpark.com"
- },
- {
-  "id": "dutch-bitcoin-embassy",
-  "name": "Dutch Bitcoin Embassy",
-  "url": "https://www.dutchbitcoinembassy.com/en",
-  "desc": "Netherlands hub with public events, builders, and a business circle; screens Finding Satoshi in The Hague.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Community Spaces",
-  "host": "dutchbitcoinembassy.com"
- },
- {
-  "id": "node-nbo",
-  "name": "Node NBO",
-  "url": "https://nodenbo.com/",
-  "desc": "Nairobi coworking space (opened May 2026) for Bitcoin, freedom tech, energy, and compute organizations in Africa.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Community Spaces",
-  "host": "nodenbo.com"
- },
- {
-  "id": "paraleln-polis",
-  "name": "Paralelní Polis",
-  "url": "https://parallelpolis.info/s/pp-prague",
-  "desc": "Prague hackerspace and Bitcoin-only cafe founded in 2014 by the art collective Ztohoven; ran until 2024.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Community Spaces",
-  "host": "parallelpolis.info"
- },
- {
-  "id": "presidio-bitcoin",
-  "name": "Presidio Bitcoin",
-  "url": "https://www.presidiobitcoin.org/",
-  "desc": "San Francisco's first dedicated Bitcoin coworking and events space, with a podcast studio.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Community Spaces",
-  "host": "presidiobitcoin.org"
- },
- {
-  "id": "pubkey",
-  "name": "PubKey",
-  "url": "https://dc.pubkey.com/",
-  "desc": "Bitcoin-themed tavern and event venue in Washington, DC, with a sister bar in New York.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Community Spaces",
-  "host": "dc.pubkey.com"
- },
- {
-  "id": "the-space",
-  "name": "The Space",
-  "url": "https://denver.space/",
-  "desc": "Denver's Bitcoin hub and venue in RiNo, with a podcast room.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Community Spaces",
-  "host": "denver.space"
- },
- {
-  "id": "bitcoin-for-the-arts-bfta",
-  "name": "Bitcoin for the Arts (BFTA)",
-  "url": "https://www.bitcoinforthearts.org/",
-  "desc": "US nonprofit giving artists quarterly micro-grants in Bitcoin; runs Bitcoin Arts Park at the Midwest Bitcoin Summit (Columbus, Sept 2026).",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Grants, Funders & Patronage",
-  "host": "bitcoinforthearts.org"
- },
- {
-  "id": "satoshee-open-source-culture-initiative",
-  "name": "Satoshee Open Source Culture initiative",
-  "url": "https://satosh.ee/open-source-culture/",
-  "desc": "Funds public-domain creative work through commissions, BTC-funded contests, and Nostr zaps.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Grants, Funders & Patronage",
-  "host": "satosh.ee"
- },
- {
-  "id": "bitcoin-magazine",
-  "name": "Bitcoin Magazine",
-  "url": "https://bitcoinmagazine.com",
-  "desc": "Print and online magazine; its Culture vertical runs recurring art coverage, including annual conference gallery previews.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Publications & Media",
-  "host": "bitcoinmagazine.com"
- },
- {
-  "id": "bitcoin-shipshow",
-  "name": "Bitcoin Shipshow",
-  "url": "https://bitcoinship.show/",
-  "desc": "Monthly online Bitcoin meetup and live demo show for Bitcoin, Lightning, and Nostr builders.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Publications & Media",
-  "host": "bitcoinship.show"
- },
- {
-  "id": "bitcoin-video-magazine",
-  "name": "Bitcoin Video Magazine",
-  "url": "https://bitcoinvideomagazine.com",
-  "desc": "Hour-long video show covering the Bitcoin ecosystem in short documentary segments.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Publications & Media",
-  "host": "bitcoinvideomagazine.com"
- },
- {
-  "id": "citadel21",
-  "name": "Citadel21",
-  "url": "https://www.citadel21.com",
-  "desc": "Cultural zine and long-form investigative journalism by hodlonaut, with print editions.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Publications & Media",
-  "host": "citadel21.com"
- },
- {
-  "id": "jimmy-song",
-  "name": "Jimmy Song",
-  "url": "https://jimmysong.org/",
-  "desc": "Bitcoin developer, author, and educator; wrote Fiat Ruins Everything, arguing fiat debases art.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Publications & Media",
-  "host": "jimmysong.org"
- },
- {
-  "id": "proof-of-work",
-  "name": "Proof of Work",
-  "url": "https://proofofworkmagazine.com/",
-  "desc": "Free-to-read Bitcoin lifestyle and culture magazine covering people, places, ideas, and experiences.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Publications & Media",
-  "host": "proofofworkmagazine.com"
- },
- {
-  "id": "stackchain-magazine",
-  "name": "StackChain Magazine",
-  "url": "https://www.stackchainmagazine.net/",
-  "desc": "Bitcoin pleb-focused magazine/zine sharing stories about the people and events in the Bitcoin world.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Publications & Media",
-  "host": "stackchainmagazine.net"
- },
- {
-  "id": "the-cultural-tutor",
-  "name": "The Cultural Tutor",
-  "url": "https://areopagus.culturaltutor.com/",
-  "desc": "Essayist (\"Areopagus\" series) contextualizing Bitcoin artists within perennial cultural traditions.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Publications & Media",
-  "host": "areopagus.culturaltutor.com"
- },
- {
-  "id": "timechain-art-magazine",
-  "name": "Timechain Art Magazine",
-  "url": "https://timechainartmagazine.com",
-  "desc": "Runs a public Artist Directory, source for many entries above.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Publications & Media",
-  "host": "timechainartmagazine.com"
- },
- {
-  "id": "fountain",
-  "name": "Fountain",
-  "url": "https://fountain.fm",
-  "desc": "Value4Value podcast platform and app; listeners send Lightning \"boosts\" straight to creators.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Platforms & Marketplaces",
-  "host": "fountain.fm"
- },
- {
-  "id": "geyser",
-  "name": "Geyser",
-  "url": "https://geyser.fund",
-  "desc": "Non-custodial Bitcoin crowdfunding for creators; campaigns and grants paid in Bitcoin and Lightning.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Platforms & Marketplaces",
-  "host": "geyser.fund"
- },
- {
-  "id": "indeehub-studio",
-  "name": "IndeeHub Studio",
-  "url": "https://indeehub.studio",
-  "desc": "Lightning film streaming platform that pays filmmakers in real time per second watched.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Platforms & Marketplaces",
-  "host": "indeehub.studio"
- },
- {
-  "id": "scarce-city",
-  "name": "scarce.city",
-  "url": "https://scarce.city",
-  "desc": "Recurring commercial marketplace/auction hub; de facto backbone linking most named artists above.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Platforms & Marketplaces",
-  "host": "scarce.city"
- },
- {
-  "id": "stacker-news",
-  "name": "Stacker News",
-  "url": "https://stacker.news/",
-  "desc": "Hacker News-style community where links, posts, and comments earn sats over Lightning.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Platforms & Marketplaces",
-  "host": "stacker.news"
- },
- {
-  "id": "tunestr",
-  "name": "Tunestr",
-  "url": "https://tunestr.io/",
-  "desc": "Independent music live streaming where fans zap artists directly over Lightning and Nostr.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Platforms & Marketplaces",
-  "host": "tunestr.io"
- },
- {
-  "id": "wavlake",
-  "name": "Wavlake",
-  "url": "https://wavlake.com",
-  "desc": "Value4Value music streaming; artists earn Lightning \"zaps\" directly from listeners.",
-  "room": "Institutions & Spaces",
-  "roomLabel": "Institutions & Spaces",
-  "roomIcon": "🏛",
-  "sub": "Platforms & Marketplaces",
-  "host": "wavlake.com"
- },
- {
-  "id": "awesome-bitcoin-events",
-  "name": "Awesome Bitcoin Events",
-  "url": "https://github.com/itstomekk/awesome-bitcoin-events",
-  "desc": "The canonical source for Bitcoin conferences, meetups, retreats, festivals, and technical gatherings worldwide.",
-  "room": "Events & Festivals",
-  "roomLabel": "Events & Festivals",
-  "roomIcon": "🎪",
-  "sub": "",
-  "host": "github.com"
- },
- {
-  "id": "bitcoin-filmfest",
-  "name": "Bitcoin FilmFest",
-  "url": "https://bitcoinfilmfest.com",
-  "desc": "Annual Warsaw festival of Bitcoin cinema awarding the Golden Rabbits; also a year-round film hub.",
-  "room": "Events & Festivals",
-  "roomLabel": "Events & Festivals",
-  "roomIcon": "🎪",
-  "sub": "",
-  "host": "bitcoinfilmfest.com"
- },
- {
-  "id": "bitfest",
-  "name": "Bitfest",
-  "url": "https://bitfest.uk/",
-  "desc": "Four-day Manchester festival (19-22 Nov 2026) that pairs talks with a Bitcoin art exhibition, cinema, gaming, live music and Nostr; family-friendly.",
-  "room": "Events & Festivals",
-  "roomLabel": "Events & Festivals",
-  "roomIcon": "🎪",
-  "sub": "",
-  "host": "bitfest.uk"
- },
- {
-  "id": "revolution-rocks",
-  "name": "Revolution.Rocks",
-  "url": "https://www.revolution.rocks/",
-  "desc": "Two-day Value4Value music festival on Belgrade's Zappa Barka; Lightning tips go straight to performing artists.",
-  "room": "Events & Festivals",
-  "roomLabel": "Events & Festivals",
-  "roomIcon": "🎪",
-  "sub": "",
-  "host": "revolution.rocks"
  }
 ]

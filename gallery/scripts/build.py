@@ -31,9 +31,9 @@ ROOMS = [
     ("music", "Music & Stage", "Music & Performing Arts: sats-per-stream sound, dancers and stage artists"),
     ("film", "Film", "Film & Documentary: documentaries and features"),
     ("podcasts", "Podcasts", "Bitcoin culture in conversation: creators, stories, communities, ideas"),
-    ("games", "Games", "Play for the story, or for sats"),
     ("institutions", "Institutions", "Institutions & Spaces: galleries, funders, magazines, platforms"),
     ("events", "Events", "Events & Festivals: culture-first gatherings"),
+    ("games", "Games", "Play for the story, or for sats"),
 ]
 
 
