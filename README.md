@@ -160,9 +160,9 @@ coins, AI-slop generated in bulk.
 - [Lina Seiche](https://thelittlehodler.com) - Comic and graphic art.
 - [Lucho Poletti](https://luchopoletti.com) - Visual/graphic art, also apparel.
 - [Luis Simo](https://scarce.city/creators/luis-simo) - Pixel mosaic, "Pepernica".
-- [Missatoshi_girl](https://missatoshigirl.pvh-labs.com/) - Street-art mixed media from recycled
+- [Missatoshi_girl](https://instagram.com/missatoshi_girl) - Street-art mixed media from recycled
   materials; graffiti language about privacy and freedom.
-  ([Instagram](https://instagram.com/missatoshi_girl), [X/Twitter](https://x.com/Missatoshi_girl),
+  ([X/Twitter](https://x.com/Missatoshi_girl),
   [Nostr](https://primal.net/p/npub1cax06cljhz5mugtrrxdjvhw8ekepum7l4c7etmj6nwaunzdtxmyqf3cjwe))
 - [Moozi](https://x.com/l3itc0in) - Custom-trained AI models, Persian-inspired painterly style.
 - [Mr.Crown](https://renarchy.com/) - Poster and clothing graphics under the Renarchy project:
@@ -358,7 +358,7 @@ Named artists whose main material is meme culture also live here.
   documentary by Pierre Corbin on debt cycles and central banks; Bitcoin FilmFest 2023.
 - [The Rise and Rise of Bitcoin](https://en.wikipedia.org/wiki/The_Rise_and_Rise_of_Bitcoin) - Early
   feature documentary (2014) by Nicholas Mross; premiered at Tribeca.
-- [The Satoshi Mystery](https://www.arte.tv/en/videos/RC-021581/the-satoshi-mystery) - 2021 ARTE
+- [The Satoshi Mystery](https://distribution.arte.tv/fiche/LE_MYSTERE_SATOCHI___A_L_ORIGINE_DES_CRYPTOMONNAIES) - 2021 ARTE
   series by Rémi Forte on Bitcoin's origins; first prize at Bitcoin FilmFest 2023.
 - [Who Is Bitcoin?](https://www.youtube.com/watch?v=DvHUOr8ruMw) - 2023 puppet short from Spiral
   starring Bitty, a grumpy Bitcoin; screened at Bitcoin FilmFest 2024.
@@ -574,18 +574,10 @@ still playable.
 
 </summary>
 
-- [Cashu Casino](https://github.com/babdbtc/cashucasino) - Privacy-focused open-source casino with
-  Cashu ecash, Lightning deposits, and Nostr login.
-- [Clinch](https://apps.apple.com/us/app/clinch-pvp-bitcoin-games/id6479753271) - Head-to-head skill
+- [Clinch](https://clinch.gg/) - Head-to-head skill
   games such as blackjack and block puzzles, wagered in bitcoin.
-- [Crown & Anchor](https://www.nostrly.com/crown-anchor-game/) - Provably fair Crown and Anchor dice
-  game with Nostr login and Lightning or Cashu top-ups.
-- [Lightning Poker](https://www.lightning-poker.com) - No-limit Texas Hold'em with sats as chips;
+- [Lightning Poker](https://lightning-poker.com) - No-limit Texas Hold'em with sats as chips;
   Lightning buy-in and cash-out, open-source code.
-- [Nakamoto Roulette](https://nakamotoroulette.com) - Live-streamed casino roulette with Lightning
-  deposits and withdrawals.
-- [NostrDice](https://github.com/NostrDice/nostrdice) - Provably fair dice: zap a note and winnings
-  are zapped back to your Lightning address.
 - [The Daily Thunder](https://playtdt.com/) - Lightning lottery with 1-sat tickets and provably fair
   draws every 100 Bitcoin blocks.
 

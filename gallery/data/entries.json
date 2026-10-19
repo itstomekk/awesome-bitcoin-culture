@@ -519,13 +519,13 @@
  {
   "id": "missatoshi-girl",
   "name": "Missatoshi_girl",
-  "url": "https://missatoshigirl.pvh-labs.com/",
-  "desc": "Street-art mixed media from recycled materials; graffiti language about privacy and freedom. (Instagram, X/Twitter, Nostr)",
+  "url": "https://instagram.com/missatoshi_girl",
+  "desc": "Street-art mixed media from recycled materials; graffiti language about privacy and freedom. (X/Twitter, Nostr)",
   "room": "Visual Art",
   "roomLabel": "Visual Art",
   "roomIcon": "🎨",
   "sub": "Digital & Graphic Artists",
-  "host": "missatoshigirl.pvh-labs.com"
+  "host": "instagram.com"
  },
  {
   "id": "moozi",
@@ -1432,13 +1432,13 @@
  {
   "id": "the-satoshi-mystery",
   "name": "The Satoshi Mystery",
-  "url": "https://www.arte.tv/en/videos/RC-021581/the-satoshi-mystery",
+  "url": "https://distribution.arte.tv/fiche/LE_MYSTERE_SATOCHI___A_L_ORIGINE_DES_CRYPTOMONNAIES",
   "desc": "2021 ARTE series by Rémi Forte on Bitcoin's origins; first prize at Bitcoin FilmFest 2023.",
   "room": "Film & Documentary",
   "roomLabel": "Film & Documentary",
   "roomIcon": "🎬",
   "sub": "",
-  "host": "arte.tv"
+  "host": "distribution.arte.tv"
  },
  {
   "id": "who-is-bitcoin",
@@ -2288,70 +2288,26 @@
   "host": "play.google.com"
  },
  {
-  "id": "cashu-casino",
-  "name": "Cashu Casino",
-  "url": "https://github.com/babdbtc/cashucasino",
-  "desc": "Privacy-focused open-source casino with Cashu ecash, Lightning deposits, and Nostr login.",
-  "room": "Games",
-  "roomLabel": "Games",
-  "roomIcon": "🎮",
-  "sub": "Wagering & Casino",
-  "host": "github.com"
- },
- {
   "id": "clinch",
   "name": "Clinch",
-  "url": "https://apps.apple.com/us/app/clinch-pvp-bitcoin-games/id6479753271",
+  "url": "https://clinch.gg/",
   "desc": "Head-to-head skill games such as blackjack and block puzzles, wagered in bitcoin.",
   "room": "Games",
   "roomLabel": "Games",
   "roomIcon": "🎮",
   "sub": "Wagering & Casino",
-  "host": "apps.apple.com"
- },
- {
-  "id": "crown-anchor",
-  "name": "Crown & Anchor",
-  "url": "https://www.nostrly.com/crown-anchor-game/",
-  "desc": "Provably fair Crown and Anchor dice game with Nostr login and Lightning or Cashu top-ups.",
-  "room": "Games",
-  "roomLabel": "Games",
-  "roomIcon": "🎮",
-  "sub": "Wagering & Casino",
-  "host": "nostrly.com"
+  "host": "clinch.gg"
  },
  {
   "id": "lightning-poker",
   "name": "Lightning Poker",
-  "url": "https://www.lightning-poker.com",
+  "url": "https://lightning-poker.com",
   "desc": "No-limit Texas Hold'em with sats as chips; Lightning buy-in and cash-out, open-source code.",
   "room": "Games",
   "roomLabel": "Games",
   "roomIcon": "🎮",
   "sub": "Wagering & Casino",
   "host": "lightning-poker.com"
- },
- {
-  "id": "nakamoto-roulette",
-  "name": "Nakamoto Roulette",
-  "url": "https://nakamotoroulette.com",
-  "desc": "Live-streamed casino roulette with Lightning deposits and withdrawals.",
-  "room": "Games",
-  "roomLabel": "Games",
-  "roomIcon": "🎮",
-  "sub": "Wagering & Casino",
-  "host": "nakamotoroulette.com"
- },
- {
-  "id": "nostrdice",
-  "name": "NostrDice",
-  "url": "https://github.com/NostrDice/nostrdice",
-  "desc": "Provably fair dice: zap a note and winnings are zapped back to your Lightning address.",
-  "room": "Games",
-  "roomLabel": "Games",
-  "roomIcon": "🎮",
-  "sub": "Wagering & Casino",
-  "host": "github.com"
  },
  {
   "id": "the-daily-thunder",
