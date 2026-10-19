@@ -36,8 +36,9 @@ coins, AI-slop generated in bulk.
   - [Other / Studio & Sidework](#other--studio--sidework)
   - [Memes & Internet Culture](#memes--internet-culture)
 - [📚 Literature](#-literature)
-- [🎵 Music](#-music)
-- [🩰 Dance & Performing Arts](#-dance--performing-arts)
+- [🎵 Music & Performing Arts](#-music--performing-arts)
+  - [Music](#music)
+  - [Dance & Stage](#dance--stage)
 - [🎬 Film & Documentary](#-film--documentary)
 - [🎙️ Podcasts](#️-podcasts)
   - [Art & Creators](#art--creators)
@@ -315,7 +316,9 @@ Named artists whose main material is meme culture also live here.
 - [The Genesis Code: Block One](https://eggore.com/) - Free near-future political satire by E. G.
   Gore about money, power, and who gets to print belief.
 
-## 🎵 Music
+## 🎵 Music & Performing Arts
+
+### Music
 
 - [Ainsley Costello](https://ainsleycostello.com) - Singer-songwriter; first artist on Wavlake to
   hit 1 million sats, plays the Bitcoin conference circuit.
@@ -343,7 +346,7 @@ Named artists whose main material is meme culture also live here.
   copyleft/open-source Bitcoin-only music collective.
 - [Tip_NZ](https://btcartgallery.com/category/song) - NZ Bitcoin rap.
 
-## 🩰 Dance & Performing Arts
+### Dance & Stage
 
 - [Benjamin Ella](https://www.instagram.com/benjaminfwella) - Choreographer and former Royal Ballet
   soloist (17 seasons); talks about Bitcoin and sound money in *Share Your Bitcoin Journey*, episode 4.

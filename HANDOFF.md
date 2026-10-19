@@ -63,6 +63,6 @@ real entries yet — needs research).
 ## Update 2026-10-19 (BFTA gap scan)
 
 - Scanned bitcoinforthearts.org (artists, stories, awards, programming) against the README. Added: The Bitcoin Executor (Film), Matt Finlay (Music), Hitomi Matsui (Mixed Media), Beth Alta Fletcher (Digital), Machakos Bitcoin Academy: Visima 21 (Collectives, in progress), Share Your Bitcoin Journey (Podcasts > Stories & People), Benjamin Ella in a new "Dance & Performing Arts" section. BFTA entry now names Bitcoin Arts Park at the Midwest Bitcoin Summit.
-- New gallery room `performing` (build.py, parse_readme.py, style.css, submit.js, index.html hash regex, issue form). Parity passes: 244 entries, 9 rooms.
+- Dance entry first got its own section, then merged with Music into "Music & Performing Arts" (subsections Music / Dance & Stage), so the gallery keeps 8 rooms.
 - Not added: Art + Zap Weekend (date unconfirmed, venue is a bar; belongs in awesome-bitcoin-events if it happened). Benjamin Ella and Beth Alta Fletcher link to Instagram (no own site) and use generated tiles; Matt Finlay too (Bandcamp snapshot was a cookie wall).
 - Local, uncommitted.
