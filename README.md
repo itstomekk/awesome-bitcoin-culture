@@ -316,8 +316,9 @@ Named artists whose main material is meme culture also live here.
   including the "2140" techno video and halving-epoch songs.
 - [Scardust](https://metalstorm.net/bands/band.php?band_id=13193) - Progressive metal band from the
   Revolution.Rocks Belgrade value-for-value lineup.
-- [Tatiana Moroz](https://www.tatianamoroz.com/) - Singer-songwriter and Bitcoin advocate; launched
-  the Tatiana Coin artist token.
+- [Tatiana Moroz](https://www.tatianamoroz.com/) - Berklee-trained singer-songwriter active in Bitcoin since
+  2012; experimented with Counterparty to fund and distribute her music, and put the album *Keep the
+  Faith* on-chain in 2026.
 - [The Orange Pill Jam Project](https://orangepilljam.bandcamp.com) - Zürich-based,
   copyleft/open-source Bitcoin-only music collective.
 - [Tip_NZ](https://btcartgallery.com/category/song) - NZ Bitcoin rap.
