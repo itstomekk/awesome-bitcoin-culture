@@ -2530,6 +2530,138 @@
   "host": "thesatoshiarchive.com"
  },
  {
+  "id": "bitcoin-beach",
+  "name": "Bitcoin Beach",
+  "url": "https://www.bitcoinbeach.com/",
+  "desc": "El Zonte, El Salvador: the first Bitcoin circular economy; its podcast is listed under Podcasts.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Community Spaces",
+  "host": "bitcoinbeach.com"
+ },
+ {
+  "id": "bitcoin-chiang-mai",
+  "name": "Bitcoin Chiang Mai",
+  "url": "https://www.bitcoinchiangmai.org/",
+  "desc": "Physical Bitcoin education and community hub in Chiang Mai, Thailand, serving Southeast Asia.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Community Spaces",
+  "host": "bitcoinchiangmai.org"
+ },
+ {
+  "id": "bitcoin-district-pr-spera",
+  "name": "Bitcoin District Próspera",
+  "url": "https://thebitcoindistrict.com/",
+  "desc": "Bitcoin community inside the Próspera zone on Roatán, Honduras, with weekly workshops, coworking, and retreats.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Community Spaces",
+  "host": "thebitcoindistrict.com"
+ },
+ {
+  "id": "bitcoin-ekasi",
+  "name": "Bitcoin Ekasi",
+  "url": "https://bitcoinekasi.com/",
+  "desc": "Bitcoin circular economy in a Mossel Bay township, grown from The Surfer Kids NPO by Hermann Vivier and Jenya Zhivaleva.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Community Spaces",
+  "host": "bitcoinekasi.com"
+ },
+ {
+  "id": "bitcoin-jungle",
+  "name": "Bitcoin Jungle",
+  "url": "https://www.bitcoinjungle.app/",
+  "desc": "Open-source community project building a circular Bitcoin economy around Uvita, Costa Rica.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Community Spaces",
+  "host": "bitcoinjungle.app"
+ },
+ {
+  "id": "bitcoin-park",
+  "name": "Bitcoin Park",
+  "url": "https://bitcoinpark.com/",
+  "desc": "Community-supported campus in Nashville and Austin for meetups, workshops, and summits.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Community Spaces",
+  "host": "bitcoinpark.com"
+ },
+ {
+  "id": "dutch-bitcoin-embassy",
+  "name": "Dutch Bitcoin Embassy",
+  "url": "https://www.dutchbitcoinembassy.com/en",
+  "desc": "Netherlands hub with public events, builders, and a business circle; screens Finding Satoshi in The Hague.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Community Spaces",
+  "host": "dutchbitcoinembassy.com"
+ },
+ {
+  "id": "node-nbo",
+  "name": "Node NBO",
+  "url": "https://nodenbo.com/",
+  "desc": "Nairobi coworking space (opened May 2026) for Bitcoin, freedom tech, energy, and compute organizations in Africa.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Community Spaces",
+  "host": "nodenbo.com"
+ },
+ {
+  "id": "paraleln-polis",
+  "name": "Paralelní Polis",
+  "url": "https://parallelpolis.info/s/pp-prague",
+  "desc": "Prague hackerspace and Bitcoin-only cafe founded in 2014 by the art collective Ztohoven; ran until 2024.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Community Spaces",
+  "host": "parallelpolis.info"
+ },
+ {
+  "id": "presidio-bitcoin",
+  "name": "Presidio Bitcoin",
+  "url": "https://www.presidiobitcoin.org/",
+  "desc": "San Francisco's first dedicated Bitcoin coworking and events space, with a podcast studio.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Community Spaces",
+  "host": "presidiobitcoin.org"
+ },
+ {
+  "id": "pubkey",
+  "name": "PubKey",
+  "url": "https://dc.pubkey.com/",
+  "desc": "Bitcoin-themed tavern and event venue in Washington, DC, with a sister bar in New York.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Community Spaces",
+  "host": "dc.pubkey.com"
+ },
+ {
+  "id": "the-space",
+  "name": "The Space",
+  "url": "https://denver.space/",
+  "desc": "Denver's Bitcoin hub and venue in RiNo, with a podcast room.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Community Spaces",
+  "host": "denver.space"
+ },
+ {
   "id": "bitcoin-for-the-arts-bfta",
   "name": "Bitcoin for the Arts (BFTA)",
   "url": "https://www.bitcoinforthearts.org/",

@@ -54,6 +54,7 @@ coins, AI-slop generated in bulk.
 - [🏛 Institutions & Spaces](#-institutions--spaces)
   - [Galleries & Museums](#galleries--museums)
   - [Archives & History](#archives--history)
+  - [Community Spaces](#community-spaces)
   - [Grants, Funders & Patronage](#grants-funders--patronage)
   - [Publications & Media](#publications--media)
   - [Platforms & Marketplaces](#platforms--marketplaces)
@@ -646,6 +647,34 @@ happened.
   library of every known Satoshi email, forum post, and line of code (CC BY-SA).
 - [The Satoshi Archive](https://thesatoshiarchive.com/about) - Year-round archive of interviews and
   long-form episodes on Bitcoin's story; home of The Game of Satoshi.
+
+### Community Spaces
+
+Physical places and local communities where the scene gathers: hubs, venues, and Bitcoin-economy towns.
+
+- [Bitcoin Beach](https://www.bitcoinbeach.com/) - El Zonte, El Salvador: the first Bitcoin circular
+  economy; its podcast is listed under Podcasts.
+- [Bitcoin Chiang Mai](https://www.bitcoinchiangmai.org/) - Physical Bitcoin education and community
+  hub in Chiang Mai, Thailand, serving Southeast Asia.
+- [Bitcoin District Próspera](https://thebitcoindistrict.com/) - Bitcoin community inside the Próspera
+  zone on Roatán, Honduras, with weekly workshops, coworking, and retreats.
+- [Bitcoin Ekasi](https://bitcoinekasi.com/) - Bitcoin circular economy in a Mossel Bay township,
+  grown from The Surfer Kids NPO by Hermann Vivier and Jenya Zhivaleva.
+- [Bitcoin Jungle](https://www.bitcoinjungle.app/) - Open-source community project building a
+  circular Bitcoin economy around Uvita, Costa Rica.
+- [Bitcoin Park](https://bitcoinpark.com/) - Community-supported campus in Nashville and Austin for
+  meetups, workshops, and summits.
+- [Dutch Bitcoin Embassy](https://www.dutchbitcoinembassy.com/en) - Netherlands hub with public
+  events, builders, and a business circle; screens *Finding Satoshi* in The Hague.
+- [Node NBO](https://nodenbo.com/) - Nairobi coworking space (opened May 2026) for Bitcoin, freedom
+  tech, energy, and compute organizations in Africa.
+- [Paralelní Polis](https://parallelpolis.info/s/pp-prague) - Prague hackerspace and Bitcoin-only
+  cafe founded in 2014 by the art collective Ztohoven; ran until 2024.
+- [Presidio Bitcoin](https://www.presidiobitcoin.org/) - San Francisco's first dedicated Bitcoin
+  coworking and events space, with a podcast studio.
+- [PubKey](https://dc.pubkey.com/) - Bitcoin-themed tavern and event venue in Washington, DC, with a
+  [sister bar in New York](https://pubkey.bar/).
+- [The Space](https://denver.space/) - Denver's Bitcoin hub and venue in RiNo, with a podcast room.
 
 ### Grants, Funders & Patronage
 

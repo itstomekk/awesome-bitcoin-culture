@@ -1898,24 +1898,32 @@
   "src": "https://bitcoinforthearts.org/featured/machakos-academy-profile.jpg"
  },
  "beth-alta-fletcher": {
-  "img": null,
-  "color": null,
-  "why": "instagram-placeholder-rejected"
+  "img": "img/beth-alta-fletcher.webp",
+  "color": "#eb6593",
+  "w": 120,
+  "h": 120,
+  "src": "https://static.cdninstagram.com/rsrc.php/yL/r/mMvhX4currF.webp"
  },
  "hitomi-matsui": {
-  "img": null,
-  "color": null,
-  "why": "image-failed"
+  "img": "img/hitomi-matsui.webp",
+  "color": "#a49a98",
+  "w": 180,
+  "h": 180,
+  "src": "https://i0.wp.com/hitomimatsui.com/wp-content/uploads/2026/03/cropped-NekoSan-paw-Brown.jpg?fit=180%2C180&#038;ssl=1"
  },
  "matt-finlay": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/matt-finlay.webp",
+  "color": "#606060",
+  "w": 300,
+  "h": 300,
+  "src": "https://f4.bcbits.com/img/0031448958_23.jpg"
  },
  "benjamin-ella": {
-  "img": null,
-  "color": null,
-  "why": "instagram-placeholder-rejected"
+  "img": "img/benjamin-ella.webp",
+  "color": "#eb6593",
+  "w": 120,
+  "h": 120,
+  "src": "https://static.cdninstagram.com/rsrc.php/yL/r/mMvhX4currF.webp"
  },
  "the-bitcoin-executor": {
   "img": "img/the-bitcoin-executor.webp",
@@ -1930,5 +1938,83 @@
   "w": 720,
   "h": 720,
   "src": "https://bitcoinforthearts.org/social/BFTA-social-post-cream-orange-2160.png"
+ },
+ "bitcoin-beach": {
+  "img": "img/bitcoin-beach.webp",
+  "color": "#a58168",
+  "w": 720,
+  "h": 405,
+  "src": "https://cdn.prod.website-files.com/65b7e307d85531af284952a5/66424ef0653e8c78d17ba7b6_opengraph.webp"
+ },
+ "bitcoin-chiang-mai": {
+  "img": "img/bitcoin-chiang-mai.webp",
+  "color": "#f1f0e9",
+  "w": 720,
+  "h": 378,
+  "src": "https://www.bitcoinchiangmai.org/images/social-white.png"
+ },
+ "bitcoin-district-pr-spera": {
+  "img": "img/bitcoin-district-pr-spera.webp",
+  "color": "#286a6f",
+  "w": 720,
+  "h": 400,
+  "src": "https://thebitcoindistrict.com/wp-content/uploads/2025/06/Bitcoin-District-cover-live-freer-future.png"
+ },
+ "bitcoin-ekasi": {
+  "img": "img/bitcoin-ekasi.webp",
+  "color": "#706968",
+  "w": 720,
+  "h": 274,
+  "src": "https://i0.wp.com/bitcoinekasi.com/wp-content/uploads/2023/02/img_20230111_121035_087-copy.jpg?fit=1200%2C457&#038;ssl=1"
+ },
+ "bitcoin-jungle": {
+  "img": "img/bitcoin-jungle.webp",
+  "color": "#a2d9d7",
+  "w": 720,
+  "h": 397,
+  "src": "https://static.wixstatic.com/media/6975be_4fd48371fcb341be9af4159fad4172e4~mv2.png/v1/fill/w_2026,h_1118,al_c/6975be_4fd48371fcb341be9af4159fad4172e4~mv2.png"
+ },
+ "bitcoin-park": {
+  "img": null,
+  "color": null,
+  "why": "no-image"
+ },
+ "dutch-bitcoin-embassy": {
+  "img": "img/dutch-bitcoin-embassy.webp",
+  "color": "#5a5659",
+  "w": 720,
+  "h": 378,
+  "src": "https://www.dutchbitcoinembassy.com/og/home.jpg"
+ },
+ "node-nbo": {
+  "img": "img/node-nbo.webp",
+  "color": "#353025",
+  "w": 180,
+  "h": 180,
+  "src": "https://nodenbo.com/apple-touch-icon.png?v=2"
+ },
+ "paraleln-polis": {
+  "img": null,
+  "color": null,
+  "why": "no-image"
+ },
+ "presidio-bitcoin": {
+  "img": "img/presidio-bitcoin.webp",
+  "color": "#697e6f",
+  "w": 720,
+  "h": 413,
+  "src": "https://www.presidiobitcoin.org/lovable-uploads/2156b004-f238-42a1-9e9d-32071987701a.png"
+ },
+ "pubkey": {
+  "img": "img/pubkey.webp",
+  "color": "#261f1e",
+  "w": 720,
+  "h": 378,
+  "src": "https://dc.pubkey.com/brand/social-share-pubkeydc.png"
+ },
+ "the-space": {
+  "img": null,
+  "color": null,
+  "why": "image-failed"
  }
 }
