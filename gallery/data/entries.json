@@ -2849,6 +2849,28 @@
   "host": "scarce.city"
  },
  {
+  "id": "stacker-news",
+  "name": "Stacker News",
+  "url": "https://stacker.news/",
+  "desc": "Hacker News-style community where links, posts, and comments earn sats over Lightning.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Platforms & Marketplaces",
+  "host": "stacker.news"
+ },
+ {
+  "id": "tunestr",
+  "name": "Tunestr",
+  "url": "https://tunestr.io/",
+  "desc": "Independent music live streaming where fans zap artists directly over Lightning and Nostr.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Platforms & Marketplaces",
+  "host": "tunestr.io"
+ },
+ {
   "id": "wavlake",
   "name": "Wavlake",
   "url": "https://wavlake.com",

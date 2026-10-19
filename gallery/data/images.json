@@ -2030,5 +2030,19 @@
   "w": 287,
   "h": 469,
   "src": "https://konsensus.net/assets/books/9789698292515.jpg"
+ },
+ "stacker-news": {
+  "img": "img/stacker-news.webp",
+  "color": "#1d1e20",
+  "w": 720,
+  "h": 378,
+  "src": "https://capture.stacker.news/"
+ },
+ "tunestr": {
+  "img": "img/tunestr.webp",
+  "color": "#6b1a36",
+  "w": 512,
+  "h": 512,
+  "src": "https://tunestr.io/logo.png"
  }
 }

@@ -746,6 +746,10 @@ distinct from the grants/patronage orgs above, these are self-serve tools any ar
   filmmakers in real time per second watched.
 - [scarce.city](https://scarce.city) - Recurring commercial marketplace/auction hub; de facto
   backbone linking most named artists above.
+- [Stacker News](https://stacker.news/) - Hacker News-style community where links, posts, and comments
+  earn sats over Lightning.
+- [Tunestr](https://tunestr.io/) - Independent music live streaming where fans zap artists directly
+  over Lightning and Nostr.
 - [Wavlake](https://wavlake.com) - Value4Value music streaming; artists earn Lightning "zaps"
   directly from listeners.
 
