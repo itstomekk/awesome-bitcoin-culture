@@ -2016,5 +2016,19 @@
   "img": null,
   "color": null,
   "why": "image-failed"
+ },
+ "the-book-of-itcoin": {
+  "img": "img/the-book-of-itcoin.webp",
+  "color": "#f8f3ea",
+  "w": 720,
+  "h": 378,
+  "src": "https://www.bookofbitcoin.org/og/home.png"
+ },
+ "the-satoshi-era": {
+  "img": "img/the-satoshi-era.webp",
+  "color": "#23221a",
+  "w": 287,
+  "h": 469,
+  "src": "https://konsensus.net/assets/books/9789698292515.jpg"
  }
 }

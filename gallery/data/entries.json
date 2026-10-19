@@ -1188,6 +1188,17 @@
   "host": "amazon.com"
  },
  {
+  "id": "the-book-of-itcoin",
+  "name": "The Book of ₿itcoin",
+  "url": "https://www.bookofbitcoin.org/",
+  "desc": "Free online satire that retells Bitcoin's history and ideas in the voice of scripture, with fact-check sections; written under the pen name Eric.",
+  "room": "Literature",
+  "roomLabel": "Literature",
+  "roomIcon": "📚",
+  "sub": "",
+  "host": "bookofbitcoin.org"
+ },
+ {
   "id": "the-genesis-code-block-one",
   "name": "The Genesis Code: Block One",
   "url": "https://eggore.com/",
@@ -1197,6 +1208,17 @@
   "roomIcon": "📚",
   "sub": "",
   "host": "eggore.com"
+ },
+ {
+  "id": "the-satoshi-era",
+  "name": "The Satoshi Era",
+  "url": "https://konsensus.net/book/the-satoshi-era",
+  "desc": "Dystopian sci-fi thriller set in 2139, by the pseudonymous Bill Halving (Konsensus), in which a future Satoshi resists an AI-ruled surveillance society.",
+  "room": "Literature",
+  "roomLabel": "Literature",
+  "roomIcon": "📚",
+  "sub": "",
+  "host": "konsensus.net"
  },
  {
   "id": "ainsley-costello",

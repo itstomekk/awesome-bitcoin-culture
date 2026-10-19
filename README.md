@@ -328,8 +328,14 @@ Named artists whose main material is meme culture also live here.
   trackers, no cookies, no consent banner.
 - [South of Market](https://www.amazon.com/South-Market-Jeffrey-Peel/dp/B0FKHKLM73) - Novel by
   Jeffrey Peel about technology, geopolitics, political influence, and energy as currency.
+- [The Book of ₿itcoin](https://www.bookofbitcoin.org/) - Free online satire that retells Bitcoin's
+  history and ideas in the voice of scripture, with fact-check sections; written under the pen name
+  Eric.
 - [The Genesis Code: Block One](https://eggore.com/) - Free near-future political satire by E. G.
   Gore about money, power, and who gets to print belief.
+- [The Satoshi Era](https://konsensus.net/book/the-satoshi-era) - Dystopian sci-fi thriller set in
+  2139, by the pseudonymous Bill Halving (Konsensus), in which a future Satoshi resists an AI-ruled
+  surveillance society.
 
 ## 🎵 Music & Performing Arts
 
