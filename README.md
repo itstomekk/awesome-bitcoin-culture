@@ -40,6 +40,8 @@ coins, AI-slop generated in bulk.
   - [Music](#music)
   - [Dance & Stage](#dance--stage)
 - [🎬 Film & Documentary](#-film--documentary)
+  - [Documentaries](#documentaries)
+  - [Fiction](#fiction)
 - [🎙️ Podcasts](#️-podcasts)
   - [Art & Creators](#art--creators)
   - [Stories & People](#stories--people)
@@ -354,10 +356,8 @@ Named artists whose main material is meme culture also live here.
 
 ## 🎬 Film & Documentary
 
-- [$BLEEP](https://9fold.co/worlds/bleep) - Biweekly retro sci-fi animated series by Fzero, following
-  an alien decoding humanity through Bitcoin, one transmission at a time.
-- [Bitcoin & Friends](https://btcandfriends.com/) - Animated Bitcoin cartoon series blending
-  character-driven storytelling and comedy; episodes are available on YouTube.
+### Documentaries
+
 - [Bitcoiners](https://bitcoinersmovie.com/) - 2023 documentary by Rob Johnson on Texas Bitcoiners;
   Golden Rabbit nominee at Bitcoin FilmFest 2024.
 - [Death Athletic: A Dissident Architecture](https://www.encodeproductions.com/deathathletic) - 2023
@@ -369,10 +369,6 @@ Named artists whose main material is meme culture also live here.
 - [Finding Satoshi](https://www.findingsatoshi.com/) - 2026 documentary by Matthew Miele (Tucker Tooley
   Entertainment); journalist William Cohan and investigator Tyler Maroney spend four years hunting for
   Bitcoin's creator.
-- [HODL](https://www.youtube.com/watch?v=dktBrlikweo) - 2020 comedy short by The Garcia Brothers,
-  made for 86 cents; Best Short at Bitcoin FilmFest 2024.
-- [Hotel Bitcoin](https://www.deaplaneta.com/es/hotel_bitcoin) - 2024 Spanish comedy about friends
-  who find 4,000 bitcoins; Best Story at Bitcoin FilmFest 2025.
 - [Human B](https://humanb-film.com/) - 2021 documentary following six people into Bitcoin; Audience
   Award at Bitcoin FilmFest 2023.
 - [Money Electric: The Bitcoin Mystery](https://www.hbo.com/movies/money-electric-the-bitcoin-mystery) - 2024
@@ -384,15 +380,26 @@ Named artists whose main material is meme culture also live here.
   Story at Bitcoin FilmFest 2024.
 - [The Anatomy of Bitcoin](https://anatomyofbitcoin.com) - Open-source, community-funded
   hyper-realism film showing how the Bitcoin protocol works.
-- [The Bitcoin Executor](https://thebitcoinexecutor.com/) - Feature by Christopher Arcella, made in Miami
-  and New York: an economics professor delivers a missing friend's Bitcoin hardware wallets to his
-  heirs. In late post-production; Bitcoin for the Arts micro-grant approved.
 - [The Great Reset and the Rise of Bitcoin](https://www.youtube.com/watch?v=e0plyXEc1Ak) - 2022
   documentary by Pierre Corbin on debt cycles and central banks; Bitcoin FilmFest 2023.
 - [The Rise and Rise of Bitcoin](https://en.wikipedia.org/wiki/The_Rise_and_Rise_of_Bitcoin) - Early
   feature documentary (2014) by Nicholas Mross; premiered at Tribeca.
 - [The Satoshi Mystery](https://distribution.arte.tv/fiche/LE_MYSTERE_SATOCHI___A_L_ORIGINE_DES_CRYPTOMONNAIES) - 2021 ARTE
   series by Rémi Forte on Bitcoin's origins; first prize at Bitcoin FilmFest 2023.
+
+### Fiction
+
+- [$BLEEP](https://9fold.co/worlds/bleep) - Biweekly retro sci-fi animated series by Fzero, following
+  an alien decoding humanity through Bitcoin, one transmission at a time.
+- [Bitcoin & Friends](https://btcandfriends.com/) - Animated Bitcoin cartoon series blending
+  character-driven storytelling and comedy; episodes are available on YouTube.
+- [HODL](https://www.youtube.com/watch?v=dktBrlikweo) - 2020 comedy short by The Garcia Brothers,
+  made for 86 cents; Best Short at Bitcoin FilmFest 2024.
+- [Hotel Bitcoin](https://www.deaplaneta.com/es/hotel_bitcoin) - 2024 Spanish comedy about friends
+  who find 4,000 bitcoins; Best Story at Bitcoin FilmFest 2025.
+- [The Bitcoin Executor](https://thebitcoinexecutor.com/) - Feature by Christopher Arcella, made in Miami
+  and New York: an economics professor delivers a missing friend's Bitcoin hardware wallets to his
+  heirs. In late post-production; Bitcoin for the Arts micro-grant approved.
 - [Who Is Bitcoin?](https://www.youtube.com/watch?v=DvHUOr8ruMw) - 2023 puppet short from Spiral
   starring Bitty, a grumpy Bitcoin; screened at Bitcoin FilmFest 2024.
 

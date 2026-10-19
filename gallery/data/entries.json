@@ -1342,28 +1342,6 @@
   "host": "instagram.com"
  },
  {
-  "id": "bleep",
-  "name": "$BLEEP",
-  "url": "https://9fold.co/worlds/bleep",
-  "desc": "Biweekly retro sci-fi animated series by Fzero, following an alien decoding humanity through Bitcoin, one transmission at a time.",
-  "room": "Film & Documentary",
-  "roomLabel": "Film & Documentary",
-  "roomIcon": "🎬",
-  "sub": "",
-  "host": "9fold.co"
- },
- {
-  "id": "bitcoin-friends",
-  "name": "Bitcoin & Friends",
-  "url": "https://btcandfriends.com/",
-  "desc": "Animated Bitcoin cartoon series blending character-driven storytelling and comedy; episodes are available on YouTube.",
-  "room": "Film & Documentary",
-  "roomLabel": "Film & Documentary",
-  "roomIcon": "🎬",
-  "sub": "",
-  "host": "btcandfriends.com"
- },
- {
   "id": "bitcoiners",
   "name": "Bitcoiners",
   "url": "https://bitcoinersmovie.com/",
@@ -1371,7 +1349,7 @@
   "room": "Film & Documentary",
   "roomLabel": "Film & Documentary",
   "roomIcon": "🎬",
-  "sub": "",
+  "sub": "Documentaries",
   "host": "bitcoinersmovie.com"
  },
  {
@@ -1382,7 +1360,7 @@
   "room": "Film & Documentary",
   "roomLabel": "Film & Documentary",
   "roomIcon": "🎬",
-  "sub": "",
+  "sub": "Documentaries",
   "host": "encodeproductions.com"
  },
  {
@@ -1393,7 +1371,7 @@
   "room": "Film & Documentary",
   "roomLabel": "Film & Documentary",
   "roomIcon": "🎬",
-  "sub": "",
+  "sub": "Documentaries",
   "host": "dirtycointhemovie.com"
  },
  {
@@ -1404,7 +1382,7 @@
   "room": "Film & Documentary",
   "roomLabel": "Film & Documentary",
   "roomIcon": "🎬",
-  "sub": "",
+  "sub": "Documentaries",
   "host": "indeehub.studio"
  },
  {
@@ -1415,30 +1393,8 @@
   "room": "Film & Documentary",
   "roomLabel": "Film & Documentary",
   "roomIcon": "🎬",
-  "sub": "",
+  "sub": "Documentaries",
   "host": "findingsatoshi.com"
- },
- {
-  "id": "hodl",
-  "name": "HODL",
-  "url": "https://www.youtube.com/watch?v=dktBrlikweo",
-  "desc": "2020 comedy short by The Garcia Brothers, made for 86 cents; Best Short at Bitcoin FilmFest 2024.",
-  "room": "Film & Documentary",
-  "roomLabel": "Film & Documentary",
-  "roomIcon": "🎬",
-  "sub": "",
-  "host": "youtube.com"
- },
- {
-  "id": "hotel-bitcoin",
-  "name": "Hotel Bitcoin",
-  "url": "https://www.deaplaneta.com/es/hotel_bitcoin",
-  "desc": "2024 Spanish comedy about friends who find 4,000 bitcoins; Best Story at Bitcoin FilmFest 2025.",
-  "room": "Film & Documentary",
-  "roomLabel": "Film & Documentary",
-  "roomIcon": "🎬",
-  "sub": "",
-  "host": "deaplaneta.com"
  },
  {
   "id": "human-b",
@@ -1448,7 +1404,7 @@
   "room": "Film & Documentary",
   "roomLabel": "Film & Documentary",
   "roomIcon": "🎬",
-  "sub": "",
+  "sub": "Documentaries",
   "host": "humanb-film.com"
  },
  {
@@ -1459,7 +1415,7 @@
   "room": "Film & Documentary",
   "roomLabel": "Film & Documentary",
   "roomIcon": "🎬",
-  "sub": "",
+  "sub": "Documentaries",
   "host": "hbo.com"
  },
  {
@@ -1470,7 +1426,7 @@
   "room": "Film & Documentary",
   "roomLabel": "Film & Documentary",
   "roomIcon": "🎬",
-  "sub": "",
+  "sub": "Documentaries",
   "host": "nomoreinflation.com"
  },
  {
@@ -1481,7 +1437,7 @@
   "room": "Film & Documentary",
   "roomLabel": "Film & Documentary",
   "roomIcon": "🎬",
-  "sub": "",
+  "sub": "Documentaries",
   "host": "cbc.ca"
  },
  {
@@ -1492,19 +1448,8 @@
   "room": "Film & Documentary",
   "roomLabel": "Film & Documentary",
   "roomIcon": "🎬",
-  "sub": "",
+  "sub": "Documentaries",
   "host": "anatomyofbitcoin.com"
- },
- {
-  "id": "the-bitcoin-executor",
-  "name": "The Bitcoin Executor",
-  "url": "https://thebitcoinexecutor.com/",
-  "desc": "Feature by Christopher Arcella, made in Miami and New York: an economics professor delivers a missing friend's Bitcoin hardware wallets to his heirs. In late post-production; Bitcoin for the Arts micro-grant approved.",
-  "room": "Film & Documentary",
-  "roomLabel": "Film & Documentary",
-  "roomIcon": "🎬",
-  "sub": "",
-  "host": "thebitcoinexecutor.com"
  },
  {
   "id": "the-great-reset-and-the-rise-of-bitcoin",
@@ -1514,7 +1459,7 @@
   "room": "Film & Documentary",
   "roomLabel": "Film & Documentary",
   "roomIcon": "🎬",
-  "sub": "",
+  "sub": "Documentaries",
   "host": "youtube.com"
  },
  {
@@ -1525,7 +1470,7 @@
   "room": "Film & Documentary",
   "roomLabel": "Film & Documentary",
   "roomIcon": "🎬",
-  "sub": "",
+  "sub": "Documentaries",
   "host": "en.wikipedia.org"
  },
  {
@@ -1536,8 +1481,63 @@
   "room": "Film & Documentary",
   "roomLabel": "Film & Documentary",
   "roomIcon": "🎬",
-  "sub": "",
+  "sub": "Documentaries",
   "host": "distribution.arte.tv"
+ },
+ {
+  "id": "bleep",
+  "name": "$BLEEP",
+  "url": "https://9fold.co/worlds/bleep",
+  "desc": "Biweekly retro sci-fi animated series by Fzero, following an alien decoding humanity through Bitcoin, one transmission at a time.",
+  "room": "Film & Documentary",
+  "roomLabel": "Film & Documentary",
+  "roomIcon": "🎬",
+  "sub": "Fiction",
+  "host": "9fold.co"
+ },
+ {
+  "id": "bitcoin-friends",
+  "name": "Bitcoin & Friends",
+  "url": "https://btcandfriends.com/",
+  "desc": "Animated Bitcoin cartoon series blending character-driven storytelling and comedy; episodes are available on YouTube.",
+  "room": "Film & Documentary",
+  "roomLabel": "Film & Documentary",
+  "roomIcon": "🎬",
+  "sub": "Fiction",
+  "host": "btcandfriends.com"
+ },
+ {
+  "id": "hodl",
+  "name": "HODL",
+  "url": "https://www.youtube.com/watch?v=dktBrlikweo",
+  "desc": "2020 comedy short by The Garcia Brothers, made for 86 cents; Best Short at Bitcoin FilmFest 2024.",
+  "room": "Film & Documentary",
+  "roomLabel": "Film & Documentary",
+  "roomIcon": "🎬",
+  "sub": "Fiction",
+  "host": "youtube.com"
+ },
+ {
+  "id": "hotel-bitcoin",
+  "name": "Hotel Bitcoin",
+  "url": "https://www.deaplaneta.com/es/hotel_bitcoin",
+  "desc": "2024 Spanish comedy about friends who find 4,000 bitcoins; Best Story at Bitcoin FilmFest 2025.",
+  "room": "Film & Documentary",
+  "roomLabel": "Film & Documentary",
+  "roomIcon": "🎬",
+  "sub": "Fiction",
+  "host": "deaplaneta.com"
+ },
+ {
+  "id": "the-bitcoin-executor",
+  "name": "The Bitcoin Executor",
+  "url": "https://thebitcoinexecutor.com/",
+  "desc": "Feature by Christopher Arcella, made in Miami and New York: an economics professor delivers a missing friend's Bitcoin hardware wallets to his heirs. In late post-production; Bitcoin for the Arts micro-grant approved.",
+  "room": "Film & Documentary",
+  "roomLabel": "Film & Documentary",
+  "roomIcon": "🎬",
+  "sub": "Fiction",
+  "host": "thebitcoinexecutor.com"
  },
  {
   "id": "who-is-bitcoin",
@@ -1547,7 +1547,7 @@
   "room": "Film & Documentary",
   "roomLabel": "Film & Documentary",
   "roomIcon": "🎬",
-  "sub": "",
+  "sub": "Fiction",
   "host": "youtube.com"
  },
  {
