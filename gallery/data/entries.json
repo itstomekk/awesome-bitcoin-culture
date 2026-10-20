@@ -11,6 +11,28 @@
   "host": "2140art.com"
  },
  {
+  "id": "bitcoin-design",
+  "name": "Bitcoin Design",
+  "url": "https://bitcoin.design/",
+  "desc": "Open community of designers making Bitcoin products easier to use; publishes the open-source Bitcoin Design Guide.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Collectives",
+  "host": "bitcoin.design"
+ },
+ {
+  "id": "crypsi",
+  "name": "Crypsi",
+  "url": "https://crypsi.com/",
+  "desc": "Anonymous collective making hand-stencilled spray-paint canvases on Bitcoin themes since 2014.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Collectives",
+  "host": "crypsi.com"
+ },
+ {
   "id": "machakos-bitcoin-academy-visima-21",
   "name": "Machakos Bitcoin Academy: Visima 21",
   "url": "https://www.bitcoinforthearts.org/artists/visima-21",
@@ -53,6 +75,17 @@
   "roomIcon": "🎨",
   "sub": "Painters",
   "host": "linktr.ee"
+ },
+ {
+  "id": "april-popko",
+  "name": "April Popko",
+  "url": "https://www.popkoproductions.com/bitcoin-art.html",
+  "desc": "Abstract acrylic and gold-leaf paintings on Bitcoin themes, made in Prague.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Painters",
+  "host": "popkoproductions.com"
  },
  {
   "id": "asanoha",
@@ -176,6 +209,17 @@
   "host": "johnnydollar.art"
  },
  {
+  "id": "josie-bellini",
+  "name": "Josie Bellini",
+  "url": "https://josie.io/",
+  "desc": "Paintings and editioned prints on Bitcoin themes, including \"The People\" (We Are Satoshi) and \"Free Ross\".",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Painters",
+  "host": "josie.io"
+ },
+ {
   "id": "jure-kastelic",
   "name": "Jure Kastelic",
   "url": "https://www.whitecrypt.com/jure-kastelic",
@@ -207,6 +251,17 @@
   "roomIcon": "🎨",
   "sub": "Painters",
   "host": "buridanova.com"
+ },
+ {
+  "id": "lady-block-jane",
+  "name": "Lady Block Jane",
+  "url": "https://www.ladyblockjane.com/bitcoin-art.html",
+  "desc": "Swiss tattooist turned painter; Bitcoin paintings, posters, and temporary tattoos such as \"Unbroken Chain\".",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Painters",
+  "host": "ladyblockjane.com"
  },
  {
   "id": "lisa-t-rner",
@@ -306,6 +361,17 @@
   "roomIcon": "🎨",
   "sub": "Painters",
   "host": "ryrstudio.com"
+ },
+ {
+  "id": "sarah-foster",
+  "name": "Sarah Foster",
+  "url": "https://bitcoinartgallery.com/#artists",
+  "desc": "Kansas City painter putting Bitcoin symbols into art-history imagery, as in \"The Bitcoin Venus\"; shown at Bitcoin Art Gallery Wynwood.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Painters",
+  "host": "bitcoinartgallery.com"
  },
  {
   "id": "sweedgraffixx",
@@ -484,6 +550,17 @@
   "host": "x.com"
  },
  {
+  "id": "here-comes-bitcoin",
+  "name": "Here Comes Bitcoin",
+  "url": "https://herecomesbitcoin.org/",
+  "desc": "License-free PNG and SVG library of Bitty, the Bitcoin puppet from Who Is Bitcoin?, free to use in any project.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Illustration & Digital Art",
+  "host": "herecomesbitcoin.org"
+ },
+ {
   "id": "luis-simo",
   "name": "Luis Simo",
   "url": "https://scarce.city/creators/luis-simo",
@@ -528,6 +605,17 @@
   "host": "x.com"
  },
  {
+  "id": "mr-meadow",
+  "name": "Mr Meadow",
+  "url": "https://www.mrmeadow.org/",
+  "desc": "Indian filmmaker and designer making comic-book Bitcoin art, such as the \"Bitcoin Mech-Suit\" print.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Illustration & Digital Art",
+  "host": "mrmeadow.org"
+ },
+ {
   "id": "mr-crown",
   "name": "Mr.Crown",
   "url": "https://renarchy.com/",
@@ -548,6 +636,17 @@
   "roomIcon": "🎨",
   "sub": "Illustration & Digital Art",
   "host": "x.com"
+ },
+ {
+  "id": "no-good-kid",
+  "name": "No Good Kid",
+  "url": "https://nogoodkid.com/",
+  "desc": "Pseudonymous designer and art director behind Bitcoin books and zines.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Illustration & Digital Art",
+  "host": "nogoodkid.com"
  },
  {
   "id": "nogood",
@@ -636,6 +735,17 @@
   "roomIcon": "🎨",
   "sub": "Illustration & Digital Art",
   "host": "yuzapata.art"
+ },
+ {
+  "id": "zap-zide",
+  "name": "Zap Zide",
+  "url": "https://zapzide.com/",
+  "desc": "Deadpan Bitcoin and Nostr cartoons, with an online archive of 600+ originals.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Illustration & Digital Art",
+  "host": "zapzide.com"
  },
  {
   "id": "zaza",
@@ -1034,6 +1144,17 @@
   "host": "studio-zeitwerk.com"
  },
  {
+  "id": "todd-gray",
+  "name": "Todd Gray",
+  "url": "https://www.toddgray.com/bitcoin-artwork",
+  "desc": "Pop-art sculptures and skateboard-deck assemblages built from Bitcoin imagery.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Sculpture & Objects",
+  "host": "toddgray.com"
+ },
+ {
   "id": "5ksana-2",
   "name": "5Ksana",
   "url": "https://buybitart.com/",
@@ -1109,6 +1230,17 @@
   "roomIcon": "🎨",
   "sub": "Mixed Media & Craft",
   "host": "cryptograffiti.com"
+ },
+ {
+  "id": "hodlxhold",
+  "name": "Hodlxhold",
+  "url": "https://bitcoinvisionaryart.com/",
+  "desc": "Mixed-media canvases and prints on the Bitcoin timechain, sold for BTC only.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Mixed Media & Craft",
+  "host": "bitcoinvisionaryart.com"
  },
  {
   "id": "house-of-ralfus",
@@ -1199,6 +1331,17 @@
   "host": "najp.ch"
  },
  {
+  "id": "proof-of-ink",
+  "name": "Proof of Ink",
+  "url": "https://proofofink.com/",
+  "desc": "Hand screen-printed shirts and prints made with Bitcoin artists, who are paid in sats.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Mixed Media & Craft",
+  "host": "proofofink.com"
+ },
+ {
   "id": "rare-scrilla-2",
   "name": "Rare Scrilla",
   "url": "https://www.rarescrilla.com/",
@@ -1241,6 +1384,17 @@
   "roomIcon": "🎨",
   "sub": "Mixed Media & Craft",
   "host": "tructor.co"
+ },
+ {
+  "id": "volatile21",
+  "name": "Volatile21",
+  "url": "https://www.volatile21.com/",
+  "desc": "Photography that projects light and Bitcoin imagery onto bodies; physical prints in editions of 21 (artistic nudity).",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Mixed Media & Craft",
+  "host": "volatile21.com"
  },
  {
   "id": "yonat-vaks-2",
@@ -1573,6 +1727,28 @@
   "host": "instagram.com"
  },
  {
+  "id": "circle-the-earth",
+  "name": "Circle the Earth",
+  "url": "https://circletheearth.band",
+  "desc": "Los Angeles band with members from four countries, releasing value-for-value with Hash Power Music.",
+  "room": "Music & Performing Arts",
+  "roomLabel": "Music & Performing Arts",
+  "roomIcon": "🎵",
+  "sub": "",
+  "host": "circletheearth.band"
+ },
+ {
+  "id": "hash-power-music",
+  "name": "Hash Power Music",
+  "url": "https://fountain.fm/bit_ish",
+  "desc": "Value-for-value music collective releasing independent artists over Lightning.",
+  "room": "Music & Performing Arts",
+  "roomLabel": "Music & Performing Arts",
+  "roomIcon": "🎵",
+  "sub": "",
+  "host": "fountain.fm"
+ },
+ {
   "id": "ivy-lumi",
   "name": "Ivy Lumi",
   "url": "https://ivylumi.com",
@@ -1595,6 +1771,17 @@
   "host": "wavlake.com"
  },
  {
+  "id": "josh-rogan",
+  "name": "Josh Rogan",
+  "url": "https://joshrogan.com",
+  "desc": "Los Angeles Americana and soul singer-songwriter; his debut \"Heartbeat\" came out value-for-value with Hash Power Music.",
+  "room": "Music & Performing Arts",
+  "roomLabel": "Music & Performing Arts",
+  "roomIcon": "🎵",
+  "sub": "",
+  "host": "joshrogan.com"
+ },
+ {
   "id": "kane-mayfield",
   "name": "Kane Mayfield",
   "url": "https://kanemayfield.com/",
@@ -1604,6 +1791,17 @@
   "roomIcon": "🎵",
   "sub": "",
   "host": "kanemayfield.com"
+ },
+ {
+  "id": "longy",
+  "name": "Longy",
+  "url": "https://longy528.wordpress.com/",
+  "desc": "Southend-on-Sea \"Gospel Trash\" rock and punk artist, long active on Wavlake and value-for-value; played Revolution.Rocks 2026.",
+  "room": "Music & Performing Arts",
+  "roomLabel": "Music & Performing Arts",
+  "roomIcon": "🎵",
+  "sub": "",
+  "host": "longy528.wordpress.com"
  },
  {
   "id": "man-like-kweks",
@@ -1639,6 +1837,17 @@
   "host": "youtube.com"
  },
  {
+  "id": "rock-n-roll-breakheart",
+  "name": "Rock'n'Roll Breakheart",
+  "url": "https://rocknrollbreakheart.com/",
+  "desc": "Andy Burghardt's one-man rock'n'roll band; releases on Wavlake, played BFTA's Bitcoin Arts Park.",
+  "room": "Music & Performing Arts",
+  "roomLabel": "Music & Performing Arts",
+  "roomIcon": "🎵",
+  "sub": "",
+  "host": "rocknrollbreakheart.com"
+ },
+ {
   "id": "roger9000",
   "name": "Roger9000",
   "url": "https://www.roger9000.com/roger9000-epk",
@@ -1648,6 +1857,17 @@
   "roomIcon": "🎵",
   "sub": "",
   "host": "roger9000.com"
+ },
+ {
+  "id": "sara-jade",
+  "name": "Sara Jade",
+  "url": "https://sarajademusic.com/",
+  "desc": "San Diego keytar pop-rock artist; value-for-value early adopter featured on The Bitcoin Vinyl Record.",
+  "room": "Music & Performing Arts",
+  "roomLabel": "Music & Performing Arts",
+  "roomIcon": "🎵",
+  "sub": "",
+  "host": "sarajademusic.com"
  },
  {
   "id": "scardust",
@@ -1672,6 +1892,17 @@
   "host": "tatianamoroz.com"
  },
  {
+  "id": "the-higher-low",
+  "name": "The Higher Low",
+  "url": "https://www.thehigherlow.co/",
+  "desc": "Rami Korhonen's rock project about freedom tech; albums include Freedom In the Digital Age.",
+  "room": "Music & Performing Arts",
+  "roomLabel": "Music & Performing Arts",
+  "roomIcon": "🎵",
+  "sub": "",
+  "host": "thehigherlow.co"
+ },
+ {
   "id": "the-orange-pill-jam-project",
   "name": "The Orange Pill Jam Project",
   "url": "https://orangepilljam.bandcamp.com",
@@ -1683,6 +1914,28 @@
   "host": "orangepilljam.bandcamp.com"
  },
  {
+  "id": "the-retrograde",
+  "name": "The Retrograde",
+  "url": "https://www.theretrogradeofficial.com/",
+  "desc": "Southern rock band releasing albums value-for-value on Lightning with Hash Power Music.",
+  "room": "Music & Performing Arts",
+  "roomLabel": "Music & Performing Arts",
+  "roomIcon": "🎵",
+  "sub": "",
+  "host": "theretrogradeofficial.com"
+ },
+ {
+  "id": "the-trusted",
+  "name": "The Trusted",
+  "url": "https://www.thetrusted.co.uk/",
+  "desc": "UK rock band releasing music value-for-value over Lightning with Hash Power Music.",
+  "room": "Music & Performing Arts",
+  "roomLabel": "Music & Performing Arts",
+  "roomIcon": "🎵",
+  "sub": "",
+  "host": "thetrusted.co.uk"
+ },
+ {
   "id": "tip-nz",
   "name": "Tip_NZ",
   "url": "https://btcartgallery.com/category/song",
@@ -1692,6 +1945,28 @@
   "roomIcon": "🎵",
   "sub": "",
   "host": "btcartgallery.com"
+ },
+ {
+  "id": "vicious-clay",
+  "name": "Vicious Clay",
+  "url": "https://www.viciousclay.com/",
+  "desc": "New York rock project of Vinny Silva, releasing value-for-value with Hash Power Music.",
+  "room": "Music & Performing Arts",
+  "roomLabel": "Music & Performing Arts",
+  "roomIcon": "🎵",
+  "sub": "",
+  "host": "viciousclay.com"
+ },
+ {
+  "id": "bigger-than-bitcoin",
+  "name": "Bigger Than Bitcoin",
+  "url": "https://myfirstbitcoin.org/about/media",
+  "desc": "My First Bitcoin's documentary series by Kyle Huber on Bitcoin education in Kenya.",
+  "room": "Film & Documentary",
+  "roomLabel": "Film & Documentary",
+  "roomIcon": "🎬",
+  "sub": "Documentaries",
+  "host": "myfirstbitcoin.org"
  },
  {
   "id": "bitcoiners",
@@ -1758,6 +2033,17 @@
   "roomIcon": "🎬",
   "sub": "Documentaries",
   "host": "humanb-film.com"
+ },
+ {
+  "id": "hummingbird-the-bitcoin-jungle-story",
+  "name": "Hummingbird: The Bitcoin Jungle Story",
+  "url": "https://hummingbirdfilm.com/",
+  "desc": "2026 documentary by DirectorHodl on a Bitcoin-run jungle community in Costa Rica.",
+  "room": "Film & Documentary",
+  "roomLabel": "Film & Documentary",
+  "roomIcon": "🎬",
+  "sub": "Documentaries",
+  "host": "hummingbirdfilm.com"
  },
  {
   "id": "money-electric-the-bitcoin-mystery",
@@ -1857,6 +2143,17 @@
   "roomIcon": "🎬",
   "sub": "Fiction",
   "host": "btcandfriends.com"
+ },
+ {
+  "id": "bitcoin-castle",
+  "name": "Bitcoin Castle",
+  "url": "https://bitcoinfilmfest.com/26/press/bff26-bitcoin-castle.html",
+  "desc": "German dark comedy (Bitcoin Schloss) by Bruno Schiebel about a Bitcoin prepper in a French château; Best Movie and Audience Choice at Bitcoin FilmFest 2026.",
+  "room": "Film & Documentary",
+  "roomLabel": "Film & Documentary",
+  "roomIcon": "🎬",
+  "sub": "Fiction",
+  "host": "bitcoinfilmfest.com"
  },
  {
   "id": "hodl",
@@ -2440,6 +2737,17 @@
   "roomIcon": "🏛",
   "sub": "Community Spaces",
   "host": "nodenbo.com"
+ },
+ {
+  "id": "noderunners",
+  "name": "Noderunners",
+  "url": "https://noderunners.network/en",
+  "desc": "Bitcoin community in Arnhem, Netherlands; its yearly conference hosts a Bitcoin art museum and a live auction with 90% of proceeds to the artists.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Community Spaces",
+  "host": "noderunners.network"
  },
  {
   "id": "paraleln-polis",

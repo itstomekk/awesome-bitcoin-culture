@@ -80,3 +80,23 @@
 - `npx -y awesome-lint README.md`: 60 errors and 5 warnings, unchanged from the earlier baseline. The report is formatting-oriented (including repeated links across art subcategories, ToC anchors, list spacing, and one undefined-reference parse); no CI lint gate was added.
 - `gallery/scripts/build.py --no-fetch`, `gallery/scripts/check_parity.py`, and `gallery/scripts/assemble.py` completed; 300 entries in 8 rooms, parity OK. The four added entries have images.
 - Phase 3 review and sign-off is complete per Tomek. Current changes remain local until fresh push approval.
+
+## Update 2026-10-20 (BFTA deep scan)
+
+- Scanned bitcoinforthearts.org (66 sitemap pages plus /midwest/schedule and /midwest/auction), 23 Substack posts, 27 beehiiv newsletter issues, and all 17 *Share Your Bitcoin Journey* episodes (YouTube channel feed).
+- Added 10 entries Tomek approved as "strong": Lady Block Jane (Painters), Mr Meadow and No Good Kid (Digital & Graphic), Proof of Ink (Studio & Sidework), Hash Power Music, Rock'n'Roll Breakheart, Sara Jade, The Higher Low (Music), Bigger Than Bitcoin and Hummingbird: The Bitcoin Jungle Story (Documentaries). The Higher Low and Hummingbird had been cut earlier; Tomek approved restoring them.
+- Gallery images set manually where noted. Manual images (flagged `manual`): Lady Block Jane (Unbroken Chain), Rock'n'Roll Breakheart (Midnight Breakheart cover), Sara Jade (press photo), Bigger Than Bitcoin (documentary thumbnail).
+- Not added, borderline (Bitcoiners whose work is not about Bitcoin): Andrea Arghinenti, Thomas Forsyth, James Kintore, Nadia Vaeh (*One Poop Scoop Away*), Jason R. Johnston (*Till My Last Breath*), Ethan Turer, Ahmed Klink (Lebanese Hodl), Dion Wilson.
+- Not added, out of scope: *Solution to Poverty* (Liberty International), Proof of Print (mining hardware), Short North Stage (*Sweeney Todd*), *The Six Billion Dollar Man*, Camp Nakamoto (event), curators and board advisors, Nostr quote authors (FuzzyNibs, sunavaunt, unit).
+- Open fixes, not applied: MEAR ONE links to store.bitcoinmagazine.com instead of his own store.mearone.com; Amy DiGi is described as an oil painter while BFTA calls her a hand-generated digital artist; artistsovereignremnant.com (Asanoha) does not resolve from this machine.
+
+## Update 2026-10-20 (rosters, collectives, lost entries)
+
+- History audit: Longy, Roger 9000, Here Comes Bitcoin and Bitcoin Castle were never removed on purpose; they lived inside other entries' descriptions and vanished when descriptions were shortened (4cf82fc, c9db5df). All four restored.
+- Added Bitcoin Design (Collectives).
+- Roster scan of BMAG exhibitors, Bitcoin Art Gallery Wynwood, Hash Power Music, Revolution.Rocks, Bitcoin Atlantis gallery, BTC Prague / Timechain Artifacts, Noderunners. Rule (Tomek): own website plus real Bitcoin art; no NFT, Ordinals-only, altcoin or merch. Galleries themselves not added.
+- Added 16: Crypsi (Collectives), Noderunners (Community Spaces), April Popko, Josie Bellini, Sarah Foster (Painters), Todd Gray (Sculpture), Hodlxhold, Volatile21 (Mixed Media), Zap Zide (Digital & Graphic), The Trusted, Vicious Clay, The Retrograde, Circle the Earth, Josh Rogan, Longy, Roger 9000 (Music). Images set manually from each act's own page.
+- Skipped, borderline: Rupture (mostly Ordinals; Remains paintings bound to inscriptions), Greg Mike (Bitcoin is a few conference murals), Marco Santini, Curtis William Readel (currency, not Bitcoin). Re-check later: certainorange.com (HTTP 522), Matt Habel is already listed as Crayonsmell, Kenneth Moon at BMAG is the listed Kenneth Burris.
+- Skipped for no own site: Gonkx, Remster, Nik Cant Mine, Shepa Art, Snowy Owl, MOOKY, Kazuki Tokaji, The Velvicks, Isabella Kay, Abstract Mirror, Giwdul, Jordan Wilk, VenusRose, Lilian, i11 (domain expired), Hadaikum, and the BMAG Pepe/Counterparty/token artists.
+- Literature lead not checked: Ubel Owl Studios (*Kiki & Rufus: The Secret of Money*).
+- Bitcoin Castle has no image (no film still found). Replayed onto the restructured master (cccbf80): Digital & Graphic -> Illustration & Digital Art, Mixed Media -> Mixed Media & Craft, Sculpture -> Sculpture & Objects, Proof of Ink -> Mixed Media & Craft, Here Comes Bitcoin -> Illustration & Digital Art; Roger 9000 skipped because master already lists Roger9000. Gallery 328 entries, parity OK; awesome-lint 60 errors, 5 warnings, same as the master baseline.

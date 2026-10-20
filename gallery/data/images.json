@@ -2061,5 +2061,227 @@
   "h": 480,
   "manual": true,
   "src": "https://img.youtube.com/vi/XpE9Gf3RXyI/maxresdefault.jpg"
+ },
+ "hash-power-music": {
+  "img": "img/hash-power-music.webp",
+  "color": "#2b2015",
+  "w": 720,
+  "h": 720,
+  "src": "https://images.fountain.fm/profile/npub1zm95kw87nf6gkesg76jedyfejt0u2zgx2fxgxywdxc9ugq3z4w2q4m092t/large?original=https%3A%2F%2Fimage.nostr.build%2F5faa58bb177c6feffd501595985c4470e1b4a0d412b63afeac1cc6a9d0f22595.jpg",
+  "manual": true
+ },
+ "zap-zide": {
+  "img": "img/zap-zide.webp",
+  "color": "#847d74",
+  "w": 720,
+  "h": 1080,
+  "manual": true,
+  "src": "https://zapzide.com/images/optimized/dropV2-0a1b133382b4e5e3-720.webp"
+ },
+ "longy": {
+  "img": "img/longy.webp",
+  "color": "#343434",
+  "w": 720,
+  "h": 480,
+  "manual": true,
+  "src": "https://longy528.wordpress.com/wp-content/uploads/2022/04/dr_191005-0675-1.jpg"
+ },
+ "proof-of-ink": {
+  "img": "img/proof-of-ink.webp",
+  "color": "#7e472b",
+  "w": 500,
+  "h": 500,
+  "src": "https://proofofink.com/wp-content/uploads/2025/04/Glow-POI.png",
+  "manual": true
+ },
+ "the-higher-low": {
+  "img": "img/the-higher-low.webp",
+  "color": "#808c15",
+  "w": 720,
+  "h": 398,
+  "src": "https://storage.ghost.io/c/10/fe/10feea00-ec1e-4c4d-abc5-57c72ef08ad3/content/images/size/w1200/2025/01/Screenshot-2025-01-04-at-10.08.46-1.png",
+  "manual": true
+ },
+ "crypsi": {
+  "img": "img/crypsi.webp",
+  "color": "#cacac9",
+  "w": 720,
+  "h": 552,
+  "manual": true,
+  "src": "https://crypsi.com/wp-content/uploads/2021/03/fedtime_1-1024x785.jpg"
+ },
+ "rock-n-roll-breakheart": {
+  "img": "img/rock-n-roll-breakheart.webp",
+  "color": "#1e1c16",
+  "w": 720,
+  "h": 720,
+  "src": "https://rocknrollbreakheart.com/wp-content/uploads/2025/04/Midnight-Breakheart-Cover-1-1024x1024.png",
+  "manual": true
+ },
+ "bitcoin-design": {
+  "img": "img/bitcoin-design.webp",
+  "color": "#451b3f",
+  "w": 720,
+  "h": 378,
+  "src": "https://bitcoin.design/assets/images/bitcoin-design-preview.jpg",
+  "manual": true
+ },
+ "volatile21": {
+  "img": "img/volatile21.webp",
+  "color": "#97857a",
+  "w": 720,
+  "h": 378,
+  "manual": true,
+  "src": "https://www.volatile21.com/assets/images/enter/og.jpg"
+ },
+ "sara-jade": {
+  "img": "img/sara-jade.webp",
+  "color": "#100c0b",
+  "w": 720,
+  "h": 720,
+  "src": "https://images.zoogletools.com/s:bzglfiles/u/1353256/2f5856496e5fc4badd17a801cf2f0afd470c7721/original/sara-jade-020.jpg",
+  "manual": true
+ },
+ "bitcoin-castle": {
+  "img": null,
+  "color": null,
+  "why": "no film still found; BFF press photo is generic",
+  "manual": true
+ },
+ "sarah-foster": {
+  "img": "img/sarah-foster.webp",
+  "color": "#b37767",
+  "w": 720,
+  "h": 960,
+  "manual": true,
+  "src": "https://bitcoinartgallery.com/art/orange-pill-sarah-foster.webp"
+ },
+ "no-good-kid": {
+  "img": "img/no-good-kid.webp",
+  "color": "#0a0a0a",
+  "w": 720,
+  "h": 378,
+  "src": "https://nogoodkid.com/images/og-image.jpg",
+  "manual": true
+ },
+ "todd-gray": {
+  "img": "img/todd-gray.webp",
+  "color": "#8d7d6a",
+  "w": 720,
+  "h": 960,
+  "manual": true,
+  "src": "https://static.wixstatic.com/media/faeb55_668999a6e3604b0086234b3773fd328c~mv2.jpg"
+ },
+ "the-trusted": {
+  "img": "img/the-trusted.webp",
+  "color": "#303030",
+  "w": 720,
+  "h": 720,
+  "manual": true,
+  "src": "https://assets.podhome.fm/048aea8e-476d-4dd2-675c-08ddd589f1dd/638902280597104665Trusted%20Album%20Covers%20-%20Artboard%206%20%281%29.jpg"
+ },
+ "bigger-than-bitcoin": {
+  "img": "img/bigger-than-bitcoin.webp",
+  "color": "#533c26",
+  "w": 720,
+  "h": 405,
+  "src": "https://i.ytimg.com/vi/8TYV6D57CTg/maxresdefault.jpg",
+  "manual": true
+ },
+ "josh-rogan": {
+  "img": "img/josh-rogan.webp",
+  "color": "#675a4f",
+  "w": 720,
+  "h": 481,
+  "manual": true,
+  "src": "https://static1.squarespace.com/static/63b8902707a21c76fb86fe76/t/69a1faed53a3a13af69ebe86/1772223213967/DSC08222-3.jpg?format=1500w"
+ },
+ "hummingbird-the-bitcoin-jungle-story": {
+  "img": "img/hummingbird-the-bitcoin-jungle-story.webp",
+  "color": "#5c4a32",
+  "w": 720,
+  "h": 405,
+  "src": "https://hummingbirdfilm.com/assets/cover.jpg",
+  "manual": true
+ },
+ "noderunners": {
+  "img": "img/noderunners.webp",
+  "color": "#7f5f4e",
+  "w": 720,
+  "h": 405,
+  "manual": true,
+  "src": "https://noderunners.network/images/conference/2025-stills/art-auction-gallery.jpg"
+ },
+ "mr-meadow": {
+  "img": "img/mr-meadow.webp",
+  "color": "#282e2f",
+  "w": 720,
+  "h": 926,
+  "src": "https://static.wixstatic.com/media/842958_2780a9fe562d4c7ebd35179c3a936e12~mv2.jpg/v1/fill/w_2500,h_3214,al_c/842958_2780a9fe562d4c7ebd35179c3a936e12~mv2.jpg",
+  "manual": true
+ },
+ "josie-bellini": {
+  "img": "img/josie-bellini.webp",
+  "color": "#d8b276",
+  "w": 720,
+  "h": 720,
+  "manual": true,
+  "src": "https://josie.io/cdn/shop/products/site_thepeople_p_1200x1200.png?v=1586368245"
+ },
+ "circle-the-earth": {
+  "img": "img/circle-the-earth.webp",
+  "color": "#989da4",
+  "w": 720,
+  "h": 642,
+  "manual": true,
+  "src": "https://circletheearth.band/cdn/shop/files/CTE_GROUP_01_0874-retouch.jpg"
+ },
+ "hodlxhold": {
+  "img": "img/hodlxhold.webp",
+  "color": "#762b10",
+  "w": 720,
+  "h": 870,
+  "manual": true,
+  "src": "https://bitcoinvisionaryart.com/wp-content/uploads/2025/02/BITCOINROOTS-X124-x1-pow-x1x2x3-pow-x1x2.jpg"
+ },
+ "vicious-clay": {
+  "img": "img/vicious-clay.webp",
+  "color": "#cdcdcd",
+  "w": 720,
+  "h": 720,
+  "manual": true,
+  "src": "https://static.wixstatic.com/media/d9e29a_f1e96a86901f4aeaa587601f4094d4f8~mv2.png"
+ },
+ "here-comes-bitcoin": {
+  "img": "img/here-comes-bitcoin.webp",
+  "color": "#d2c7b6",
+  "w": 720,
+  "h": 720,
+  "src": "https://herecomesbitcoin.org/assets/HereComesBitcoinAssets/American-gothic-bitcoin.png",
+  "manual": true
+ },
+ "the-retrograde": {
+  "img": "img/the-retrograde.webp",
+  "color": "#292929",
+  "w": 720,
+  "h": 527,
+  "manual": true,
+  "src": "https://static.wixstatic.com/media/61228b_00babcaa72a34e0db307e181ba5c4e60~mv2.png"
+ },
+ "april-popko": {
+  "img": "img/april-popko.webp",
+  "color": "#a2b2ad",
+  "w": 720,
+  "h": 1445,
+  "manual": true,
+  "src": "https://www.popkoproductions.com/uploads/1/6/4/9/1649121/undeniable-20260619-185403-edit2_orig.jpg"
+ },
+ "lady-block-jane": {
+  "img": "img/lady-block-jane.webp",
+  "color": "#53554d",
+  "w": 600,
+  "h": 600,
+  "src": "https://www.ladyblockjane.com/LadyBlockJane_UnbrokenChain_MainPhoto_preview.jpg",
+  "manual": true
  }
 }
