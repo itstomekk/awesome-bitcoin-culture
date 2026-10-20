@@ -100,3 +100,11 @@
 - Skipped for no own site: Gonkx, Remster, Nik Cant Mine, Shepa Art, Snowy Owl, MOOKY, Kazuki Tokaji, The Velvicks, Isabella Kay, Abstract Mirror, Giwdul, Jordan Wilk, VenusRose, Lilian, i11 (domain expired), Hadaikum, and the BMAG Pepe/Counterparty/token artists.
 - Literature lead not checked: Ubel Owl Studios (*Kiki & Rufus: The Secret of Money*).
 - Bitcoin Castle image: film still from the BFF Notion film database export (image_157.png). Replayed onto the restructured master (cccbf80): Digital & Graphic -> Illustration & Digital Art, Mixed Media -> Mixed Media & Craft, Sculpture -> Sculpture & Objects, Proof of Ink -> Mixed Media & Craft, Here Comes Bitcoin -> Illustration & Digital Art; Roger 9000 skipped because master already lists Roger9000. Gallery 328 entries, parity OK; awesome-lint 60 errors, 5 warnings, same as the master baseline.
+
+## Update 2026-10-20 (search engine submission)
+
+- Google Search Console: URL-prefix property `https://itstomekk.github.io/awesome-bitcoin-culture/` verified (kolotom@gmail.com) with `gallery/app/google13edf74c50675ea1.html`. Do not delete that file. Sitemap submitted; indexing of the homepage requested.
+- Bing Webmaster Tools: site added and verified with the `msvalidate.01` meta tag in `gallery/app/index.html`; sitemap submitted.
+- IndexNow: key `47715f842d8561133625cd1a5a383604` (copy in `seo/indexnow-key.txt`), key file `gallery/app/<key>.txt`; homepage accepted (202) by api.indexnow.org and bing.com. Resubmit after big list updates.
+- `itstomekk.github.io/robots.txt` is 404 (project site, not the user root), so the `Sitemap:` line in our robots.txt is never read. Sitemaps must be submitted by hand, as done above.
+- Sitemap lists one URL; the gallery is a single page. Per-category pages would give search engines more to rank.
