@@ -2143,10 +2143,12 @@
   "manual": true
  },
  "bitcoin-castle": {
-  "img": null,
-  "color": null,
-  "why": "no film still found; BFF press photo is generic",
-  "manual": true
+  "img": "img/bitcoin-castle.webp",
+  "color": "#573d36",
+  "w": 720,
+  "h": 363,
+  "manual": true,
+  "src": "manual"
  },
  "sarah-foster": {
   "img": "img/sarah-foster.webp",
