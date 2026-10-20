@@ -199,6 +199,7 @@ other entry.
 - [Shipwreck Sean](https://x.com/artbyshipwreck) - Illustration, "HODL On" (2026). Auctioned via
   Bitcoin for the Arts. ([Instagram](https://www.instagram.com/shipwrecksean/))
 - [Superama](https://www.xverse.app/blog/bitcoin-art) - AR art, "Satoshi is Female". Latin American.
+- [Tynka](https://bitcoinillustration.com/) - Hand-drawn Bitcoin illustrations about family, community, and everyday use.
 - [YuZapata](http://yuzapata.art) - Street art/digital, "Palometa the Pigeon" character; "Orange
   Fruit Dove". Latin American.
 - [Zaza](https://9fold.co/worlds/zaza/) - Visual artist whose Bitcoin-themed work includes the
@@ -215,6 +216,7 @@ other entry.
   in place; Klamath Tribes member, BFTA Advisor.
 - [Crayonsmell](https://x.com/crayonsmell) - Laser-engraved wood pieces and limited prints,
   including "Bitcoin Mandala".
+- [Frédéric Guimont](https://ratelcomic.com/samples.html) - Bitcoin superhero comic *Ratel*, with hand-drawn page samples.
 - [Hitomi Matsui](https://hitomimatsui.com/) - Felt, paint, pixels, and code; the Nekosan white-cat
   series looks at money, algorithms, and sovereignty from New York.
 - [Kanuto](https://kanuto.io/) - Physical-only works in wood and acrylic that turn Bitcoin
@@ -387,6 +389,7 @@ other entry.
 
 ## 🎵 Music & Performing Arts
 
+- [Aaron Koenig](https://aaron-koenig.net/albums/laser-eyes/) - 13 original songs about Bitcoin and liberty on *Laser Eyes*.
 - [Ainsley Costello](https://ainsleycostello.com) - Singer-songwriter; first artist on Wavlake to
   hit 1 million sats, plays the Bitcoin conference circuit.
 - [Benjamin Ella](https://www.instagram.com/benjaminfwella) - Choreographer and former Royal Ballet
@@ -403,6 +406,7 @@ other entry.
   pay-what-you-want basis, including the *Government Approved [432Hz]* EP; active on Nostr.
 - [Reel Richard](https://www.youtube.com/@Reelrichard) - Dynamic Bitcoin music videos and remixes,
   including the "2140" techno video and halving-epoch songs.
+- [Roger9000](https://www.roger9000.com/roger9000-epk) - Experimental songs about Bitcoin, Satoshi, and timechain mythology.
 - [Scardust](https://metalstorm.net/bands/band.php?band_id=13193) - Progressive metal band from the
   Revolution.Rocks Belgrade value-for-value lineup.
 - [Tatiana Moroz](https://www.tatianamoroz.com/) - Berklee-trained singer-songwriter active in Bitcoin since
@@ -416,7 +420,7 @@ other entry.
 
 ### Documentaries
 
-- [Bitcoiners](https://bitcoinersmovie.com/) - 2023 documentary by Rob Johnson on Texas Bitcoiners;
+- [Bitcoiners](https://bitcoinersmovie.com/product/bitcoiners-movie/) - 2023 documentary by Rob Johnson on Texas Bitcoiners;
   Golden Rabbit nominee at Bitcoin FilmFest 2024.
 - [Death Athletic: A Dissident Architecture](https://www.encodeproductions.com/deathathletic) - 2023
   documentary by Jessica Solce on Cody Wilson and code as speech; Bitcoin FilmFest 2024.

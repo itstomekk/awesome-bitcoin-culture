@@ -12,31 +12,29 @@ Gives BFF and Tomek's other projects a natural place to be cited from, self-main
 - README.md: manifesto, inclusion criteria, category structure, seeded with all entries found
   in the 2026-09-21 research pass (handoff doc).
 - CONTRIBUTING.md, LICENSE (CC0, matching sindresorhus convention).
-- Private GitHub repo created and pushed under `itstomekk/awesome-bitcoin-culture`.
+- Public GitHub repo at `itstomekk/awesome-bitcoin-culture` (visibility verified 2026-09-30).
 
-### Phase 2 — Gap-filling (needs Tomek + more research)
-- Retry the 3 sites that blocked automated fetch: timechainartmagazine.com,
-  bitcoinartmagazine.com, function.gallery — via browser tool or different method.
-- Ask Tomek directly for BFF-network names: recent (2024–2026) film, literature, music —
-  these are the thinnest categories and open search under-serves them.
-- Resolve any remaining open calls (see README's "Open questions" section if any survive).
+### Phase 2 — Gap-filling (ongoing)
+- [x] Recheck the current Timechain Art Magazine artist directory and BFF 2025-2026 program for missing creative work.
+- [x] Add four verified candidates: Tynka (illustration), Frédéric Guimont / *Ratel* (comics), Aaron Koenig (*Laser Eyes*), and Roger9000 (Bitcoin-focused music). Each has a first-party work page and a gallery image.
+- [x] Repair/verify link exceptions: Psyfer points to the live Timechain artist page; Bitcoiners points to its live official film page; Street Cyber's README link is its live artist profile on X. The old Street Cyber domain currently returns 503.
+- [x] BFF film decision: Hotel Bitcoin is sufficient; do not add *Revolución Bitcoin*.
+- [x] Fiction and prior user-approved additions are published on public master; current gallery parity passes.
+- `awesome-lint` is an optional Markdown style checker, not a content-quality test. Current run: 60 errors and 5 warnings, unchanged from the prior baseline. Do not add it as a CI gate or bulk-rewrite the curated README unless Tomek asks.
+- Keep other leads out until a qualifying work page is verified and the project meets the inclusion criteria.
 
 ### Phase 3 — Review & sign-off
-- Tomek reviews manifesto/criteria and category structure.
-- Confirm Events section correctly link-outs to `awesome-bitcoin-events` rather than duplicating.
-- Confirm Memes & Internet Culture section's relaxed inclusion rule reads right.
+- [x] Tomek confirmed the manifesto/criteria and category review was already done.
+- [x] Events link out to `awesome-bitcoin-events` rather than duplicating.
+- [x] Memes & Internet Culture retains its agreed relaxed attribution rule.
 
 ### Phase 4 — Launch
-- Flip repo public.
-- Add topics/badges, cross-link from `awesome-bitcoin-events` README and BFF site if wanted.
-- Optional: submit to `szabgab/awesome-lists`, `igorbarinov/awesome-bitcoin` once mature
-  (same meta-index track as the separate `awesome-bitcoin-events` submission plan — lower
-  priority than that one since this list is brand new).
+- [x] Repository is public at `itstomekk/awesome-bitcoin-culture`; master has been published.
+- Optional: add cross-links from `awesome-bitcoin-events` and the BFF site; submit to meta-indexes only if desired.
 
 ### Phase 5 — Maintenance (ongoing)
-- Issue template for community submissions (mirror the pattern from `awesome-bitcoin-events`
-  if that's working well for Tomek).
+- GitHub issue form for community suggestions is implemented at `.github/ISSUE_TEMPLATE/suggest-entry.yml` and linked from `CONTRIBUTING.md`.
 - Periodic top-up from BFF network as new artists/films/music surface.
 
 ## Status
-Phase 1 in progress this session (2026-09-21/22).
+Phase 1 and launch are complete. Phase 2 remains ongoing as maintenance, not a blocker: the public README generates 300 gallery entries in 8 rooms, and `gallery/scripts/check_parity.py` passes. Four verified entries and image assets were added in the current local change. The requested link audit and BFF checks are complete. Phase 3 review is complete. Awesome-lint findings are informational; no CI gate is adopted. Do not push the current local changes until Tomek explicitly asks.

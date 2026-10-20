@@ -1461,10 +1461,11 @@
  },
  "fr-d-ric-guimont": {
   "img": "img/fr-d-ric-guimont.webp",
-  "color": "#c8752a",
+  "color": "#5c5861",
   "w": 720,
-  "h": 378,
-  "src": "https://ratelcomic.com/images/ratel_comic_og.png"
+  "h": 480,
+  "manual": true,
+  "src": "https://ratelcomic.com/images/ratel1_colors-ross_page_01.jpg"
  },
  "le-pleb-royale": {
   "img": "img/le-pleb-royale.webp",
@@ -1491,11 +1492,11 @@
  },
  "tynka": {
   "img": "img/tynka.webp",
-  "color": "#d7875a",
+  "color": "#e5d7c9",
   "w": 720,
-  "h": 440,
+  "h": 480,
   "manual": true,
-  "src": "harvest"
+  "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,h=1358,fit=crop/m2W8wrWBJbTVqz7r/250125-bitcoin-market-with-lines-LtKx8alk1vEP3Oiw.jpg"
  },
  "world-of-rusty": {
   "img": "img/world-of-rusty.webp",
@@ -2044,5 +2045,21 @@
   "w": 512,
   "h": 512,
   "src": "https://tunestr.io/logo.png"
+ },
+ "aaron-koenig": {
+  "img": "img/aaron-koenig.webp",
+  "color": "#272623",
+  "w": 720,
+  "h": 480,
+  "manual": true,
+  "src": "https://aaron-koenig.net/wp-content/uploads/2026/07/LE_Cover_s.jpg"
+ },
+ "roger9000": {
+  "img": "img/roger9000.webp",
+  "color": "#2e2925",
+  "w": 720,
+  "h": 480,
+  "manual": true,
+  "src": "https://img.youtube.com/vi/XpE9Gf3RXyI/maxresdefault.jpg"
  }
 }

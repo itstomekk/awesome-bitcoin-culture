@@ -1,8 +1,17 @@
 # HANDOFF — awesome-bitcoin-culture
 
-**Last updated:** 2026-10-12.
+**Last updated:** 2026-10-19.
 
-## State right now
+## Current status (2026-10-19)
+
+- Repository: `itstomekk/awesome-bitcoin-culture`, public, branch `master`; latest published base is `0faae1e`.
+- README is canonical. The generated gallery has 300 entries across 8 rooms; README-to-gallery parity passes. Four entries added in the current local change each have a verified image. There are 44 other entries without a mapped image, carried over from the existing gallery baseline.
+- Current local work includes README/link changes, gallery rebuild, the candidate-review note, and this plan/handoff update. `research/2026-10-18-bitcoin-fiction-books.md` remains unrelated and unstaged.
+- Community suggestions use `.github/ISSUE_TEMPLATE/suggest-entry.yml`, linked from `CONTRIBUTING.md`.
+- Ninefold remains excluded. Do not merge the unmerged `add-missing-bitcoin-artists` branch wholesale.
+- Do not push unless Tomek explicitly asks in the current message.
+
+## Historical snapshot (2026-10-12)
 
 - Local project folder: `Projects\Awesome Bitcoin Culture` — git repo initialized.
 - GitHub repo: `itstomekk/awesome-bitcoin-culture`, **public** (verified against GitHub on 2026-09-30), branch `master`.
@@ -23,19 +32,14 @@
 3. **Memes & Internet Culture** gets its own section with a relaxed, no-named-creator-required
    rule — separate from the strict attribution rule everywhere else.
 
-## What's seeded vs. what's thin
+## Current review and next steps
 
-Strong: Visual Art (Artists + Institutions), Film & Documentary, Sculpture, Publications.
-Thin, flagged in README: Literature (3 entries; added *The Genesis Code: Block One* and *South of Market* on 2026-10-12), Music (3 entries), Memes (placeholder only, no
-real entries yet — needs research).
-
-## Next steps (Phase 2, see PLAN.md)
-
-1. Review link-audit exceptions. A sweep of 120 unique README URLs flagged several HTTP errors, but some were false positives from HEAD requests or anti-bot blocks. The Psyfer `/about` URL returned 404; find a work-bearing replacement before editing it.
-2. Ask Tomek to personally vouch for researched candidates before adding them. BFF25 sources surfaced *Hotel Bitcoin* and *Revolución Bitcoin*; the latter is available as a full YouTube film. Research does not itself satisfy the list's personal-vouch criterion.
-3. `npx --yes awesome-lint README.md` currently reports 145 findings (including repeated links, separator style, ToC anchors, and list-format expectations). Decide whether strict compatibility is a project goal before attempting broad edits or adding a CI gate.
-4. Continue gap-filling for literature, music, and memes, and rerun link checks using GET-aware handling to distinguish dead URLs from bot-blocked sites.
-5. Review public launch and cross-links; the repository is already public.
+- Link repair/check is complete: Psyfer's README link resolves to the live Timechain artist page; Bitcoiners now links to its live official film page; the existing Street Cyber entry links to its live X profile. The old `www.streetcyber.art` domain returns 503, so it is not used as the list link.
+- BFF film decision is complete: Hotel Bitcoin is enough; *Revolución Bitcoin* is not added.
+- The 2026-10-19 candidate scan added Tynka, Frédéric Guimont / *Ratel*, Aaron Koenig, and Roger9000 after checking their official work pages. Findings and non-added leads are in `research/2026-10-19-candidate-and-link-review.md`.
+- Tomek confirmed the criteria/category review was already done. Events and Memes decisions are closed; do not ask again.
+- `awesome-lint` is a Markdown style checker. The current run reports 60 errors and 5 warnings, unchanged from the previous baseline. This is not a content-quality score and is not a CI gate; broad remediation is not authorized.
+- Remaining routine work: optional cross-links/meta-list submissions, periodic source scans, and the 44 pre-existing unmapped gallery images. None blocks the current change.
 
 ## Update 2026-10-16 (structure + import)
 
@@ -65,4 +69,14 @@ real entries yet — needs research).
 - Scanned bitcoinforthearts.org (artists, stories, awards, programming) against the README. Added: The Bitcoin Executor (Film), Matt Finlay (Music), Hitomi Matsui (Mixed Media), Beth Alta Fletcher (Digital), Machakos Bitcoin Academy: Visima 21 (Collectives, in progress), Share Your Bitcoin Journey (Podcasts > Stories & People), Benjamin Ella in a new "Dance & Performing Arts" section. BFTA entry now names Bitcoin Arts Park at the Midwest Bitcoin Summit.
 - Dance entry first got its own section, then merged with Music into "Music & Performing Arts" (subsections Music / Dance & Stage), so the gallery keeps 8 rooms.
 - Not added: Art + Zap Weekend (date unconfirmed, venue is a bar; belongs in awesome-bitcoin-events if it happened). Benjamin Ella and Beth Alta Fletcher link to Instagram (no own site) and use generated tiles; Matt Finlay too (Bandcamp snapshot was a cookie wall).
-- Local, uncommitted.
+- These BFTA additions are already present on public master `0faae1e`.
+
+
+## Update 2026-10-19 (link repair, candidate scan, approvals)
+
+- Fixed the README Bitcoiners link to `https://bitcoinersmovie.com/product/bitcoiners-movie/` (GET 200). Verified Psyfer's current Timechain page (200), Street Cyber's current X profile (200), and recorded that the old Street Cyber domain returns 503.
+- Added Tynka, Frédéric Guimont / *Ratel*, Aaron Koenig, and Roger9000 to the README. Their work pages were fetched; the gallery now has a manually selected image for each. Tynka had appeared on `origin/add-missing-bitcoin-artists`; restored only the candidate, not the branch (Ninefold remains excluded).
+- Additional scan dispositions: *Ratel* has public sequential-art samples and a progress page marked in progress; BFF music listings without a Bitcoin-themed body of work or a first-party work page were held out. *Hotel Bitcoin* is sufficient; *Revolución Bitcoin* stays out.
+- `npx -y awesome-lint README.md`: 60 errors and 5 warnings, unchanged from the earlier baseline. The report is formatting-oriented (including repeated links across art subcategories, ToC anchors, list spacing, and one undefined-reference parse); no CI lint gate was added.
+- `gallery/scripts/build.py --no-fetch`, `gallery/scripts/check_parity.py`, and `gallery/scripts/assemble.py` completed; 300 entries in 8 rooms, parity OK. The four added entries have images.
+- Phase 3 review and sign-off is complete per Tomek. Current changes remain local until fresh push approval.

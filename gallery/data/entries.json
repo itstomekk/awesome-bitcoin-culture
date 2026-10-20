@@ -616,6 +616,17 @@
   "host": "xverse.app"
  },
  {
+  "id": "tynka",
+  "name": "Tynka",
+  "url": "https://bitcoinillustration.com/",
+  "desc": "Hand-drawn Bitcoin illustrations about family, community, and everyday use.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Illustration & Digital Art",
+  "host": "bitcoinillustration.com"
+ },
+ {
   "id": "yuzapata",
   "name": "YuZapata",
   "url": "http://yuzapata.art",
@@ -691,6 +702,17 @@
   "roomIcon": "🎨",
   "sub": "Comics & Picture Books",
   "host": "x.com"
+ },
+ {
+  "id": "fr-d-ric-guimont",
+  "name": "Frédéric Guimont",
+  "url": "https://ratelcomic.com/samples.html",
+  "desc": "Bitcoin superhero comic Ratel, with hand-drawn page samples.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Comics & Picture Books",
+  "host": "ratelcomic.com"
  },
  {
   "id": "hitomi-matsui",
@@ -1518,6 +1540,17 @@
   "host": "konsensus.net"
  },
  {
+  "id": "aaron-koenig",
+  "name": "Aaron Koenig",
+  "url": "https://aaron-koenig.net/albums/laser-eyes/",
+  "desc": "13 original songs about Bitcoin and liberty on Laser Eyes.",
+  "room": "Music & Performing Arts",
+  "roomLabel": "Music & Performing Arts",
+  "roomIcon": "🎵",
+  "sub": "",
+  "host": "aaron-koenig.net"
+ },
+ {
   "id": "ainsley-costello",
   "name": "Ainsley Costello",
   "url": "https://ainsleycostello.com",
@@ -1606,6 +1639,17 @@
   "host": "youtube.com"
  },
  {
+  "id": "roger9000",
+  "name": "Roger9000",
+  "url": "https://www.roger9000.com/roger9000-epk",
+  "desc": "Experimental songs about Bitcoin, Satoshi, and timechain mythology.",
+  "room": "Music & Performing Arts",
+  "roomLabel": "Music & Performing Arts",
+  "roomIcon": "🎵",
+  "sub": "",
+  "host": "roger9000.com"
+ },
+ {
   "id": "scardust",
   "name": "Scardust",
   "url": "https://metalstorm.net/bands/band.php?band_id=13193",
@@ -1652,7 +1696,7 @@
  {
   "id": "bitcoiners",
   "name": "Bitcoiners",
-  "url": "https://bitcoinersmovie.com/",
+  "url": "https://bitcoinersmovie.com/product/bitcoiners-movie/",
   "desc": "2023 documentary by Rob Johnson on Texas Bitcoiners; Golden Rabbit nominee at Bitcoin FilmFest 2024.",
   "room": "Film & Documentary",
   "roomLabel": "Film & Documentary",
