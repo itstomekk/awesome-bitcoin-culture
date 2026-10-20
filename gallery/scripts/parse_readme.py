@@ -19,7 +19,7 @@ DEFAULT = _REPO_README if _REPO_README.exists() else Path(
 ROOMS = {
     "Visual Art": "Visual Art",
     "Literature": "Literature",
-    "Music": "Music",
+    "Music & Performing Arts": "Music & Performing Arts",
     "Film & Documentary": "Film & Documentary",
     "Podcasts": "Podcasts",
     "Games": "Games",

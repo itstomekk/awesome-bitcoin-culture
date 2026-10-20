@@ -60,39 +60,9 @@ real entries yet — needs research).
 - Changes are local and uncommitted; the existing unrelated `PLAN.md` edit was left untouched.
 
 
-## Update 2026-10-17 (quick structure fixes)
+## Update 2026-10-19 (BFTA gap scan)
 
-- Moved Kontext (Music) and Jimmy Song (Publications & Media) to Literature; Bitcoin Shipshow to Events & Festivals (intro now says "A few exceptions"); 2140Art from the one-entry Collectives subsection to Publications & Media.
-- Folded Bitchair and Bitcoin Trading Cards (Other / Studio & Sidework) into Mixed Media & Other Artists, and the two Narrative Series podcasts into Stories & People. Removed the empty Collectives, Other / Studio & Sidework and Narrative Series headings and their ToC lines.
-- Fzero now mentions $BLEEP (Zaza already mentioned his films).
-- Gallery rebuilt: 238 entries, parity check passes. Not pushed.
-- Still open: the bigger Visual Art regrouping (Painting & Muralism / Digital & Illustration / Comics / Sculpture & Objects / Mixed Media & Craft / Design & Merch) and Moving Image / Sound / Words grouping, awaiting Tomek's go.
-
-## Update 2026-10-17 (Visual Art regrouping)
-
-- Jimmy Song removed (Tomek's call). 237 entries now.
-- Visual Art subsections replaced: Painting, Drawing & Street Art (31) / Illustration & Digital Art (16) / Comics & Picture Books (3) / Sculpture & Objects (12) / Mixed Media & Craft (21) / Design & Merch (9) / Memes & Internet Culture (5, unchanged). Every entry kept, alphabetical within each group. Bitchair is in Design & Merch with Bitcoin Trading Cards, Lena, Lucho Poletti, Le Pleb Royale, Mr.Crown, Sea Is Medicine, Tom Badley, World of Rusty. Kialara and Kanuto are in Sculpture & Objects.
-- Top-level sections (Literature, Music, Podcasts, Film, Games, Institutions, Events) were left as they are. Merging Music+Podcasts or splitting Publications & Media would change the 8 gallery rooms; not done.
-- Gallery rebuilt, parity OK. Local commits only, not pushed.
-
-## Update 2026-10-18 (fiction research)
-
-- Researched six candidates against primary work/author pages: *The Nakamoto Consensus*, *24*, *Walking Banks*, *Satoshi’s Fortune*, *The Hunt for Satoshi*, and *Satoshi Wedding Murders*. Evidence, caveats, and two sequel leads are in `research/2026-10-18-bitcoin-fiction-books.md`.
-- Candidates are not added to the canonical list yet: personal-vouch/selection approval is pending. Suggested first picks: *The Nakamoto Consensus*, *24*, *Walking Banks*.
-- Verified Jimmy Song is already absent from the local README and generated gallery entries. Read back GitHub `master`: he is still present there, so the removal is not published. No commit or push in this pass; existing local commits and unrelated research were preserved.
-- Primary page extraction succeeded for all six; direct HTTP returned 406 for Arlo Fox's site, so do not mark it dead on that basis.
-
-## Update 2026-10-18 (approved books added)
-
-- Tomek approved all books, including *July 18* and *Satoshi’s Inquisition: A Novel*. Added all eight titles to Literature in six entries, grouping the two sequels with their first books and linking each pair to its author's book/series page.
-- Rebuilt gallery entries, image metadata, shared data, and local deployable output. Four new entries received fetched images; the two without images use existing generated-tile fallbacks.
-- Build, assembly, parity check, and explicit assertions for all eight titles passed. README and gallery now match at 243 entries in eight rooms, including 12 Literature entries. Jimmy Song remains absent from the README, gallery data, and assembled HTML.
-- Changes are local and uncommitted. No push or public deployment was requested; public GitHub still has the previously noted Jimmy Song entry until publishing is approved.
-
-## Update 2026-10-18 (Timechain Art Magazine group diff, additions)
-
-- Read the Timechain Art Magazine Telegram group (14,482 messages) and diffed it against the list; report in `research/2026-10-17-timechain-art-magazine-telegram-diff.md` (hosted copy under the itstomekk Pages project, `/abc-research/timechain-art-magazine-diff/`). The magazine's featured-artist roster is already fully covered.
-- Added at Tomek's request: Tesi Cypher Painter (Painting, Drawing & Street Art); Go Brrr and Ronin 21 (Design & Merch); Cyphermunk House (Institutions & Spaces, subsection renamed "Galleries, Museums & Hubs"); Bitcoin Graffiti Jam (link is its Geyser campaign page) and TAA (Events & Festivals); Behemoth (Literature, Fanfares audio page; author shown only as "Pleb", real name unknown).
-- Escape Inflation is the screening title of No More Inflation, already listed; the entry now notes the alias.
-- Not added: Paul Birken (site has no Bitcoin content), Eden Weeks (stub page). Section B candidates in the report still need own pages or a vouch.
-- Gallery rebuilt: 250 entries, parity OK. The same commit also carries the eight fiction titles from the 2026-10-18 books pass (README, gallery data), which were still uncommitted. `research/2026-10-18-bitcoin-fiction-books.md` is left untracked for its own session. Not pushed.
+- Scanned bitcoinforthearts.org (artists, stories, awards, programming) against the README. Added: The Bitcoin Executor (Film), Matt Finlay (Music), Hitomi Matsui (Mixed Media), Beth Alta Fletcher (Digital), Machakos Bitcoin Academy: Visima 21 (Collectives, in progress), Share Your Bitcoin Journey (Podcasts > Stories & People), Benjamin Ella in a new "Dance & Performing Arts" section. BFTA entry now names Bitcoin Arts Park at the Midwest Bitcoin Summit.
+- Dance entry first got its own section, then merged with Music into "Music & Performing Arts" (subsections Music / Dance & Stage), so the gallery keeps 8 rooms.
+- Not added: Art + Zap Weekend (date unconfirmed, venue is a bar; belongs in awesome-bitcoin-events if it happened). Benjamin Ella and Beth Alta Fletcher link to Instagram (no own site) and use generated tiles; Matt Finlay too (Bandcamp snapshot was a cookie wall).
+- Local, uncommitted.

@@ -441,5 +441,31 @@
  },
  "exit-scam": {
   "shot": "exit-scam.webp"
+ },
+ "machakos-bitcoin-academy-visima-21": {
+  "shot": "machakos-bitcoin-academy-visima-21.webp"
+ },
+ "bitcoin-savvy-kids": {
+  "shot": "bitcoin-savvy-kids.webp"
+ },
+ "bitcoin-is-venice": {
+  "shot": "bitcoin-is-venice.webp"
+ },
+ "hitomi-matsui": {
+  "shot": "hitomi-matsui.webp"
+ },
+ "bitcoin-friends": {
+  "shot": null,
+  "why": "bot-wall"
+ },
+ "share-your-bitcoin-journey": {
+  "shot": "share-your-bitcoin-journey.webp"
+ },
+ "goodnight-bitcoin": {
+  "shot": "goodnight-bitcoin.webp"
+ },
+ "matt-finlay": {
+  "shot": null,
+  "why": "cookie-wall"
  }
 }

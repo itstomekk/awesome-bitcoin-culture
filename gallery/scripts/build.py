@@ -18,7 +18,7 @@ PY = sys.executable
 ROOM_OF = {
     "Visual Art": "art",
     "Literature": "literature",
-    "Music": "music",
+    "Music & Performing Arts": "music",
     "Film & Documentary": "film",
     "Podcasts": "podcasts",
     "Games": "games",
@@ -28,12 +28,12 @@ ROOM_OF = {
 ROOMS = [
     ("art", "Visual Art", "Painting, illustration, comics, sculpture, design and memes"),
     ("literature", "Literature", "Books and long reads"),
-    ("music", "Music", "Sats-per-stream sound"),
+    ("music", "Music & Stage", "Music & Performing Arts: sats-per-stream sound, dancers and stage artists"),
     ("film", "Film", "Film & Documentary: documentaries and features"),
     ("podcasts", "Podcasts", "Bitcoin culture in conversation: creators, stories, communities, ideas"),
-    ("games", "Games", "Play for the story, or for sats"),
     ("institutions", "Institutions", "Institutions & Spaces: galleries, funders, magazines, platforms"),
     ("events", "Events", "Events & Festivals: culture-first gatherings"),
+    ("games", "Games", "Play for the story, or for sats"),
 ]
 
 
