@@ -43,16 +43,17 @@ other entry.
 - [🎨 Visual Art](#-visual-art)
   - [Collectives](#collectives)
   - [Painters](#painters)
-  - [Digital & Graphic Artists](#digital--graphic-artists)
-  - [Mixed Media & Other Artists](#mixed-media--other-artists)
-  - [Sculpture](#sculpture)
-  - [Other / Studio & Sidework](#other--studio--sidework)
+  - [Illustration & Digital Art](#illustration--digital-art)
+  - [Comics & Picture Books](#comics--picture-books)
+  - [Sculpture & Objects](#sculpture--objects)
+  - [Mixed Media & Craft](#mixed-media--craft)
+  - [Design & Merch](#design--merch)
 - [📚 Literature](#-literature)
 - [🎵 Music & Performing Arts](#-music--performing-arts)
 - [🎬 Film & Documentary](#-film--documentary)
   - [Documentaries](#documentaries)
   - [Fiction](#fiction)
-- [🎙️ Podcasts](#️-podcasts)
+- [🎙️ Podcasts](#-podcasts)
   - [Art & Creators](#art--creators)
   - [Stories & People](#stories--people)
   - [Community & Places](#community--places)
@@ -67,10 +68,6 @@ other entry.
   - [Platforms & Marketplaces](#platforms--marketplaces)
 - [🎪 Events & Festivals](#-events--festivals)
 - [🎮 Games](#-games)
-  - [Video Games](#video-games)
-  - [Board & Card Games](#board--card-games)
-  - [Digital Board & Card Games](#digital-board--card-games)
-  - [Wagering & Casino](#wagering--casino)
 
 ---
 
@@ -383,8 +380,8 @@ other entry.
   [Financial Fallout](https://konsensus.net/book/21-futures-financial), dystopian financial futures.
 - [Behemoth](https://api.fanfares.live/s/TshrzS) - Short story in the 21 Futures cypherpunk
   fiction project, by Pleb; audio edition on Fanfares (23 min, 2,100 sats).
-- [Bitcoin Is Venice](https://books.google.com/books/about/Bitcoin_is_Venice.html?id=Qz4VzwEACAAJ) -
-  Essays on the past and future of Bitcoin by Allen Farrington and Sacha Meyers (Bitcoin Magazine
+- [Bitcoin Is Venice](https://books.google.com/books/about/Bitcoin_is_Venice.html?id=Qz4VzwEACAAJ) - Essays
+  on the past and future of Bitcoin by Allen Farrington and Sacha Meyers (Bitcoin Magazine
   Books).
 - [Bitcoin Savvy Kids](https://bitcoinsavvykids.com/) - Picture books by Deanna Heikkinen, EdD that
   tell the history of money from cowrie shells to Bitcoin; chapter books for ages 9-11.
@@ -439,7 +436,7 @@ other entry.
 - [Man Like Kweks](https://wavlake.com/man-like-kweks) - Tanzanian hip-hop artist; documented
   earning far more via Wavlake sats than conventional distribution.
 - [Matt Finlay](https://mattfinlay.bandcamp.com/) - Melbourne musician releasing dissident music on a
-  pay-what-you-want basis, including the *Government Approved [432Hz]* EP; active on Nostr.
+  pay-what-you-want basis, including the *Government Approved \[432Hz]* EP; active on Nostr.
 - [Reel Richard](https://www.youtube.com/@Reelrichard) - Dynamic Bitcoin music videos and remixes,
   including the "2140" techno video and halving-epoch songs.
 - [Rock'n'Roll Breakheart](https://rocknrollbreakheart.com/) - Andy Burghardt's one-man rock'n'roll
@@ -489,8 +486,8 @@ other entry.
   HBO documentary by Cullen Hoback investigating Satoshi Nakamoto's identity.
 - [No More Inflation](https://nomoreinflation.com/) - 2024 documentary by Maiku Tsukai on rising
   prices; Best Movie at Bitcoin FilmFest 2025; also screened as *Escape Inflation*.
-- [Searching for Satoshi](https://www.cbc.ca/documentaries/the-passionate-eye/searching-for-satoshi-the-mysterious-disappearance-of-the-bitcoin-creator-1.7013992) -
-  2023 documentary by Paul Kemp (CBC, The Passionate Eye) on the disappearance of Bitcoin's creator; Best
+- [Searching for Satoshi](https://www.cbc.ca/documentaries/the-passionate-eye/searching-for-satoshi-the-mysterious-disappearance-of-the-bitcoin-creator-1.7013992) - 2023
+  documentary by Paul Kemp (CBC, The Passionate Eye) on the disappearance of Bitcoin's creator; Best
   Story at Bitcoin FilmFest 2024.
 - [The Anatomy of Bitcoin](https://anatomyofbitcoin.com) - Open-source, community-funded
   hyper-realism film showing how the Bitcoin protocol works.
@@ -546,8 +543,8 @@ still playable.
 
 - [Bitcoin People](https://open.spotify.com/show/4lhAGXtyzQJzcQJ0epPN5C) - Asks who Bitcoin owners
   are, what they hope for, and whether they form a community (64 episodes, 2022-2024).
-- [De Legende van Satoshi Nakamoto](https://podcasts.apple.com/us/podcast/de-legende-van-satoshi-nakamoto-bnr/id1573914412) -
-  Dutch BNR series searching for the real Satoshi Nakamoto and the essence of Bitcoin (8 episodes,
+- [De Legende van Satoshi Nakamoto](https://podcasts.apple.com/us/podcast/de-legende-van-satoshi-nakamoto-bnr/id1573914412) - Dutch
+  BNR series searching for the real Satoshi Nakamoto and the essence of Bitcoin (8 episodes,
   complete).
 - [Dr Bitcoin - The Man Who Wasn't Satoshi Nakamoto](https://drbitcoinpod.com/) - Narrative series
   on Craig Wright's Satoshi claim and the court case that exposed it.
@@ -555,12 +552,12 @@ still playable.
   talk Bitcoin as a couple, light and personal (121 episodes, 2022-2025).
 - [Life with Bitcoin](https://fountain.fm/show/sdNx4uRz7tvwVeePyonA) - Stories of people whose
   values and life choices were shaped by Bitcoin.
-- [Meet the Bitcoin Taco Plebs](https://podcasts.apple.com/us/podcast/meet-the-bitcoin-taco-plebs-bitcoin-magazine/id1546678654) -
-  Bitcoin Magazine show where plebs tell their own stories (48 episodes, 2020-2022).
+- [Meet the Bitcoin Taco Plebs](https://podcasts.apple.com/us/podcast/meet-the-bitcoin-taco-plebs-bitcoin-magazine/id1546678654) - Bitcoin
+  Magazine show where plebs tell their own stories (48 episodes, 2020-2022).
 - [Once Bitten! A Bitcoin Podcast](https://www.once-bitten.com/) - Daniel Prince collects real-life
   stories of how Bitcoin changed individuals and families.
-- [Rabbit Hole Stories](https://podcasts.apple.com/us/podcast/rabbit-hole-stories/id1661401080) -
-  Plebs tell how they fell down the Bitcoin rabbit hole, hosted by Joël Kai Lenz and Ian Scanlon
+- [Rabbit Hole Stories](https://podcasts.apple.com/us/podcast/rabbit-hole-stories/id1661401080) - Plebs
+  tell how they fell down the Bitcoin rabbit hole, hosted by Joël Kai Lenz and Ian Scanlon
   (2021-2025).
 - [SatoShe Stories](https://satoshe.space/en/satoshe-stories/) - Women talk about their personal
   path to money and Bitcoin, in German and English.
@@ -569,15 +566,15 @@ still playable.
   craft.
 - [Women & Bitcoin](https://bt.cx/en/women-and-bitcoin) - Sweden's first Bitcoin podcast for
   women, hosted by Rebecka and Hani.
-- [Your Bitcoin Story](https://podcasts.apple.com/us/podcast/your-bitcoin-story/id1697280071) -
-  Personal Bitcoin stories, one guest and one story at a time.
+- [Your Bitcoin Story](https://podcasts.apple.com/us/podcast/your-bitcoin-story/id1697280071) - Personal
+  Bitcoin stories, one guest and one story at a time.
 
 ### Community & Places
 
 - [The Anita Posch Show](https://anita.onl/) - Bitcoin, human rights, and financial freedom, with a
   focus on adoption in Africa.
-- [Bitcoiners - Live From Bitcoin Beach](https://livefrombitcoinbeach.buzzsprout.com/) -
-  Conversations with Bitcoiners passing through El Zonte, El Salvador.
+- [Bitcoiners - Live From Bitcoin Beach](https://livefrombitcoinbeach.buzzsprout.com/) - Conversations
+  with Bitcoiners passing through El Zonte, El Salvador.
 - [Einundzwanzig, der Bitcoin Podcast](https://einundzwanzig.space/podcast/) - German weekly show
   from the Einundzwanzig community: interviews, readings, and personal Bitcoin journeys.
 - [Local Bitcoiners](https://localbitcoiners.com/) - Interviews with meetup organizers about
@@ -595,15 +592,15 @@ still playable.
   cypherpunk history and culture (16 episodes, 2020-2021).
 - [Satoshi Nakamoto Institute](https://nakamotoinstitute.org/podcasts/) - Readings and discussion of
   early Bitcoin, cryptography, and Austrian economics texts (2013-2014, complete).
-- [The Staying Free Podcast](https://podcasts.apple.com/us/podcast/the-staying-free-podcast/id1598397645) -
-  Real people around the world on staying free, sovereign, and sane (100 episodes, 2021-2025).
+- [The Staying Free Podcast](https://podcasts.apple.com/us/podcast/the-staying-free-podcast/id1598397645) - Real
+  people around the world on staying free, sovereign, and sane (100 episodes, 2021-2025).
 - [The Transformation of Value](https://www.thetransformationofvalue.com/) - Cody Ellingham
   explores freedom, money, and creativity through conversations.
 
 ### Narrative Series
 
-- [De Legende van Satoshi Nakamoto](https://podcasts.apple.com/us/podcast/de-legende-van-satoshi-nakamoto-bnr/id1573914412) -
-  Dutch BNR series searching for the real Satoshi Nakamoto and the essence of Bitcoin (8 episodes,
+- [De Legende van Satoshi Nakamoto](https://podcasts.apple.com/us/podcast/de-legende-van-satoshi-nakamoto-bnr/id1573914412) - Dutch
+  BNR series searching for the real Satoshi Nakamoto and the essence of Bitcoin (8 episodes,
   complete).
 - [Dr Bitcoin - The Man Who Wasn't Satoshi Nakamoto](https://drbitcoinpod.com/) - Narrative series
   on Craig Wright's Satoshi claim and the court case that exposed it.
