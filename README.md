@@ -59,7 +59,7 @@ other entry.
   - [Ideas & Philosophy](#ideas--philosophy)
   - [Narrative Series](#narrative-series)
 - [🏛 Institutions & Spaces](#-institutions--spaces)
-  - [Galleries & Museums](#galleries--museums)
+  - [Galleries, Museums & Hubs](#galleries-museums--hubs)
   - [Archives & History](#archives--history)
   - [Community Spaces](#community-spaces)
   - [Grants, Funders & Patronage](#grants-funders--patronage)
@@ -351,6 +351,8 @@ other entry.
 - [21 Futures: Tales from the Timechain](https://21futures.com/) - Anthology of 21 Bitcoin stories
   edited by Philip Charter (Konsensus Network, 2023); the second volume is
   [Financial Fallout](https://konsensus.net/book/21-futures-financial), dystopian financial futures.
+- [Behemoth](https://api.fanfares.live/s/TshrzS) - Short story in the 21 Futures cypherpunk
+  fiction project, by Pleb; audio edition on Fanfares (23 min, 2,100 sats).
 - [Bitcoin Is Venice](https://books.google.com/books/about/Bitcoin_is_Venice.html?id=Qz4VzwEACAAJ) -
   Essays on the past and future of Bitcoin by Allen Farrington and Sacha Meyers (Bitcoin Magazine
   Books).
@@ -549,8 +551,10 @@ still playable.
 
 ## 🏛 Institutions & Spaces
 
-### Galleries & Museums
+### Galleries, Museums & Hubs
 
+- [Cyphermunk House](https://www.cyphermunkhouse.com/) - London Bitcoin hub for education, culture and
+  community, including art and events.
 - [Bitcoin Art Gallery](https://bitcoinartgallery.com) - Physical gallery in Wynwood, Miami.
 - [Bitcoin Art Society](https://www.bitcoinartsociety.com) - Curator-led institution running the
   Robert Mallary Art Residency and conference exhibitions.
@@ -625,8 +629,7 @@ sponsorships, patronage infrastructure.
   Bitcoin ecosystem in short documentary segments.
 - [Citadel21](https://www.citadel21.com) - Cultural zine and long-form investigative journalism by
   hodlonaut, with print editions.
-- [Jimmy Song](https://jimmysong.org/) - Bitcoin developer, author, and educator; wrote *Fiat Ruins
-  Everything*, arguing fiat debases art.
+
 - [Proof of Work](https://proofofworkmagazine.com/) - Free-to-read Bitcoin lifestyle and culture
   magazine covering people, places, ideas, and experiences.
 - [StackChain Magazine](https://www.stackchainmagazine.net/) - Bitcoin pleb-focused magazine/zine
@@ -667,10 +670,15 @@ Three exceptions worth naming directly here, since they're culture-first rather 
 
 - [Bitcoin FilmFest](https://bitcoinfilmfest.com) - Annual Warsaw festival of Bitcoin cinema
   awarding the Golden Rabbits; also a year-round film hub.
+- [Bitcoin Graffiti Jam](https://geyser.fund/project/bitcoingraffitijam) - 2140Art-led graffiti event in
+  London and Prague, with live painting, music and open mic.
 - [Bitfest](https://bitfest.uk/) - Four-day Manchester festival (19-22 Nov 2026) that pairs talks with a
   Bitcoin art exhibition, cinema, gaming, live music and Nostr; family-friendly.
 - [Revolution.Rocks](https://www.revolution.rocks/) - Two-day Value4Value music festival on
   Belgrade's Zappa Barka; Lightning tips go straight to performing artists.
+
+- [TAA (Temporary Autonomous Art)](https://www.taaexhibitions.org/) - UK open-access underground art
+  festival run by the Random Artists collective since 2001.
 
 ## 🎮 Games
 
