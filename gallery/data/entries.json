@@ -616,17 +616,6 @@
   "host": "mrmeadow.org"
  },
  {
-  "id": "mr-crown",
-  "name": "Mr.Crown",
-  "url": "https://renarchy.com/",
-  "desc": "Poster and clothing graphics under the Renarchy project: privacy, cypherpunk culture, streetwear.",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Illustration & Digital Art",
-  "host": "renarchy.com"
- },
- {
   "id": "mrhansel",
   "name": "MrHansel",
   "url": "https://x.com/bettidlomas",
@@ -759,61 +748,6 @@
   "host": "9fold.co"
  },
  {
-  "id": "5ksana",
-  "name": "5Ksana",
-  "url": "https://buybitart.com/",
-  "desc": "Hand embroidery and sewing in cotton, linen, and silk; \"craftivism\" with Bitcoin themes.",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Comics & Picture Books",
-  "host": "buybitart.com"
- },
- {
-  "id": "ariel-birdie",
-  "name": "Ariel Birdie",
-  "url": "https://www.arielbird.com/",
-  "desc": "Mixed media, including the \"Bitcoin Buddha\" piece.",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Comics & Picture Books",
-  "host": "arielbird.com"
- },
- {
-  "id": "btc-monk",
-  "name": "BTC Monk",
-  "url": "https://x.com/BTCmonk1",
-  "desc": "Pyrography, charcoal lacquer, gold leaf, and resin on plywood; the \"Faces of Bitcoin\" series.",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Comics & Picture Books",
-  "host": "x.com"
- },
- {
-  "id": "camas-logue",
-  "name": "Camas Logue",
-  "url": "https://www.camaslogue.com",
-  "desc": "Painting, carving, printmaking, and weaving grounded in place; Klamath Tribes member, BFTA Advisor.",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Comics & Picture Books",
-  "host": "camaslogue.com"
- },
- {
-  "id": "crayonsmell",
-  "name": "Crayonsmell",
-  "url": "https://x.com/crayonsmell",
-  "desc": "Laser-engraved wood pieces and limited prints, including \"Bitcoin Mandala\".",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Comics & Picture Books",
-  "host": "x.com"
- },
- {
   "id": "fr-d-ric-guimont",
   "name": "Frédéric Guimont",
   "url": "https://ratelcomic.com/samples.html",
@@ -834,182 +768,6 @@
   "roomIcon": "🎨",
   "sub": "Comics & Picture Books",
   "host": "hitomimatsui.com"
- },
- {
-  "id": "kanuto",
-  "name": "Kanuto",
-  "url": "https://kanuto.io/",
-  "desc": "Physical-only works in wood and acrylic that turn Bitcoin transactions into handcrafted forms.",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Comics & Picture Books",
-  "host": "kanuto.io"
- },
- {
-  "id": "kialara",
-  "name": "Kialara",
-  "url": "https://kialara.com/",
-  "desc": "Collectible Bitcoin art objects in stainless steel, silver, and meteorite that double as secure storage; founded 2014.",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Comics & Picture Books",
-  "host": "kialara.com"
- },
- {
-  "id": "lady-redhorns",
-  "name": "Lady RedHorns",
-  "url": "https://redhornsbtc.store/",
-  "desc": "Mixed media; \"Angels of Freedom\" series, auctioned via Bitcoin for the Arts. (Instagram, X/Twitter)",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Comics & Picture Books",
-  "host": "redhornsbtc.store"
- },
- {
-  "id": "lena",
-  "name": "Lena",
-  "url": "https://justlenasart.com/",
-  "desc": "Apparel and jewelry design for the Bitcoin community.",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Comics & Picture Books",
-  "host": "justlenasart.com"
- },
- {
-  "id": "madex",
-  "name": "Madex",
-  "url": "https://madex.art",
-  "desc": "Mixed media; creative director of Bull Bitcoin.",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Comics & Picture Books",
-  "host": "madex.art"
- },
- {
-  "id": "marcus-connor",
-  "name": "Marcus Connor",
-  "url": "https://timechainartmagazine.com/artist/marcus-connor/",
-  "desc": "Wood, installations, and music; drew the \"Bitcoin Roller Coaster Guy\" meme.",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Comics & Picture Books",
-  "host": "timechainartmagazine.com"
- },
- {
-  "id": "mlo-martin-lukas-ostachowski",
-  "name": "MLO (Martin Lukas Ostachowski)",
-  "url": "https://mlo.art/",
-  "desc": "Montreal artist working in painting, paper, print, and sculpture; geometric abstraction in the \"In Plain Sight\" series.",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Comics & Picture Books",
-  "host": "mlo.art"
- },
- {
-  "id": "modeotec",
-  "name": "Modeotec",
-  "url": "https://timechainartmagazine.com/artist/modeotec/",
-  "desc": "Assemblage from recycled circuit boards; discarded hardware as statements about sound money.",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Comics & Picture Books",
-  "host": "timechainartmagazine.com"
- },
- {
-  "id": "najp",
-  "name": "NAJP",
-  "url": "https://najp.ch/",
-  "desc": "Swiss artist who builds paintings and collages from real US dollars, paint, and gold leaf.",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Comics & Picture Books",
-  "host": "najp.ch"
- },
- {
-  "id": "rare-scrilla",
-  "name": "Rare Scrilla",
-  "url": "https://www.rarescrilla.com/",
-  "desc": "Illustration, painting, and mixed media rooted in graffiti and hip-hop; also a DJ and producer.",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Comics & Picture Books",
-  "host": "rarescrilla.com"
- },
- {
-  "id": "rebel-money",
-  "name": "Rebel Money",
-  "url": "https://www.rebelmoney.art/",
-  "desc": "Mixed-media art made from currency, exploring monetary sovereignty (\"Libertas Ex Arte\").",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Comics & Picture Books",
-  "host": "rebelmoney.art"
- },
- {
-  "id": "sea-is-medicine",
-  "name": "Sea Is Medicine",
-  "url": "https://btcaloha.shop/pages/about",
-  "desc": "Collage and wearable art with surf and sea imagery, sold as BTC Aloha shirts and accessories.",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Comics & Picture Books",
-  "host": "btcaloha.shop"
- },
- {
-  "id": "shamshad",
-  "name": "Shamshad",
-  "url": "https://x.com/0711_BTC",
-  "desc": "Handwritten images built entirely from readable text, including a Bitcoin Whitepaper edition; editions produced by his son Schatoshi.",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Comics & Picture Books",
-  "host": "x.com"
- },
- {
-  "id": "tructor-21",
-  "name": "Tructor 21",
-  "url": "https://tructor.co/",
-  "desc": "Murals, wheatpaste posters, sculpture, beadwork, and wearable design.",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Comics & Picture Books",
-  "host": "tructor.co"
- },
- {
-  "id": "yonat-vaks",
-  "name": "Yonat Vaks",
-  "url": "https://www.yonatvaks.com/aboutme",
-  "desc": "Painting, sculpture, and re-imagined artifacts; \"Bitcoin Art(e)facts\" series on money and civilization.",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Comics & Picture Books",
-  "host": "yonatvaks.com"
- },
- {
-  "id": "zetra",
-  "name": "ZETRA",
-  "url": "https://zetra.studio/",
-  "desc": "Painting, print, sculpture, and installation mixing street art with system-based abstraction.",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Comics & Picture Books",
-  "host": "zetra.studio"
  },
  {
   "id": "adam-kadmon",
@@ -1078,7 +836,7 @@
   "host": "garetheckley.com"
  },
  {
-  "id": "kanuto-2",
+  "id": "kanuto",
   "name": "Kanuto",
   "url": "https://kanuto.io/",
   "desc": "Physical-only works in wood and acrylic that turn Bitcoin transactions into handcrafted forms.",
@@ -1089,7 +847,7 @@
   "host": "kanuto.io"
  },
  {
-  "id": "kialara-2",
+  "id": "kialara",
   "name": "Kialara",
   "url": "https://kialara.com/",
   "desc": "Collectible Bitcoin art objects in stainless steel, silver, and meteorite that double as secure storage; founded 2014.",
@@ -1155,7 +913,7 @@
   "host": "toddgray.com"
  },
  {
-  "id": "5ksana-2",
+  "id": "5ksana",
   "name": "5Ksana",
   "url": "https://buybitart.com/",
   "desc": "Hand embroidery and sewing in cotton, linen, and silk; \"craftivism\" with Bitcoin themes.",
@@ -1166,7 +924,7 @@
   "host": "buybitart.com"
  },
  {
-  "id": "ariel-birdie-2",
+  "id": "ariel-birdie",
   "name": "Ariel Birdie",
   "url": "https://www.arielbird.com/",
   "desc": "Mixed media, including the \"Bitcoin Buddha\" piece.",
@@ -1177,7 +935,7 @@
   "host": "arielbird.com"
  },
  {
-  "id": "btc-monk-2",
+  "id": "btc-monk",
   "name": "BTC Monk",
   "url": "https://x.com/BTCmonk1",
   "desc": "Pyrography, charcoal lacquer, gold leaf, and resin on plywood; the \"Faces of Bitcoin\" series.",
@@ -1188,7 +946,7 @@
   "host": "x.com"
  },
  {
-  "id": "camas-logue-2",
+  "id": "camas-logue",
   "name": "Camas Logue",
   "url": "https://www.camaslogue.com",
   "desc": "Painting, carving, printmaking, and weaving grounded in place; Klamath Tribes member, BFTA Advisor.",
@@ -1210,7 +968,7 @@
   "host": "hodlr.rocks"
  },
  {
-  "id": "crayonsmell-2",
+  "id": "crayonsmell",
   "name": "Crayonsmell",
   "url": "https://x.com/crayonsmell",
   "desc": "Laser-engraved wood pieces and limited prints, including \"Bitcoin Mandala\".",
@@ -1254,7 +1012,7 @@
   "host": "houseofralfus.com"
  },
  {
-  "id": "lady-redhorns-2",
+  "id": "lady-redhorns",
   "name": "Lady RedHorns",
   "url": "https://redhornsbtc.store/",
   "desc": "Mixed media; \"Angels of Freedom\" series, auctioned via Bitcoin for the Arts. (Instagram, X/Twitter)",
@@ -1265,7 +1023,7 @@
   "host": "redhornsbtc.store"
  },
  {
-  "id": "madex-2",
+  "id": "madex",
   "name": "Madex",
   "url": "https://madex.art",
   "desc": "Mixed media; creative director of Bull Bitcoin.",
@@ -1276,7 +1034,7 @@
   "host": "madex.art"
  },
  {
-  "id": "marcus-connor-2",
+  "id": "marcus-connor",
   "name": "Marcus Connor",
   "url": "https://timechainartmagazine.com/artist/marcus-connor/",
   "desc": "Wood, installations, and music; drew the \"Bitcoin Roller Coaster Guy\" meme.",
@@ -1298,7 +1056,7 @@
   "host": "missatoshigirl.pvh-labs.com"
  },
  {
-  "id": "mlo-martin-lukas-ostachowski-2",
+  "id": "mlo-martin-lukas-ostachowski",
   "name": "MLO (Martin Lukas Ostachowski)",
   "url": "https://mlo.art/",
   "desc": "Montreal artist working in painting, paper, print, and sculpture; geometric abstraction in the \"In Plain Sight\" series.",
@@ -1309,7 +1067,7 @@
   "host": "mlo.art"
  },
  {
-  "id": "modeotec-2",
+  "id": "modeotec",
   "name": "Modeotec",
   "url": "https://timechainartmagazine.com/artist/modeotec/",
   "desc": "Assemblage from recycled circuit boards; discarded hardware as statements about sound money.",
@@ -1320,7 +1078,7 @@
   "host": "timechainartmagazine.com"
  },
  {
-  "id": "najp-2",
+  "id": "najp",
   "name": "NAJP",
   "url": "https://najp.ch/",
   "desc": "Swiss artist who builds paintings and collages from real US dollars, paint, and gold leaf.",
@@ -1342,7 +1100,7 @@
   "host": "proofofink.com"
  },
  {
-  "id": "rare-scrilla-2",
+  "id": "rare-scrilla",
   "name": "Rare Scrilla",
   "url": "https://www.rarescrilla.com/",
   "desc": "Illustration, painting, and mixed media rooted in graffiti and hip-hop; also a DJ and producer.",
@@ -1353,7 +1111,7 @@
   "host": "rarescrilla.com"
  },
  {
-  "id": "rebel-money-2",
+  "id": "rebel-money",
   "name": "Rebel Money",
   "url": "https://www.rebelmoney.art/",
   "desc": "Mixed-media art made from currency, exploring monetary sovereignty (\"Libertas Ex Arte\").",
@@ -1364,7 +1122,7 @@
   "host": "rebelmoney.art"
  },
  {
-  "id": "shamshad-2",
+  "id": "shamshad",
   "name": "Shamshad",
   "url": "https://x.com/0711_BTC",
   "desc": "Handwritten images built entirely from readable text, including a Bitcoin Whitepaper edition; editions produced by his son Schatoshi.",
@@ -1375,7 +1133,7 @@
   "host": "x.com"
  },
  {
-  "id": "tructor-21-2",
+  "id": "tructor-21",
   "name": "Tructor 21",
   "url": "https://tructor.co/",
   "desc": "Murals, wheatpaste posters, sculpture, beadwork, and wearable design.",
@@ -1397,7 +1155,7 @@
   "host": "volatile21.com"
  },
  {
-  "id": "yonat-vaks-2",
+  "id": "yonat-vaks",
   "name": "Yonat Vaks",
   "url": "https://www.yonatvaks.com/aboutme",
   "desc": "Painting, sculpture, and re-imagined artifacts; \"Bitcoin Art(e)facts\" series on money and civilization.",
@@ -1408,7 +1166,7 @@
   "host": "yonatvaks.com"
  },
  {
-  "id": "zetra-2",
+  "id": "zetra",
   "name": "ZETRA",
   "url": "https://zetra.studio/",
   "desc": "Painting, print, sculpture, and installation mixing street art with system-based abstraction.",
@@ -1463,7 +1221,7 @@
   "host": "plebroyale.com"
  },
  {
-  "id": "lena-2",
+  "id": "lena",
   "name": "Lena",
   "url": "https://justlenasart.com/",
   "desc": "Apparel and jewelry design for the Bitcoin community.",
@@ -1485,7 +1243,7 @@
   "host": "luchopoletti.com"
  },
  {
-  "id": "mr-crown-2",
+  "id": "mr-crown",
   "name": "Mr.Crown",
   "url": "https://renarchy.com/",
   "desc": "Poster and clothing graphics under the Renarchy project: privacy, cypherpunk culture, streetwear.",
@@ -1507,7 +1265,7 @@
   "host": "ronin21.xyz"
  },
  {
-  "id": "sea-is-medicine-2",
+  "id": "sea-is-medicine",
   "name": "Sea Is Medicine",
   "url": "https://btcaloha.shop/pages/about",
   "desc": "Collage and wearable art with surf and sea imagery, sold as BTC Aloha shirts and accessories.",
@@ -2277,28 +2035,6 @@
   "host": "open.spotify.com"
  },
  {
-  "id": "de-legende-van-satoshi-nakamoto",
-  "name": "De Legende van Satoshi Nakamoto",
-  "url": "https://podcasts.apple.com/us/podcast/de-legende-van-satoshi-nakamoto-bnr/id1573914412",
-  "desc": "Dutch BNR series searching for the real Satoshi Nakamoto and the essence of Bitcoin (8 episodes, complete).",
-  "room": "Podcasts",
-  "roomLabel": "Podcasts",
-  "roomIcon": "🎙️",
-  "sub": "Stories & People",
-  "host": "podcasts.apple.com"
- },
- {
-  "id": "dr-bitcoin-the-man-who-wasn-t-satoshi-nakamoto",
-  "name": "Dr Bitcoin - The Man Who Wasn't Satoshi Nakamoto",
-  "url": "https://drbitcoinpod.com/",
-  "desc": "Narrative series on Craig Wright's Satoshi claim and the court case that exposed it.",
-  "room": "Podcasts",
-  "roomLabel": "Podcasts",
-  "roomIcon": "🎙️",
-  "sub": "Stories & People",
-  "host": "drbitcoinpod.com"
- },
- {
   "id": "flirting-with-bitcoin",
   "name": "Flirting With Bitcoin",
   "url": "https://www.flirtingwithbitcoin.com/podcast/",
@@ -2519,7 +2255,7 @@
   "host": "thetransformationofvalue.com"
  },
  {
-  "id": "de-legende-van-satoshi-nakamoto-2",
+  "id": "de-legende-van-satoshi-nakamoto",
   "name": "De Legende van Satoshi Nakamoto",
   "url": "https://podcasts.apple.com/us/podcast/de-legende-van-satoshi-nakamoto-bnr/id1573914412",
   "desc": "Dutch BNR series searching for the real Satoshi Nakamoto and the essence of Bitcoin (8 episodes, complete).",
@@ -2530,7 +2266,7 @@
   "host": "podcasts.apple.com"
  },
  {
-  "id": "dr-bitcoin-the-man-who-wasn-t-satoshi-nakamoto-2",
+  "id": "dr-bitcoin-the-man-who-wasn-t-satoshi-nakamoto",
   "name": "Dr Bitcoin - The Man Who Wasn't Satoshi Nakamoto",
   "url": "https://drbitcoinpod.com/",
   "desc": "Narrative series on Craig Wright's Satoshi claim and the court case that exposed it.",

@@ -197,8 +197,6 @@ other entry.
 - [Moozi](https://x.com/l3itc0in) - Custom-trained AI models, Persian-inspired painterly style.
 - [Mr Meadow](https://www.mrmeadow.org/) - Indian filmmaker and designer making comic-book Bitcoin
   art, such as the "Bitcoin Mech-Suit" print.
-- [Mr.Crown](https://renarchy.com/) - Poster and clothing graphics under the Renarchy project:
-  privacy, cypherpunk culture, streetwear.
 - [MrHansel](https://x.com/bettidlomas) - Bristol collage and acrylic work reworking Pepe imagery;
   making Bitcoin art since 2015.
 - [No Good Kid](https://nogoodkid.com/) - Pseudonymous designer and art director behind Bitcoin
@@ -224,49 +222,9 @@ other entry.
 
 ### Comics & Picture Books
 
-- [5Ksana](https://buybitart.com/) - Hand embroidery and sewing in cotton, linen, and silk;
-  "craftivism" with Bitcoin themes.
-- [Ariel Birdie](https://www.arielbird.com/) - Mixed media, including the "Bitcoin Buddha" piece.
-- [BTC Monk](https://x.com/BTCmonk1) - Pyrography, charcoal lacquer, gold leaf, and resin on
-  plywood; the "Faces of Bitcoin" series.
-- [Camas Logue](https://www.camaslogue.com) - Painting, carving, printmaking, and weaving grounded
-  in place; Klamath Tribes member, BFTA Advisor.
-- [Crayonsmell](https://x.com/crayonsmell) - Laser-engraved wood pieces and limited prints,
-  including "Bitcoin Mandala".
 - [Frédéric Guimont](https://ratelcomic.com/samples.html) - Bitcoin superhero comic *Ratel*, with hand-drawn page samples.
 - [Hitomi Matsui](https://hitomimatsui.com/) - Felt, paint, pixels, and code; the Nekosan white-cat
   series looks at money, algorithms, and sovereignty from New York.
-- [Kanuto](https://kanuto.io/) - Physical-only works in wood and acrylic that turn Bitcoin
-  transactions into handcrafted forms.
-- [Kialara](https://kialara.com/) - Collectible Bitcoin art objects in stainless steel, silver, and
-  meteorite that double as secure storage; founded 2014.
-- [Lady RedHorns](https://redhornsbtc.store/) - Mixed media; "Angels of Freedom" series, auctioned
-  via Bitcoin for the Arts. ([Instagram](https://www.instagram.com/lady_redhorns),
-  [X/Twitter](https://x.com/LRedhorns))
-- [Lena](https://justlenasart.com/) - Apparel and jewelry design for the Bitcoin community.
-- [Madex](https://madex.art) - Mixed media; creative director of Bull Bitcoin.
-- [Marcus Connor](https://timechainartmagazine.com/artist/marcus-connor/) - Wood, installations, and
-  music; drew the "Bitcoin Roller Coaster Guy" meme.
-- [MLO (Martin Lukas Ostachowski)](https://mlo.art/) - Montreal artist working in painting, paper,
-  print, and sculpture; geometric abstraction in the "In Plain Sight" series.
-- [Modeotec](https://timechainartmagazine.com/artist/modeotec/) - Assemblage from recycled circuit
-  boards; discarded hardware as statements about sound money.
-- [NAJP](https://najp.ch/) - Swiss artist who builds paintings and collages from real US dollars,
-  paint, and gold leaf.
-- [Rare Scrilla](https://www.rarescrilla.com/) - Illustration, painting, and mixed media rooted in
-  graffiti and hip-hop; also a DJ and producer.
-- [Rebel Money](https://www.rebelmoney.art/) - Mixed-media art made from currency, exploring
-  monetary sovereignty ("Libertas Ex Arte").
-- [Sea Is Medicine](https://btcaloha.shop/pages/about) - Collage and wearable art with surf and sea
-  imagery, sold as BTC Aloha shirts and accessories.
-- [Shamshad](https://x.com/0711_BTC) - Handwritten images built entirely from readable text,
-  including a Bitcoin Whitepaper edition; editions produced by his son Schatoshi.
-- [Tructor 21](https://tructor.co/) - Murals, wheatpaste posters, sculpture, beadwork, and wearable
-  design.
-- [Yonat Vaks](https://www.yonatvaks.com/aboutme) - Painting, sculpture, and re-imagined artifacts;
-  "Bitcoin Art(e)facts" series on money and civilization.
-- [ZETRA](https://zetra.studio/) - Painting, print, sculpture, and installation mixing street art
-  with system-based abstraction.
 
 ### Sculpture & Objects
 
@@ -543,11 +501,6 @@ still playable.
 
 - [Bitcoin People](https://open.spotify.com/show/4lhAGXtyzQJzcQJ0epPN5C) - Asks who Bitcoin owners
   are, what they hope for, and whether they form a community (64 episodes, 2022-2024).
-- [De Legende van Satoshi Nakamoto](https://podcasts.apple.com/us/podcast/de-legende-van-satoshi-nakamoto-bnr/id1573914412) - Dutch
-  BNR series searching for the real Satoshi Nakamoto and the essence of Bitcoin (8 episodes,
-  complete).
-- [Dr Bitcoin - The Man Who Wasn't Satoshi Nakamoto](https://drbitcoinpod.com/) - Narrative series
-  on Craig Wright's Satoshi claim and the court case that exposed it.
 - [Flirting With Bitcoin](https://www.flirtingwithbitcoin.com/podcast/) - Ian and his wife Mandana
   talk Bitcoin as a couple, light and personal (121 episodes, 2022-2025).
 - [Life with Bitcoin](https://fountain.fm/show/sdNx4uRz7tvwVeePyonA) - Stories of people whose
