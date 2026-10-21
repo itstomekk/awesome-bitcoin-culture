@@ -770,6 +770,17 @@
   "host": "hitomimatsui.com"
  },
  {
+  "id": "lina-seiche",
+  "name": "Lina Seiche",
+  "url": "https://thelittlehodler.com",
+  "desc": "The Little HODLer comics, collected in a book of the first 100 strips; also plushies and prints.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Comics & Picture Books",
+  "host": "thelittlehodler.com"
+ },
+ {
   "id": "adam-kadmon",
   "name": "Adam Kadmon",
   "url": "https://adamkadmon.my.canva.site/bitcoinart",

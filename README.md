@@ -225,6 +225,8 @@ other entry.
 - [Frédéric Guimont](https://ratelcomic.com/samples.html) - Bitcoin superhero comic *Ratel*, with hand-drawn page samples.
 - [Hitomi Matsui](https://hitomimatsui.com/) - Felt, paint, pixels, and code; the Nekosan white-cat
   series looks at money, algorithms, and sovereignty from New York.
+- [Lina Seiche](https://thelittlehodler.com) - *The Little HODLer* comics, collected in a book of the
+  first 100 strips; also plushies and prints.
 
 ### Sculpture & Objects
 
