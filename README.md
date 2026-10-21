@@ -91,11 +91,11 @@ other entry.
   "Buzzbee, the African Bitcoin Queen".
 - [Alex Schaefer](https://www.saatchiart.com/paintwithalex) - Oil painting, expressionism; famous
   for the 2011 "banks on fire" series.
-- [Amy DiGi](https://linktr.ee/AmyDiGi) - Traditional oil painting with symbolic Bitcoin imagery;
+- [Amy DiGi](https://www.amydigi.com/bitcoin) - Traditional oil painting with symbolic Bitcoin imagery;
   "Genesis Slice" is a 16×20-inch oil on canvas.
 - [April Popko](https://www.popkoproductions.com/bitcoin-art.html) - Abstract acrylic and gold-leaf
   paintings on Bitcoin themes, made in Prague.
-- [Asanoha](https://asanoha.gold/) - Sacred-geometry and gold-leaf painting inspired by Japanese
+- [Asanoha](https://sovereignremnant.com/) - Sacred-geometry and gold-leaf painting inspired by Japanese
   craft; also runs Timechain Art Magazine.
 - [B](https://x.com/cryptbdango) - Airbrush-based physical art; featured in BTC Prague's
   Bitcoin-only gallery.
@@ -130,8 +130,8 @@ other entry.
   painter; Bitcoin paintings, posters, and temporary tattoos such as "Unbroken Chain".
 - [Lisa Törner](https://www.lisat.se/crypto-art) - Stockholm acrylic paintings and limited prints
   built from financial-press imagery and monetary themes.
-- [MEAR ONE](https://store.bitcoinmagazine.com) - Painting and muralism, metaphysical surrealism;
-  shown at the Museum of Graffiti.
+- [MEAR ONE](https://store.mearone.com/products/the-magician) - Painting and muralism, metaphysical surrealism;
+  *The Magician* print for Bitcoin Magazine's 256-for-256 series.
 - [Moon](https://moongoon.art/) - Painted maze compositions on mixed-media paper that tie making to
   proof of work.
 - [mx12art](https://mx12.art/) - Painting and hand-painted wearable art linking proof of work to

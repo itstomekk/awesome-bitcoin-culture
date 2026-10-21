@@ -68,13 +68,13 @@
  {
   "id": "amy-digi",
   "name": "Amy DiGi",
-  "url": "https://linktr.ee/AmyDiGi",
+  "url": "https://www.amydigi.com/bitcoin",
   "desc": "Traditional oil painting with symbolic Bitcoin imagery; \"Genesis Slice\" is a 16×20-inch oil on canvas.",
   "room": "Visual Art",
   "roomLabel": "Visual Art",
   "roomIcon": "🎨",
   "sub": "Painters",
-  "host": "linktr.ee"
+  "host": "amydigi.com"
  },
  {
   "id": "april-popko",
@@ -90,13 +90,13 @@
  {
   "id": "asanoha",
   "name": "Asanoha",
-  "url": "https://asanoha.gold/",
+  "url": "https://sovereignremnant.com/",
   "desc": "Sacred-geometry and gold-leaf painting inspired by Japanese craft; also runs Timechain Art Magazine.",
   "room": "Visual Art",
   "roomLabel": "Visual Art",
   "roomIcon": "🎨",
   "sub": "Painters",
-  "host": "asanoha.gold"
+  "host": "sovereignremnant.com"
  },
  {
   "id": "b",
@@ -277,13 +277,13 @@
  {
   "id": "mear-one",
   "name": "MEAR ONE",
-  "url": "https://store.bitcoinmagazine.com",
-  "desc": "Painting and muralism, metaphysical surrealism; shown at the Museum of Graffiti.",
+  "url": "https://store.mearone.com/products/the-magician",
+  "desc": "Painting and muralism, metaphysical surrealism; The Magician print for Bitcoin Magazine's 256-for-256 series.",
   "room": "Visual Art",
   "roomLabel": "Visual Art",
   "roomIcon": "🎨",
   "sub": "Painters",
-  "host": "store.bitcoinmagazine.com"
+  "host": "store.mearone.com"
  },
  {
   "id": "moon",

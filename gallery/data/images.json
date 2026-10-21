@@ -103,10 +103,11 @@
  },
  "mear-one": {
   "img": "img/mear-one.webp",
-  "color": "#2d2417",
+  "color": "#6d3638",
   "w": 720,
-  "h": 378,
-  "src": "http://store.bitcoinmagazine.com/cdn/shop/files/twitter-profilenew-1200x630-cropped_e15146b6-043f-4bc2-9c52-0bd0aa5b3706.png?v=1630552974"
+  "h": 941,
+  "manual": true,
+  "src": "https://cdn.shopify.com/s/files/1/2573/3220/files/MAGICIAN2_FINAL_545f8985-28c6-4f7a-8faf-b4475e5bb71e.jpg?v=1748295245"
  },
  "mx12art": {
   "img": "img/mx12art.webp",
