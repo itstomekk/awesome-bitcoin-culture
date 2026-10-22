@@ -1837,9 +1837,12 @@
   "src": "https://9fold.co/og/bleep.jpg"
  },
  "bitcoin-friends": {
-  "img": null,
-  "color": null,
-  "why": "page:HTTPError"
+  "img": "img/bitcoin-friends.webp",
+  "color": "#917565",
+  "w": 720,
+  "h": 405,
+  "manual": true,
+  "src": "https://btcandfriends.com/"
  },
  "bitcoin-is-venice": {
   "img": "img/bitcoin-is-venice.webp",
@@ -1849,34 +1852,52 @@
   "src": "https://books.google.com.gt/books/content?id=Qz4VzwEACAAJ&printsec=frontcover&img=1&zoom=1"
  },
  "bitcoin-savvy-kids": {
-  "img": null,
-  "color": null,
-  "why": "page:RemoteDisconnected"
+  "img": "img/bitcoin-savvy-kids.webp",
+  "color": "#ebbb8a",
+  "w": 720,
+  "h": 396,
+  "manual": true,
+  "src": "https://bitcoinsavvykids.com/"
  },
  "goodnight-bitcoin": {
-  "img": null,
-  "color": null,
-  "why": "page:HTTPError"
+  "img": "img/goodnight-bitcoin.webp",
+  "color": "#9f9b93",
+  "w": 720,
+  "h": 720,
+  "manual": true,
+  "src": "https://shamory.com/product/goodnight-bitcoin/"
  },
  "a-cypherpunk-s-manifesto-1993": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/a-cypherpunk-s-manifesto-1993.webp",
+  "color": "#f0f0f0",
+  "w": 720,
+  "h": 396,
+  "manual": true,
+  "src": "https://www.activism.net/cypherpunk/manifesto.html"
  },
  "cypherpunks-mailing-list-archive": {
-  "img": null,
-  "color": null,
-  "why": "image-failed"
+  "img": "img/cypherpunks-mailing-list-archive.webp",
+  "color": "#16181c",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "https://mailing-list-archive.cryptoanarchy.wiki/"
  },
  "satoshitimeline-com": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/satoshitimeline-com.webp",
+  "color": "#2f2b2b",
+  "w": 720,
+  "h": 396,
+  "manual": true,
+  "src": "https://satoshitimeline.com/"
  },
  "the-bitcoin-atlas": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/the-bitcoin-atlas.webp",
+  "color": "#0f0e15",
+  "w": 720,
+  "h": 396,
+  "manual": true,
+  "src": "https://www.thebitcoinatlas.com/"
  },
  "the-complete-satoshi": {
   "img": "img/the-complete-satoshi.webp",
@@ -1977,9 +1998,12 @@
   "src": "https://static.wixstatic.com/media/6975be_4fd48371fcb341be9af4159fad4172e4~mv2.png/v1/fill/w_2026,h_1118,al_c/6975be_4fd48371fcb341be9af4159fad4172e4~mv2.png"
  },
  "bitcoin-park": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/bitcoin-park.webp",
+  "color": "#505558",
+  "w": 720,
+  "h": 240,
+  "manual": true,
+  "src": "https://bitcoinpark.com/"
  },
  "dutch-bitcoin-embassy": {
   "img": "img/dutch-bitcoin-embassy.webp",
@@ -1996,9 +2020,12 @@
   "src": "https://nodenbo.com/apple-touch-icon.png?v=2"
  },
  "paraleln-polis": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
+  "img": "img/paraleln-polis.webp",
+  "color": "#afafaf",
+  "w": 720,
+  "h": 133,
+  "manual": true,
+  "src": "https://parallelpolis.info/s/pp-prague"
  },
  "presidio-bitcoin": {
   "img": "img/presidio-bitcoin.webp",
@@ -2015,9 +2042,12 @@
   "src": "https://dc.pubkey.com/brand/social-share-pubkeydc.png"
  },
  "the-space": {
-  "img": null,
-  "color": null,
-  "why": "image-failed"
+  "img": "img/the-space.webp",
+  "color": "#746657",
+  "w": 720,
+  "h": 405,
+  "manual": true,
+  "src": "https://denver.space/"
  },
  "the-book-of-itcoin": {
   "img": "img/the-book-of-itcoin.webp",
@@ -2301,5 +2331,79 @@
   "w": 720,
   "h": 405,
   "src": "https://img.tjm.art/display/esperanza-hero-aba277665d-1134.webp"
+ },
+ "tesi-cypher-painter": {
+  "img": "img/tesi-cypher-painter.webp",
+  "color": "#3a3939",
+  "w": 720,
+  "h": 450,
+  "src": "https://tesicypherpainter.carrd.co/assets/images/card.jpg?v=ccb7f1df"
+ },
+ "missatoshi-girl-2": {
+  "img": "img/missatoshi-girl-2.webp",
+  "color": "#766d6b",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "https://missatoshigirl.pvh-labs.com/"
+ },
+ "go-brrr": {
+  "img": "img/go-brrr.webp",
+  "color": "#050505",
+  "w": 720,
+  "h": 405,
+  "src": "https://www.gobrrr.me/ozypsoob/2022/02/BrrrBanner69-2.jpg"
+ },
+ "ronin-21": {
+  "img": "img/ronin-21.webp",
+  "color": "#a16613",
+  "w": 720,
+  "h": 366,
+  "manual": true,
+  "src": "https://ronin21.xyz/"
+ },
+ "behemoth": {
+  "img": "img/behemoth.webp",
+  "color": "#321f2d",
+  "w": 720,
+  "h": 378,
+  "src": "https://fanfares.io/api/og/naddr1qvzqqqr6dvpzq5vg2gdn94qtws9p8zxjgn3zvsk6x52up7ee7pc9wy5nwqqgadgcqyvhwumn8ghj7enpdenxzun9wvhxummnw3erztnrdaksqfrpv5mrgvfnxanz6vnyx5ez6dpsvv6j6cnzxg6j6d3ex5crzc3e8p3rxdmrcmnmqj"
+ },
+ "satoshi-s-fortune-a-novel": {
+  "img": "img/satoshi-s-fortune-a-novel.webp",
+  "color": "#855c2b",
+  "w": 720,
+  "h": 1080,
+  "manual": true,
+  "src": "https://alastair-mitchell.com/books/"
+ },
+ "satoshi-wedding-murders": {
+  "img": "img/satoshi-wedding-murders.webp",
+  "color": "#9c9382",
+  "w": 720,
+  "h": 1732,
+  "src": "https://img1.wsimg.com/isteam/ip/0ef416e5-b291-4ffc-80d7-e3ae531ffb51/IMG_5923.png"
+ },
+ "cyphermunk-house": {
+  "img": "img/cyphermunk-house.webp",
+  "color": "#5d237e",
+  "w": 720,
+  "h": 358,
+  "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=756,fit=crop,f=jpeg/YBgrqnzpJqfBKV1Z/cmh-sats-image-m2WpgDyn5LH1yB2b.png"
+ },
+ "bitcoin-graffiti-jam": {
+  "img": "img/bitcoin-graffiti-jam.webp",
+  "color": "#09b9a6",
+  "w": 192,
+  "h": 192,
+  "src": "https://geyser.fund/icons/192.png"
+ },
+ "taa-temporary-autonomous-art": {
+  "img": "img/taa-temporary-autonomous-art.webp",
+  "color": "#977d76",
+  "w": 600,
+  "h": 800,
+  "manual": true,
+  "src": "https://www.taaexhibitions.org/"
  }
 }
