@@ -2405,5 +2405,13 @@
   "h": 800,
   "manual": true,
   "src": "https://www.taaexhibitions.org/"
+ },
+ "brad-mills": {
+  "img": "img/brad-mills.webp",
+  "color": "#161616",
+  "w": 720,
+  "h": 720,
+  "manual": true,
+  "src": "harvest"
  }
 }

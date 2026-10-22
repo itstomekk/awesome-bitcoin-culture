@@ -645,6 +645,7 @@ sponsorships, patronage infrastructure.
   for Bitcoin, Lightning, and Nostr builders.
 - [Bitcoin Video Magazine](https://bitcoinvideomagazine.com) - Hour-long video show covering the
   Bitcoin ecosystem in short documentary segments.
+- [Brad Mills](https://www.bradmills.ca/) - Movie producer and Bitcoin supporter, recently experimenting with AI; hosts the Magic Internet Money Podcast.
 - [Citadel21](https://www.citadel21.com) - Cultural zine and long-form investigative journalism by
   hodlonaut, with print editions.
 

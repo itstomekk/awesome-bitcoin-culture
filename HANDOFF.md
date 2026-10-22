@@ -117,3 +117,9 @@
 
 - Added TJ Murphy (https://tjm.art/) to Visual Art > Painters.
 - Gallery: every entry now has a short anchor, `#<entry-id>` (for example `#tj-murphy`). Opening it expands the row and scrolls to it; the old `#room=...&open=<id>` links still work and are rewritten to the short form. Each open panel has a "Copy link" control. Code: `gallery/app/app.js` (readHash, hashString, showEntry, releaseLock `aim`), style in `gallery/app/style.css` (`.cplink`).
+
+## Update 2026-10-22
+
+- Added Brad Mills to Publications & Media at Tomek's request (host of the Magic Internet Money Podcast, producer of the documentary *This Machine Greens*). Source: https://www.bradmills.ca/ (GET 200, title "Brad Mills"). The AI-experimentation wording comes from Tomek, not the page.
+- Gallery image: ASCII coin artwork from the site (`brad_ascii.png`), not the portrait. Saved as `gallery/shared/img/brad-mills.webp`, flagged `manual` in `images.json`. Gallery 308 entries, parity OK, awesome-lint 0 errors / 5 pre-existing warnings.
+- The no-fetch build rewrote `gallery/app/favicon.svg` and `index.html` and created two untracked icon files. Reverted them; they are not part of this change.

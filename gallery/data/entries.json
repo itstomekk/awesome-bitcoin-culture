@@ -2618,6 +2618,17 @@
   "host": "bitcoinvideomagazine.com"
  },
  {
+  "id": "brad-mills",
+  "name": "Brad Mills",
+  "url": "https://www.bradmills.ca/",
+  "desc": "Movie producer and Bitcoin supporter, recently experimenting with AI; hosts the Magic Internet Money Podcast.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Publications & Media",
+  "host": "bradmills.ca"
+ },
+ {
   "id": "citadel21",
   "name": "Citadel21",
   "url": "https://www.citadel21.com",
