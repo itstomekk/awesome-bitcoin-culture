@@ -340,6 +340,8 @@ other entry.
   [Financial Fallout](https://konsensus.net/book/21-futures-financial), dystopian financial futures.
 - [Behemoth](https://api.fanfares.live/s/TshrzS) - Short story in the 21 Futures cypherpunk
   fiction project, by Pleb; audio edition on Fanfares (23 min, 2,100 sats).
+- [Bitcoin Fiction for Sats](https://bitcoinfictionforsats.pages.dev/) - Six Bitcoin novels by Andrew
+  Westhead, free to read online, with Lightning tips.
 - [Bitcoin Is Venice](https://books.google.com/books/about/Bitcoin_is_Venice.html?id=Qz4VzwEACAAJ) - Essays
   on the past and future of Bitcoin by Allen Farrington and Sacha Meyers (Bitcoin Magazine
   Books).

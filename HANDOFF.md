@@ -108,3 +108,7 @@
 - IndexNow: key `47715f842d8561133625cd1a5a383604` (copy in `seo/indexnow-key.txt`), key file `gallery/app/<key>.txt`; homepage accepted (202) by api.indexnow.org and bing.com. Resubmit after big list updates.
 - `itstomekk.github.io/robots.txt` is 404 (project site, not the user root), so the `Sitemap:` line in our robots.txt is never read. Sitemaps must be submitted by hand, as done above.
 - Sitemap lists one URL; the gallery is a single page. Per-category pages would give search engines more to rank.
+
+## Update 2026-10-21
+
+- Added Bitcoin Fiction for Sats (Andrew Westhead, six free novels, Lightning tips) to Literature at Tomek's request. Page fetched (200, all six titles and author shown). Gallery image: manual strip of the six covers from the site's own `covers/`. Gallery 306 entries, parity OK; awesome-lint unchanged vs HEAD.

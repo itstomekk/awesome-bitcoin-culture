@@ -1331,6 +1331,17 @@
   "host": "api.fanfares.live"
  },
  {
+  "id": "bitcoin-fiction-for-sats",
+  "name": "Bitcoin Fiction for Sats",
+  "url": "https://bitcoinfictionforsats.pages.dev/",
+  "desc": "Six Bitcoin novels by Andrew Westhead, free to read online, with Lightning tips.",
+  "room": "Literature",
+  "roomLabel": "Literature",
+  "roomIcon": "📚",
+  "sub": "",
+  "host": "bitcoinfictionforsats.pages.dev"
+ },
+ {
   "id": "bitcoin-is-venice",
   "name": "Bitcoin Is Venice",
   "url": "https://books.google.com/books/about/Bitcoin_is_Venice.html?id=Qz4VzwEACAAJ",

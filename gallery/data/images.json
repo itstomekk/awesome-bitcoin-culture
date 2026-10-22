@@ -2286,5 +2286,13 @@
   "h": 600,
   "src": "https://www.ladyblockjane.com/LadyBlockJane_UnbrokenChain_MainPhoto_preview.jpg",
   "manual": true
+ },
+ "bitcoin-fiction-for-sats": {
+  "img": "img/bitcoin-fiction-for-sats.webp",
+  "color": "#262221",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "harvest"
  }
 }
