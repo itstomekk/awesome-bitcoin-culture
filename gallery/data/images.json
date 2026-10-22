@@ -2294,5 +2294,12 @@
   "h": 400,
   "manual": true,
   "src": "harvest"
+ },
+ "tj-murphy": {
+  "img": "img/tj-murphy.webp",
+  "color": "#b99175",
+  "w": 720,
+  "h": 405,
+  "src": "https://img.tjm.art/display/esperanza-hero-aba277665d-1134.webp"
  }
 }

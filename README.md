@@ -155,6 +155,8 @@ other entry.
   free.
 - [The Great Print](https://timechainartmagazine.com/artist/the-great-print/) - Detailed pen
   drawings of Bitcoin themes; also designs visual identities for Bitcoin companies.
+- [TJ Murphy](https://tjm.art/) - Seattle watercolor and watercolor-pastel painter; works include
+  "Honeybadger and Cub with Genesis Block" and El Zonte sunrises.
 - [Tommy Marcheschi](https://www.tommy.studio/) - Oil, acrylic, aerosol, and mixed media; describes
   his politically charged work as "pre-emptive propaganda."
 - [Trevor Jones](https://www.trevorjonesart.com/) - Oil paintings, prints, and bronze sculpture;
