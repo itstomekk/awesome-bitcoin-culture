@@ -112,3 +112,8 @@
 ## Update 2026-10-21
 
 - Added Bitcoin Fiction for Sats (Andrew Westhead, six free novels, Lightning tips) to Literature at Tomek's request. Page fetched (200, all six titles and author shown). Gallery image: manual strip of the six covers from the site's own `covers/`. Gallery 306 entries, parity OK; awesome-lint unchanged vs HEAD.
+
+## Update 2026-10-22 (entry anchors)
+
+- Added TJ Murphy (https://tjm.art/) to Visual Art > Painters.
+- Gallery: every entry now has a short anchor, `#<entry-id>` (for example `#tj-murphy`). Opening it expands the row and scrolls to it; the old `#room=...&open=<id>` links still work and are rewritten to the short form. Each open panel has a "Copy link" control. Code: `gallery/app/app.js` (readHash, hashString, showEntry, releaseLock `aim`), style in `gallery/app/style.css` (`.cplink`).

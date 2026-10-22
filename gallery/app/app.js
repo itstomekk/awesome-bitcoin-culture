@@ -178,7 +178,10 @@
 
   /* ---------- state <-> hash ---------- */
   function readHash() {
-    var p = new URLSearchParams(location.hash.replace(/^#/, ""));
+    var raw = location.hash.replace(/^#/, "");
+    try { raw = decodeURIComponent(raw); } catch (_) { /* keep as is */ }
+    if (byId.hasOwnProperty(raw)) raw = "open=" + raw; // short entry anchor: #tj-murphy
+    var p = new URLSearchParams(raw);
     var r = (p.get("room") || "").split(",")[0];
     state.room = roomIdx.hasOwnProperty(r) ? r : null;
     pinned = !!state.room;
@@ -186,11 +189,15 @@
     state.sort = p.get("sort") === "shuffle" ? "shuffle" : "az";
     state.seed = parseInt(p.get("seed"), 10) || 1;
     state.open = p.get("open") || null;
+    if (state.open && !byId.hasOwnProperty(state.open)) state.open = null;
+    if (state.open && !state.q) { state.room = byId[state.open].room; pinned = true; }
     state.img = p.get("img") !== "0";
     state.suggest = p.has("suggest") ? (p.get("suggest") || "") : null;
   }
   function hashString() {
     var p = [];
+    // one open entry and nothing else: the short anchor (#tj-murphy)
+    if (state.open && !state.q && state.sort !== "shuffle" && state.img && state.suggest === null) return "#" + state.open;
     if (pinned && state.room) p.push("room=" + state.room);
     if (state.q) p.push("q=" + encodeURIComponent(state.q));
     if (state.sort === "shuffle") p.push("sort=shuffle", "seed=" + state.seed);
@@ -251,7 +258,8 @@
       '<dl class="facts"><div><dt>Room</dt><dd>' + A.esc(room.label) + "</dd></div>" +
       (e.sub ? "<div><dt>Section</dt><dd>" + A.esc(e.sub) + "</dd></div>" : "") +
       '<div><dt>Host</dt><dd class="l">' + A.esc(e.host) + "</dd></div></dl>" +
-      '<a class="open" href="' + A.esc(e.url) + '" target="_blank" rel="noopener">Open work &#8599;</a></div></div>';
+      '<a class="open" href="' + A.esc(e.url) + '" target="_blank" rel="noopener">Open work &#8599;</a>' +
+      '<a class="cplink" href="#' + A.esc(e.id) + '" data-copy="' + A.esc(e.id) + '">Copy link</a></div></div>';
   }
   function render() {
     list = compute();
@@ -355,24 +363,27 @@
   }
   /* programmatic scrolling: scroll-spy is paused until the scroll settles */
   var lock = false, lockT = 0, driftTries = 0, userInput = false;
+  var aim = null; // entry id a deep link (#tj-murphy) should land on; cleared by user input
   function holdLock(ms) {
     lock = true; clearTimeout(lockT);
     lockT = setTimeout(releaseLock, ms || 200);
   }
   function releaseLock() {
     var sec = state.room && document.getElementById("room-" + state.room);
-    if (sec && driftTries < 3) { // rows above the target are not rendered yet, so correct any estimate drift
-      var d = sec.getBoundingClientRect().top - stickTop();
+    var ah = aim && headOf(aim), ali = ah && ah.parentNode;
+    if ((ali || sec) && driftTries < 5) { // rows above the target are not rendered yet, so correct any estimate drift
+      var d = ali ? ali.getBoundingClientRect().top - chrome(ali) : sec.getBoundingClientRect().top - stickTop();
       if (Math.abs(d) > 3) { driftTries++; window.scrollBy({ top: d, behavior: "auto" }); holdLock(120); return; }
     }
     lock = false; driftTries = 0;
     resolveSpy();
   }
   window.addEventListener("scroll", function () { if (lock) { clearTimeout(lockT); lockT = setTimeout(releaseLock, 150); } }, { passive: true });
-  ["wheel", "touchstart", "keydown", "mousedown"].forEach(function (t) { window.addEventListener(t, function () { userInput = true; }, { passive: true }); });
+  ["wheel", "touchstart", "keydown", "mousedown"].forEach(function (t) { window.addEventListener(t, function () { userInput = true; aim = null; }, { passive: true }); });
 
   function jumpTo(id, instant) {
     var sec = document.getElementById("room-" + id); if (!sec) return;
+    aim = null;
     var y = sec.getBoundingClientRect().top + window.scrollY - stickTop();
     state.room = id; pinned = true;
     markRail(); writeHash();
@@ -443,6 +454,15 @@
   });
   rowsEl.addEventListener("click", function (ev) {
     if (ev.target.id === "reset") { state.q = ""; render(); writeHash(); qEl.focus(); return; }
+    var cp = ev.target.closest(".cplink");
+    if (cp) {
+      ev.preventDefault();
+      var u = location.href.split("#")[0] + "#" + cp.dataset.copy;
+      var done = function () { cp.textContent = "Link copied"; setTimeout(function () { cp.textContent = "Copy link"; }, 1600); };
+      if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(u).then(done, function () { window.prompt("Link", u); });
+      else window.prompt("Link", u);
+      return;
+    }
     var head = ev.target.closest(".head"); if (!head) return;
     toggle(head.parentNode.dataset.id);
   });
@@ -552,7 +572,8 @@
     lastHash = location.hash || "";
     var prevRoom = state.room;
     readHash(); render();
-    if (state.room) jumpTo(state.room, true);
+    if (state.open) showEntry(state.open);
+    else if (state.room) jumpTo(state.room, true);
     if (window.R4Suggest) window.R4Suggest.sync(state.suggest);
   }
   window.addEventListener("popstate", onNav);
@@ -563,9 +584,13 @@
     var e = byId[id]; if (!e) return;
     state.q = ""; state.open = id; state.room = e.room; pinned = true;
     render(); jumpTo(e.room, true);
+    aim = id; // releaseLock keeps correcting toward this row until layout settles
     var tries = 0, go = function () {
-      var h = headOf(id); if (!h) return;
-      reveal(h.parentNode); h.focus({ preventScroll: true });
+      var h = headOf(id); if (!h || aim !== id) return;
+      var li = h.parentNode;
+      driftTries = 0; holdLock(120);
+      window.scrollBy(0, li.getBoundingClientRect().top - chrome(li));
+      h.focus({ preventScroll: true });
       if (++tries < 3) setTimeout(go, 160);
     };
     setTimeout(go, 120);
@@ -589,9 +614,13 @@
   lastHash = location.hash || "";
   if (state.room) {
     jumpTo(state.room, true);
-    var again = function () { if (!userInput && state.room) jumpTo(state.room, true); };
+    var again = function () {
+      if (userInput || !state.room) return;
+      if (state.open) { if (aim === state.open) showEntry(state.open); }
+      else jumpTo(state.room, true);
+    };
     if (document.fonts && document.fonts.ready) document.fonts.ready.then(again);
     window.addEventListener("load", again);
   }
-  if (state.open) { var hh = headOf(state.open); if (hh) setTimeout(function () { reveal(hh.parentNode); }, 50); }
+  if (state.open) { var oid = state.open; setTimeout(function () { if (!userInput && state.open === oid) showEntry(oid); }, 50); }
 })();
