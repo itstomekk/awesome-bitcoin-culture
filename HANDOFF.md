@@ -2,6 +2,12 @@
 
 **Last updated:** 2026-10-19.
 
+## Update 2026-10-23 (Nostr account, Support goal)
+
+- Nostr account: `npub1vj4fdx2299g6mq7keqlpnwu52lvpwsslfna8efee66hguv9qcl0qe5ufj0` (hex `64aa9699...c7de`), NIP-05 `_@awesomebitcoinculture.com` (`gallery/app/.well-known/nostr.json`), lud16 `itstomekk@getalby.com`, avatar/banner in `gallery/app/nostr/`. Key: DPAPI file `C:\Users\Lenovo\.secrets\abc-nostr\nsec.dpapi`; sign and publish with `tools/nostr/abc_nostr.py` (usage in its docstring). Relays: damus, nos.lol, primal, nostr.mom.
+- Zap goal (NIP-75 kind 9041): `00b146056c2b799308be9a94a4c4a37e4d72c5c061168a93473d0527a98484d1`, 100,000 sats. The Support button (`gallery/app/support.js`, `support.css`, QR via vendored `vendor/qrcode.js`, MIT) sums kind 9735 receipts tagged with that goal and signed by Alby's key `79f00d3f...f432`. Donations use one pre-signed anonymous zap request (no amount tag) so the site needs no keys; payment is confirmed through the LUD-21 verify URL. `#support` opens the dialog. A new goal means new constants in support.js and a new zap request.
+- README has a hero image linking to the site and a Support section. Repo homepage and description point at the domain.
+
 ## Update 2026-10-23 (custom domain)
 
 - Live domain: https://awesomebitcoinculture.com/ (Namecheap, account `kolotom`, DNS on Namecheap BasicDNS). Records set via the Namecheap API: 4 A + 4 AAAA GitHub Pages addresses on `@`, CNAME `www` -> `itstomekk.github.io.`; email forwarding left as is. API key in `C:\Users\Lenovo\.secrets\namecheap-api.txt`, whitelisted IP 74.244.65.4. Note: `setHosts` replaces the whole record set, so always send every record.

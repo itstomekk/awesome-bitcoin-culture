@@ -3,6 +3,11 @@
 > A curated list of human creative work about Bitcoin - film, visual art, sculpture, literature,
 > music, dance, games, and the places, archives, and events that gather this scene together.
 
+[![Awesome Bitcoin Culture: art, film, books, music, games and memes about Bitcoin](gallery/app/og.jpg)](https://awesomebitcoinculture.com/)
+
+**Browse it as a gallery at [awesomebitcoinculture.com](https://awesomebitcoinculture.com/)**: search, Artist of the day and random picks.
+Follow [@awesomebitcoinculture on Nostr](https://njump.me/npub1vj4fdx2299g6mq7keqlpnwu52lvpwsslfna8efee66hguv9qcl0qe5ufj0) or [⚡ zap the list](https://awesomebitcoinculture.com/#support) to keep it running.
+
 Bitcoin has produced a real body of creative and cultural work, separate from its use as money
 or its developer tooling. This list catalogs that work: the people who made it, where to see it,
 and the institutions that support it. It is deliberately **not** another `awesome-bitcoin`
@@ -846,3 +851,9 @@ Three exceptions worth naming directly here, since they're culture-first rather 
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Support
+
+The list and the gallery are free and curated by hand. Zaps cover the domain, hosting and curation time:
+use the [⚡ Support button on the site](https://awesomebitcoinculture.com/#support) (any Lightning wallet, no account)
+or zap [our Nostr goal](https://njump.me/nevent1qqsqpv2xq4kzk7vnpzlf499ycj3huntjchqxz952jdrn6pf84xzgf5gpz3mhxue69uhhyetvv9ujuerpd46hxtnfduqs6amnwvaz7tmwdaejumr0dspzqe92j6v552234kpadjp7rxaeg47czapp7n860jnnn44w3cc2p377qvzqqqpr2yhmjav0) directly.
