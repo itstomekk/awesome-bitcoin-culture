@@ -5,7 +5,7 @@ artwork or a snapshot of its site, grouped into rooms, with a light and a dark m
 
 The site mirrors the README 1:1: one room per `##` section, one heading per `###`/`####` subsection, one banner per entry. `python scripts/check_parity.py` fails if an entry, room or subsection drifts; the Pages workflow runs it before publishing.
 
-Live: https://itstomekk.github.io/awesome-bitcoin-culture/
+Live: https://awesomebitcoinculture.com/
 
 The README is the only source of truth. The gallery never edits it.
 

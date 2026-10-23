@@ -2,6 +2,12 @@
 
 **Last updated:** 2026-10-19.
 
+## Update 2026-10-23 (custom domain)
+
+- Live domain: https://awesomebitcoinculture.com/ (Namecheap, account `kolotom`, DNS on Namecheap BasicDNS). Records set via the Namecheap API: 4 A + 4 AAAA GitHub Pages addresses on `@`, CNAME `www` -> `itstomekk.github.io.`; email forwarding left as is. API key in `C:\Users\Lenovo\.secrets\namecheap-api.txt`, whitelisted IP 74.244.65.4. Note: `setHosts` replaces the whole record set, so always send every record.
+- Pages custom domain set via `gh api -X PUT repos/itstomekk/awesome-bitcoin-culture/pages -f cname=...` (workflow build, so no CNAME file). The old github.io URL redirects. Canonical, og:url, sitemap, robots and the 404 page now use the domain root (`SITE` in `gallery/scripts/assemble.py`, `gallery/app/index.html`).
+- To do: Search Console property for the new domain and sitemap resubmit; GitHub domain verification TXT (`_github-pages-challenge-itstomekk`) from account Pages settings.
+
 ## Update 2026-10-23 (outgoing link tag)
 
 - "Open work" links and the static SEO list add `utm_source=awesome-bitcoin-culture` to each entry's own site (`ABC.out` in `gallery/shared/common.js`, `tagged()` in `gallery/scripts/assemble.py`; keep both rules equal). Social and link-hub hosts (x.com, instagram, youtube, facebook, tiktok, linktr.ee, primal, t.me) and URLs that already carry a utm_source are left alone. The README keeps clean URLs. All 291 tagged URLs returned the same HTTP status as the untagged ones.

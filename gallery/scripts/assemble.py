@@ -29,7 +29,7 @@ def tagged(u):
 
 ROOT = Path(__file__).resolve().parent.parent
 DIST = ROOT / "dist"
-SITE = "https://itstomekk.github.io/awesome-bitcoin-culture/"
+SITE = "https://awesomebitcoinculture.com/"
 DESC = ("A catalogue of human creative work about Bitcoin: art, film, literature, music, podcasts, "
         "games, institutions, events and memes.")
 
@@ -92,9 +92,9 @@ def seo(data):
     (DIST / "robots.txt").write_text(f"User-agent: *\nAllow: /\n\nSitemap: {SITE}sitemap.xml\n", encoding="utf-8")
     (DIST / "404.html").write_text(
         '<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">'
-        '<meta name="robots" content="noindex"><title>Not found - Awesome Bitcoin Culture</title><link rel="icon" href="/awesome-bitcoin-culture/favicon.svg">'
+        '<meta name="robots" content="noindex"><title>Not found - Awesome Bitcoin Culture</title><link rel="icon" href="/favicon.svg">'
         '</head><body style="font-family:system-ui,sans-serif;max-width:32rem;margin:15vh auto;padding:0 1rem">'
-        '<h1>Page not found</h1><p><a href="/awesome-bitcoin-culture/">Awesome Bitcoin Culture</a> - '
+        '<h1>Page not found</h1><p><a href="/">Awesome Bitcoin Culture</a> - '
         "art, film, books, music, podcasts and games about Bitcoin.</p></body></html>\n", encoding="utf-8")
 
 

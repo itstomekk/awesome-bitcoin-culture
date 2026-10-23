@@ -11,7 +11,7 @@ publicly viewable, and something a maintainer can vouch for.
 
 ## How to submit an entry
 
-Prefer a guided submission? [Use the suggestion form on the gallery](https://itstomekk.github.io/awesome-bitcoin-culture/#suggest), which checks for duplicates and opens a pre-filled GitHub issue, or [open the GitHub issue form directly](https://github.com/itstomekk/awesome-bitcoin-culture/issues/new?template=suggest-entry.yml). For a direct pull request, use the checklist below.
+Prefer a guided submission? [Use the suggestion form on the gallery](https://awesomebitcoinculture.com/#suggest), which checks for duplicates and opens a pre-filled GitHub issue, or [open the GitHub issue form directly](https://github.com/itstomekk/awesome-bitcoin-culture/issues/new?template=suggest-entry.yml). For a direct pull request, use the checklist below.
 
 1. Open a PR or an issue with:
    - Name of the creator/work.
