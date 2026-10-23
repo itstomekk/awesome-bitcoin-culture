@@ -278,7 +278,7 @@
       '<dl class="facts"><div><dt>Room</dt><dd>' + A.esc(room.label) + "</dd></div>" +
       (e.sub ? "<div><dt>Section</dt><dd>" + A.esc(e.sub) + "</dd></div>" : "") +
       '<div><dt>Host</dt><dd class="l">' + A.esc(e.host) + "</dd></div>" + socLinks(e) + "</dl>" +
-      '<a class="open" href="' + A.esc(e.url) + '" target="_blank" rel="noopener">Open work &#8599;</a>' +
+      '<a class="open" href="' + A.esc(A.out(e.url)) + '" target="_blank" rel="noopener">Open work &#8599;</a>' +
       '<a class="cplink" href="#' + A.esc(e.id) + '" data-copy="' + A.esc(e.id) + '">Copy link</a></div></div>';
   }
   function render() {

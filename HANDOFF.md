@@ -2,6 +2,10 @@
 
 **Last updated:** 2026-10-19.
 
+## Update 2026-10-23 (outgoing link tag)
+
+- "Open work" links and the static SEO list add `utm_source=awesome-bitcoin-culture` to each entry's own site (`ABC.out` in `gallery/shared/common.js`, `tagged()` in `gallery/scripts/assemble.py`; keep both rules equal). Social and link-hub hosts (x.com, instagram, youtube, facebook, tiktok, linktr.ee, primal, t.me) and URLs that already carry a utm_source are left alone. The README keeps clean URLs. All 291 tagged URLs returned the same HTTP status as the untagged ones.
+
 ## Update 2026-10-23 (Free Market Simpson)
 
 - Added Free Market Simpson (Polish painter, https://free-market-simpson.is/home/) to Visual Art > Painters at Tomek's request. Paintings are free-market and crypto-anarchist themed; no painting shows Bitcoin imagery directly, the Bitcoin tie is the "Crypto Anarchy" canvas, a Bitcoin article and 21 Bitcoin Polska on the contact page. Image: "Crypto Anarchy" (manual). Instagram @freemarketsimpson verified by og:title. Artist of the day: 2027-02-20.

@@ -10,9 +10,22 @@ SEO layer, generated from shared/data.js so it can never drift from the README:
 """
 import html
 import json
+import re
 import shutil
 from datetime import date
 from pathlib import Path
+
+# Same rule as ABC.out (JS) in shared/common.js: tag outgoing links to an entry's own site.
+REF = "utm_source=awesome-bitcoin-culture"
+NOTAG = re.compile(r"^https?://([^/]+\.)?(x\.com|twitter\.com|instagram\.com|youtube\.com|youtu\.be|facebook\.com|tiktok\.com|linktr\.ee|primal\.net|t\.me)(/|$)", re.I)
+
+
+def tagged(u):
+    if not re.match(r"^https?://", u, re.I) or NOTAG.match(u) or re.search(r"[?&]utm_source=", u):
+        return u
+    base, sep, frag = u.partition("#")
+    join = "?" if "?" not in base else ("" if base.endswith(("?", "&")) else "&")
+    return base + join + REF + sep + frag
 
 ROOT = Path(__file__).resolve().parent.parent
 DIST = ROOT / "dist"
@@ -42,7 +55,7 @@ def static_list(data):
                     out.append(f"<h3>{e(sub)}</h3>")
                 out.append("<ul>")
                 open_ul = True
-            out.append(f'<li><a href="{e(en["url"], quote=True)}" rel="noopener">{e(en["name"])}</a> - {e(en["desc"])}</li>')
+            out.append(f'<li><a href="{e(tagged(en["url"]), quote=True)}" rel="noopener">{e(en["name"])}</a> - {e(en["desc"])}</li>')
         if open_ul:
             out.append("</ul>")
         out.append("</section>")

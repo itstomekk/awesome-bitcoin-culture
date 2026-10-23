@@ -11,6 +11,15 @@
   function esc(s) {
     return String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   }
+  // Outgoing link to an entry's own site, tagged so its owner sees the visit came from this list.
+  // Social and link-hub hosts are left untouched; an existing utm_source is kept.
+  const REF = "utm_source=awesome-bitcoin-culture";
+  const NOTAG = /^https?:\/\/([^\/]+\.)?(x\.com|twitter\.com|instagram\.com|youtube\.com|youtu\.be|facebook\.com|tiktok\.com|linktr\.ee|primal\.net|t\.me)(\/|$)/i;
+  function out(u) {
+    if (!/^https?:\/\//i.test(u) || NOTAG.test(u) || /[?&]utm_source=/.test(u)) return u;
+    const i = u.indexOf("#"), base = i < 0 ? u : u.slice(0, i), frag = i < 0 ? "" : u.slice(i);
+    return base + (base.indexOf("?") < 0 ? "?" : /[?&]$/.test(base) ? "" : "&") + REF + frag;
+  }
   function rand(seed) { // small deterministic PRNG
     let t = seed >>> 0;
     return function () {
@@ -31,7 +40,7 @@
     featured: D.featured || {}, // "YYYY-MM-DD" -> entry id (artist of the day)
     byRoom,
     roomById,
-    hash, esc, rand,
+    hash, esc, rand, out,
     src: (e) => (e.img ? IMG + e.img : null),
     // Best available picture: a real wide og:image, else a page snapshot (720x450), else the small icon, else null.
     // kind: 'og' (wide artwork), 'shot' (website snapshot), 'icon' (small/square logo)
