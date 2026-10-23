@@ -475,13 +475,6 @@
   "manual": true,
   "src": "harvest"
  },
- "bitcoin-magazine-culture": {
-  "img": "img/bitcoin-magazine-culture.webp",
-  "color": "#17130d",
-  "w": 720,
-  "h": 405,
-  "src": "https://bitcoinmagazine.com/wp-content/uploads/2025/02/Bitcoin-Magazine-Home-Preview-Image.png"
- },
  "bmag-bitcoin-museum-art-gallery": {
   "img": "img/bmag-bitcoin-museum-art-gallery.webp",
   "color": "#3b2114",
@@ -1130,13 +1123,6 @@
   "manual": true,
   "src": "harvest"
  },
- "cashu-casino": {
-  "img": "img/cashu-casino.webp",
-  "color": "#e7e9eb",
-  "w": 720,
-  "h": 360,
-  "src": "https://opengraph.githubassets.com/00f512c56a6a6f7fc9cfd7202e7b425e39c32d3c4eb1a03fad9d1c29d6719ca0/babdbtc/cashucasino"
- },
  "clinch": {
   "img": "img/clinch.webp",
   "color": "#28381f",
@@ -1145,13 +1131,6 @@
   "manual": true,
   "src": "harvest"
  },
- "crown-anchor": {
-  "img": "img/crown-anchor.webp",
-  "color": "#1d3325",
-  "w": 720,
-  "h": 601,
-  "src": "https://www.nostrly.com/cms/wp-content/uploads/2025/03/crown-and-anchor.png"
- },
  "lightning-poker": {
   "img": "img/lightning-poker.webp",
   "color": "#0eba9e",
@@ -1159,21 +1138,6 @@
   "h": 441,
   "manual": true,
   "src": "https://bitcoin-bumblebee.com/wp-content/uploads/2023/01/ingame12.png"
- },
- "nakamoto-roulette": {
-  "img": "img/nakamoto-roulette.webp",
-  "color": "#55504e",
-  "w": 720,
-  "h": 407,
-  "manual": true,
-  "src": "harvest"
- },
- "nostrdice": {
-  "img": "img/nostrdice.webp",
-  "color": "#48353f",
-  "w": 720,
-  "h": 240,
-  "src": "https://repository-images.githubusercontent.com/831032987/bbeb0da8-e167-4c85-a9d6-c739ca6a3146"
  },
  "the-daily-thunder": {
   "img": "img/the-daily-thunder.webp",
@@ -1218,14 +1182,6 @@
   "color": "#32323a",
   "w": 720,
   "h": 440,
-  "manual": true,
-  "src": "harvest"
- },
- "jimmy-song": {
-  "img": "img/jimmy-song.webp",
-  "color": "#b1afaf",
-  "w": 720,
-  "h": 400,
   "manual": true,
   "src": "harvest"
  },
@@ -1726,11 +1682,6 @@
   "h": 378,
   "src": "https://metaimg.podpage.com/ifG0DxsgkMwzV3UxYEOjpjeBwueeIsfV6EmUV_UQtO8/eyJoIjo2MzAsIm0iOiJlbmgiLCJ0IjoiVGhlIEJpdGNvaW4gSW5maW5pdHkgU2hvdyIsInRjIjoiI0VFRUVFRSIsInUiOiJodHRwczovL2ZlZWRzLmZvdW50YWluLmZtL1BHUWc5ZVd4eU9jR2h4MHVYYW1ZL2ZpbGVzL0NPVkVSX0FSVC0tLURFRkFVTFQtLS0wOTc4ZmY4Ny04ZmY4LTQ3NTgtYjdmMC00ZmNjYTk2NTBiYjIuanBnIiwidyI6MTIwMCwieGMiOiIjZmZmZmZmIn0.webp"
  },
- "citizen-bitcoin": {
-  "img": null,
-  "color": null,
-  "why": "no-image"
- },
  "cypherpunk-bitstream": {
   "img": "img/cypherpunk-bitstream.webp",
   "color": "#573d28",
@@ -1774,13 +1725,6 @@
   "w": 720,
   "h": 720,
   "src": "https://faketoshi.co.uk/wp-content/uploads/2026/10/FAKETOSHI-Audiobook-Collection-Mockup-1024x1024.png"
- },
- "exit-scam": {
-  "img": "img/exit-scam.webp",
-  "color": "#321a04",
-  "w": 720,
-  "h": 720,
-  "src": "http://static1.squarespace.com/static/608c404eded15057d83dc644/t/6092eec29e7a426a97f01540/1620242114320/EXIT+SCAM+-+POD+CAST+ART.jpg?format=1500w"
  },
  "bitpopart": {
   "img": "img/bitpopart.webp",
