@@ -54,6 +54,10 @@ def main():
     images = json.loads((ROOT / "data/images.json").read_text(encoding="utf-8")) if (ROOT / "data/images.json").exists() else {}
     shots_path = ROOT / "data/shots.json"
     shots = json.loads(shots_path.read_text(encoding="utf-8")) if shots_path.exists() else {}
+    # verified social profiles per entry (research/socials, owner-approved) and the "artist of the day" schedule
+    soc_path, feat_path = ROOT / "data/socials.json", ROOT / "data/featured.json"
+    socials = json.loads(soc_path.read_text(encoding="utf-8")) if soc_path.exists() else {}
+    featured = json.loads(feat_path.read_text(encoding="utf-8")) if feat_path.exists() else {}
     out = []
     for e in entries:
         info = images.get(e["id"], {})
@@ -72,12 +76,18 @@ def main():
             "w": info.get("w"),
             "h": info.get("h"),
             "color": info.get("color"),
+            "soc": socials.get(e["id"]) or None,
         })
     rooms = []
     for rid, label, blurb in ROOMS:
         n = sum(1 for e in out if e["room"] == rid)
         rooms.append({"id": rid, "label": label, "blurb": blurb, "count": n})
-    data = {"rooms": rooms, "entries": out, "total": len(out)}
+    ids = {e["id"] for e in out}
+    stale = sorted(set(socials) - ids) + sorted(v for v in featured.values() if v not in ids)
+    if stale:
+        print("warning: socials/featured ids not in README:", ", ".join(stale))
+    data = {"rooms": rooms, "entries": out, "total": len(out),
+            "featured": {d: i for d, i in featured.items() if i in ids}}
     js = "window.ABC_DATA = " + json.dumps(data, ensure_ascii=False) + ";\n"
     (ROOT / "shared").mkdir(exist_ok=True)
     (ROOT / "shared/data.js").write_text(js, encoding="utf-8")

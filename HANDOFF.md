@@ -2,6 +2,12 @@
 
 **Last updated:** 2026-10-19.
 
+## Update 2026-10-23 (social icons, discover buttons)
+
+- Social profiles (X, Instagram, Nostr, YouTube) were researched for all 308 entries in `research/socials/` (harvest, scripted probes, a deep per-entry agent check, Instagram og:title probe). Results: `research/socials/final.csv`; Tomek approved every found account, including medium-confidence and creator-owned ones (a film or game without its own account shows its creator's or studio's account).
+- `gallery/data/socials.json` (id -> platform URL, 284 entries: X 250, Nostr 174, Instagram 145, YouTube 140) is folded into `shared/data.js` by `build.py` as `soc`. Rows show small icons as the third line of the right-hand meta column (under section tag and host); the open panel lists them as real links.
+- Header has "Artist of the day" and "Random" (also key R). The schedule is `gallery/data/featured.json` ("YYYY-MM-DD" -> entry id), filled randomly with all 120 Visual Art entries from 2026-10-23 to 2027-02-19; Tomek will name picks, edit that file. A date without a pick falls back to a stable per-day Visual Art entry.
+
 ## Current status (2026-10-19)
 
 - Repository: `itstomekk/awesome-bitcoin-culture`, public, branch `master`; latest published base is `0faae1e`.

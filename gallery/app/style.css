@@ -345,6 +345,27 @@ body.noimg .head:focus-visible,body.noimg .head[aria-expanded="true"],html.hv bo
   .totop{position:fixed;right:10px;bottom:calc(var(--bb) + 10px);z-index:50;width:38px;height:38px;background:rgba(17,17,17,.78);color:#f2f0e9;border:1px solid rgba(242,240,233,.7);font:700 17px var(--mono);cursor:pointer}
   .totop.on{display:block}
 }
+/* ---------- discover buttons (top bar) and social icons (row meta, third line) ---------- */
+.disc{display:flex}
+.disc button{font:700 11px/1 var(--mono);text-transform:uppercase;letter-spacing:.04em;background:transparent;color:rgb(var(--barfg));border:2px solid rgba(var(--barfg),.6);padding:8px 10px;cursor:pointer;white-space:nowrap;margin-left:-2px;transition:background-color .25s ease,border-color .25s ease,color .25s ease}
+.disc button:first-child{margin-left:0}
+.disc button:hover{border-color:rgb(var(--barfg));background:rgba(var(--barfg),.14);position:relative}
+.soc{display:flex;gap:3px;margin-top:1px}
+.si{display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;background:var(--cb);color:var(--cf);cursor:pointer}
+.si svg{width:13px;height:13px;fill:currentColor;display:block}
+html.hv .si:hover{background:var(--fg);color:var(--bg)}
+body.noimg .si{background:none;color:var(--soft);width:18px;justify-content:flex-start}
+html.hv body.noimg .si:hover{background:none;color:var(--fg)}
+.socl{display:flex;flex-wrap:wrap;gap:6px 14px}
+.sl{display:inline-flex;align-items:center;gap:6px;color:inherit}
+.sl svg{width:15px;height:15px;fill:currentColor;flex:none}
+@media (max-width:799px){
+  .disc{order:5;flex:1 0 100%}
+  .disc button{flex:1 1 auto;font-size:10px;padding:8px 6px}
+  .soc{gap:3px;margin:0}
+  .si{width:20px;height:19px}
+  .si svg{width:12px;height:12px}
+}
 @media (prefers-reduced-motion:reduce){
   *,*::before,*::after{transition:none!important;animation:none!important;scroll-behavior:auto!important}
 }

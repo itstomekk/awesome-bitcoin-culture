@@ -28,6 +28,7 @@
     rooms: D.rooms,
     entries: D.entries,
     total: D.total,
+    featured: D.featured || {}, // "YYYY-MM-DD" -> entry id (artist of the day)
     byRoom,
     roomById,
     hash, esc, rand,
