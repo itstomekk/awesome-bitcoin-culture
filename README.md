@@ -91,8 +91,8 @@ other entry.
   "Buzzbee, the African Bitcoin Queen".
 - [Alex Schaefer](https://www.saatchiart.com/paintwithalex) - Oil painting, expressionism; famous
   for the 2011 "banks on fire" series.
-- [Amy DiGi](https://www.amydigi.com/bitcoin) - Traditional oil painting with symbolic Bitcoin imagery;
-  "Genesis Slice" is a 16×20-inch oil on canvas.
+- [Amy DiGi](https://www.amydigi.com/bitcoin) - Oil paintings with symbolic Bitcoin imagery, such as
+  "Genesis Slice" and "Bullish"; also hand-printed giclee prints.
 - [April Popko](https://www.popkoproductions.com/bitcoin-art.html) - Abstract acrylic and gold-leaf
   paintings on Bitcoin themes, made in Prague.
 - [Asanoha](https://sovereignremnant.com/) - Sacred-geometry and gold-leaf painting inspired by Japanese

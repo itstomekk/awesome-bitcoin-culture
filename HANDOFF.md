@@ -123,3 +123,8 @@
 - Added Brad Mills to Publications & Media at Tomek's request (host of the Magic Internet Money Podcast, producer of the documentary *This Machine Greens*). Source: https://www.bradmills.ca/ (GET 200, title "Brad Mills"). The AI-experimentation wording comes from Tomek, not the page.
 - Gallery image: ASCII coin artwork from the site (`brad_ascii.png`), not the portrait. Saved as `gallery/shared/img/brad-mills.webp`, flagged `manual` in `images.json`. Gallery 308 entries, parity OK, awesome-lint 0 errors / 5 pre-existing warnings.
 - The no-fetch build rewrote `gallery/app/favicon.svg` and `index.html` and created two untracked icon files. Reverted them; they are not part of this change.
+## Update 2026-10-22 (open items from Brad Mills pass)
+
+- Amy DiGi: merged the two descriptions into one oil-first line. Verified on Timechain Art Magazine (oil on canvas, "Genesis Slice", "Bullish") and her site (giclee prints). The earlier "hand-generated digital artist" claim could not be re-verified; her other digital work is NFT sales, which the list excludes, so it is not in the description.
+- Brad Mills: wording "recently experimenting with AI" confirmed by Tomek. No poster for *This Machine Greens* exists on bitcoinfilmfest.com or locally; the thegreensdocumentary.com poster is a different film (*The Greens*, Cabrini Green) and is not used. The Magic Internet Money episode art is an ASCII generative piece with edition numbers, not used. Image decision pending.
+- Ubel Owl Studios (*Kiki & Rufus*) stays an open literature lead. certainorange.com re-check and IndexNow resubmission deferred by Tomek.
