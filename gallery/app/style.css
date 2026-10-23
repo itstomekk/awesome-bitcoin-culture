@@ -318,7 +318,7 @@ body.noimg .head:focus-visible,body.noimg .head[aria-expanded="true"],html.hv bo
   .row[data-kind="icon"] .head{grid-template-columns:var(--pad) minmax(0,1fr) var(--iz) var(--pad)}
   body.noimg .head{min-height:0;align-content:start}
   .name{grid-row:1;font-size:clamp(23px,7.6vw,40px);line-height:1;padding:0 30px 0 0;transform:none}
-  .head>.meta{grid-column:2 / 4;grid-row:2;flex-direction:row;flex-wrap:wrap;gap:3px 4px;font-size:10px;align-self:start}
+  .head>.meta{grid-column:2 / 4;grid-row:2;flex-direction:row;flex-wrap:wrap;justify-content:flex-end;gap:3px 4px;font-size:10px;align-self:start}
   .row[data-kind="icon"] .head>.meta{grid-column:2}
   .meta .c{padding:1px 5px;max-width:100%}
   .meta .host{display:none}
