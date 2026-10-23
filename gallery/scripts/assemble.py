@@ -30,6 +30,7 @@ def tagged(u):
 ROOT = Path(__file__).resolve().parent.parent
 DIST = ROOT / "dist"
 SITE = "https://awesomebitcoinculture.com/"
+NPUB = "npub1vj4fdx2299g6mq7keqlpnwu52lvpwsslfna8efee66hguv9qcl0qe5ufj0"  # the list's Nostr account
 DESC = ("A catalogue of human creative work about Bitcoin: art, film, literature, music, podcasts, "
         "games, institutions, events and memes.")
 
@@ -66,7 +67,10 @@ def static_list(data):
 def json_ld(data):
     graph = [
         {"@type": "WebSite", "@id": SITE + "#site", "url": SITE, "name": "Awesome Bitcoin Culture",
-         "description": DESC, "inLanguage": "en"},
+         "description": DESC, "inLanguage": "en", "publisher": {"@id": SITE + "#org"}},
+        {"@type": "Organization", "@id": SITE + "#org", "name": "Awesome Bitcoin Culture", "url": SITE,
+         "logo": SITE + "nostr/avatar.png",
+         "sameAs": ["https://github.com/itstomekk/awesome-bitcoin-culture", "https://njump.me/" + NPUB]},
         {"@type": "CollectionPage", "@id": SITE + "#list", "url": SITE, "name": "Awesome Bitcoin Culture",
          "description": DESC, "isPartOf": {"@id": SITE + "#site"},
          "mainEntity": {"@type": "ItemList", "numberOfItems": len(data["entries"]),
