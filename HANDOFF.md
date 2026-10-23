@@ -2,6 +2,10 @@
 
 **Last updated:** 2026-10-19.
 
+## Update 2026-10-23 (Free Market Simpson)
+
+- Added Free Market Simpson (Polish painter, https://free-market-simpson.is/home/) to Visual Art > Painters at Tomek's request. Paintings are free-market and crypto-anarchist themed; no painting shows Bitcoin imagery directly, the Bitcoin tie is the "Crypto Anarchy" canvas, a Bitcoin article and 21 Bitcoin Polska on the contact page. Image: "Crypto Anarchy" (manual). Instagram @freemarketsimpson verified by og:title. Artist of the day: 2027-02-20.
+
 ## Update 2026-10-23 (social icons, discover buttons)
 
 - Social profiles (X, Instagram, Nostr, YouTube) were researched for all 308 entries in `research/socials/` (harvest, scripted probes, a deep per-entry agent check, Instagram og:title probe). Results: `research/socials/final.csv`; Tomek approved every found account, including medium-confidence and creator-owned ones (a film or game without its own account shows its creator's or studio's account).

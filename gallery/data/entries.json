@@ -154,6 +154,17 @@
   "host": "scarce.city"
  },
  {
+  "id": "free-market-simpson",
+  "name": "Free Market Simpson",
+  "url": "https://free-market-simpson.is/home/",
+  "desc": "Polish painter: acrylic canvases, 3D lenticular and riso prints on free-market and crypto-anarchist themes.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Painters",
+  "host": "free-market-simpson.is"
+ },
+ {
   "id": "fzero",
   "name": "Fzero",
   "url": "https://9fold.co/worlds/fzero",

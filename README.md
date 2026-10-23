@@ -106,6 +106,8 @@ other entry.
   series.
 - [Flo Montoya](https://scarce.city/creators/flo-montoya) - Poster and wheatpaste, protest-art
   tradition.
+- [Free Market Simpson](https://free-market-simpson.is/home/) - Polish painter: acrylic canvases, 3D
+  lenticular and riso prints on free-market and crypto-anarchist themes.
 - [Fzero](https://9fold.co/worlds/fzero) - Painting rooted in a tattooing background; "GENESIS 113"
   (2026) is a 100-hour canvas on consciousness and sovereignty; also
   creator of the animated series *$BLEEP*.

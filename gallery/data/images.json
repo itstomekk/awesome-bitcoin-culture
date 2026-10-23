@@ -2357,5 +2357,13 @@
   "h": 720,
   "manual": true,
   "src": "harvest"
+ },
+ "free-market-simpson": {
+  "img": "img/free-market-simpson.webp",
+  "color": "#7d9aa4",
+  "w": 550,
+  "h": 770,
+  "manual": true,
+  "src": "https://free-market-simpson.is/wp-content/uploads/2023/08/Crypto-Anarchy.jpg"
  }
 }
