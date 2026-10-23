@@ -6,7 +6,7 @@ Output:              dist/index.html ... dist/shared/...   with '../shared/' rew
 SEO layer, generated from shared/data.js so it can never drift from the README:
   - a plain HTML list of every entry inside #rows (app.js replaces it on load; crawlers and no-JS readers keep it)
   - JSON-LD (WebSite + CollectionPage/ItemList) in <head>
-  - sitemap.xml, robots.txt, 404.html
+  - sitemap.xml, robots.txt, llms.txt, 404.html
 """
 import html
 import json
@@ -30,6 +30,8 @@ def tagged(u):
 ROOT = Path(__file__).resolve().parent.parent
 DIST = ROOT / "dist"
 SITE = "https://awesomebitcoinculture.com/"
+REPO = "https://github.com/itstomekk/awesome-bitcoin-culture"
+RAW = "https://raw.githubusercontent.com/itstomekk/awesome-bitcoin-culture/master"
 NPUB = "npub1vj4fdx2299g6mq7keqlpnwu52lvpwsslfna8efee66hguv9qcl0qe5ufj0"  # the list's Nostr account
 DESC = ("A catalogue of human creative work about Bitcoin: art, film, literature, music, podcasts, "
         "games, institutions, events and memes.")
@@ -81,6 +83,33 @@ def json_ld(data):
     return f'<script type="application/ld+json">{blob}</script>\n'
 
 
+def llms_txt(data):
+    """llms.txt (llmstxt.org): title, summary, key links, then one H2 per room/subsection listing every entry."""
+    lines = [
+        "# Awesome Bitcoin Culture", "",
+        f"> {DESC[:-1]}. {len(data['entries'])} hand-picked entries, each linking to the creator's own page.", "",
+        "The list covers work where Bitcoin is the subject or inspiration, made by a named creator, studio or "
+        "collective. It excludes NFT/PFP collections, exchange marketing, meme coins and anonymous bulk AI output. "
+        "The canonical source is the README on GitHub; this site and this file are generated from it on every change.", "",
+        f"Last updated: {date.today().isoformat()}", "",
+        "## About", "",
+        f"- [Website]({SITE}): searchable gallery of every entry, with images",
+        f"- [Source list]({REPO}/blob/master/README.md): the canonical Markdown list",
+        f"- [Raw Markdown]({RAW}/README.md): the same list as plain Markdown",
+        f"- [Inclusion criteria and suggestions]({REPO}/blob/master/CONTRIBUTING.md): how entries are chosen and how to suggest one",
+        "- License: CC0 1.0 (public domain)", "",
+    ]
+    for room in data["rooms"]:
+        sub = object()
+        for en in (x for x in data["entries"] if x["room"] == room["id"]):
+            if en["sub"] != sub:
+                sub = en["sub"]
+                lines += ["", f"## {room['label']}" + (f": {sub}" if sub else ""), ""]
+            desc = " ".join(en["desc"].split())
+            lines.append(f"- [{en['name']}]({en['url']})" + (f": {desc}" if desc else ""))
+    return "\n".join(lines).replace("\n\n\n", "\n\n").strip() + "\n"
+
+
 def seo(data):
     p = DIST / "index.html"
     t = p.read_text(encoding="utf-8")
@@ -94,6 +123,7 @@ def seo(data):
         f"  <url><loc>{SITE}</loc><lastmod>{today}</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>\n</urlset>\n",
         encoding="utf-8")
     (DIST / "robots.txt").write_text(f"User-agent: *\nAllow: /\n\nSitemap: {SITE}sitemap.xml\n", encoding="utf-8")
+    (DIST / "llms.txt").write_text(llms_txt(data), encoding="utf-8")
     (DIST / "404.html").write_text(
         '<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">'
         '<meta name="robots" content="noindex"><title>Not found - Awesome Bitcoin Culture</title><link rel="icon" href="/favicon.svg">'
