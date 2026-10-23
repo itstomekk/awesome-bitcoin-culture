@@ -12,7 +12,14 @@
 
 - Live domain: https://awesomebitcoinculture.com/ (Namecheap, account `kolotom`, DNS on Namecheap BasicDNS). Records set via the Namecheap API: 4 A + 4 AAAA GitHub Pages addresses on `@`, CNAME `www` -> `itstomekk.github.io.`; email forwarding left as is. API key in `C:\Users\Lenovo\.secrets\namecheap-api.txt`, whitelisted IP 74.244.65.4. Note: `setHosts` replaces the whole record set, so always send every record.
 - Pages custom domain set via `gh api -X PUT repos/itstomekk/awesome-bitcoin-culture/pages -f cname=...` (workflow build, so no CNAME file). The old github.io URL redirects. Canonical, og:url, sitemap, robots and the 404 page now use the domain root (`SITE` in `gallery/scripts/assemble.py`, `gallery/app/index.html`).
-- To do: Search Console property for the new domain and sitemap resubmit; GitHub domain verification TXT (`_github-pages-challenge-itstomekk`) from account Pages settings.
+- To do: GitHub domain verification TXT (`_github-pages-challenge-itstomekk`) from account Pages settings.
+
+## Update 2026-10-23 (llms.txt, GoatCounter, search engines)
+
+- `assemble.py` now writes `dist/llms.txt` (llmstxt.org format: summary, key links, then one H2 per room/subsection with every entry and its own URL, no utm tag). Live: https://awesomebitcoinculture.com/llms.txt
+- GoatCounter site code `awesomebitcoinculture` (same account as the roatan.* sites, created via API 2026-10-23); snippet before `</body>` in `gallery/app/index.html`. Dashboard: https://awesomebitcoinculture.goatcounter.com/
+- Google Search Console: URL-prefix property https://awesomebitcoinculture.com/ verified by the existing `google13edf74c50675ea1.html` file (keep it); sitemap.xml submitted, status Success. Bing Webmaster: site added and verified by the existing `msvalidate.01` meta tag (keep it); sitemap submitted. IndexNow (key file `47715f842d8561133625cd1a5a383604.txt`, see `seo/`) pinged with `/` and `/llms.txt`: indexnow.org 202, Bing 200, Yandex 202.
+
 
 ## Update 2026-10-23 (outgoing link tag)
 
