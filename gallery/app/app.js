@@ -519,11 +519,14 @@
     var g = li && li.closest(".grp") && li.closest(".grp").querySelector("h2");
     return stickTop() + (g ? g.offsetHeight : 0) + 6;
   }
+  // an opened entry always lands with its name row just under the sticky chrome
   function reveal(li) {
-    var top = chrome(li), r = li.getBoundingClientRect(), dy = 0;
-    if (r.top < top) dy = r.top - top;
-    else if (r.bottom > innerHeight - bottomChrome()) dy = Math.min(r.bottom - innerHeight + bottomChrome() + 8, r.top - top);
-    if (dy) window.scrollBy(0, dy);
+    var align = function () {
+      var dy = li.getBoundingClientRect().top - chrome(li);
+      if (Math.abs(dy) > 1) window.scrollBy(0, dy);
+    };
+    align();
+    requestAnimationFrame(align); // again after the closed panel and new panel settle
   }
 
   /* ---------- theme ---------- */
