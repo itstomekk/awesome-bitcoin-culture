@@ -3,8 +3,8 @@
   var A = window.ABC;
   var $ = function (s) { return document.querySelector(s); };
   var root = document.documentElement;
-  var rowsEl = $("#rows"), railEl = $("#rail"), railItems = $("#railItems"), sortEl = $("#sort"), qEl = $("#q");
-  var showingEl = $("#showing"), imgsEl = $("#imgs"), topEl = $("#top"), ctlEl = $("#ctl"), themeEl = $("#theme");
+  var rowsEl = $("#rows"), railEl = $("#rail"), railItems = $("#railItems"), qEl = $("#q");
+  var topEl = $("#top"), ctlEl = $("#ctl"), themeEl = $("#theme");
   var byId = {};
   A.entries.forEach(function (e) { byId[e.id] = e; });
   var roomIdx = {};
@@ -186,12 +186,9 @@
     state.room = roomIdx.hasOwnProperty(r) ? r : null;
     pinned = !!state.room;
     state.q = p.get("q") || "";
-    state.sort = p.get("sort") === "shuffle" ? "shuffle" : "az";
-    state.seed = parseInt(p.get("seed"), 10) || 1;
     state.open = p.get("open") || null;
     if (state.open && !byId.hasOwnProperty(state.open)) state.open = null;
     if (state.open && !state.q) { state.room = byId[state.open].room; pinned = true; }
-    state.img = p.get("img") !== "0";
     state.suggest = p.has("suggest") ? (p.get("suggest") || "") : null;
   }
   function hashString() {
@@ -310,18 +307,13 @@
       });
     }
     rowsEl.innerHTML = html;
-    showingEl.innerHTML = "Showing <b>" + list.length + "</b> of " + A.total;
     if (state.room && !counts[state.room]) state.room = null;
     syncControls();
     observeBanners();
     setupSpy();
   }
   function syncControls() {
-    Array.prototype.forEach.call(sortEl.children, function (b) { b.setAttribute("aria-pressed", String(b.dataset.sort === state.sort)); });
     if (qEl.value !== state.q) qEl.value = state.q;
-    imgsEl.setAttribute("aria-pressed", String(state.img));
-    imgsEl.lastElementChild.textContent = state.img ? "on" : "off";
-    document.body.classList.toggle("noimg", !state.img);
     Array.prototype.forEach.call(railItems.children, function (a) {
       var n = counts[a.dataset.room] || 0;
       a.lastElementChild.textContent = n;
@@ -448,21 +440,6 @@
     if (id) jumpTo(id, true);
   }
   function firstRoom() { for (var i = 0; i < A.rooms.length; i++) if (counts[A.rooms[i].id]) return A.rooms[i].id; return null; }
-  sortEl.addEventListener("click", function (ev) {
-    var b = ev.target.closest("button"); if (!b) return;
-    var s = b.dataset.sort;
-    if (s === "shuffle") state.seed = 1 + Math.floor(Math.random() * 1e6);
-    state.sort = s;
-    var keep = pinned ? state.room : null;
-    render();
-    if (keep) afterReflow(); else writeHash();
-  });
-  imgsEl.addEventListener("click", function () {
-    state.img = !state.img;
-    var keep = pinned ? state.room : null;
-    render();
-    if (keep) afterReflow(); else writeHash();
-  });
   qEl.addEventListener("input", function () {
     state.q = qEl.value;
     var first = rowsEl.getBoundingClientRect().top + window.scrollY - stickTop();
