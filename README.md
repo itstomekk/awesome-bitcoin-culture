@@ -3,24 +3,53 @@
 > A curated list of human creative work about Bitcoin - film, visual art, sculpture, literature,
 > music, dance, games, and the places, archives, and events that gather this scene together.
 
-[![Awesome Bitcoin Culture: art, film, books, music, games and memes about Bitcoin](gallery/app/og.jpg)](https://awesomebitcoinculture.com/)
+![Awesome Bitcoin Culture: art, film, books, music, games and memes about Bitcoin](gallery/app/og.jpg)
 
-**Browse it as a gallery at [awesomebitcoinculture.com](https://awesomebitcoinculture.com/)**: search, Artist of the day and random picks.
-Follow [@awesomebitcoinculture on Nostr](https://njump.me/npub1vj4fdx2299g6mq7keqlpnwu52lvpwsslfna8efee66hguv9qcl0qe5ufj0) or [⚡ zap the list](https://awesomebitcoinculture.com/#support) to keep it running.
+<div align="center">
+
+[🖼️ Gallery](https://awesomebitcoinculture.com/) · [💡 Suggest an entry](https://awesomebitcoinculture.com/#suggest) · [⚡ Support](#support) · [🟣 Nostr](https://njump.me/npub1vj4fdx2299g6mq7keqlpnwu52lvpwsslfna8efee66hguv9qcl0qe5ufj0)
+
+</div>
+
+## 👋 Hello
+
+Bitcoin has made a lot of art, films, books, music and games that have nothing to do with price charts.
+This list gathers that work in one place, so it is easy to find and hard to forget. If you make
+things, love things, or just wonder what Bitcoin culture looks like: welcome. Take a walk through it
+and tell us what we missed. 🧡
 
 Bitcoin has produced a real body of creative and cultural work, separate from its use as money
 or its developer tooling. This list catalogs that work: the people who made it, where to see it,
 and the institutions that support it. It is deliberately **not** another `awesome-bitcoin`
 dev-tools/wallets/services list - those already exist and are well maintained elsewhere.
 
-**Scope:** Bitcoin as subject and inspiration for human creative work - film, literature, visual art,
+## 🟢 Where it stands
+
+**Live and growing.** The list is public, curated by hand and updated as new work turns up. It has more than 300
+entries in eight sections: Visual Art, Literature, Music & Performing Arts, Film & Documentary, Podcasts,
+Institutions & Spaces, Events & Festivals and Games. The gallery website is rebuilt from this README on every
+push, so what you read here is always what the site shows. The list is released under CC0.
+
+## 🖼️ The gallery
+
+![The Awesome Bitcoin Culture gallery, showing the Visual Art room](.github/readme/home.jpg)
+
+Every entry is a banner with the work's own art (or a generated tile), a link to the work and, where we could verify them, the creator's social profiles.
+Search by name, host or text, open the Artist of the day, hit Random, or use Suggest to send us something new.
+There is also a plain-text [llms.txt](https://awesomebitcoinculture.com/llms.txt) copy of the whole list.
+
+## 🧭 What belongs here
+
+### Scope
+
+Bitcoin as subject and inspiration for human creative work - film, literature, visual art,
 sculpture, music, dance and stage, podcasts and other long-form media, and games - plus the archives,
 spaces, institutions, and events that preserve and gather that work. A game counts when the game
 itself is the work; earning or paying sats inside it is fine. Wagering & Casino is a small
 subsection for Bitcoin-native games played for stakes, not a gambling directory. This is not a
 directory of financial products, exchanges, or speculative collectible drops.
 
-**Inclusion criteria:**
+### Inclusion criteria
 
 1. **Primary intent is creative, not financial.** A painting about Bitcoin qualifies. A PFP
    collection sold for profit doesn't, even if well-made, unless it clears #2.
@@ -42,6 +71,23 @@ coins, and bulk-generated AI output with no identifiable author.
 **Disclosure:** the maintainer also runs Bitcoin FilmFest, Bitcoin Shipshow, Bitcoin District, and
 Awesome Bitcoin Events, which are all listed here. They were held to the same criteria as every
 other entry.
+
+## 🤝 Join in
+
+This list is only as good as the people who look at it. Every kind of help is welcome.
+
+💡 **You know a creator or work we missed.** Use the Suggest button in the gallery, or [open the issue form](https://github.com/itstomekk/awesome-bitcoin-culture/issues/new?template=suggest-entry.yml). Include a link where the work can actually be seen.
+
+🛠️ **You spotted a dead link or a wrong description.** Open a pull request that edits `README.md`. Keep to one short line per entry, in the section's existing order.
+
+🎨 **You made something about Bitcoin.** Welcome. Send it in the same way. A named person, studio or consistent pseudonym is enough.
+
+🤔 **You are not sure it fits.** Open an issue and ask before you do any work.
+
+⚡ **You like it.** Tell a friend, tell an artist on the list, or use the Support link at the top.
+
+The full rules are in [CONTRIBUTING.md](CONTRIBUTING.md). The list is curated by
+[Tomek Kołodziejczuk](https://github.com/itstomekk), and every suggestion is read by a person.
 
 ## Contents
 
@@ -850,7 +896,7 @@ Three exceptions worth naming directly here, since they're culture-first rather 
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md).
+Suggestions, fixes and questions are all welcome. Start with [Join in](#-join-in) above.
 
 ## Support
 
