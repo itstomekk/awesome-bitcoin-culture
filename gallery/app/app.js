@@ -567,6 +567,17 @@
 
   var totop = $("#totop");
   window.addEventListener("scroll", function () { totop.classList.toggle("on", scrollY > 500); }, { passive: true });
+
+  /* phones: the title bar (with search) hides while scrolling down and comes back on scrolling up */
+  var lastY = window.scrollY, topHid = false;
+  function hideTop(h) { if (h !== topHid) { topHid = h; root.classList.toggle("tophid", h); } }
+  window.addEventListener("scroll", function () {
+    var y = window.scrollY, dy = y - lastY; lastY = y;
+    if (!phone.matches || y < topEl.offsetHeight || document.activeElement === qEl) hideTop(false);
+    else if (lock || dy > 4) hideTop(true);   // reading down, or a jump to a room/entry
+    else if (dy < -4) hideTop(false);
+  }, { passive: true });
+  qEl.addEventListener("focus", function () { hideTop(false); });
   totop.addEventListener("click", function () { window.scrollTo(0, 0); qEl.blur(); });
 
   function onNav() {

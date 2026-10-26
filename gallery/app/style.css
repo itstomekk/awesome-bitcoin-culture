@@ -278,7 +278,10 @@ body.noimg .head:focus-visible,body.noimg .head[aria-expanded="true"],html.hv bo
 /* ---------- phone: rail becomes a horizontal strip, first row of the bottom bar ---------- */
 @media (max-width:799px){
   :root{--pad:14px;--rw:0px;--gfs:clamp(30px,9vw,52px);--iz:23%}
-  .top{position:static;padding:9px var(--pad);gap:4px 10px;flex-wrap:wrap}
+  .top{position:sticky;top:0;padding:9px var(--pad);gap:4px 10px;flex-wrap:wrap;transition:transform .25s ease,background-color .25s ease,border-color .25s ease,color .25s ease}
+  html.tophid .top{transform:translateY(-100%)}
+  html:not(.tophid) .grp>h2{top:var(--bt)}
+  .grp>h2{transition:top .25s ease}
   .mark{font-size:15px;gap:8px;flex:1 1 auto}
   .src{order:4;font-size:10.5px;margin-left:auto}
   .ctl{gap:6px;padding:6px var(--pad) calc(6px + env(safe-area-inset-bottom,0px))}
