@@ -21,6 +21,15 @@
   function fmt(n) { return Math.round(n).toLocaleString("en-US"); }
   function short(n) { return n >= 1000 ? (n >= 10000 || n % 1000 === 0 ? Math.floor(n / 1000) : (Math.floor(n / 100) / 10)) + "k" : String(Math.floor(n)); }
   function pct() { return raised == null ? 0 : Math.min(100, raised / TARGET * 100); }
+  // text bar of n cells: empty cells are light shade, a part-filled cell darkens, full cells are solid
+  function ascii(n) {
+    var f = pct() / 100 * n, on = "", off = "";
+    for (var i = 0; i < n; i++) {
+      var c = Math.max(0, Math.min(1, f - i));
+      if (c >= 1) on += "\u2588"; else if (c >= 0.5) on += "\u2593"; else if (c > 0 || (i === 0 && raised > 0)) on += "\u2592"; else off += "\u2591";
+    }
+    return '<span class="on">' + on + '</span><span class="off">' + off + "</span>";
+  }
 
   // amount of a BOLT11 invoice in sats, from its human-readable part
   function bolt11Sats(pr) {
@@ -41,15 +50,15 @@
   }
 
   function paint() {
-    btn.style.setProperty("--p", pct().toFixed(1) + "%");
     var t = btn.querySelector(".supn");
     if (raised != null) {
+      btn.querySelector(".supa").innerHTML = ascii(10);
       t.textContent = short(raised) + " / " + short(TARGET);
       btn.title = "Support the list: " + fmt(raised) + " of " + fmt(TARGET) + " sats raised";
     }
     var d = document.getElementById("supDlg");
     if (d) {
-      d.querySelector(".sup-bar i").style.width = pct().toFixed(1) + "%";
+      d.querySelector(".sup-bar").innerHTML = raised == null ? "" : ascii(24);
       d.querySelector(".sup-raised").textContent = raised == null ? "…" : fmt(raised);
       d.querySelector(".sup-count").textContent = raised == null ? "" : count === 0 ? "Be the first to zap" : count === 1 ? "1 zap so far" : count + " zaps so far";
     }
@@ -96,7 +105,7 @@
           '<button type="button" class="sup-x" data-x aria-label="Close"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 5l14 14M19 5L5 19"/></svg></button></div>' +
         '<div class="sup-body">' +
           '<p class="sup-lede">Awesome Bitcoin Culture is free, open source and curated by hand. Zaps pay for the domain, hosting and curation time.</p>' +
-          '<div class="sup-goal"><p><b class="sup-raised">…</b> / ' + fmt(TARGET) + ' sats</p><div class="sup-bar"><i></i></div><p class="sup-count"></p></div>' +
+          '<div class="sup-goal"><p><b class="sup-raised">…</b> / ' + fmt(TARGET) + ' sats</p><div class="sup-bar" aria-hidden="true"></div><p class="sup-count"></p></div>' +
           '<div class="sup-pick" role="group" aria-label="Amount in sats">' +
             AMOUNTS.map(function (a) { return '<button type="button" data-a="' + a + '">' + short(a) + '</button>'; }).join("") +
             '<label class="sup-own"><span class="vh">Other amount in sats</span><input type="number" min="1" step="1" inputmode="numeric" placeholder="other"></label>' +

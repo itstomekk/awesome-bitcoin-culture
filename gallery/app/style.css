@@ -96,7 +96,7 @@ button,input{font:inherit;color:inherit}
 .src svg,.foot svg{width:17px;height:17px;flex:none;fill:currentColor;display:block}
 .src:hover{background:var(--ga);color:var(--gaf);border-color:var(--ga)}
 .ctl{position:fixed;left:0;right:0;bottom:0;z-index:45;border-top:2px solid var(--barrule);display:flex;align-items:center;gap:8px;padding:8px var(--pad) calc(8px + env(safe-area-inset-bottom,0px))}
-.search{position:relative;display:block;flex:0 1 420px;min-width:0;margin-right:auto}
+.search{position:relative;display:block;flex:0 1 340px;min-width:0}
 .search input{width:100%;background:transparent;color:rgb(var(--barfg));border:2px solid rgba(var(--barfg),.6);transition:background-color .25s ease,border-color .25s ease,color .25s ease;padding:8px 28px 8px 10px;font-size:11.5px;font-weight:700;text-transform:uppercase;letter-spacing:.03em;outline:0}
 .search input::placeholder{color:rgb(var(--barfg));opacity:.92;transition:color .25s ease}
 .search input:focus{background:var(--ga);color:var(--gaf);border-color:var(--ga)}
@@ -109,6 +109,8 @@ button,input{font:inherit;color:inherit}
 .theme{padding:0;gap:0;align-items:stretch}
 .theme span{padding:9px 10px;display:block;transition:background-color .25s ease,color .25s ease}
 .theme:hover{background:transparent}
+.ctl .theme{margin-left:auto}
+.theme svg{width:15px;height:15px;display:block;fill:currentColor}
 :root[data-theme="light"] .theme .lt,:root[data-theme="dark"] .theme .dk{background:var(--ga);color:var(--gaf)}
 
 /* ---------- shell: rail + one scroll ---------- */
@@ -280,7 +282,7 @@ body.noimg .head:focus-visible,body.noimg .head[aria-expanded="true"],html.hv bo
   .mark{font-size:15px;gap:8px;flex:1 1 auto}
   .src{order:4;font-size:10.5px;margin-left:auto}
   .ctl{gap:6px;padding:6px var(--pad) calc(6px + env(safe-area-inset-bottom,0px))}
-  .search{flex:1 1 60px;margin:0}
+  .search{order:5;flex:1 0 100%;margin:2px 0 0}
   .search input{font-size:12px;padding:9px 8px;text-transform:none;font-weight:700}
   .search kbd{display:none}
   .theme span{padding:9px 8px;font-size:10px}
@@ -347,8 +349,10 @@ html.hv body.noimg .si:hover{background:none;color:var(--fg)}
 .sl{display:inline-flex;align-items:center;gap:6px;color:inherit}
 .sl svg{width:15px;height:15px;fill:currentColor;flex:none}
 @media (max-width:799px){
-  .disc{order:5;flex:1 0 100%}
-  .disc button{flex:1 1 auto;font-size:10px;padding:8px 6px}
+  .disc{flex:1 1 auto;min-width:0}
+  .disc button{flex:0 1 auto;font-size:10px;padding:8px 9px}
+  #aotd span,#rnd span{display:none}
+  .disc button.supb{flex:1 1 auto}
   .soc{gap:3px;margin:0}
   .si{width:calc(1.35em + 2px);height:calc(1.35em + 2px)}
   .disc button{justify-content:center}

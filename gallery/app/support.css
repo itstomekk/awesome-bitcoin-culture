@@ -1,6 +1,8 @@
 /* "Support" button (in the discover group) and its dialog. Uses the page tokens (--bar, --barfg, --bg, --fg, --line2, --or, --display, --mono). */
-.disc button.supb{--p:0%;background:linear-gradient(rgb(var(--barfg)),rgb(var(--barfg))) left bottom/var(--p) 3px no-repeat}
-.disc button.supb:hover{background:linear-gradient(rgb(var(--barfg)),rgb(var(--barfg))) left bottom/var(--p) 3px no-repeat,rgba(var(--barfg),.14)}
+/* ASCII progress bar: cells fill from light shade to full block as sats come in */
+.supa{font:400 13px/1 Consolas,"DejaVu Sans Mono",Menlo,monospace;letter-spacing:0;white-space:pre}
+.supa:empty{display:none}
+.supa .off,.sup-bar .off{opacity:.42}
 .supn{font-weight:400;opacity:.85}
 .supn:empty{display:none}
 
@@ -22,8 +24,7 @@ html.sup-open{overflow:hidden}
 .sup-lede{margin:0 0 18px;font-size:14px;line-height:1.5}
 .sup-goal p{margin:0;font-size:13px;text-transform:uppercase;letter-spacing:.03em}
 .sup-goal b{font:400 22px/1 var(--display)}
-.sup-bar{height:10px;margin:8px 0 6px;border:2px solid var(--line2);background:transparent}
-.sup-bar i{display:block;height:100%;width:0;background:var(--or);transition:width .6s ease}
+.sup-bar{margin:8px 0 6px;font:400 17px/1 Consolas,"DejaVu Sans Mono",Menlo,monospace;letter-spacing:0;white-space:pre;overflow:hidden}
 .sup-count{opacity:.7;font-size:11.5px!important}
 .sup-pick{display:flex;flex-wrap:wrap;margin:18px 0 12px}
 .sup-pick button,.sup-own input{font:700 13px/1 var(--mono);height:40px;border:2px solid var(--line2);margin:0 -2px -2px 0;background:transparent;color:var(--fg)}
@@ -50,4 +51,4 @@ html.sup-open{overflow:hidden}
 .sup-fine{margin:18px 0 0;font-size:11.5px;line-height:1.5;opacity:.8}
 .sup-fine a{color:inherit}
 @media (max-width:799px){.disc button.supb{gap:5px}}
-@media (max-width:420px){.supn{display:none}}
+@media (max-width:420px){.supn{display:none}.disc button .supa{font-size:11px}}
