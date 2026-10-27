@@ -1,6 +1,16 @@
 # HANDOFF — awesome-bitcoin-culture
 
-**Last updated:** 2026-10-19.
+**Last updated:** 2026-10-26.
+
+## Update 2026-10-26 (mini gallery pilot, local only)
+
+- Opened entries can show a mini gallery: the main picture plus up to 4 more works, thumbnail strip under the big picture, click the big picture for a full-screen viewer (arrows, Esc). Data: `gallery/data/works.json` -> `wk` in `shared/data.js`; files in `gallery/shared/works/<id>-<n>.webp` (1200px) + `.t.webp` thumbs. Entries without works are unchanged.
+- Pilot (Tomek chose: ~10 artists, review, then all 121 Visual Art): tj-murphy, pascal-boyart-pboy, lady-block-jane, coldie, tynka, cryptograffiti, rare-scrilla, gareth-eckley (5 pictures each), studio-zeitwerk, the-great-print (4; their pages have no more distinct works). Bitcoin-themed works preferred where the artist has them.
+- Workflow: `C:/Python314/python.exe scripts/harvest_works.py <scratch dir> <ids>` (Firefox; upgrades Wix/Shopify/Squarespace/WP/cdn-cgi URLs to large renditions; drops small and duplicate images; writes a numbered `sheet.jpg`) -> pick by eye -> `python scripts/add_works.py <scratch dir> <id> 4,9,14,16` -> `python scripts/build.py --no-fetch`. Always check a main+works review sheet: a main picture composed on a blurred backdrop can slip past the duplicate check (4 caught in the pilot).
+- Daily banner: an entry with works shows a different one of its pictures (main + works) as its row banner each day, same for every visitor (`bannerOf`/`dayIdx` in app.js, hash of date + id); its panel opens on that picture. After adding works run `python scripts/lum_works.py` so the new pictures get luminance/hue in `app/lum.js` (existing keys untouched).
+- Phone category strip: each tab has a 4px top line in its room colour (was a neutral line).
+- Open issue: Rare Scrilla's existing main picture is a text-only "Memetik Artefaktes" slab.
+- Full Visual Art run (2026-10-27): 101 entries have works, 350 pictures (73 entries with 4, 12 with 3, 6 with 2, 10 with 1, 20 with none). Harvest workspace outside the repo: `C:/Users/Lenovo/Hermes/projects/research/abc-works-harvest/` (candidates, picks, review sheets). Rule learned: only first-party pages (own site, own creator page on scarce.city/Timechain, single-artwork pages credited to the artist). Shop/catalogue/artist-grid pages on multi-artist sites and X accounts gave other artists' work, so `harvest_works.py` no longer follows links on those and records the source `page` per candidate. 20 entries without works only link to X/Instagram or have a dead site.
 
 ## Update 2026-10-23 (Nostr account, Support goal)
 

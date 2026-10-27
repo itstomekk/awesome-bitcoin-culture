@@ -36,7 +36,7 @@
   }
   // hue + saturation for an entry: its own colour if it has a real one, else the accent of its picture, else the name hash
   function hueOf(e, b) {
-    var c = hexHsl(e.color);
+    var c = b && b.alt ? null : hexHsl(e.color); // a mini-gallery work: its own accent, not the main picture's colour
     if (c && c[1] > 8) return { h: c[0], s: Math.max(30, Math.min(64, c[1])), own: true };
     var p = b && picOf(b);
     if (p && p[1] >= 0) return { h: p[1], s: Math.max(30, Math.min(64, p[2])), own: false };
@@ -51,6 +51,13 @@
     var b = A.best ? A.best(e) : null;
     if (!b && !A.best && e.img) b = { src: A.src(e), kind: e.w >= 420 ? "og" : "icon" };
     return b;
+  }
+  // banner picture: entries with a mini gallery show a different one of their works each day (same for every visitor that day)
+  function dayIdx(e, n) { return n > 1 ? A.hash(dayKey() + ":" + e.id) % n : 0; }
+  function bannerOf(e) {
+    if (!e.wk) return bestOf(e);
+    var it = galItems(e), i = dayIdx(e, it.length);
+    return { src: it[i].src, kind: "og", alt: it[i].src.indexOf(WK) === 0 };
   }
   function picOf(b) { return LUM[(b.kind === "shot" ? "s:" : "i:") + b.src.split("/").pop()] || null; }
   function lumOf(e, b) {
@@ -134,7 +141,7 @@
   function fillBanner(el) {
     var e = byId[el.dataset.id]; if (!e || el.dataset.done) return;
     el.dataset.done = "1";
-    var b = bestOf(e), kind = el.dataset.kind;
+    var b = bannerOf(e), kind = el.dataset.kind;
     if (!b || kind === "gen") {
       el.dataset.kind = "gen";
       el.innerHTML = '<span class="pw">' + genSvg(e, 1200, 200, "gen") + "</span>";
@@ -243,7 +250,7 @@
     return h ? '<div><dt>Social</dt><dd class="socl">' + h + "</dd></div>" : "";
   }
   function rowHtml(e) {
-    var b = bestOf(e), kind = b ? b.kind : "gen";
+    var b = bannerOf(e), kind = b ? b.kind : "gen";
     var open = state.open === e.id;
     var dk = b && kind !== "icon" && lumOf(e, b) < DK ? ' data-dk="1"' : "";
     var lab = e.sub || e.section;
@@ -257,6 +264,7 @@
   }
   function panelPic(e) {
     var b = bestOf(e);
+    if (e.wk) return galPic(e, b);
     if (!b) return '<div class="shot">' + tile(e) + "</div>";
     var alt = A.esc(e.name + (b.kind === "shot" ? " website snapshot" : " preview")), fb = ' data-fb="' + A.esc(e.id) + '"';
     if (b.kind === "shot")
@@ -268,6 +276,84 @@
     }
     return '<div class="shot"><img src="' + A.esc(b.src) + '" alt="' + alt + '" decoding="async"' + fb + (e.w ? ' width="' + e.w + '" height="' + e.h + '"' : "") + "></div>";
   }
+  /* ---------- mini gallery: main picture + up to 4 more works (data/works.json) ---------- */
+  var WK = "../shared/works/";
+  function galItems(e) { // the main picture leads when it is real art (wide, or a large square); logos and site snapshots are left out
+    var b = bestOf(e), out = [];
+    if (b && b.kind === "og") out.push({ src: b.src, th: b.src, w: e.w, h: e.h });
+    else if (e.img && e.w >= 500) out.push({ src: A.src(e), th: A.src(e), w: e.w, h: e.h });
+    e.wk.forEach(function (x) { out.push({ src: WK + x[0], th: WK + x[0].replace(/\.webp$/, ".t.webp"), w: x[1], h: x[2] }); });
+    return out;
+  }
+  function galPic(e) {
+    var it = galItems(e), n = it.length, s = dayIdx(e, n), f = it[s]; // opens on the banner's picture of the day
+    var h = '<div class="shot gm"><button type="button" class="gz" data-gi="' + s + '" aria-label="Enlarge picture ' + (s + 1) + " of " + n + '">' +
+      '<img src="' + A.esc(f.src) + '" alt="' + A.esc(e.name + ", work " + (s + 1) + " of " + n) + '" decoding="async" width="' + f.w + '" height="' + f.h + '"></button></div>' +
+      '<div class="thumbs">';
+    it.forEach(function (x, i) {
+      h += '<button type="button" class="th' + (i === s ? " on" : "") + '" data-gi="' + i + '" aria-label="Show work ' + (i + 1) + " of " + n + '"' + (i === s ? ' aria-current="true"' : "") + ">" +
+        '<img src="' + A.esc(x.th) + '" alt="" loading="lazy" decoding="async"></button>';
+    });
+    return h + "</div>";
+  }
+  function galShow(li, i) {
+    var e = byId[li.dataset.id], it = galItems(e), x = it[i]; if (!x) return;
+    var z = li.querySelector(".gz"), img = z.querySelector("img");
+    img.src = x.src; img.width = x.w; img.height = x.h; img.alt = e.name + ", work " + (i + 1) + " of " + it.length;
+    z.dataset.gi = i; z.setAttribute("aria-label", "Enlarge picture " + (i + 1) + " of " + it.length);
+    Array.prototype.forEach.call(li.querySelectorAll(".th"), function (t, k) {
+      t.classList.toggle("on", k === i);
+      if (k === i) t.setAttribute("aria-current", "true"); else t.removeAttribute("aria-current");
+    });
+  }
+  // full-screen viewer
+  var lb = null, lbAt = { id: null, i: 0, from: null };
+  function lbDraw() {
+    var e = byId[lbAt.id], it = galItems(e), x = it[lbAt.i];
+    var img = lb.querySelector("img");
+    img.src = x.src; img.alt = e.name + ", work " + (lbAt.i + 1) + " of " + it.length;
+    lb.querySelector(".lbn").textContent = e.name + "  " + (lbAt.i + 1) + " / " + it.length;
+  }
+  function lbOpen(id, i, from) {
+    if (!lb) {
+      lb = document.createElement("div");
+      lb.id = "lb"; lb.setAttribute("role", "dialog"); lb.setAttribute("aria-modal", "true"); lb.setAttribute("aria-label", "Picture viewer");
+      lb.innerHTML = '<img alt=""><p class="lbn"></p>' +
+        '<button type="button" class="lbp" aria-label="Previous picture">&#8249;</button>' +
+        '<button type="button" class="lbx" aria-label="Close viewer">&#215;</button>' +
+        '<button type="button" class="lbf" aria-label="Next picture">&#8250;</button>';
+      document.body.appendChild(lb);
+      lb.addEventListener("click", function (ev) {
+        if (ev.target.closest(".lbp")) lbStep(-1);
+        else if (ev.target.closest(".lbf")) lbStep(1);
+        else if (ev.target.tagName !== "IMG") lbClose();
+      });
+    }
+    lbAt = { id: id, i: i, from: from };
+    lbDraw();
+    lb.hidden = false; root.classList.add("lb-open");
+    lb.querySelector(".lbx").focus();
+  }
+  function lbStep(d) { var n = galItems(byId[lbAt.id]).length; lbAt.i = (lbAt.i + d + n) % n; lbDraw(); }
+  function lbClose() {
+    lb.hidden = true; root.classList.remove("lb-open");
+    var li = rowsEl.querySelector('.row[data-id="' + lbAt.id + '"]');
+    if (li) galShow(li, lbAt.i); // the panel follows what was viewed last
+    if (lbAt.from && document.contains(lbAt.from)) lbAt.from.focus();
+  }
+  // capture phase: while the viewer is open no other shortcut (Escape closing the panel, T, R, /) runs
+  window.addEventListener("keydown", function (ev) {
+    if (!lb || lb.hidden) return;
+    if (ev.key === "Escape") lbClose();
+    else if (ev.key === "ArrowLeft") lbStep(-1);
+    else if (ev.key === "ArrowRight") lbStep(1);
+    else if (ev.key === "Tab") { // keep focus inside the viewer
+      var bs = lb.querySelectorAll("button"), k = Array.prototype.indexOf.call(bs, document.activeElement);
+      bs[(k + (ev.shiftKey ? bs.length - 1 : 1)) % bs.length].focus();
+    } else return;
+    ev.preventDefault(); ev.stopImmediatePropagation();
+  }, true);
+
   function panelHtml(e) {
     var room = A.roomById[e.room];
     return '<div class="pin"><figure class="fig">' + panelPic(e) + "</figure>" +
@@ -454,6 +540,10 @@
     var si = ev.target.closest(".si");
     if (si) { ev.preventDefault(); ev.stopPropagation(); window.open(si.dataset.href, "_blank", "noopener"); return; }
     var cp = ev.target.closest(".cplink");
+    var th = ev.target.closest(".th");
+    if (th) { galShow(th.closest(".row"), +th.dataset.gi); return; }
+    var gz = ev.target.closest(".gz");
+    if (gz) { lbOpen(gz.closest(".row").dataset.id, +gz.dataset.gi, gz); return; }
     if (cp) {
       ev.preventDefault();
       var u = location.href.split("#")[0] + "#" + cp.dataset.copy;

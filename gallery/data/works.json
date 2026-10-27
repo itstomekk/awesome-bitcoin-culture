@@ -1,0 +1,2304 @@
+{
+ "2140art": [
+  {
+   "img": "2140art-1.webp",
+   "w": 514,
+   "h": 508,
+   "src": "https://2140art.com/wp-content/uploads/2023/12/Kane_Mayfield_Dust-514x508-1.webp"
+  },
+  {
+   "img": "2140art-2.webp",
+   "w": 738,
+   "h": 1099,
+   "src": "https://2140art.com/wp-content/uploads/2024/02/photo_2024-01-07_11-58-46-jpg.webp"
+  }
+ ],
+ "a13mw": [
+  {
+   "img": "a13mw-1.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://static.wixstatic.com/media/605651_7cf79eea20d94c28bb369a538acf8a6b~mv2.jpg"
+  },
+  {
+   "img": "a13mw-2.webp",
+   "w": 750,
+   "h": 758,
+   "src": "https://static.wixstatic.com/media/605651_988cebd08cd5433ab7ecca77964a1c2f~mv2.png"
+  },
+  {
+   "img": "a13mw-3.webp",
+   "w": 1082,
+   "h": 1200,
+   "src": "https://static.wixstatic.com/media/605651_fa69047bd9b046d4b38c94d0eeff824e~mv2.png"
+  },
+  {
+   "img": "a13mw-4.webp",
+   "w": 802,
+   "h": 1200,
+   "src": "https://static.wixstatic.com/media/605651_3bf87dd76f7e47fdb8e9d6cb2d7a5335~mv2.png"
+  }
+ ],
+ "adam-kadmon": [
+  {
+   "img": "adam-kadmon-1.webp",
+   "w": 800,
+   "h": 534,
+   "src": "https://adamkadmon.my.canva.site/bitcoinart/_assets/media/3afa77f671153612780b6c9dbf1698b7.jpg"
+  },
+  {
+   "img": "adam-kadmon-2.webp",
+   "w": 799,
+   "h": 534,
+   "src": "https://adamkadmon.my.canva.site/bitcoinart/_assets/media/da7d0efdbdc5735d1f97fbc5f79a3cb3.jpg"
+  },
+  {
+   "img": "adam-kadmon-3.webp",
+   "w": 1200,
+   "h": 693,
+   "src": "https://adamkadmon.my.canva.site/bitcoinart/_assets/media/9b24b7a0e9694dc5f9b00d396b8610d1.jpg"
+  },
+  {
+   "img": "adam-kadmon-4.webp",
+   "w": 799,
+   "h": 533,
+   "src": "https://adamkadmon.my.canva.site/bitcoinart/_assets/media/66d6f4bd06a0344bc5c1f1b3dad284c5.jpg"
+  }
+ ],
+ "alex-schaefer": [
+  {
+   "img": "alex-schaefer-1.webp",
+   "w": 375,
+   "h": 500,
+   "src": "https://images.saatchiart.com/saatchi/718101/art/13180329/12242465-HBTIOYKQ-6.jpg"
+  },
+  {
+   "img": "alex-schaefer-2.webp",
+   "w": 375,
+   "h": 500,
+   "src": "https://images.saatchiart.com/saatchi/718101/art/12299593/11361789-SRSZLMQP-6.jpg"
+  },
+  {
+   "img": "alex-schaefer-3.webp",
+   "w": 375,
+   "h": 500,
+   "src": "https://images.saatchiart.com/saatchi/718101/art/11958383/11020611-OROGFKRU-6.jpg"
+  },
+  {
+   "img": "alex-schaefer-4.webp",
+   "w": 375,
+   "h": 500,
+   "src": "https://images.saatchiart.com/saatchi/718101/art/11799819/10862059-ZBBTFFPK-6.jpg"
+  }
+ ],
+ "amy-digi": [
+  {
+   "img": "amy-digi-1.webp",
+   "w": 370,
+   "h": 370,
+   "src": "https://img1.wsimg.com/isteam/ip/5c20fa14-88c1-4a15-be23-54cb0b03ee83/DiGi%20Bullish%20.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:370,cg:true"
+  },
+  {
+   "img": "amy-digi-2.webp",
+   "w": 370,
+   "h": 559,
+   "src": "https://img1.wsimg.com/isteam/ip/5c20fa14-88c1-4a15-be23-54cb0b03ee83/Stitched%20in%20time%20Bitcoins%20milestones_Amy%20DiGi.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:370,cg:true"
+  },
+  {
+   "img": "amy-digi-3.webp",
+   "w": 370,
+   "h": 488,
+   "src": "https://img1.wsimg.com/isteam/ip/5c20fa14-88c1-4a15-be23-54cb0b03ee83/Infinity%20Pepe%20.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:370,cg:true"
+  },
+  {
+   "img": "amy-digi-4.webp",
+   "w": 675,
+   "h": 1200,
+   "src": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/840022705_18625105966011509_8198134654963244180_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=jywvh-ZQudIQ7kNvwEimy6v&_nc_oc=AdpJpvnPMiKRG4YS0J_pLrWuAE2zsj5NlAQ29GAY5zz0TJAz4l5Vx5TX3jvqixD_MUc&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AFF3FJ0EAAAA&_nc_gid=cBxvSjnKiXzGLQXLDTXFyA&_nc_tpa=Q5bMBQKTz5qvZcasZVGqLyU0yXN3_v8hqB-xPMVNwNztSk51C32DcTL6zo2U1J3Gji151fN8OE2GSE2_tA&oh=00_AQOEHHVhbDCCrwmXP7zF7syiuH84EiMmBJ_s753gAtIr9A&oe=6AE569E5"
+  }
+ ],
+ "antonio-batzu": [
+  {
+   "img": "antonio-batzu-1.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://static.wixstatic.com/media/cc5cff_4cf0e3c24d5449f09fc080ec527b8f00~mv2.jpg"
+  },
+  {
+   "img": "antonio-batzu-2.webp",
+   "w": 1200,
+   "h": 901,
+   "src": "https://static.wixstatic.com/media/cc5cff_cd0c6953ecee4dacb7f9f0e8f10cde85~mv2.png"
+  },
+  {
+   "img": "antonio-batzu-3.webp",
+   "w": 1200,
+   "h": 901,
+   "src": "https://static.wixstatic.com/media/cc5cff_53a0cdd4d6b34014a18aba58b7c6e9b7~mv2.png"
+  },
+  {
+   "img": "antonio-batzu-4.webp",
+   "w": 900,
+   "h": 1200,
+   "src": "https://static.wixstatic.com/media/cc5cff_4d5304b08df54a1a93311234d1bad74f~mv2.jpg"
+  }
+ ],
+ "april-popko": [
+  {
+   "img": "april-popko-1.webp",
+   "w": 558,
+   "h": 800,
+   "src": "https://www.popkoproductions.com/uploads/1/6/4/9/1649121/20260407-092955-edit3_orig.jpg"
+  },
+  {
+   "img": "april-popko-2.webp",
+   "w": 1200,
+   "h": 353,
+   "src": "https://www.popkoproductions.com/uploads/1/6/4/9/1649121/background-images/335879747.jpg"
+  },
+  {
+   "img": "april-popko-3.webp",
+   "w": 800,
+   "h": 600,
+   "src": "https://www.popkoproductions.com/uploads/1/6/4/9/1649121/whatsapp-image-2021-11-23-at-1-12-40-pm-1.jpeg"
+  },
+  {
+   "img": "april-popko-4.webp",
+   "w": 800,
+   "h": 598,
+   "src": "https://www.popkoproductions.com/uploads/1/6/4/9/1649121/true-colors-15cmx20cm.jpg"
+  }
+ ],
+ "ariel-birdie": [
+  {
+   "img": "ariel-birdie-1.webp",
+   "w": 598,
+   "h": 800,
+   "src": "https://www.arielbird.com/uploads/1/4/9/2/149208428/bitcoin-buddha.jpg"
+  },
+  {
+   "img": "ariel-birdie-2.webp",
+   "w": 573,
+   "h": 800,
+   "src": "https://www.arielbird.com/uploads/1/4/9/2/149208428/bitcoin-jesus.jpg"
+  },
+  {
+   "img": "ariel-birdie-3.webp",
+   "w": 618,
+   "h": 800,
+   "src": "https://www.arielbird.com/uploads/1/4/9/2/149208428/madonna-with-child-holding-bitcoin.jpg"
+  },
+  {
+   "img": "ariel-birdie-4.webp",
+   "w": 565,
+   "h": 800,
+   "src": "https://www.arielbird.com/uploads/1/4/9/2/149208428/ganesha1-copy.jpg"
+  }
+ ],
+ "asanoha": [
+  {
+   "img": "asanoha-1.webp",
+   "w": 888,
+   "h": 1200,
+   "src": "https://sovereignremnant.com/wp-content/uploads/2024/01/IMG_2570-scaled-e1707525824652.jpg"
+  },
+  {
+   "img": "asanoha-2.webp",
+   "w": 900,
+   "h": 1200,
+   "src": "https://sovereignremnant.com/wp-content/uploads/2024/01/image_2da122cf-0938-45e7-8659-77a9901dde58-scaled.jpg"
+  },
+  {
+   "img": "asanoha-3.webp",
+   "w": 951,
+   "h": 1200,
+   "src": "https://sovereignremnant.com/wp-content/uploads/2025/05/1.png"
+  },
+  {
+   "img": "asanoha-4.webp",
+   "w": 801,
+   "h": 1200,
+   "src": "https://sovereignremnant.com/wp-content/uploads/2024/02/DSC00089-min-scaled.jpg"
+  }
+ ],
+ "bitchair": [
+  {
+   "img": "bitchair-1.webp",
+   "w": 864,
+   "h": 1184,
+   "src": "https://bitchair.store/wp-content/uploads/2025/12/freepik__place-img1-exactly-as-is-on-smooth-pale-orange-bac__87758.png"
+  },
+  {
+   "img": "bitchair-2.webp",
+   "w": 864,
+   "h": 1184,
+   "src": "https://bitchair.store/wp-content/uploads/2025/12/freepik__place-img1-exactly-as-is-on-smooth-pale-orange-bac__87747.png"
+  },
+  {
+   "img": "bitchair-3.webp",
+   "w": 900,
+   "h": 1200,
+   "src": "https://bitchair.store/wp-content/uploads/2025/12/freepik__place-img1-exactly-as-is-on-smooth-pale-orange-bac__87748.jpeg"
+  },
+  {
+   "img": "bitchair-4.webp",
+   "w": 821,
+   "h": 1200,
+   "src": "https://bitchair.store/wp-content/uploads/2025/12/freepik__place-img1-exactly-as-is-on-smooth-pale-orange-bac__48747.jpeg"
+  }
+ ],
+ "bitcoin-apex": [
+  {
+   "img": "bitcoin-apex-1.webp",
+   "w": 850,
+   "h": 1200,
+   "src": "https://static.wixstatic.com/media/86d21d_17b77a5ff12b4f89b7a943df1ccddb43~mv2.jpg"
+  },
+  {
+   "img": "bitcoin-apex-2.webp",
+   "w": 1200,
+   "h": 848,
+   "src": "https://static.wixstatic.com/media/86d21d_d36f2ec80ff8453584ac5c15542a52b8~mv2.jpg"
+  },
+  {
+   "img": "bitcoin-apex-3.webp",
+   "w": 1200,
+   "h": 848,
+   "src": "https://static.wixstatic.com/media/86d21d_9d06dbbd57ff4c24bd99b6b4e7c729f5~mv2.jpg"
+  },
+  {
+   "img": "bitcoin-apex-4.webp",
+   "w": 1200,
+   "h": 845,
+   "src": "https://static.wixstatic.com/media/86d21d_393ed68f6ae049538a4033690705c5df~mv2.jpg"
+  }
+ ],
+ "bitcoin-cartoons": [
+  {
+   "img": "bitcoin-cartoons-1.webp",
+   "w": 1200,
+   "h": 719,
+   "src": "https://bitcoincartoons.io/cdn/shop/files/bitcoin-cartoons-hero.png?v=1788782628&width=1600"
+  },
+  {
+   "img": "bitcoin-cartoons-2.webp",
+   "w": 1070,
+   "h": 1070,
+   "src": "https://bitcoincartoons.io/cdn/shop/files/175_Pet_Rock_Framed.jpg?v=1742310402"
+  },
+  {
+   "img": "bitcoin-cartoons-3.webp",
+   "w": 720,
+   "h": 720,
+   "src": "https://bitcoincartoons.io/cdn/shop/collections/OUTOFTHINAIR_DIGITALPRINT_MOCKUP.jpg?v=1756155903"
+  },
+  {
+   "img": "bitcoin-cartoons-4.webp",
+   "w": 803,
+   "h": 803,
+   "src": "https://bitcoincartoons.io/cdn/shop/files/21TOWIN_FATHEAD_01.jpg?v=1744474451"
+  }
+ ],
+ "bitcoin-design": [
+  {
+   "img": "bitcoin-design-1.webp",
+   "w": 1200,
+   "h": 450,
+   "src": "https://bitcoin.design/assets/images/guide/how-it-works/transactions/transactions-desktop.jpg"
+  },
+  {
+   "img": "bitcoin-design-2.webp",
+   "w": 1200,
+   "h": 630,
+   "src": "https://bitcoin.design/assets/images/guide/bitcoin-island-preview.jpg"
+  },
+  {
+   "img": "bitcoin-design-3.webp",
+   "w": 1200,
+   "h": 450,
+   "src": "https://bitcoin.design/assets/images/guide/getting-started/visual-language/bitcoin-visual-language.jpg"
+  }
+ ],
+ "bitcoin-trading-cards": [
+  {
+   "img": "bitcoin-trading-cards-1.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://basedtradingcards.com/cdn/shop/files/3_662d876d-4e81-41d4-9576-2e9d684799b5.png?v=1784270115&width=1600"
+  },
+  {
+   "img": "bitcoin-trading-cards-2.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://basedtradingcards.com/cdn/shop/files/fineart_---_BTC_Series_3.jpg?v=1780476588&width=1600"
+  },
+  {
+   "img": "bitcoin-trading-cards-3.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://basedtradingcards.com/cdn/shop/files/Untitleddesign_3e782fc2-3ab4-4fc7-ba10-1d9e45986a7d.png?v=1784270121&width=1600"
+  },
+  {
+   "img": "bitcoin-trading-cards-4.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://basedtradingcards.com/cdn/shop/files/4_a3d419af-4956-46b5-9fe0-fc037d51f1e7.png?v=1784270117&width=1600"
+  }
+ ],
+ "bitko-yinowsky": [
+  {
+   "img": "bitko-yinowsky-1.webp",
+   "w": 902,
+   "h": 1200,
+   "src": "https://bitko.cc/wp-content/uploads/2019/12/Pic_of_print_01.jpg"
+  },
+  {
+   "img": "bitko-yinowsky-2.webp",
+   "w": 902,
+   "h": 1200,
+   "src": "https://bitko.cc/wp-content/uploads/2019/12/Pic_of_print_06.jpg"
+  },
+  {
+   "img": "bitko-yinowsky-3.webp",
+   "w": 468,
+   "h": 623,
+   "src": "https://bitko.cc/wp-content/uploads/2023/08/BY_magnets_03.jpg"
+  },
+  {
+   "img": "bitko-yinowsky-4.webp",
+   "w": 468,
+   "h": 623,
+   "src": "https://bitko.cc/wp-content/uploads/2020/10/BY_stickers_18_b.jpg"
+  }
+ ],
+ "bitpopart": [
+  {
+   "img": "bitpopart-1.webp",
+   "w": 400,
+   "h": 395,
+   "src": "https://wsrv.nl/?url=https%3A%2F%2Fblossom.primal.net%2F4bd31092290a78890c59102d4d1a576e932b39572c304ee87f9db9ea0e88fbb7.jpg&w=400&output=webp&q=75&default=https%3A%2F%2Fblossom.primal.net%2F4bd31092290a78890c59102d4d1a576e932b39572c304ee87f9db9ea0e88fbb7.jpg"
+  },
+  {
+   "img": "bitpopart-2.webp",
+   "w": 640,
+   "h": 437,
+   "src": "https://bitpopart.com/tiles/883df54a2d21c70084570f5ff147458a5971d65a5d2f3612a05bb5a57fbabf71.jpg"
+  },
+  {
+   "img": "bitpopart-3.webp",
+   "w": 400,
+   "h": 800,
+   "src": "https://wsrv.nl/?url=https%3A%2F%2Fblossom.primal.net%2F7841666c525a1e63bcdd941d049ad81490e60e64eb616847442afa06740092a9.png&w=400&output=webp&q=75&default=https%3A%2F%2Fblossom.primal.net%2F7841666c525a1e63bcdd941d049ad81490e60e64eb616847442afa06740092a9.png"
+  },
+  {
+   "img": "bitpopart-4.webp",
+   "w": 400,
+   "h": 711,
+   "src": "https://wsrv.nl/?url=https%3A%2F%2Fblossom.primal.net%2F64708ee4cd5094850368b76468327c4719cd39550ae4956281b8d89237a7dfc4.png&w=400&output=webp&q=75&default=https%3A%2F%2Fblossom.primal.net%2F64708ee4cd5094850368b76468327c4719cd39550ae4956281b8d89237a7dfc4.png"
+  }
+ ],
+ "brekkie-von-bitcoin": [
+  {
+   "img": "brekkie-von-bitcoin-1.webp",
+   "w": 1080,
+   "h": 1079,
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tXTOfChwA77ect04Fs648-KztbRqqSEVoKq7vq8_bsYOEqy-GmVI7Lp_Wx4-IXLA-kZKgQZro_95TDOPSgGRWwFhDRbR8tDw8qFg8TtAzvr7LfBUAKdmcW9yqmLKAOh2eKF88cM1_9incIsLZYonbyQvOsgm1RYG9XN7JcCxVE0ZzQOI6xF3sD3Gi4Y-E=w16383"
+  }
+ ],
+ "btc-monk": [
+  {
+   "img": "btc-monk-1.webp",
+   "w": 811,
+   "h": 1200,
+   "src": "https://cdn.sanity.io/images/w4avejpr/production/39558aae7ad6c6d2eddb17dbbce508adb205b1d0-3648x5397.jpg?auto=format"
+  },
+  {
+   "img": "btc-monk-2.webp",
+   "w": 817,
+   "h": 1200,
+   "src": "https://cdn.sanity.io/images/w4avejpr/production/d097b8c31f1146e7c5cef99c52264a60040326be-3622x5321.jpg?auto=format"
+  }
+ ],
+ "ca-danner": [
+  {
+   "img": "ca-danner-1.webp",
+   "w": 360,
+   "h": 444,
+   "src": "https://d3zr9vspdnjxi.cloudfront.net/sites/carolea1/th/11100057_IMG-6870-jpeg.jpg?eedfcd4ebac34bf8c868534a96d6fd6d"
+  },
+  {
+   "img": "ca-danner-2.webp",
+   "w": 400,
+   "h": 399,
+   "src": "https://d3zr9vspdnjxi.cloudfront.net/sites/carolea1/th/7199207_68F14095-44D5-4316-BB31-42E460D0D010-jpeg.jpg?d50046d5a44de63c38acded51f7268f0"
+  },
+  {
+   "img": "ca-danner-3.webp",
+   "w": 395,
+   "h": 404,
+   "src": "https://d3zr9vspdnjxi.cloudfront.net/sites/carolea1/th/7331018_IMG-4189-jpeg.jpg?9a2e5fe3bd2aa1afac0bbf6439c656a2"
+  },
+  {
+   "img": "ca-danner-4.webp",
+   "w": 396,
+   "h": 403,
+   "src": "https://d3zr9vspdnjxi.cloudfront.net/sites/carolea1/th/5401144_CB974223-1DB3-4F9E-B80C-61FBDBFF495F-jpeg.jpg?5b953767d32da34f63be04a91d6e8c41"
+  }
+ ],
+ "camas-logue": [
+  {
+   "img": "camas-logue-1.webp",
+   "w": 871,
+   "h": 1200,
+   "src": "https://images.squarespace-cdn.com/content/v1/594425546a4963ea399b257c/1688608032024-TBT128GXFFCB2GQTF8J8/image-asset.jpeg?format=1500w"
+  },
+  {
+   "img": "camas-logue-2.webp",
+   "w": 1200,
+   "h": 1125,
+   "src": "https://images.squarespace-cdn.com/content/v1/594425546a4963ea399b257c/1688608212027-NF5PCWOIM64Y8GAG1A29/image-asset.jpeg?format=1500w"
+  },
+  {
+   "img": "camas-logue-3.webp",
+   "w": 1200,
+   "h": 758,
+   "src": "https://images.squarespace-cdn.com/content/v1/594425546a4963ea399b257c/1685140972375-F4ELN0O2QD80XKP29DYZ/image-asset.jpeg?format=1500w"
+  },
+  {
+   "img": "camas-logue-4.webp",
+   "w": 1200,
+   "h": 850,
+   "src": "https://images.squarespace-cdn.com/content/v1/594425546a4963ea399b257c/1648063912548-6W08VYC436XA8EFU5HCR/image-asset.jpeg?format=1500w"
+  }
+ ],
+ "chiefmonkey": [
+  {
+   "img": "chiefmonkey-1.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://hodlr.rocks/wp-content/uploads/2022/04/SHAmanic-00.jpg"
+  },
+  {
+   "img": "chiefmonkey-2.webp",
+   "w": 1200,
+   "h": 913,
+   "src": "https://hodlr.rocks/wp-content/uploads/2020/01/truth-will-out-1.jpeg"
+  },
+  {
+   "img": "chiefmonkey-3.webp",
+   "w": 1200,
+   "h": 900,
+   "src": "https://hodlr.rocks/wp-content/uploads/2020/01/apathy-corp-4.jpg"
+  },
+  {
+   "img": "chiefmonkey-4.webp",
+   "w": 1200,
+   "h": 900,
+   "src": "https://hodlr.rocks/wp-content/uploads/2020/04/8-sousveillance.jpg"
+  }
+ ],
+ "coldie": [
+  {
+   "img": "coldie-1.webp",
+   "w": 700,
+   "h": 700,
+   "src": "https://coldie3d.com/works/tech-epochalypse/sam-altman.webp"
+  },
+  {
+   "img": "coldie-2.webp",
+   "w": 800,
+   "h": 800,
+   "src": "https://coldie3d.com/works/normie-3d/normie-3d.gif"
+  },
+  {
+   "img": "coldie-3.webp",
+   "w": 1100,
+   "h": 1100,
+   "src": "https://coldie3d.com/works/eterno-prints/37.jpg"
+  },
+  {
+   "img": "coldie-4.webp",
+   "w": 1000,
+   "h": 667,
+   "src": "https://coldie3d.com/works/digital/en-marcha.webp"
+  }
+ ],
+ "crayonsmell": [
+  {
+   "img": "crayonsmell-1.webp",
+   "w": 1200,
+   "h": 900,
+   "src": "https://cdn.sanity.io/images/w4avejpr/production/7687a4e11f136d9a82d451704643b9c5612128dd-4032x3024.jpg?auto=format"
+  }
+ ],
+ "crypsi": [
+  {
+   "img": "crypsi-1.webp",
+   "w": 937,
+   "h": 1200,
+   "src": "https://crypsi.com/wp-content/uploads/2024/04/BitcoinLighter-scaled.jpg"
+  },
+  {
+   "img": "crypsi-2.webp",
+   "w": 1200,
+   "h": 920,
+   "src": "https://crypsi.com/wp-content/uploads/2021/03/no2x_1.jpg"
+  },
+  {
+   "img": "crypsi-3.webp",
+   "w": 1200,
+   "h": 920,
+   "src": "https://crypsi.com/wp-content/uploads/2021/03/uasf_1.jpg"
+  },
+  {
+   "img": "crypsi-4.webp",
+   "w": 1172,
+   "h": 1200,
+   "src": "https://crypsi.com/wp-content/uploads/2024/04/Yellen.jpg"
+  }
+ ],
+ "cryptograffiti": [
+  {
+   "img": "cryptograffiti-1.webp",
+   "w": 960,
+   "h": 673,
+   "src": "https://cryptograffiti.com/cdn/shop/products/vp_closeup-e1411423518383_960x.jpg?v=1602224598"
+  },
+  {
+   "img": "cryptograffiti-2.webp",
+   "w": 480,
+   "h": 480,
+   "src": "https://cryptograffiti.com/cdn/shop/products/IMG_4942_480x.jpg?v=1660204186"
+  },
+  {
+   "img": "cryptograffiti-3.webp",
+   "w": 480,
+   "h": 572,
+   "src": "https://cryptograffiti.com/cdn/shop/products/vp_front-e1411423061569_1920x_597b5210-dff8-4870-a33d-f50ada984593_480x.jpg?v=1602224598"
+  },
+  {
+   "img": "cryptograffiti-4.webp",
+   "w": 480,
+   "h": 480,
+   "src": "https://cryptograffiti.com/cdn/shop/products/IMG_3067_4_480x.jpg?v=1602398958"
+  }
+ ],
+ "cypherpunk-now": [
+  {
+   "img": "cypherpunk-now-1.webp",
+   "w": 600,
+   "h": 399,
+   "src": "https://cdn.myshoptet.com/usr/www.cypherpunknow.com/user/articles/images/about_to_pop_preview.png"
+  },
+  {
+   "img": "cypherpunk-now-2.webp",
+   "w": 1160,
+   "h": 1033,
+   "src": "https://cdn.myshoptet.com/usr/www.cypherpunknow.com/user/articles/images/iamsatoshinakamoto-limited-series-1160x1000.png"
+  },
+  {
+   "img": "cypherpunk-now-3.webp",
+   "w": 423,
+   "h": 423,
+   "src": "https://cdn.myshoptet.com/usr/www.cypherpunknow.com/user/shop/detail/588-9_bank-on-fire.png?ff=1&x=423&y=423&q=85&ts=647fa311&sg=89595c3b"
+  }
+ ],
+ "dustin-d-trammell": [
+  {
+   "img": "dustin-d-trammell-1.webp",
+   "w": 1063,
+   "h": 1200,
+   "src": "https://images.squarespace-cdn.com/content/v1/5f7925702fb336072a690a1c/62a9bf40-6e15-4bc6-9cc7-e68f9e496878/Dustin+D+Trammell+-+Epoch+3.png?format=1500w"
+  },
+  {
+   "img": "dustin-d-trammell-2.webp",
+   "w": 1200,
+   "h": 450,
+   "src": "https://images.squarespace-cdn.com/content/v1/5f7925702fb336072a690a1c/1603476928027-V105I2RE4J1NWNG4HELW/Screen+Shot+2020-09-20+at+3.32.46+PM.png?format=1500w"
+  },
+  {
+   "img": "dustin-d-trammell-3.webp",
+   "w": 927,
+   "h": 1200,
+   "src": "https://images.squarespace-cdn.com/content/v1/5f7925702fb336072a690a1c/1603476932043-J049H0OAJ66Q3SOP82AC/Screen+Shot+2020-09-20+at+3.33.44+PM.png?format=1500w"
+  },
+  {
+   "img": "dustin-d-trammell-4.webp",
+   "w": 1200,
+   "h": 972,
+   "src": "https://images.squarespace-cdn.com/content/v1/5f7925702fb336072a690a1c/1603476932791-N67RLF37WACJY9CN8L63/Screen+Shot+2020-09-20+at+3.36.03+PM.png?format=1500w"
+  }
+ ],
+ "flo-montoya": [
+  {
+   "img": "flo-montoya-1.webp",
+   "w": 500,
+   "h": 500,
+   "src": "https://cdn.sanity.io/images/w4avejpr/production/43bf9598a6eebfa031dbe72f03ae31adabc32ec6-3929x5563.jpg?rect=0,818,3929,3929&w=500&h=500&q=75&auto=format"
+  },
+  {
+   "img": "flo-montoya-2.webp",
+   "w": 500,
+   "h": 500,
+   "src": "https://cdn.sanity.io/images/w4avejpr/production/29ab21898bda60d4e470abac0731125ab5dfef88-1280x854.png?rect=213,0,854,854&w=500&h=500&q=75&auto=format"
+  },
+  {
+   "img": "flo-montoya-3.webp",
+   "w": 500,
+   "h": 500,
+   "src": "https://cdn.sanity.io/images/w4avejpr/production/11788ddacda1ac2d97a3e041e5ad80d471000255-854x1280.png?rect=0,213,854,854&w=500&h=500&q=75&auto=format"
+  }
+ ],
+ "fr-d-ric-guimont": [
+  {
+   "img": "fr-d-ric-guimont-1.webp",
+   "w": 1200,
+   "h": 630,
+   "src": "https://ratelcomic.com/images/ratel_comic_og.png"
+  }
+ ],
+ "fractalencrypt": [
+  {
+   "img": "fractalencrypt-1.webp",
+   "w": 1200,
+   "h": 900,
+   "src": "https://ik.imagekit.io/notso/scarce-city/goods/5c1f185d8c5747159366a8252c64610ca45551ad-4608x3456_EQAYMgxBS.webp"
+  },
+  {
+   "img": "fractalencrypt-2.webp",
+   "w": 500,
+   "h": 500,
+   "src": "https://cdn.sanity.io/images/w4avejpr/production/f9d9e6df5b6b2032b343a5e4489f1ea21bd29989-2029x1398.jpg?rect=316,0,1398,1398&w=500&h=500&q=75&auto=format"
+  },
+  {
+   "img": "fractalencrypt-3.webp",
+   "w": 500,
+   "h": 500,
+   "src": "https://cdn.sanity.io/images/w4avejpr/production/f2796218af72056002524c358421598a9997ee2f-1280x720.jpg?rect=280,0,720,720&w=500&h=500&q=75&auto=format"
+  },
+  {
+   "img": "fractalencrypt-4.webp",
+   "w": 500,
+   "h": 500,
+   "src": "https://cdn.sanity.io/images/w4avejpr/production/bf122a63ff15431f55c0e2fd2d8d5f938b434d87-4032x3024.jpg?rect=504,0,3024,3024&w=500&h=500&q=75&auto=format"
+  }
+ ],
+ "free-market-simpson": [
+  {
+   "img": "free-market-simpson-1.webp",
+   "w": 550,
+   "h": 770,
+   "src": "https://free-market-simpson.is/wp-content/uploads/2023/08/Tolerancja2.jpg"
+  },
+  {
+   "img": "free-market-simpson-2.webp",
+   "w": 550,
+   "h": 776,
+   "src": "https://free-market-simpson.is/wp-content/uploads/2023/08/Private-World-2-120x96-1.jpg"
+  },
+  {
+   "img": "free-market-simpson-3.webp",
+   "w": 550,
+   "h": 776,
+   "src": "https://free-market-simpson.is/wp-content/uploads/2023/08/Private-World-1-120x96-1.jpg"
+  },
+  {
+   "img": "free-market-simpson-4.webp",
+   "w": 550,
+   "h": 767,
+   "src": "https://free-market-simpson.is/wp-content/uploads/2023/08/Revolution-Will-Be-Streamed-100x140-1.jpg"
+  }
+ ],
+ "fzero": [
+  {
+   "img": "fzero-1.webp",
+   "w": 1072,
+   "h": 900,
+   "src": "https://9fold.co/assets/fz-ramen-BwLqoYQe.png"
+  },
+  {
+   "img": "fzero-2.webp",
+   "w": 1200,
+   "h": 828,
+   "src": "https://9fold.co/assets/fz-studybitcoin-BM2SaZId.png"
+  },
+  {
+   "img": "fzero-3.webp",
+   "w": 900,
+   "h": 900,
+   "src": "https://9fold.co/assets/fz-alien-zpBGxR7F.png"
+  }
+ ],
+ "gareth-eckley": [
+  {
+   "img": "gareth-eckley-1.webp",
+   "w": 1200,
+   "h": 900,
+   "src": "https://garetheckley.com/wp-content/uploads/2026/08/bull-red-jasper-pendant-4-3.jpg"
+  },
+  {
+   "img": "gareth-eckley-2.webp",
+   "w": 900,
+   "h": 1200,
+   "src": "https://garetheckley.com/wp-content/uploads/2026/08/v-vendetta-quartz-intaglio-trophy-3-4-1.jpg"
+  },
+  {
+   "img": "gareth-eckley-3.webp",
+   "w": 1200,
+   "h": 900,
+   "src": "https://garetheckley.com/wp-content/uploads/2026/08/pyramids-orion-4-3.jpg"
+  },
+  {
+   "img": "gareth-eckley-4.webp",
+   "w": 1200,
+   "h": 900,
+   "src": "https://garetheckley.com/wp-content/uploads/2026/08/black-onyx-cameo-master-4-3.jpg"
+  }
+ ],
+ "george-bodine": [
+  {
+   "img": "george-bodine-1.webp",
+   "w": 1160,
+   "h": 897,
+   "src": "https://img1.wsimg.com/isteam/ip/b05693ce-cd35-4897-902a-c873b1788b07/SHADOWLAND_GEORGE_BODINE_24X30_8800.jpg/:/rs=w:1160,h:897"
+  },
+  {
+   "img": "george-bodine-2.webp",
+   "w": 1160,
+   "h": 851,
+   "src": "https://img1.wsimg.com/isteam/ip/b05693ce-cd35-4897-902a-c873b1788b07/The%20Girl%20of%20Winter.jpg/:/rs=w:1160,h:851"
+  },
+  {
+   "img": "george-bodine-3.webp",
+   "w": 1160,
+   "h": 890,
+   "src": "https://img1.wsimg.com/isteam/ip/b05693ce-cd35-4897-902a-c873b1788b07/Peluso%20Building.jpg/:/rs=w:1160,h:890"
+  },
+  {
+   "img": "george-bodine-4.webp",
+   "w": 1160,
+   "h": 1144,
+   "src": "https://img1.wsimg.com/isteam/ip/b05693ce-cd35-4897-902a-c873b1788b07/COLOR_NOTE_9_8x8.jpg/:/rs=w:1160,h:1144"
+  }
+ ],
+ "go-brrr": [
+  {
+   "img": "go-brrr-1.webp",
+   "w": 1200,
+   "h": 900,
+   "src": "https://www.gobrrr.me/ozypsoob/2023/04/PXL_20230403_155831089-2048x1536.jpg"
+  },
+  {
+   "img": "go-brrr-2.webp",
+   "w": 1200,
+   "h": 900,
+   "src": "https://www.gobrrr.me/ozypsoob/2022/10/PXL_20221005_083130594.PORTRAIT-scaled-2048x1536.jpg"
+  },
+  {
+   "img": "go-brrr-3.webp",
+   "w": 1200,
+   "h": 900,
+   "src": "https://www.gobrrr.me/ozypsoob/2023/03/WhiteRabbit_lowpoly-3-2048x1536.jpg"
+  }
+ ],
+ "here-comes-bitcoin": [
+  {
+   "img": "here-comes-bitcoin-1.webp",
+   "w": 640,
+   "h": 640,
+   "src": "https://www.herecomesbitcoin.org/_next/image?url=%2Fassets%2FHereComesBitcoinAssets%2Facrobat.png&w=640&q=75&dpl=dpl_MT18kZ1DHaaBfYTiyZ7icJMJED7A"
+  },
+  {
+   "img": "here-comes-bitcoin-2.webp",
+   "w": 640,
+   "h": 640,
+   "src": "https://www.herecomesbitcoin.org/_next/image?url=%2Fassets%2FHereComesBitcoinAssets%2Fsir.png&w=640&q=75&dpl=dpl_MT18kZ1DHaaBfYTiyZ7icJMJED7A"
+  },
+  {
+   "img": "here-comes-bitcoin-3.webp",
+   "w": 640,
+   "h": 640,
+   "src": "https://www.herecomesbitcoin.org/_next/image?url=%2Fassets%2FHereComesBitcoinAssets%2Fhungry.png&w=640&q=75&dpl=dpl_MT18kZ1DHaaBfYTiyZ7icJMJED7A"
+  },
+  {
+   "img": "here-comes-bitcoin-4.webp",
+   "w": 640,
+   "h": 644,
+   "src": "https://www.herecomesbitcoin.org/_next/image?url=%2Fassets%2FHereComesBitcoinAssets%2Fgrumpy.png&w=640&q=75&dpl=dpl_MT18kZ1DHaaBfYTiyZ7icJMJED7A"
+  }
+ ],
+ "hitomi-matsui": [
+  {
+   "img": "hitomi-matsui-1.webp",
+   "w": 954,
+   "h": 949,
+   "src": "https://hitomimatsui.com/wp-content/uploads/2025/09/Tea-2.jpg"
+  },
+  {
+   "img": "hitomi-matsui-2.webp",
+   "w": 654,
+   "h": 657,
+   "src": "https://hitomimatsui.com/wp-content/uploads/2025/09/Mexico-2.jpg"
+  },
+  {
+   "img": "hitomi-matsui-3.webp",
+   "w": 900,
+   "h": 900,
+   "src": "https://hitomimatsui.com/wp-content/uploads/2025/09/cat-dining-with-paris-view-mm-outlet-studio.jpg"
+  },
+  {
+   "img": "hitomi-matsui-4.webp",
+   "w": 794,
+   "h": 1010,
+   "src": "https://hitomimatsui.com/wp-content/uploads/2025/10/il_794xN.7052963358_ej1p.webp"
+  }
+ ],
+ "hodlxhold": [
+  {
+   "img": "hodlxhold-1.webp",
+   "w": 745,
+   "h": 900,
+   "src": "https://bitcoinvisionaryart.com/obras/bitcoin-roots-xxx21x98.jpg"
+  },
+  {
+   "img": "hodlxhold-2.webp",
+   "w": 745,
+   "h": 900,
+   "src": "https://bitcoinvisionaryart.com/obras/bitcoin-roots-xxx21x110.jpg"
+  },
+  {
+   "img": "hodlxhold-3.webp",
+   "w": 648,
+   "h": 872,
+   "src": "https://bitcoinvisionaryart.com/obras/bitcoin-roots-xxx21x8.jpg"
+  },
+  {
+   "img": "hodlxhold-4.webp",
+   "w": 745,
+   "h": 900,
+   "src": "https://bitcoinvisionaryart.com/obras/bitcoin-roots-xxx21x40.jpg"
+  }
+ ],
+ "isolabellart": [
+  {
+   "img": "isolabellart-1.webp",
+   "w": 480,
+   "h": 384,
+   "src": "https://isolabellart.it.com/api/products/mikingt3-970cv6/thumb/0.webp?v=56c6f0987518c0f4dfaa7617c312e668d7a61f0e-0"
+  },
+  {
+   "img": "isolabellart-2.webp",
+   "w": 480,
+   "h": 480,
+   "src": "https://isolabellart.it.com/api/products/mikgy1sj-8tlzk2/thumb/0.webp?v=60027561c54edf6a00fc3eb17876095a7428e09e-0"
+  },
+  {
+   "img": "isolabellart-3.webp",
+   "w": 479,
+   "h": 480,
+   "src": "https://isolabellart.it.com/api/products/mikg7acn-oqyu7h/thumb/0.webp?v=fc0c6ade34eb301f005e887991f07adaecb88b7d-0"
+  },
+  {
+   "img": "isolabellart-4.webp",
+   "w": 402,
+   "h": 480,
+   "src": "https://isolabellart.it.com/api/products/mikk00lu-l5n2yu/thumb/0.webp?v=18197785c49856677e58e442184233d778bb963b-0"
+  }
+ ],
+ "jake-allen": [
+  {
+   "img": "jake-allen-1.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://www.artworkbyja.com/images/1.JPG"
+  },
+  {
+   "img": "jake-allen-2.webp",
+   "w": 1116,
+   "h": 1200,
+   "src": "https://www.artworkbyja.com/images/2.JPG"
+  },
+  {
+   "img": "jake-allen-3.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://www.artworkbyja.com/images/3.JPG"
+  },
+  {
+   "img": "jake-allen-4.webp",
+   "w": 1200,
+   "h": 900,
+   "src": "https://www.artworkbyja.com/images/19.jpg"
+  }
+ ],
+ "johnny-dollar": [
+  {
+   "img": "johnny-dollar-1.webp",
+   "w": 598,
+   "h": 720,
+   "src": "https://johnnydollar.art/wp-content/uploads/2024/12/painting.jpg"
+  },
+  {
+   "img": "johnny-dollar-2.webp",
+   "w": 560,
+   "h": 695,
+   "src": "https://johnnydollar.art/wp-content/uploads/2018/04/PuppetShow_Johnny_Dollar_Artist_Post-Pop_Surrealist.jpg"
+  },
+  {
+   "img": "johnny-dollar-3.webp",
+   "w": 867,
+   "h": 720,
+   "src": "https://johnnydollar.art/wp-content/uploads/2021/09/WinterPC.jpg"
+  },
+  {
+   "img": "johnny-dollar-4.webp",
+   "w": 547,
+   "h": 720,
+   "src": "https://johnnydollar.art/wp-content/uploads/2021/09/FamilyDinner.jpg"
+  }
+ ],
+ "josie-bellini": [
+  {
+   "img": "josie-bellini-1.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://josie.io/cdn/shop/products/site_acceptance_p.png?v=1586367004"
+  },
+  {
+   "img": "josie-bellini-2.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://josie.io/cdn/shop/products/site_filter_p.png?v=1586367347"
+  },
+  {
+   "img": "josie-bellini-3.webp",
+   "w": 1200,
+   "h": 1199,
+   "src": "https://josie.io/cdn/shop/products/site_nebula_p.png?v=1586367749"
+  },
+  {
+   "img": "josie-bellini-4.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://josie.io/cdn/shop/products/site_tunein_p.png?v=1586368305"
+  }
+ ],
+ "jure-kastelic": [
+  {
+   "img": "jure-kastelic-1.webp",
+   "w": 1200,
+   "h": 800,
+   "src": "https://images.squarespace-cdn.com/content/v1/5be876e675f9ee379f4d890f/1582124071573-Y2OEVGB1W1YINHQ5ATAN/White+Crypt+Jure+Kastelic+%28Low+Res%29-36.jpg?format=1500w"
+  },
+  {
+   "img": "jure-kastelic-2.webp",
+   "w": 1200,
+   "h": 800,
+   "src": "https://images.squarespace-cdn.com/content/v1/5be876e675f9ee379f4d890f/1582124064501-A44UXC9WKTUIUHZJPALX/White+Crypt+Jure+Kastelic+%28Low+Res%29-37.jpg?format=1500w"
+  },
+  {
+   "img": "jure-kastelic-3.webp",
+   "w": 912,
+   "h": 1200,
+   "src": "https://images.squarespace-cdn.com/content/v1/5be876e675f9ee379f4d890f/1605894346136-8GV38EAV96FPJLVOQKTK/Brazier+-+It%27s+beginning+to+look+a+lot+like+Clementines%2C+2020.jpg?format=1500w"
+  },
+  {
+   "img": "jure-kastelic-4.webp",
+   "w": 488,
+   "h": 434,
+   "src": "https://images.squarespace-cdn.com/content/v1/5be876e675f9ee379f4d890f/1605895228475-7M0EJ8QG69PSEALEV6ON/Screenshot+2020-11-20+at+17.58.05.png?format=1500w"
+  }
+ ],
+ "kanuto": [
+  {
+   "img": "kanuto-1.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://kanuto.io/wp-content/uploads/2024/11/Genesis-Heat_05.jpg"
+  },
+  {
+   "img": "kanuto-2.webp",
+   "w": 800,
+   "h": 1200,
+   "src": "https://kanuto.io/wp-content/uploads/2024/11/Genesis-Heat_03.jpg"
+  },
+  {
+   "img": "kanuto-3.webp",
+   "w": 800,
+   "h": 1200,
+   "src": "https://kanuto.io/wp-content/uploads/2024/04/Lightning-Network-08.jpg"
+  },
+  {
+   "img": "kanuto-4.webp",
+   "w": 800,
+   "h": 1200,
+   "src": "https://kanuto.io/wp-content/uploads/2024/04/glowing-Bitcoin-Lighting-Network-01.jpg"
+  }
+ ],
+ "kenneth-burris": [
+  {
+   "img": "kenneth-burris-1.webp",
+   "w": 800,
+   "h": 600,
+   "src": "https://kennethburris.com/wp-content/uploads/2026/08/Conedvarient.jpg"
+  },
+  {
+   "img": "kenneth-burris-2.webp",
+   "w": 1200,
+   "h": 674,
+   "src": "https://kennethburris.com/wp-content/uploads/2026/08/Collum-version.jpg"
+  },
+  {
+   "img": "kenneth-burris-3.webp",
+   "w": 1200,
+   "h": 904,
+   "src": "https://kennethburris.com/wp-content/uploads/2026/08/Block-21000.jpg"
+  },
+  {
+   "img": "kenneth-burris-4.webp",
+   "w": 1200,
+   "h": 775,
+   "src": "https://kennethburris.com/wp-content/uploads/2026/03/Relic-of-the-Future-web.jpg"
+  }
+ ],
+ "kialara": [
+  {
+   "img": "kialara-1.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://kialara.com/wp-content/uploads/2026/09/kialara_remain_calm_pmg_front_web2.jpg"
+  },
+  {
+   "img": "kialara-2.webp",
+   "w": 445,
+   "h": 445,
+   "src": "https://kialara.com/wp-content/uploads/2016/03/kialara_gold.jpg"
+  },
+  {
+   "img": "kialara-3.webp",
+   "w": 520,
+   "h": 520,
+   "src": "https://kialara.com/wp-content/uploads/2016/03/iJacx3S-1.jpg"
+  },
+  {
+   "img": "kialara-4.webp",
+   "w": 664,
+   "h": 664,
+   "src": "https://kialara.com/wp-content/uploads/2016/11/soul_of_satoshi_giclee_print.jpg"
+  }
+ ],
+ "ksenia-buridanova": [
+  {
+   "img": "ksenia-buridanova-1.webp",
+   "w": 960,
+   "h": 1129,
+   "src": "https://buridanova.com/media/works/cms/5927b859-90ef-4755-af15-15fb4a3eba76_card_desktop.webp"
+  },
+  {
+   "img": "ksenia-buridanova-2.webp",
+   "w": 960,
+   "h": 1145,
+   "src": "https://buridanova.com/media/works/cms/df4d1527-9d12-4741-84f1-5144dc97e36c_card_desktop.webp"
+  },
+  {
+   "img": "ksenia-buridanova-3.webp",
+   "w": 960,
+   "h": 1064,
+   "src": "https://buridanova.com/media/works/cms/3c1f9089-4030-4239-b520-7c0f155ccb49_card_desktop.webp"
+  },
+  {
+   "img": "ksenia-buridanova-4.webp",
+   "w": 960,
+   "h": 686,
+   "src": "https://buridanova.com/media/works/cms/69f2c303-d3c7-4b77-bf91-6897d8a0dc62_card_desktop.webp"
+  }
+ ],
+ "lady-block-jane": [
+  {
+   "img": "lady-block-jane-1.webp",
+   "w": 600,
+   "h": 600,
+   "src": "https://www.ladyblockjane.com/8_Lady_Block_Jane_%E2%82%BF_in_Orange_preview.jpg"
+  },
+  {
+   "img": "lady-block-jane-2.webp",
+   "w": 600,
+   "h": 600,
+   "src": "https://www.ladyblockjane.com/Ceci_nest_pas_une_banque_preview.jpg"
+  },
+  {
+   "img": "lady-block-jane-3.webp",
+   "w": 400,
+   "h": 600,
+   "src": "https://www.ladyblockjane.com/revolt_preview.jpg"
+  },
+  {
+   "img": "lady-block-jane-4.webp",
+   "w": 400,
+   "h": 557,
+   "src": "https://www.ladyblockjane.com/postcard4_preview.jpg"
+  }
+ ],
+ "lady-redhorns": [
+  {
+   "img": "lady-redhorns-1.webp",
+   "w": 903,
+   "h": 1200,
+   "src": "https://redhornsbtc.store/cdn/shop/files/1.1_c5528584-9b61-477f-b22c-30501314aa5a.png?v=1784786612"
+  },
+  {
+   "img": "lady-redhorns-2.webp",
+   "w": 1185,
+   "h": 1200,
+   "src": "https://redhornsbtc.store/cdn/shop/files/9_a860def2-a4d0-43f0-bc52-76d066ff5411.png?v=1783368625&width=1600"
+  },
+  {
+   "img": "lady-redhorns-3.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://redhornsbtc.store/cdn/shop/files/1_fcde8367-f0e0-4b8d-8dd9-f24dc0b15b2a.jpg?v=1788473275&width=1600"
+  },
+  {
+   "img": "lady-redhorns-4.webp",
+   "w": 1200,
+   "h": 1196,
+   "src": "https://redhornsbtc.store/cdn/shop/files/1_05259e0a-9bd1-4554-979e-3c897734cffe.jpg?v=1788473261&width=1600"
+  }
+ ],
+ "le-pleb-royale": [
+  {
+   "img": "le-pleb-royale-1.webp",
+   "w": 1024,
+   "h": 1024,
+   "src": "https://plebroyale.com/assets/portfolio-1024x1024.jpg"
+  },
+  {
+   "img": "le-pleb-royale-2.webp",
+   "w": 800,
+   "h": 800,
+   "src": "https://plebroyale.com/assets/CitadelPoster.jpg"
+  },
+  {
+   "img": "le-pleb-royale-3.webp",
+   "w": 927,
+   "h": 1200,
+   "src": "https://plebroyale.com/assets/portfolioversion.jpg"
+  },
+  {
+   "img": "le-pleb-royale-4.webp",
+   "w": 1080,
+   "h": 1080,
+   "src": "https://plebroyale.com/assets/Illustration-traders-3.jpg"
+  }
+ ],
+ "lena": [
+  {
+   "img": "lena-1.webp",
+   "w": 800,
+   "h": 800,
+   "src": "https://justlenasart.com/cdn/shop/files/Goodvibes.jpg?v=1684326566"
+  },
+  {
+   "img": "lena-2.webp",
+   "w": 800,
+   "h": 800,
+   "src": "https://justlenasart.com/cdn/shop/files/Banksy_Style_Pumps.jpg?v=1680780112"
+  },
+  {
+   "img": "lena-3.webp",
+   "w": 800,
+   "h": 800,
+   "src": "https://justlenasart.com/cdn/shop/files/Satoshi_pumps.jpg?v=1680778949"
+  },
+  {
+   "img": "lena-4.webp",
+   "w": 826,
+   "h": 1200,
+   "src": "https://justlenasart.com/cdn/shop/files/13F7C0F1-1E01-470F-8F5A-59181526FA1F.jpg?v=1684499782"
+  }
+ ],
+ "lina-seiche": [
+  {
+   "img": "lina-seiche-1.webp",
+   "w": 1200,
+   "h": 900,
+   "src": "https://thelittlehodler.com/wp-content/uploads/2023/04/2-o-11-2.png"
+  },
+  {
+   "img": "lina-seiche-2.webp",
+   "w": 960,
+   "h": 1200,
+   "src": "https://thelittlehodler.com/wp-content/uploads/yootheme/cache/2a/097-Inflation-Relief-Packages-Web-scaled-2ac93262.webp"
+  },
+  {
+   "img": "lina-seiche-3.webp",
+   "w": 960,
+   "h": 1200,
+   "src": "https://thelittlehodler.com/wp-content/uploads/yootheme/cache/08/136-Any-Day-Now-Web-scaled-0899b160.webp"
+  },
+  {
+   "img": "lina-seiche-4.webp",
+   "w": 960,
+   "h": 1200,
+   "src": "https://thelittlehodler.com/wp-content/uploads/yootheme/cache/f0/074-Please-Web-scaled-f0e354f1.webp"
+  }
+ ],
+ "lisa-t-rner": [
+  {
+   "img": "lisa-t-rner-1.webp",
+   "w": 465,
+   "h": 388,
+   "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lisat.se/media/lisat.se/onewebmedia/Ska%CC%88rmavbild%202026-03-24%20kl.%2021.49.05___serialized1.png?etag=%22152365-69c2f914%22&sourceContentType=image%2Fpng&ignoreAspectRatio&resize=466,515&extract=0,63,465,388"
+  },
+  {
+   "img": "lisa-t-rner-2.webp",
+   "w": 960,
+   "h": 960,
+   "src": "https://impro.usercontent.one/appid/oneComShop/domain/lisat.se/media/lisat.se/webshopmedia/Ska%CC%88rmavbild%202025-05-27%20kl.%2010.48.55.png?&crop=center&resize=960+960&webp&quality=85"
+  },
+  {
+   "img": "lisa-t-rner-3.webp",
+   "w": 960,
+   "h": 960,
+   "src": "https://impro.usercontent.one/appid/oneComShop/domain/lisat.se/media/lisat.se/webshopmedia/Ska%CC%88rmavbild%202025-05-27%20kl.%2013.18.19-2.png?&crop=center&resize=960+960&webp&quality=85"
+  },
+  {
+   "img": "lisa-t-rner-4.webp",
+   "w": 480,
+   "h": 480,
+   "src": "https://impro.usercontent.one/appid/oneComShop/domain/lisat.se/media/lisat.se/webshopmedia/57a85370-6052-11f1-a8e8-cd17c9ad236f.jpg?&crop=center&resize=480+480&webp&quality=85"
+  }
+ ],
+ "lucho-poletti": [
+  {
+   "img": "lucho-poletti-1.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://luchopoletti.com/cdn/shop/files/absolute-scarcity-FULL-2048-14sep.jpg?v=1790465916"
+  },
+  {
+   "img": "lucho-poletti-2.webp",
+   "w": 1067,
+   "h": 1200,
+   "src": "https://luchopoletti.com/cdn/shop/products/Cypher_Deos_-_Purgatorio-LowRes-01copy.jpg?v=1772598019"
+  },
+  {
+   "img": "lucho-poletti-3.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://luchopoletti.com/cdn/shop/articles/CARD-SQUARE-all-twenty-2500-v5-refined-2026-10-19.jpg?v=1792463598"
+  },
+  {
+   "img": "lucho-poletti-4.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://luchopoletti.com/cdn/shop/files/Bitcoin_Gives_you_the_Freedom.jpg?v=1790466259"
+  }
+ ],
+ "luis-simo": [
+  {
+   "img": "luis-simo-1.webp",
+   "w": 500,
+   "h": 500,
+   "src": "https://cdn.sanity.io/images/w4avejpr/production/966a0d524d2bb43bc5e1c59c921c304a172c2e1d-2039x2579.jpg?rect=0,271,2039,2039&w=500&h=500&q=75&auto=format"
+  },
+  {
+   "img": "luis-simo-2.webp",
+   "w": 500,
+   "h": 500,
+   "src": "https://cdn.sanity.io/images/w4avejpr/production/54bbe6dcc20a1e7950d2fc7de0193aec087fb721-1366x1756.jpg?rect=0,195,1366,1366&w=500&h=500&q=75&auto=format"
+  }
+ ],
+ "madex": [
+  {
+   "img": "madex-1.webp",
+   "w": 900,
+   "h": 1200,
+   "src": "https://madex.art/cdn/shop/files/photo_2026-10-2020.35.21.jpg?v=1792550267"
+  }
+ ],
+ "madmunky": [
+  {
+   "img": "madmunky-1.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://timechainartmagazine.com/wp-content/uploads/2026/04/MadMunky.webp"
+  },
+  {
+   "img": "madmunky-2.webp",
+   "w": 1125,
+   "h": 634,
+   "src": "https://2140art.com/wp-content/uploads/2024/02/photo_2024-01-07_12-18-22-jpg.webp"
+  },
+  {
+   "img": "madmunky-3.webp",
+   "w": 768,
+   "h": 576,
+   "src": "https://2140art.com/wp-content/uploads/2024/11/4b593175-fe3d-4a44-8b48-ce01d9ae40f5-768x576.avif"
+  }
+ ],
+ "marcus-connor": [
+  {
+   "img": "marcus-connor-1.webp",
+   "w": 600,
+   "h": 600,
+   "src": "https://bitcoincoaster.com/wp-content/uploads/2026/05/featured-trading-cards-2.jpg"
+  },
+  {
+   "img": "marcus-connor-2.webp",
+   "w": 600,
+   "h": 600,
+   "src": "https://bitcoincoaster.com/wp-content/uploads/2026/04/featured-current-sea.jpg"
+  },
+  {
+   "img": "marcus-connor-3.webp",
+   "w": 600,
+   "h": 600,
+   "src": "https://bitcoincoaster.com/wp-content/uploads/2024/07/BBB-featured.jpg"
+  },
+  {
+   "img": "marcus-connor-4.webp",
+   "w": 600,
+   "h": 600,
+   "src": "https://bitcoincoaster.com/wp-content/uploads/2023/10/featured-pump-king.jpg"
+  }
+ ],
+ "maxis-club": [
+  {
+   "img": "maxis-club-1.webp",
+   "w": 1107,
+   "h": 1082,
+   "src": "https://timechainartmagazine.com/wp-content/uploads/2026/04/MaxisClub-Bitcoin-Artist.webp"
+  }
+ ],
+ "mear-one": [
+  {
+   "img": "mear-one-1.webp",
+   "w": 1200,
+   "h": 1013,
+   "src": "https://store.mearone.com/cdn/shop/products/David_GoliathFramedweb_FINAL.jpg?v=1615848256"
+  },
+  {
+   "img": "mear-one-2.webp",
+   "w": 1200,
+   "h": 1197,
+   "src": "https://store.mearone.com/cdn/shop/files/FramedCoachella.png?v=1720105981"
+  },
+  {
+   "img": "mear-one-3.webp",
+   "w": 972,
+   "h": 1200,
+   "src": "https://store.mearone.com/cdn/shop/files/1_copy.jpg?v=1785426833"
+  },
+  {
+   "img": "mear-one-4.webp",
+   "w": 900,
+   "h": 1200,
+   "src": "https://store.mearone.com/cdn/shop/files/MAGICIAN5_FINAL.jpg?v=1748295247"
+  }
+ ],
+ "missatoshi-girl": [
+  {
+   "img": "missatoshi-girl-1.webp",
+   "w": 361,
+   "h": 640,
+   "src": "https://scontent.cdninstagram.com/v/t51.71878-15/859770112_1894096915304888_1824980494587711913_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=-vEoPCU-WQMQ7kNvwEoRItM&_nc_oc=AdokphpLwdDf4b3ERVamaNzx477EPQjBtCy1D6nYcEoMC2sXSFeYN-rqeOjU3R0i3Ez2-2tE6R0o7M62O-9YlEs7&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=IAT1F8b9r1qh54mGHhzzsw&_nc_ss=7b689&oh=00_AQOy9QdeKT99oEBzuzfFC3MImyH1AETgCNCMhlTwfE1YDA&oe=6AE57E2B"
+  },
+  {
+   "img": "missatoshi-girl-2.webp",
+   "w": 360,
+   "h": 640,
+   "src": "https://scontent.cdninstagram.com/v/t51.71878-15/755950223_28017731097822057_1929792858598586677_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=yFDfE-LFExsQ7kNvwHiSwJP&_nc_oc=AdpxdATGi4JOmHt2h5JS_F7Hv1fAjkqZkHhrigKhtFb00mBNrHJb4Q7vXSZprs6M2Xq7DVVDyTd1OCYW_zKs2tjV&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=IAT1F8b9r1qh54mGHhzzsw&_nc_ss=7b689&oh=00_AQP0Kwk1bFu7xRhD-uHWzAsC8y0bmJjUaUXuiGRb-JOQhg&oe=6AE57692"
+  },
+  {
+   "img": "missatoshi-girl-3.webp",
+   "w": 361,
+   "h": 640,
+   "src": "https://scontent.cdninstagram.com/v/t51.71878-15/860020748_1095166883302564_4283644083096704912_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=kocDlaTkvDkQ7kNvwHYsQ6E&_nc_oc=AdqknPN1JUe1Mj2-FZcRi38ma11Nc_qRakPmrInvUM5JmZSIuGx2yIkSEMAdOdCVXVJyG_OctccW1z_cnCmI4_hb&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=IAT1F8b9r1qh54mGHhzzsw&_nc_ss=7b689&oh=00_AQOmnV_76xPDS2vrclkorPJi2mp14Kw9venbEkDvuBzyDA&oe=6AE5662F"
+  }
+ ],
+ "mlo-martin-lukas-ostachowski": [
+  {
+   "img": "mlo-martin-lukas-ostachowski-1.webp",
+   "w": 768,
+   "h": 576,
+   "src": "https://mlo.art/wp-content/uploads/Cloud-of-the-Future-1-768x576.jpg.webp"
+  },
+  {
+   "img": "mlo-martin-lukas-ostachowski-2.webp",
+   "w": 819,
+   "h": 1024,
+   "src": "https://mlo.art/wp-content/uploads/IMG_0249-819x1024.jpeg.webp"
+  },
+  {
+   "img": "mlo-martin-lukas-ostachowski-3.webp",
+   "w": 576,
+   "h": 1024,
+   "src": "https://mlo.art/wp-content/uploads/2026-10-06-Sunset-Ascii-Clouds-576x1024.jpg.webp"
+  },
+  {
+   "img": "mlo-martin-lukas-ostachowski-4.webp",
+   "w": 1200,
+   "h": 900,
+   "src": "https://mlo.art/wp-content/uploads/Group-Exhibition-Three-Blockchains-One-Collection-at-the-Museum-Francisco-Carolinum.jpg.webp"
+  }
+ ],
+ "modeotec": [
+  {
+   "img": "modeotec-1.webp",
+   "w": 500,
+   "h": 500,
+   "src": "https://cdn.sanity.io/images/w4avejpr/production/c05c3f09c1baa8e129ca425e6f422804f67709cd-1671x2228.jpg?rect=0,279,1671,1671&w=500&h=500&q=75&auto=format"
+  },
+  {
+   "img": "modeotec-2.webp",
+   "w": 500,
+   "h": 500,
+   "src": "https://cdn.sanity.io/images/w4avejpr/production/62bb34427ae7ec9dc806f6e0a6de237a92d04632-4284x5712.jpg?rect=0,714,4284,4284&w=500&h=500&q=75&auto=format"
+  }
+ ],
+ "mr-crown": [
+  {
+   "img": "mr-crown-1.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://renarchy.com/_next/image?url=%2Fdesigns%2Ferror-by-design%2Fmockups%2Ferror-by-design-frame.jpg%3Fv%3D27ce7dbb7c8d&w=3840&q=75&dpl=93d3203891b509069ee7851de20178266cd81f4750fa65488fbb666e4cde3beb366164316435656563346262356164343932383565356362"
+  },
+  {
+   "img": "mr-crown-2.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://renarchy.com/_next/image?url=%2Fdesigns%2Fgrin-and-sin%2Fmockups%2FPoster-Original.jpg&w=3840&q=75&dpl=93d3203891b509069ee7851de20178266cd81f4750fa65488fbb666e4cde3beb366164316435656563346262356164343932383565356362"
+  },
+  {
+   "img": "mr-crown-3.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://renarchy.com/_next/image?url=%2Fdesigns%2Frip-privacy%2Fmockups%2Frip-privacy--black.jpg&w=3840&q=75&dpl=93d3203891b509069ee7851de20178266cd81f4750fa65488fbb666e4cde3beb366164316435656563346262356164343932383565356362"
+  },
+  {
+   "img": "mr-crown-4.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://renarchy.com/_next/image?url=%2Fdesigns%2Fweapon-of-mass-destruction%2Fmockups%2FWeapon-Of-Mass-Destruction-Canvas.jpg&w=3840&q=75&dpl=93d3203891b509069ee7851de20178266cd81f4750fa65488fbb666e4cde3beb366164316435656563346262356164343932383565356362"
+  }
+ ],
+ "mr-meadow": [
+  {
+   "img": "mr-meadow-1.webp",
+   "w": 960,
+   "h": 1200,
+   "src": "https://static.wixstatic.com/media/842958_6303e861e63a4d8e960ff285ff0ce5a0~mv2.png"
+  },
+  {
+   "img": "mr-meadow-2.webp",
+   "w": 1200,
+   "h": 675,
+   "src": "https://static.wixstatic.com/media/842958_9b9b8d7a97e94230b8e9d9a7768e3217~mv2.jpg"
+  },
+  {
+   "img": "mr-meadow-3.webp",
+   "w": 800,
+   "h": 1200,
+   "src": "https://static.wixstatic.com/media/842958_cb8cf81972704410a80147f2d97e04da~mv2.jpg"
+  },
+  {
+   "img": "mr-meadow-4.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://static.wixstatic.com/media/842958_2e2814133f804ccebeba31fb6848142c~mv2.jpg"
+  }
+ ],
+ "mrhansel": [
+  {
+   "img": "mrhansel-1.webp",
+   "w": 500,
+   "h": 500,
+   "src": "https://cdn.sanity.io/images/w4avejpr/production/9e3a2c6c14048f14d75cb7d1d738e25ee65b5eb1-2847x3196.jpg?rect=0,175,2847,2847&w=500&h=500&q=75&auto=format"
+  },
+  {
+   "img": "mrhansel-2.webp",
+   "w": 500,
+   "h": 500,
+   "src": "https://cdn.sanity.io/images/w4avejpr/production/0bd9c4a904e1b11af746d0dcd6ce5d1056057653-1360x1798.png?rect=0,219,1360,1360&w=500&h=500&q=75&auto=format"
+  },
+  {
+   "img": "mrhansel-3.webp",
+   "w": 500,
+   "h": 500,
+   "src": "https://cdn.sanity.io/images/w4avejpr/production/832d670cdfa3cb80657869824c873f4021532a7f-3300x4200.jpg?rect=0,450,3300,3300&w=500&h=500&q=75&auto=format"
+  },
+  {
+   "img": "mrhansel-4.webp",
+   "w": 500,
+   "h": 500,
+   "src": "https://cdn.sanity.io/images/w4avejpr/production/0964ff3169507f8c07168398ac13c7fdb01b41e5-1286x1288.jpg?rect=0,1,1286,1286&w=500&h=500&q=75&auto=format"
+  }
+ ],
+ "mx12art": [
+  {
+   "img": "mx12art-1.webp",
+   "w": 1200,
+   "h": 900,
+   "src": "https://mx12.art/wp-content/uploads/2025/09/IMG_0464-scaled.webp"
+  },
+  {
+   "img": "mx12art-2.webp",
+   "w": 931,
+   "h": 1200,
+   "src": "https://mx12.art/wp-content/uploads/2025/05/IMG-1749.jpg"
+  },
+  {
+   "img": "mx12art-3.webp",
+   "w": 1015,
+   "h": 1200,
+   "src": "https://mx12.art/wp-content/uploads/2023/12/IMG-2332.jpeg"
+  },
+  {
+   "img": "mx12art-4.webp",
+   "w": 900,
+   "h": 1200,
+   "src": "https://mx12.art/wp-content/uploads/2026/02/IMG_1087-1-scaled.webp"
+  }
+ ],
+ "najp": [
+  {
+   "img": "najp-1.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://najp.ch/wp-content/uploads/2025/07/IMG_5724.jpg"
+  },
+  {
+   "img": "najp-2.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://najp.ch/wp-content/uploads/2025/07/IMG_4749.jpg"
+  },
+  {
+   "img": "najp-3.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://najp.ch/wp-content/uploads/2025/06/IMG_5203.jpg"
+  }
+ ],
+ "naples": [
+  {
+   "img": "naples-1.webp",
+   "w": 1200,
+   "h": 950,
+   "src": "https://images.squarespace-cdn.com/content/v1/63a37bb292d71e29a28e0306/c6bfaea1-62fc-4793-ac04-2184e0d41144/Three+Pears.jpg?format=1500w"
+  },
+  {
+   "img": "naples-2.webp",
+   "w": 900,
+   "h": 1200,
+   "src": "https://images.squarespace-cdn.com/content/v1/63a37bb292d71e29a28e0306/45f24a56-73d8-42f0-9ff8-aacb12a92b7c/Vista+Avocados+HR.jpg?format=1500w"
+  },
+  {
+   "img": "naples-3.webp",
+   "w": 800,
+   "h": 1200,
+   "src": "https://images.squarespace-cdn.com/content/v1/63a37bb292d71e29a28e0306/ab2beafa-313d-45a8-b89d-1ec5f490958a/Bitcoin+Samurai+NAPLES.jpg?format=1500w"
+  },
+  {
+   "img": "naples-4.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://images.squarespace-cdn.com/content/v1/63a37bb292d71e29a28e0306/1677854932216-ZD2RQ8HBOUBUEDGQZIRW/ol+blue.png?format=1500w"
+  }
+ ],
+ "no-good-kid": [
+  {
+   "img": "no-good-kid-1.webp",
+   "w": 1200,
+   "h": 750,
+   "src": "https://nogoodkid.com/images/tamers.jpg"
+  },
+  {
+   "img": "no-good-kid-2.webp",
+   "w": 961,
+   "h": 1200,
+   "src": "https://nogood.studio/assets/img/kJaIach8Xg-1400.webp"
+  },
+  {
+   "img": "no-good-kid-3.webp",
+   "w": 1136,
+   "h": 1200,
+   "src": "https://nogood.studio/assets/img/yXPfkAtMWj-1400.webp"
+  },
+  {
+   "img": "no-good-kid-4.webp",
+   "w": 1200,
+   "h": 801,
+   "src": "https://nogood.studio/assets/img/QfpP95hgwL-1400.webp"
+  }
+ ],
+ "nogood": [
+  {
+   "img": "nogood-1.webp",
+   "w": 879,
+   "h": 1200,
+   "src": "https://nogood.studio/assets/img/Jdq4OFs7T--1400.webp"
+  },
+  {
+   "img": "nogood-2.webp",
+   "w": 960,
+   "h": 1200,
+   "src": "https://nogood.studio/assets/img/OQpkuDMMDB-1400.webp"
+  },
+  {
+   "img": "nogood-3.webp",
+   "w": 1005,
+   "h": 1200,
+   "src": "https://nogood.studio/assets/img/VT538D2IMF-1400.webp"
+  },
+  {
+   "img": "nogood-4.webp",
+   "w": 810,
+   "h": 1200,
+   "src": "https://nogood.studio/assets/img/-EEypcYIiQ-1400.webp"
+  }
+ ],
+ "pascal-boyart-pboy": [
+  {
+   "img": "pascal-boyart-pboy-1.webp",
+   "w": 1080,
+   "h": 1080,
+   "src": "https://static.wixstatic.com/media/61405b_47f81a34c7cd4b41998747c6049fe0da~mv2.jpg"
+  },
+  {
+   "img": "pascal-boyart-pboy-2.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://static.wixstatic.com/media/61405b_d7d135d1ac50474cbb92c3c72091808c~mv2.jpg"
+  },
+  {
+   "img": "pascal-boyart-pboy-3.webp",
+   "w": 1080,
+   "h": 1200,
+   "src": "https://static.wixstatic.com/media/61405b_94a3ff1fbc1c41289991b32d2ad36d0d~mv2.jpg"
+  },
+  {
+   "img": "pascal-boyart-pboy-4.webp",
+   "w": 977,
+   "h": 1200,
+   "src": "https://static.wixstatic.com/media/61405b_b473d3efa7ab43d488a13f62e4df4307~mv2.jpg"
+  }
+ ],
+ "pepelangelo": [
+  {
+   "img": "pepelangelo-1.webp",
+   "w": 1200,
+   "h": 964,
+   "src": "https://d2gt4h1eeousrn.cloudfront.net/65414768/cover-AUD6bU/5TzDmZF-2000x2000.webp"
+  },
+  {
+   "img": "pepelangelo-2.webp",
+   "w": 835,
+   "h": 537,
+   "src": "https://d2j6dbq0eux0bg.cloudfront.net/images/65414768/3185328061.jpg"
+  },
+  {
+   "img": "pepelangelo-3.webp",
+   "w": 900,
+   "h": 1200,
+   "src": "https://d2j6dbq0eux0bg.cloudfront.net/images/65414768/3380619927.jpg"
+  },
+  {
+   "img": "pepelangelo-4.webp",
+   "w": 520,
+   "h": 695,
+   "src": "https://d2j6dbq0eux0bg.cloudfront.net/images/65414768/2555811093.jpg"
+  }
+ ],
+ "pepenardo-nardo": [
+  {
+   "img": "pepenardo-nardo-1.webp",
+   "w": 500,
+   "h": 500,
+   "src": "https://cdn.sanity.io/images/w4avejpr/production/616ae0c6a65239a6491aeebbcf6d9594bb5a9db2-947x1200.jpg?rect=0,127,947,947&w=500&h=500&q=75&auto=format"
+  },
+  {
+   "img": "pepenardo-nardo-2.webp",
+   "w": 500,
+   "h": 500,
+   "src": "https://cdn.sanity.io/images/w4avejpr/production/597a4ba716ed3a8112ad630d65491e56c5150143-1800x1800.jpg?w=500&h=500&q=75&auto=format"
+  },
+  {
+   "img": "pepenardo-nardo-3.webp",
+   "w": 500,
+   "h": 500,
+   "src": "https://cdn.sanity.io/images/w4avejpr/production/fa6e32efea105c102a2bdf44988316e4ac506d75-3839x4799.jpg?rect=0,481,3839,3839&w=500&h=500&q=75&auto=format"
+  },
+  {
+   "img": "pepenardo-nardo-4.webp",
+   "w": 500,
+   "h": 500,
+   "src": "https://cdn.sanity.io/images/w4avejpr/production/aa97606d1244a8a9665cab587e2b15531dbb052d-1200x1500.jpg?rect=0,150,1200,1200&w=500&h=500&q=75&auto=format"
+  }
+ ],
+ "petek": [
+  {
+   "img": "petek-1.webp",
+   "w": 1200,
+   "h": 675,
+   "src": "https://static.wixstatic.com/media/ed8ce2_72311643f53b4193b30267506f5089b9~mv2.jpg"
+  }
+ ],
+ "proof-of-paint": [
+  {
+   "img": "proof-of-paint-1.webp",
+   "w": 875,
+   "h": 1200,
+   "src": "https://proofofpaint.art/wp-content/uploads/2022/03/sov2_final-fx.jpg"
+  },
+  {
+   "img": "proof-of-paint-2.webp",
+   "w": 959,
+   "h": 1200,
+   "src": "https://proofofpaint.art/wp-content/uploads/2024/09/2024-08-16Hands-Leenux-09548-AQ-resized-dots-scaled.jpg"
+  },
+  {
+   "img": "proof-of-paint-3.webp",
+   "w": 985,
+   "h": 1200,
+   "src": "https://proofofpaint.art/wp-content/uploads/2022/03/border-textured-l-scaled.jpg"
+  },
+  {
+   "img": "proof-of-paint-4.webp",
+   "w": 879,
+   "h": 1200,
+   "src": "https://proofofpaint.art/wp-content/uploads/2023/05/cornita.png"
+  }
+ ],
+ "puzzle": [
+  {
+   "img": "puzzle-1.webp",
+   "w": 1200,
+   "h": 800,
+   "src": "https://puzzlingpuzzle.art/wp-content/uploads/2025/07/Tabbi-Bit-Coin_03.jpg"
+  },
+  {
+   "img": "puzzle-2.webp",
+   "w": 1200,
+   "h": 900,
+   "src": "https://puzzlingpuzzle.art/wp-content/uploads/2025/07/PXL_20220203_130627515.MP_.jpg"
+  },
+  {
+   "img": "puzzle-3.webp",
+   "w": 1028,
+   "h": 1200,
+   "src": "https://puzzlingpuzzle.art/wp-content/uploads/2025/07/PXL_20200925_1026256921.jpg"
+  },
+  {
+   "img": "puzzle-4.webp",
+   "w": 1124,
+   "h": 1124,
+   "src": "https://puzzlingpuzzle.art/wp-content/uploads/2025/07/125368307_1523708417827818_418013649034415356_o.jpg"
+  }
+ ],
+ "rare-scrilla": [
+  {
+   "img": "rare-scrilla-1.webp",
+   "w": 800,
+   "h": 800,
+   "src": "https://www.rarescrilla.com/_next/image?url=%2Fimages%2FSoundMoney.jpg&w=828&q=75"
+  },
+  {
+   "img": "rare-scrilla-2.webp",
+   "w": 640,
+   "h": 640,
+   "src": "https://www.rarescrilla.com/_next/image?url=%2Fimages%2FCantSmokeBitcoin.jpg&w=640&q=75"
+  },
+  {
+   "img": "rare-scrilla-3.webp",
+   "w": 800,
+   "h": 800,
+   "src": "https://www.rarescrilla.com/_next/image?url=%2Fimages%2FTheWarsIveWon.jpg&w=828&q=75"
+  },
+  {
+   "img": "rare-scrilla-4.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://grand-rising-images.rarescrilla.com/QmR6t9iPqY99JhmtCT1DhX77shEnB9PhsJHvwhXH66BkSW-0.jpg"
+  }
+ ],
+ "rebel-money": [
+  {
+   "img": "rebel-money-1.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://www.rebelmoney.art/assets/cbe48cb9c8706253.webp"
+  },
+  {
+   "img": "rebel-money-2.webp",
+   "w": 1200,
+   "h": 1038,
+   "src": "https://www.rebelmoney.art/assets/d15d20b3edc8eae2.webp"
+  },
+  {
+   "img": "rebel-money-3.webp",
+   "w": 1200,
+   "h": 800,
+   "src": "https://www.rebelmoney.art/assets/5ec8ba08277148b5.webp"
+  },
+  {
+   "img": "rebel-money-4.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://www.rebelmoney.art/assets/852bf77265725e85.webp"
+  }
+ ],
+ "ronin-21": [
+  {
+   "img": "ronin-21-1.webp",
+   "w": 1200,
+   "h": 773,
+   "src": "https://ronin21.xyz/cdn/shop/files/Screenshot-2023-05-31-at-9.50.05-PM.jpg?height=2056&v=1752125524"
+  },
+  {
+   "img": "ronin-21-2.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://ronin21.xyz/cdn/shop/files/unisex-heavy-blend-hoodie-purple-back-690c441b5fef6.jpg?v=1762411562&width=1600"
+  }
+ ],
+ "sarah-foster": [
+  {
+   "img": "sarah-foster-1.webp",
+   "w": 1000,
+   "h": 666,
+   "src": "https://bitcoinartgallery.com/art/the-bitcoin-venus-sarah-foster.webp"
+  }
+ ],
+ "shipwreck-sean": [
+  {
+   "img": "shipwreck-sean-1.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://321b8e77afe953600612.cdn6.editmysite.com/uploads/b/321b8e77afe95360061275480194763cd7e55774a7252a1fd0fff4584ca77198/OG_DRAWING_2%203_1791851909.png?width=2400&optimize=medium"
+  }
+ ],
+ "studio-zeitwerk": [
+  {
+   "img": "studio-zeitwerk-1.webp",
+   "w": 520,
+   "h": 691,
+   "src": "https://static.wixstatic.com/media/6d8610_4514147bd38f4ede8cebf582db0b682e~mv2.jpg/v1/fill/w_520,h_691,q_90,enc_avif,quality_auto/6d8610_4514147bd38f4ede8cebf582db0b682e~mv2.jpg"
+  },
+  {
+   "img": "studio-zeitwerk-2.webp",
+   "w": 365,
+   "h": 366,
+   "src": "https://static.wixstatic.com/media/6d8610_658e1408d9514629ac23145df0805303~mv2.jpg/v1/fill/w_365,h_366,q_90,enc_avif,quality_auto/6d8610_658e1408d9514629ac23145df0805303~mv2.jpg"
+  },
+  {
+   "img": "studio-zeitwerk-3.webp",
+   "w": 447,
+   "h": 446,
+   "src": "https://static.wixstatic.com/media/6d8610_3e5f6aaa6bef48faad22bf4ddcfe6ddd~mv2.jpg/v1/fill/w_447,h_446,q_90,enc_avif,quality_auto/6d8610_3e5f6aaa6bef48faad22bf4ddcfe6ddd~mv2.jpg"
+  }
+ ],
+ "superama": [
+  {
+   "img": "superama-1.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://info.gamma.io/hubfs/cms%20updated%20files/satoshi%20is%20female.webp"
+  }
+ ],
+ "sweedgraffixx": [
+  {
+   "img": "sweedgraffixx-1.webp",
+   "w": 992,
+   "h": 1200,
+   "src": "https://sweedgraffixx.ch/wp-content/uploads/2026/07/20250905_232247.jpg"
+  },
+  {
+   "img": "sweedgraffixx-2.webp",
+   "w": 1200,
+   "h": 1165,
+   "src": "https://sweedgraffixx.ch/wp-content/uploads/2026/07/20250905_232310.jpg"
+  },
+  {
+   "img": "sweedgraffixx-3.webp",
+   "w": 1200,
+   "h": 836,
+   "src": "https://sweedgraffixx.ch/wp-content/uploads/2026/07/20250927_042451.jpg"
+  }
+ ],
+ "the-great-print": [
+  {
+   "img": "the-great-print-1.webp",
+   "w": 916,
+   "h": 1200,
+   "src": "https://static.wixstatic.com/media/30ce44_d27d532646ae41d9a26f021d92264d59~mv2.png"
+  },
+  {
+   "img": "the-great-print-2.webp",
+   "w": 900,
+   "h": 1200,
+   "src": "https://static.wixstatic.com/media/30ce44_8b7cd11aaed246bf8ba3ee1e77ca3d9e~mv2.jpg"
+  },
+  {
+   "img": "the-great-print-3.webp",
+   "w": 864,
+   "h": 1080,
+   "src": "https://static.wixstatic.com/media/30ce44_673d3391d25742d29900ede5fee14a4d~mv2.jpg"
+  },
+  {
+   "img": "the-great-print-4.webp",
+   "w": 1000,
+   "h": 1000,
+   "src": "https://static.wixstatic.com/media/30ce44_044d0039d7664a4a8436e770065a7581~mv2.png"
+  }
+ ],
+ "tj-murphy": [
+  {
+   "img": "tj-murphy-1.webp",
+   "w": 1200,
+   "h": 1185,
+   "src": "https://img.tjm.art/display/strawberry-point-12-36e436a0-1600.webp"
+  },
+  {
+   "img": "tj-murphy-2.webp",
+   "w": 861,
+   "h": 1200,
+   "src": "https://img.tjm.art/display/meditation-at-denny-blaine-5a3385c5cb-1600.webp"
+  },
+  {
+   "img": "tj-murphy-3.webp",
+   "w": 840,
+   "h": 1200,
+   "src": "https://img.tjm.art/display/warszawska-syrenka-2026-9c41892006-1600.webp"
+  },
+  {
+   "img": "tj-murphy-4.webp",
+   "w": 642,
+   "h": 1200,
+   "src": "https://img.tjm.art/display/archived-painting-249-1600.webp"
+  }
+ ],
+ "todd-gray": [
+  {
+   "img": "todd-gray-1.webp",
+   "w": 997,
+   "h": 1200,
+   "src": "https://static.wixstatic.com/media/faeb55_bfa207ea7d6f4d26a8d2511706a83bf3~mv2.png"
+  },
+  {
+   "img": "todd-gray-2.webp",
+   "w": 991,
+   "h": 1200,
+   "src": "https://static.wixstatic.com/media/faeb55_e33438513fd74ed8961b003eb9526268~mv2.png"
+  },
+  {
+   "img": "todd-gray-3.webp",
+   "w": 526,
+   "h": 417,
+   "src": "https://static.wixstatic.com/media/faeb55_604e0ae6d4874267bc66fd0a58c63ded~mv2.png/v1/fill/w_526,h_417,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/faeb55_604e0ae6d4874267bc66fd0a58c63ded~mv2.png"
+  },
+  {
+   "img": "todd-gray-4.webp",
+   "w": 1017,
+   "h": 1200,
+   "src": "https://static.wixstatic.com/media/faeb55_1e220675a2a74fed903abacce40f61f2~mv2.jpg"
+  }
+ ],
+ "tom-badley": [
+  {
+   "img": "tom-badley-1.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://usercontent.one/wp/tombadley.net/wp-content/uploads/2023/05/tombadleyofflinecash.jpg"
+  },
+  {
+   "img": "tom-badley-2.webp",
+   "w": 842,
+   "h": 543,
+   "src": "https://usercontent.one/wp/tombadley.net/wp-content/uploads/2021/04/tom_badley_dorian_nakamoto.jpg"
+  },
+  {
+   "img": "tom-badley-3.webp",
+   "w": 1200,
+   "h": 721,
+   "src": "https://usercontent.one/wp/tombadley.net/wp-content/uploads/2023/11/goldbacks.jpg"
+  },
+  {
+   "img": "tom-badley-4.webp",
+   "w": 900,
+   "h": 1200,
+   "src": "https://scontent-cph2-1.cdninstagram.com/v/t51.82787-15/825269695_18346012069255298_6966045281271668982_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=pAUe434ZCiMQ7kNvwFzpnw3&_nc_oc=AdrL0NHt6SdkuG9rFsfxcjjXYpZewooPbnm0AVQhpkakM3Zvkp_94ZjGXqr2Ymh37Oc&_nc_zt=23&_nc_ht=scontent-cph2-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=IohmQi7A0Eq5heHLY5JzJw&_nc_tpa=Q5bMBQLNfMkxp-UmHaUHvyBrO-7sSPq98rxeh7IcGdDncr68eOevGt9mDqyJY-YL7_tJlrDTrQ26dFm1&oh=00_AQO9OC4r_4VQ5r6I_3S6AHa0QyrFsMzEydEUap1Tssjs3w&oe=6AE5854D"
+  }
+ ],
+ "tommy-marcheschi": [
+  {
+   "img": "tommy-marcheschi-1.webp",
+   "w": 500,
+   "h": 500,
+   "src": "https://images.weserv.nl/?url=tommy.studio%2Fimages%2Fhis-majesty-satoshi.webp&w=500&q=60&output=webp"
+  },
+  {
+   "img": "tommy-marcheschi-2.webp",
+   "w": 500,
+   "h": 644,
+   "src": "https://images.weserv.nl/?url=swqjuprgwddxcmivcpgh.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fartworks%2Fart%2Fend-fiat-before-fiat-ends-us.jpg&w=500&q=60&output=webp"
+  },
+  {
+   "img": "tommy-marcheschi-3.webp",
+   "w": 500,
+   "h": 557,
+   "src": "https://images.weserv.nl/?url=swqjuprgwddxcmivcpgh.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fartworks%2Fart%2Fwarbonds.jpg&w=500&q=60&output=webp"
+  },
+  {
+   "img": "tommy-marcheschi-4.webp",
+   "w": 500,
+   "h": 601,
+   "src": "https://images.weserv.nl/?url=swqjuprgwddxcmivcpgh.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fartworks%2Fart%2Fworld-love-bitcoin-peace.webp&w=500&q=60&output=webp"
+  }
+ ],
+ "trevor-jones": [
+  {
+   "img": "trevor-jones-1.webp",
+   "w": 800,
+   "h": 1200,
+   "src": "https://www.trevorjonesart.com/wp-content/uploads/2026/01/Holy-Spirit-Now-Streaming-1.jpg"
+  },
+  {
+   "img": "trevor-jones-2.webp",
+   "w": 1103,
+   "h": 1103,
+   "src": "https://www.trevorjonesart.com/wp-content/uploads/2026/01/iWitness.jpg"
+  },
+  {
+   "img": "trevor-jones-3.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://www.trevorjonesart.com/wp-content/uploads/2024/01/Bitcoin-Bull-1.jpg"
+  },
+  {
+   "img": "trevor-jones-4.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://www.trevorjonesart.com/wp-content/uploads/2024/01/Steampunk-Bull.jpg"
+  }
+ ],
+ "tructor-21": [
+  {
+   "img": "tructor-21-1.webp",
+   "w": 800,
+   "h": 800,
+   "src": "https://tructor.co/wp-content/uploads/2023/05/TRUCTOR-23-1-1.jpg"
+  }
+ ],
+ "tynka": [
+  {
+   "img": "tynka-1.webp",
+   "w": 1200,
+   "h": 848,
+   "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/m2W8wrWBJbTVqz7r/music-copy-c4lt5e9YYBmvwTiw.jpg"
+  },
+  {
+   "img": "tynka-2.webp",
+   "w": 1200,
+   "h": 860,
+   "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/m2W8wrWBJbTVqz7r/btc_erik_cason-copy-AVLa097KLgtJ1rep.jpg"
+  },
+  {
+   "img": "tynka-3.webp",
+   "w": 1200,
+   "h": 848,
+   "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/m2W8wrWBJbTVqz7r/detectives-copy-QeneXHPqS53xSpfp.jpg"
+  },
+  {
+   "img": "tynka-4.webp",
+   "w": 1200,
+   "h": 821,
+   "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1600/m2W8wrWBJbTVqz7r/250621_btcprague-self-custody328-A1a5vXLJ4euG7R6p.jpg"
+  }
+ ],
+ "volatile21": [
+  {
+   "img": "volatile21-1.webp",
+   "w": 960,
+   "h": 1200,
+   "src": "https://www.volatile21.com/assets/images/enter/03.jpg"
+  },
+  {
+   "img": "volatile21-2.webp",
+   "w": 960,
+   "h": 1200,
+   "src": "https://www.volatile21.com/assets/images/enter/05.jpg"
+  },
+  {
+   "img": "volatile21-3.webp",
+   "w": 960,
+   "h": 1200,
+   "src": "https://www.volatile21.com/assets/images/enter/06.jpg"
+  }
+ ],
+ "world-of-rusty": [
+  {
+   "img": "world-of-rusty-1.webp",
+   "w": 776,
+   "h": 966,
+   "src": "https://www.worldofrusty.com/cdn/shop/products/Carddisplaywithcard.jpg?v=1672445402"
+  },
+  {
+   "img": "world-of-rusty-2.webp",
+   "w": 1200,
+   "h": 802,
+   "src": "https://www.worldofrusty.com/cdn/shop/files/PoW_2_sold.jpg?v=1744675357"
+  },
+  {
+   "img": "world-of-rusty-3.webp",
+   "w": 1024,
+   "h": 1024,
+   "src": "https://www.worldofrusty.com/cdn/shop/files/websiteonbrick.png?v=1757304843"
+  },
+  {
+   "img": "world-of-rusty-4.webp",
+   "w": 1000,
+   "h": 1000,
+   "src": "https://www.worldofrusty.com/cdn/shop/files/premium-luster-photo-paper-poster-_in_-24x36-transparent-64675cf10a97a.jpg?v=1684495620"
+  }
+ ],
+ "x3n0533d": [
+  {
+   "img": "x3n0533d-1.webp",
+   "w": 699,
+   "h": 992,
+   "src": "https://www.haedre.com/images/xenoseed/mind_node_1/Mind_Node_1.jpg"
+  },
+  {
+   "img": "x3n0533d-2.webp",
+   "w": 1200,
+   "h": 848,
+   "src": "https://www.haedre.com/images/xenoseed/Come_and_get_it/Come_And_Get_It.jpg"
+  }
+ ],
+ "yonat-vaks": [
+  {
+   "img": "yonat-vaks-1.webp",
+   "w": 1200,
+   "h": 881,
+   "src": "https://static.wixstatic.com/media/2aec5b_788c6cc9198949d68a7ea2121ea29cd9~mv2.jpg"
+  },
+  {
+   "img": "yonat-vaks-2.webp",
+   "w": 1200,
+   "h": 852,
+   "src": "https://static.wixstatic.com/media/2aec5b_e6360bf4626542efacc2fc44d2323323~mv2.jpg"
+  },
+  {
+   "img": "yonat-vaks-3.webp",
+   "w": 1200,
+   "h": 540,
+   "src": "https://static.wixstatic.com/media/2aec5b_784f8c78fc5f4c25b993a3e52d98983c~mv2.jpg"
+  },
+  {
+   "img": "yonat-vaks-4.webp",
+   "w": 1200,
+   "h": 654,
+   "src": "https://static.wixstatic.com/media/2aec5b_74b7f3eedb614dfca200f08b0028ea3a~mv2.png"
+  }
+ ],
+ "yuzapata": [
+  {
+   "img": "yuzapata-1.webp",
+   "w": 958,
+   "h": 1200,
+   "src": "http://yuzapata.art/wp-content/uploads/2025/09/yuzapata_iwanttocoffee_2025.png"
+  },
+  {
+   "img": "yuzapata-2.webp",
+   "w": 900,
+   "h": 1200,
+   "src": "http://yuzapata.art/wp-content/uploads/2025/05/yuzapata_tumblerpigeon_2024.png"
+  },
+  {
+   "img": "yuzapata-3.webp",
+   "w": 1200,
+   "h": 1181,
+   "src": "http://yuzapata.art/wp-content/uploads/2025/03/yuzapata_lovefool_2024.png"
+  },
+  {
+   "img": "yuzapata-4.webp",
+   "w": 900,
+   "h": 1200,
+   "src": "http://yuzapata.art/wp-content/uploads/2025/03/yuzapata_palenquera02_2024.png"
+  }
+ ],
+ "zap-zide": [
+  {
+   "img": "zap-zide-1.webp",
+   "w": 800,
+   "h": 1200,
+   "src": "https://blossom.primal.net/a1d89beb0c64c427c799b3d73d9f4dded4c5afbfc40d56c0b2798befd15071f7.jpg"
+  },
+  {
+   "img": "zap-zide-2.webp",
+   "w": 800,
+   "h": 1200,
+   "src": "https://blossom.primal.net/0fea83c7ede0f986392abc26c0d111c89a4b73bf8ace46094ddef82f96d2a84f.jpg"
+  },
+  {
+   "img": "zap-zide-3.webp",
+   "w": 800,
+   "h": 1200,
+   "src": "https://blossom.primal.net/1aab34e9f3321bb1c5f2a88c4fabc0458cf3805ec420a9abfa92aa445f409938.jpg"
+  },
+  {
+   "img": "zap-zide-4.webp",
+   "w": 800,
+   "h": 1200,
+   "src": "https://blossom.primal.net/be6f1e3bfd01770f9007890beb2702bb82827702acf383a033a387cd3f46684d.jpg"
+  }
+ ],
+ "zaza": [
+  {
+   "img": "zaza-1.webp",
+   "w": 868,
+   "h": 1065,
+   "src": "https://9fold.co/assets/zaza-satoshi-print-BMHctU04.jpg"
+  },
+  {
+   "img": "zaza-2.webp",
+   "w": 672,
+   "h": 1200,
+   "src": "https://9fold.co/assets/zaza-scene-drip-DdnUTeq_.jpg"
+  },
+  {
+   "img": "zaza-3.webp",
+   "w": 672,
+   "h": 1200,
+   "src": "https://9fold.co/assets/zaza-scene-the-blues-2-C72NXSH6.jpg"
+  }
+ ],
+ "zetra": [
+  {
+   "img": "zetra-1.webp",
+   "w": 596,
+   "h": 794,
+   "src": "https://zetra.studio/assets/images/gallery04/b82b105c.jpg?v=f7f806b9"
+  },
+  {
+   "img": "zetra-2.webp",
+   "w": 596,
+   "h": 795,
+   "src": "https://zetra.studio/assets/images/gallery04/b918d5f5.jpg?v=f7f806b9"
+  },
+  {
+   "img": "zetra-3.webp",
+   "w": 596,
+   "h": 794,
+   "src": "https://zetra.studio/assets/images/gallery16/5cc72822.jpg?v=f7f806b9"
+  },
+  {
+   "img": "zetra-4.webp",
+   "w": 1200,
+   "h": 1200,
+   "src": "https://zetra.studio/assets/images/slideshow01-f3509aed.jpg?v=f7f806b9"
+  }
+ ]
+}

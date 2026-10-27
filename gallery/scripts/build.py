@@ -58,6 +58,9 @@ def main():
     soc_path, feat_path = ROOT / "data/socials.json", ROOT / "data/featured.json"
     socials = json.loads(soc_path.read_text(encoding="utf-8")) if soc_path.exists() else {}
     featured = json.loads(feat_path.read_text(encoding="utf-8")) if feat_path.exists() else {}
+    # extra pictures for the open panel's mini gallery (scripts/add_works.py): [file, w, h] each
+    works_path = ROOT / "data/works.json"
+    works = json.loads(works_path.read_text(encoding="utf-8")) if works_path.exists() else {}
     out = []
     for e in entries:
         info = images.get(e["id"], {})
@@ -77,13 +80,14 @@ def main():
             "h": info.get("h"),
             "color": info.get("color"),
             "soc": socials.get(e["id"]) or None,
+            "wk": [[w["img"], w["w"], w["h"]] for w in works.get(e["id"], [])] or None,
         })
     rooms = []
     for rid, label, blurb in ROOMS:
         n = sum(1 for e in out if e["room"] == rid)
         rooms.append({"id": rid, "label": label, "blurb": blurb, "count": n})
     ids = {e["id"] for e in out}
-    stale = sorted(set(socials) - ids) + sorted(v for v in featured.values() if v not in ids)
+    stale = sorted(set(socials) - ids) + sorted(set(works) - ids) + sorted(v for v in featured.values() if v not in ids)
     if stale:
         print("warning: socials/featured ids not in README:", ", ".join(stale))
     data = {"rooms": rooms, "entries": out, "total": len(out),
