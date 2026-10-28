@@ -2374,11 +2374,48 @@
   "manual": true,
   "src": "manual"
  },
+ "bugle-news": {
+  "img": "img/bugle-news.webp",
+  "color": "#0d0801",
+  "w": 720,
+  "h": 720,
+  "src": "https://storage.ghost.io/c/2b/78/2b7819dd-fa09-4afb-83f8-6f9e5bcc69fd/content/images/2023/01/The-1.png"
+ },
+ "valentina-picozzi": {
+  "img": "img/valentina-picozzi.webp",
+  "color": "#3f433c",
+  "w": 720,
+  "h": 720,
+  "src": "https://res.cloudinary.com/ja19krzm/image/upload/v1784285917/b-sign_bg9xgv.jpg"
+ },
+ "satoshi-gallery": {
+  "img": "img/satoshi-gallery.webp",
+  "color": "#8b2c05",
+  "w": 720,
+  "h": 377,
+  "src": "http://www.satoshigallery.com/cdn/shop/files/SG_img.png?v=1780414114"
+ },
  "nakamoto-library": {
   "img": "img/nakamoto-library.webp",
   "color": "#8b623b",
   "w": 720,
   "h": 378,
   "src": "https://crisp-acre-scarlet-trail.grok.me/og.jpg"
+ },
+ "purple-painter": {
+  "img": "img/purple-painter.webp",
+  "color": "#906854",
+  "w": 720,
+  "h": 960,
+  "manual": true,
+  "src": "https://blossom.primal.net/b0eab737d95db7c1accb8b7e45c110dd54466f209fccb0a841fea9b63a473ced.jpg"
+ },
+ "pegah-rug": {
+  "img": "img/pegah-rug.webp",
+  "color": "#ad9164",
+  "w": 720,
+  "h": 720,
+  "manual": true,
+  "src": "https://blossom.primal.net/152fb6c34979bce14ec5c6f3cfd9efce48b5aa39599be7823968e6363cbfb84c.jpg"
  }
 }

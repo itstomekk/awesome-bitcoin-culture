@@ -363,6 +363,17 @@
   "host": "proofofpaint.art"
  },
  {
+  "id": "purple-painter",
+  "name": "Purple Painter",
+  "url": "https://primal.net/p/npub1tx5ccpregnm9afq0xaj42hh93xl4qd3lfa7u74v5cdvyhwcnlanqplhd8g",
+  "desc": "Nostr painter of small works sold for 21k sats: orange ₿ characters, pleb portraits, and commissions.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Painters",
+  "host": "primal.net"
+ },
+ {
   "id": "ryr",
   "name": "RYR",
   "url": "https://www.ryrstudio.com/",
@@ -449,6 +460,17 @@
   "roomIcon": "🎨",
   "sub": "Painters",
   "host": "trevorjonesart.com"
+ },
+ {
+  "id": "valentina-picozzi",
+  "name": "Valentina Picozzi",
+  "url": "https://www.valentinapicozzi.com/",
+  "desc": "Italian Bitcoin activist artist; pop-aesthetic paintings and street work on Bitcoin, economics and cypherpunk themes. Curates Satoshi Gallery.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Painters",
+  "host": "valentinapicozzi.com"
  },
  {
   "id": "x3n0533d",
@@ -1120,6 +1142,17 @@
   "roomIcon": "🎨",
   "sub": "Mixed Media & Craft",
   "host": "najp.ch"
+ },
+ {
+  "id": "pegah-rug",
+  "name": "Pegah Rug",
+  "url": "https://primal.net/p/npub1wf0chcpyd7m0wvx6hd68xu4jtq2v4en8h3vxf2cajlvf4twjvlhs6xcrxx",
+  "desc": "Hand-knotted Persian rugs in wool and silk, sold only for bitcoin; Bitcoin-themed designs such as \"Universe-B\".",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Mixed Media & Craft",
+  "host": "primal.net"
  },
  {
   "id": "proof-of-ink",
@@ -2376,6 +2409,17 @@
   "host": "museum.b.tc"
  },
  {
+  "id": "satoshi-gallery",
+  "name": "Satoshi Gallery",
+  "url": "https://satoshigallery.com/",
+  "desc": "Artistic project curated by Valentina Picozzi, connecting people to Bitcoin and its culture through art and iconography.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Galleries, Museums & Hubs",
+  "host": "satoshigallery.com"
+ },
+ {
   "id": "a-cypherpunk-s-manifesto-1993",
   "name": "A Cypherpunk's Manifesto (1993)",
   "url": "https://www.activism.net/cypherpunk/manifesto.html",
@@ -2660,6 +2704,17 @@
   "roomIcon": "🏛",
   "sub": "Publications & Media",
   "host": "bradmills.ca"
+ },
+ {
+  "id": "bugle-news",
+  "name": "Bugle News",
+  "url": "https://www.bugle.news/",
+  "desc": "Subculture parody media: fake Bitcoin news and the Bugle Weekly podcast, hosted by Rod Palmer and Richard Greaser.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Publications & Media",
+  "host": "bugle.news"
  },
  {
   "id": "citadel21",

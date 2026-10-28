@@ -1,6 +1,6 @@
 # HANDOFF — awesome-bitcoin-culture
 
-**Last updated:** 2026-10-26.
+**Last updated:** 2026-10-28.
 
 ## Update 2026-10-26 (mini gallery pilot, local only)
 
@@ -11,6 +11,14 @@
 - Phone category strip: each tab has a 4px top line in its room colour (was a neutral line).
 - Open issue: Rare Scrilla's existing main picture is a text-only "Memetik Artefaktes" slab.
 - Full Visual Art run (2026-10-27): 101 entries have works, 350 pictures (73 entries with 4, 12 with 3, 6 with 2, 10 with 1, 20 with none). Harvest workspace outside the repo: `C:/Users/Lenovo/Hermes/projects/research/abc-works-harvest/` (candidates, picks, review sheets). Rule learned: only first-party pages (own site, own creator page on scarce.city/Timechain, single-artwork pages credited to the artist). Shop/catalogue/artist-grid pages on multi-artist sites and X accounts gave other artists' work, so `harvest_works.py` no longer follows links on those and records the source `page` per candidate. 20 entries without works only link to X/Instagram or have a dead site.
+- All-rooms run (2026-10-28, deployed with the update above): passes 3 and 4 added 495 pictures to 225 entries via `abc-works-harvest/add_all_to_gallery.py` (appends to existing works; `add_works.py` would replace them). `works.json` now 258 entries, 845 pictures. Pass 4 allowed the project's own social posts and screenshots of its own pages (17 screenshots). 35 picks were skipped as repeats of existing works (same source URL). `works.json` backup in `abc-works-harvest/logs/`. Built with `lum_works.py`, `build.py --no-fetch`, `check_parity.py` (OK), `assemble.py`.
+
+## Update 2026-10-28 (Purple Painter, Pegah Rug, No Good Kid fix, deploy)
+
+- Added at Tomek's request, both Nostr-only (URL = primal.net profile): Purple Painter (Visual Art > Painters, npub1tx5ccp...) and Pegah Rug (Visual Art > Mixed Media & Craft, npub1wf0chc...). Main pictures and 4 works each are from their own Nostr posts (manual `images.json` entries, `src` = blossom URL).
+- No Good Kid asked us to remove NoGood's pictures from his profile (two different artists: nogoodkid.com vs nogood.studio). Works 2-5 came from nogood.studio; replaced with his own Dribbble case studies (Nocoiner Syndrome, Top 10 Bitcoin F*ck Ups, Nostr Community Zine, Dark Forest #00; top 1600x1200 frame of each). Work 1 (Tamers of Entropy evidence bag, nogoodkid.com) kept. Old lum keys for no-good-kid-* were dropped and re-measured.
+- Rule: a works source host that belongs to another listing is a red flag. A host check on 2026-10-28 also flagged madmunky (3 pictures from 2140art.com), not yet reviewed.
+- Deployed with the earlier unpublished work (Valentina Picozzi, Satoshi Gallery, Bugle News, the all-rooms works run).
 
 ## Update 2026-10-23 (Nostr account, Support goal)
 

@@ -197,6 +197,8 @@ The full rules are in [CONTRIBUTING.md](CONTRIBUTING.md). The list is curated by
   meteorite, Moon dust, and banknotes; painted "Genesis" for PlanB.
 - [Proof of Paint](https://proofofpaint.art/) - Oil painting, illustration, and limited prints
   grounded in classical drawing; taking Bitcoin illustration commissions since 2013.
+- [Purple Painter](https://primal.net/p/npub1tx5ccpregnm9afq0xaj42hh93xl4qd3lfa7u74v5cdvyhwcnlanqplhd8g) - Nostr
+  painter of small works sold for 21k sats: orange ₿ characters, pleb portraits, and commissions.
 - [RYR](https://www.ryrstudio.com/) - Painting, street art, and mixed media with graffiti energy,
   addressing money, value, and technology. ([X/Twitter](https://x.com/ryrartist))
 - [Sarah Foster](https://bitcoinartgallery.com/#artists) - Kansas City painter putting Bitcoin symbols into
@@ -214,6 +216,8 @@ The full rules are in [CONTRIBUTING.md](CONTRIBUTING.md). The list is curated by
   his politically charged work as "pre-emptive propaganda."
 - [Trevor Jones](https://www.trevorjonesart.com/) - Oil paintings, prints, and bronze sculpture;
   "The Architect - Satoshi Nakamoto" was his first work sold for Bitcoin.
+- [Valentina Picozzi](https://www.valentinapicozzi.com/) - Italian Bitcoin activist artist; pop-aesthetic
+  paintings and street work on Bitcoin, economics and cypherpunk themes. Curates Satoshi Gallery.
 - [X3N0533D](https://x.com/X3N0533D) - Watercolor and ink on paper; cyberpunk imagery on
   self-custody, node operation, and mind sovereignty.
 
@@ -347,6 +351,8 @@ The full rules are in [CONTRIBUTING.md](CONTRIBUTING.md). The list is curated by
   boards; discarded hardware as statements about sound money.
 - [NAJP](https://najp.ch/) - Swiss artist who builds paintings and collages from real US dollars,
   paint, and gold leaf.
+- [Pegah Rug](https://primal.net/p/npub1wf0chcpyd7m0wvx6hd68xu4jtq2v4en8h3vxf2cajlvf4twjvlhs6xcrxx) - Hand-knotted
+  Persian rugs in wool and silk, sold only for bitcoin; Bitcoin-themed designs such as "Universe-B".
 - [Proof of Ink](https://proofofink.com/) - Hand screen-printed shirts and prints made with Bitcoin
   artists, who are paid in sats.
 - [Rare Scrilla](https://www.rarescrilla.com/) - Illustration, painting, and mixed media rooted in
@@ -630,6 +636,8 @@ still playable.
   Robert Mallary Art Residency and conference exhibitions.
 - [BMAG - Bitcoin Museum & Art Gallery](https://museum.b.tc) - Nashville museum and auction platform
   by BTC Inc. with 170+ works and Hal Finney memorabilia.
+- [Satoshi Gallery](https://satoshigallery.com/) - Artistic project curated by Valentina Picozzi,
+  connecting people to Bitcoin and its culture through art and iconography.
 
 ### Archives & History
 
@@ -703,6 +711,8 @@ sponsorships, patronage infrastructure.
 - [Bitcoin Video Magazine](https://bitcoinvideomagazine.com) - Hour-long video show covering the
   Bitcoin ecosystem in short documentary segments.
 - [Brad Mills](https://www.bradmills.ca/) - Movie producer and Bitcoin supporter, recently experimenting with AI; hosts the Magic Internet Money Podcast.
+- [Bugle News](https://www.bugle.news/) - Subculture parody media: fake Bitcoin news and the
+  Bugle Weekly podcast, hosted by Rod Palmer and Richard Greaser.
 - [Citadel21](https://www.citadel21.com) - Cultural zine and long-form investigative journalism by
   hodlonaut, with print editions.
 
