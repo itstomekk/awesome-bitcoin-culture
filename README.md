@@ -748,8 +748,9 @@ Three exceptions worth naming directly here, since they're culture-first rather 
   London and Prague, with live painting, music and open mic.
 - [Bitfest](https://bitfest.uk/) - Four-day Manchester festival (19-22 Nov 2026) that pairs talks with a
   Bitcoin art exhibition, cinema, gaming, live music and Nostr; family-friendly.
-- [Revolution.Rocks](https://www.revolution.rocks/) - Two-day Value4Value music festival on
-  Belgrade's Zappa Barka; Lightning tips go straight to performing artists.
+- [Revolution.Rocks](https://www.revolution.rocks/) - Free music night in Warsaw on Fri Jun 25, 2027
+  (Samo Centrum, by the Palace of Culture), the sister event of Bitcoin FilmFest; fans pay artists
+  directly over Bitcoin.
 
 - [TAA (Temporary Autonomous Art)](https://www.taaexhibitions.org/) - UK open-access underground art
   festival run by the Random Artists collective since 2001.
