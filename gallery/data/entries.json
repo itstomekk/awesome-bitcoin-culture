@@ -2376,6 +2376,17 @@
   "host": "activism.net"
  },
  {
+  "id": "bitcoin-calendar",
+  "name": "Bitcoin Calendar",
+  "url": "https://bitcoin-calendar.org/",
+  "desc": "Day-by-day calendar of Bitcoin history by Tony of 21ideas, with sources for every event.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Archives & History",
+  "host": "bitcoin-calendar.org"
+ },
+ {
   "id": "cypherpunks-mailing-list-archive",
   "name": "Cypherpunks Mailing List Archive",
   "url": "https://mailing-list-archive.cryptoanarchy.wiki/",

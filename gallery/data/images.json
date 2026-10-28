@@ -2365,5 +2365,13 @@
   "h": 770,
   "manual": true,
   "src": "https://free-market-simpson.is/wp-content/uploads/2023/08/Crypto-Anarchy.jpg"
+ },
+ "bitcoin-calendar": {
+  "img": "img/bitcoin-calendar.webp",
+  "color": "#e2e5d5",
+  "w": 720,
+  "h": 378,
+  "manual": true,
+  "src": "manual"
  }
 }

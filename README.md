@@ -637,6 +637,8 @@ happened.
 - [A Cypherpunk's Manifesto (1993)](https://www.activism.net/cypherpunk/manifesto.html) - Eric Hughes's
   founding text of the cypherpunk movement: privacy is necessary for an open society in the
   electronic age.
+- [Bitcoin Calendar](https://bitcoin-calendar.org/) - Day-by-day calendar of Bitcoin history by Tony of 21ideas,
+  with sources for every event.
 - [Cypherpunks Mailing List Archive](https://mailing-list-archive.cryptoanarchy.wiki/) - Browsable
   archive of the 1990s list where the ideas behind PGP, Tor, and Bitcoin were argued out in public.
 - [SatoshiTimeline.com](https://satoshitimeline.com/) - Searchable timeline of 1,096 events from
