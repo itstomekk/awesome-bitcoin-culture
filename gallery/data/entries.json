@@ -1430,6 +1430,17 @@
   "host": "primal.net"
  },
  {
+  "id": "nakamoto-library",
+  "name": "Nakamoto Library",
+  "url": "https://nakamotolibrary.org/",
+  "desc": "Catalogue of every Bitcoin book published since 2014, sorted by year, by Matteo Pellegrini.",
+  "room": "Literature",
+  "roomLabel": "Literature",
+  "roomIcon": "📚",
+  "sub": "",
+  "host": "nakamotolibrary.org"
+ },
+ {
   "id": "satoshi-s-fortune-a-novel",
   "name": "Satoshi’s Fortune: A Novel",
   "url": "https://alastair-mitchell.com/books/",

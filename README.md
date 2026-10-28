@@ -412,6 +412,8 @@ The full rules are in [CONTRIBUTING.md](CONTRIBUTING.md). The list is curated by
 - [Kontext](https://primal.net/p/npub1qfc7rwddjl3lzhkhgge8ch82xjfm6e3gqcgk8zm6pahz3tvvl7gq88xnrh) - Estonian
   writer and musician; author of *A Stoic Resurrection*, draws parallels between Bitcoin and
   Stoicism.
+- [Nakamoto Library](https://nakamotolibrary.org/) - Catalogue of every Bitcoin book published since 2014,
+  sorted by year, by Matteo Pellegrini.
 - [Satoshi’s Fortune: A Novel](https://alastair-mitchell.com/books/) - Alastair Mitchell's thriller
   about cypherpunks and a missing Bitcoin fortune in 2011 London; its sequel, *Satoshi’s Inquisition:
   A Novel*, follows a Bitcoin dark-web marketplace in 2012 San Francisco.

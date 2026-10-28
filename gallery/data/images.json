@@ -2373,5 +2373,12 @@
   "h": 378,
   "manual": true,
   "src": "manual"
+ },
+ "nakamoto-library": {
+  "img": "img/nakamoto-library.webp",
+  "color": "#8b623b",
+  "w": 720,
+  "h": 378,
+  "src": "https://crisp-acre-scarlet-trail.grok.me/og.jpg"
  }
 }
