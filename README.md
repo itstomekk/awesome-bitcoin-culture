@@ -737,7 +737,7 @@ distinct from the grants/patronage orgs above, these are self-serve tools any ar
 
 This list tracks creative work, not events. For a dedicated, actively updated calendar, see:
 
-- [Awesome Bitcoin Events](https://github.com/itstomekk/awesome-bitcoin-events) - The canonical
+- [Awesome Bitcoin Events](https://itstomekk.github.io/awesome-bitcoin-events/) - The canonical
   source for Bitcoin conferences, meetups, retreats, festivals, and technical gatherings worldwide.
 
 Three exceptions worth naming directly here, since they're culture-first rather than industry-first:

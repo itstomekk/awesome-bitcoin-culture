@@ -59,4 +59,25 @@
     },
     subs: (list) => [...new Set(list.map((e) => e.sub).filter(Boolean))],
   };
+
+  // Count clicks on links that leave this site as GoatCounter events ("out/<host><path>").
+  // Covers plain links and the social icons, which open their data-href from a script.
+  function trackOut(ev) {
+    if (ev.type === "auxclick" && ev.button !== 1) return;
+    const a = ev.target.closest && ev.target.closest("a[href], [data-href]");
+    if (!a) return;
+    const raw = a.dataset.href || a.getAttribute("href");
+    if (!raw || raw === "#") return;
+    let u;
+    try { u = new URL(raw, location.href); } catch (e) { return; }
+    if (!/^https?:$/.test(u.protocol) || u.host === location.host) return;
+    const gc = window.goatcounter;
+    if (!gc || typeof gc.count !== "function") return;
+    const row = a.closest("[data-id]");
+    const text = (a.getAttribute("aria-label") || a.getAttribute("title") || a.textContent || "").trim();
+    const label = row && text.indexOf(" on ") < 0 ? row.dataset.id + ": " + text : text;
+    gc.count({ path: "out/" + u.host + u.pathname, title: label.slice(0, 120), event: true });
+  }
+  document.addEventListener("click", trackOut, true);
+  document.addEventListener("auxclick", trackOut, true);
 })();

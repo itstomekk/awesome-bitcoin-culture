@@ -24,6 +24,13 @@
 - Pages custom domain set via `gh api -X PUT repos/itstomekk/awesome-bitcoin-culture/pages -f cname=...` (workflow build, so no CNAME file). The old github.io URL redirects. Canonical, og:url, sitemap, robots and the 404 page now use the domain root (`SITE` in `gallery/scripts/assemble.py`, `gallery/app/index.html`).
 - To do: GitHub domain verification TXT (`_github-pages-challenge-itstomekk`) from account Pages settings.
 
+## Update 2026-10-27 (events link, outgoing-click counting, GoatCounter access)
+
+- Awesome Bitcoin Events link now points at its site https://itstomekk.github.io/awesome-bitcoin-events/ instead of the GitHub repo (README and gallery card; the gallery adds utm_source=awesome-bitcoin-culture at render time).
+- `gallery/shared/common.js` `trackOut`: every click on a link that leaves the site (plain links and the `.si` social icons) is sent to GoatCounter as an event with path `out/<host><path>` and title `<entry-id>: <link text>`. Tested in Firefox with a stubbed `window.goatcounter.count`: both link types counted, no page errors.
+- Open: the GoatCounter API key in `.secrets/cookies/goatcounter-apikey.txt` returns `unknown token` for `awesomebitcoinculture` (it works for roatanlive), so the site is on a different account than the note below says. Create an API key on the account that owns `awesomebitcoinculture` and store it in `.secrets`; Tomek plans this for 2026-10-28.
+- GitHub traffic 2026-10-13..27: awesome-bitcoin-events repo 12 views / 11 unique (Google 2, github.com 1, none from this list); awesome-bitcoin-culture repo 7 / 6.
+
 ## Update 2026-10-23 (llms.txt, GoatCounter, search engines)
 
 - `assemble.py` now writes `dist/llms.txt` (llmstxt.org format: summary, key links, then one H2 per room/subsection with every entry and its own URL, no utm tag). Live: https://awesomebitcoinculture.com/llms.txt

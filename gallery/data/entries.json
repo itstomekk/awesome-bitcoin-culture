@@ -2785,13 +2785,13 @@
  {
   "id": "awesome-bitcoin-events",
   "name": "Awesome Bitcoin Events",
-  "url": "https://github.com/itstomekk/awesome-bitcoin-events",
+  "url": "https://itstomekk.github.io/awesome-bitcoin-events/",
   "desc": "The canonical source for Bitcoin conferences, meetups, retreats, festivals, and technical gatherings worldwide.",
   "room": "Events & Festivals",
   "roomLabel": "Events & Festivals",
   "roomIcon": "🎪",
   "sub": "",
-  "host": "github.com"
+  "host": "itstomekk.github.io"
  },
  {
   "id": "bitcoin-filmfest",
