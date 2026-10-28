@@ -110,7 +110,55 @@ def llms_txt(data):
     return "\n".join(lines).replace("\n\n\n", "\n\n").strip() + "\n"
 
 
+def entry_pages(data):
+    """dist/a/<id>/index.html: one shareable URL per entry with its own title, description and og:image
+    (shared/og/<id>.jpg from og_cards.py, else the site card). Link-preview bots read the tags; people are sent
+    straight on to /#<id>, because '#' links alone can never carry their own preview."""
+    e = html.escape
+    for en in data["entries"]:
+        url = f"{SITE}a/{en['id']}/"
+        card = DIST / "shared" / "og" / (en["id"] + ".jpg")
+        img = f"{SITE}shared/og/{en['id']}.jpg" if card.exists() else f"{SITE}og.jpg?v=2"
+        where = data_room(data, en)
+        title = f"{en['name']} - Awesome Bitcoin Culture"
+        desc = " ".join(en["desc"].split()) or f"{en['name']} in {where} on Awesome Bitcoin Culture."
+        dest = "/#" + en["id"]
+        page = (
+            '<!doctype html><html lang="en"><head><meta charset="utf-8">'
+            '<meta name="viewport" content="width=device-width, initial-scale=1">'
+            f"<title>{e(title)}</title>"
+            f'<meta name="description" content="{e(desc, quote=True)}">'
+            f'<link rel="canonical" href="{url}"><link rel="icon" href="/favicon.svg">'
+            '<meta property="og:type" content="website"><meta property="og:site_name" content="Awesome Bitcoin Culture">'
+            f'<meta property="og:title" content="{e(en["name"], quote=True)}">'
+            f'<meta property="og:description" content="{e(desc, quote=True)}">'
+            f'<meta property="og:url" content="{url}">'
+            f'<meta property="og:image" content="{img}">'
+            '<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">'
+            f'<meta property="og:image:alt" content="{e(en["name"], quote=True)} on Awesome Bitcoin Culture">'
+            '<meta name="twitter:card" content="summary_large_image">'
+            f'<meta name="twitter:title" content="{e(en["name"], quote=True)}">'
+            f'<meta name="twitter:description" content="{e(desc, quote=True)}">'
+            f'<meta name="twitter:image" content="{img}">'
+            f'<script>location.replace("{dest}"+(location.search||""));</script>'
+            f'<noscript><meta http-equiv="refresh" content="0;url={dest}"></noscript>'
+            '</head><body style="font-family:system-ui,sans-serif;max-width:36rem;margin:12vh auto;padding:0 1rem">'
+            f'<p><a href="/">Awesome Bitcoin Culture</a> &rsaquo; {e(where)}</p>'
+            f'<h1>{e(en["name"])}</h1><p>{e(desc)}</p>'
+            f'<p><a href="{e(tagged(en["url"]), quote=True)}" rel="noopener">{e(en["host"] or en["url"])}</a></p>'
+            f'<p><a href="{dest}">Open in the gallery</a></p></body></html>\n')
+        d = DIST / "a" / en["id"]
+        d.mkdir(parents=True, exist_ok=True)
+        (d / "index.html").write_text(page, encoding="utf-8")
+
+
+def data_room(data, en):
+    label = next((r["label"] for r in data["rooms"] if r["id"] == en["room"]), en["section"])
+    return label + (f" / {en['sub']}" if en["sub"] else "")
+
+
 def seo(data):
+    entry_pages(data)
     p = DIST / "index.html"
     t = p.read_text(encoding="utf-8")
     assert '<div id="rows"></div>' in t, "index.html: #rows placeholder not found"
@@ -120,7 +168,9 @@ def seo(data):
     today = date.today().isoformat()
     (DIST / "sitemap.xml").write_text(
         '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
-        f"  <url><loc>{SITE}</loc><lastmod>{today}</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>\n</urlset>\n",
+        f"  <url><loc>{SITE}</loc><lastmod>{today}</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>\n"
+        + "".join(f"  <url><loc>{SITE}a/{en['id']}/</loc><priority>0.6</priority></url>\n" for en in data["entries"])
+        + "</urlset>\n",
         encoding="utf-8")
     (DIST / "robots.txt").write_text(f"User-agent: *\nAllow: /\n\nSitemap: {SITE}sitemap.xml\n", encoding="utf-8")
     (DIST / "llms.txt").write_text(llms_txt(data), encoding="utf-8")

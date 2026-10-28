@@ -21,6 +21,7 @@ python scripts/build.py              # parse README, fetch images for NEW entrie
 python scripts/snapshot.py           # website snapshots for entries without a usable image (needs Playwright + Firefox)
 python scripts/build.py --no-fetch   # fold the snapshots into shared/data.js
 python scripts/check_parity.py       # site must match the README 1:1
+python scripts/og_cards.py           # 1200x630 link-preview card per entry -> shared/og/ (Windows fonts, run locally)
 python scripts/assemble.py           # optional: build dist/ locally
 ```
 
@@ -30,7 +31,8 @@ then commit `gallery/shared` and `gallery/data`.
 
 - `app/` the page (index.html, style.css, app.js, lum.js)
 - `shared/` generated data (`data.js`), helpers (`common.js`), `img/` (og images) and `shots/` (site snapshots)
-- `scripts/` parser, image fetcher, snapshotter, site assembler
+- `scripts/` parser, image fetcher, snapshotter, preview cards, site assembler
+- Share links: `assemble.py` writes `/a/<id>/` per entry with its own og:image (`shared/og/<id>.jpg`, else the site card) and forwards visitors to `/#<id>`. "Copy link" copies this URL, because `#` links cannot have their own preview.
 - `data/` intermediate JSON
 
 Pictures come from each project's own page metadata or homepage, or from the show's podcast cover. Ten entries with no usable

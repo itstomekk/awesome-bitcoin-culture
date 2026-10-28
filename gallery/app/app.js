@@ -546,7 +546,8 @@
     if (gz) { lbOpen(gz.closest(".row").dataset.id, +gz.dataset.gi, gz); return; }
     if (cp) {
       ev.preventDefault();
-      var u = location.href.split("#")[0] + "#" + cp.dataset.copy;
+      // share the /a/<id>/ page (has its own preview card, then forwards to #<id>); local file previews keep '#'
+      var u = /^https?:$/.test(location.protocol) ? location.origin + "/a/" + cp.dataset.copy + "/" : location.href.split("#")[0] + "#" + cp.dataset.copy;
       var done = function () { cp.textContent = "Link copied"; setTimeout(function () { cp.textContent = "Copy link"; }, 1600); };
       if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(u).then(done, function () { window.prompt("Link", u); });
       else window.prompt("Link", u);
