@@ -642,7 +642,8 @@
 
   /* ---------- layout vars, misc ---------- */
   function setVars() {
-    var bt = topEl.offsetHeight, cbh = ctlEl.offsetHeight;
+    // floor, not offsetHeight's rounding: a 54.67px bar must give 54, or a sub-pixel gap shows under it
+    var bt = Math.floor(topEl.getBoundingClientRect().height), cbh = Math.floor(ctlEl.getBoundingClientRect().height);
     var bb = phone.matches ? cbh + railEl.offsetHeight : cbh; // bottom chrome: controls (+ room strip on phones)
     var rs = root.style;
     var st = phone.matches ? 0 : bt; // on phones the title bar scrolls away
