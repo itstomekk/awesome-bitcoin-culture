@@ -28,7 +28,7 @@
 
 - Awesome Bitcoin Events link now points at its site https://itstomekk.github.io/awesome-bitcoin-events/ instead of the GitHub repo (README and gallery card; the gallery adds utm_source=awesome-bitcoin-culture at render time).
 - `gallery/shared/common.js` `trackOut`: every click on a link that leaves the site (plain links and the `.si` social icons) is sent to GoatCounter as an event with path `out/<host><path>` and title `<entry-id>: <link text>`. Tested in Firefox with a stubbed `window.goatcounter.count`: both link types counted, no page errors.
-- Open: the GoatCounter API key in `.secrets/cookies/goatcounter-apikey.txt` returns `unknown token` for `awesomebitcoinculture` (it works for roatanlive), so the site is on a different account than the note below says. Create an API key on the account that owns `awesomebitcoinculture` and store it in `.secrets`; Tomek plans this for 2026-10-28.
+- Open: `awesomebitcoinculture` is in the same GoatCounter account as roatanlive (`/api/v0/sites` lists it with awesomebitcoinevents and 6 other sites), but the API key in `.secrets/cookies/goatcounter-apikey.txt` returns `unknown token` on every site except roatanlive, and the saved session cookie (`goatcounter.txt`) has expired. Needed: log in at https://awesomebitcoinculture.goatcounter.com/ and create an API key there (read stats), store it in `.secrets`.
 - GitHub traffic 2026-10-13..27: awesome-bitcoin-events repo 12 views / 11 unique (Google 2, github.com 1, none from this list); awesome-bitcoin-culture repo 7 / 6.
 
 ## Update 2026-10-23 (llms.txt, GoatCounter, search engines)
