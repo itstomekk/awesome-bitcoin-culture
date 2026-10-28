@@ -606,9 +606,6 @@
   }
   function stored() { try { var t = localStorage.getItem("abc-theme"); return t === "light" || t === "dark" ? t : null; } catch (e) { return null; } }
   themeEl.addEventListener("click", function () { applyTheme(root.getAttribute("data-theme") === "dark" ? "light" : "dark", true); });
-  var sysDark = window.matchMedia("(prefers-color-scheme: dark)");
-  var onSys = function (ev) { if (!stored()) applyTheme(ev.matches ? "dark" : "light", false); };
-  if (sysDark.addEventListener) sysDark.addEventListener("change", onSys); else if (sysDark.addListener) sysDark.addListener(onSys);
 
   /* ---------- keyboard ---------- */
   document.addEventListener("keydown", function (ev) {

@@ -50,5 +50,11 @@ html.sup-open{overflow:hidden}
 .sup-pay.is-paid .sup-st{font:400 20px/1.1 var(--display);text-transform:uppercase}
 .sup-fine{margin:18px 0 0;font-size:11.5px;line-height:1.5;opacity:.8}
 .sup-fine a{color:inherit}
+.disc button.supb,.disc button.supb:hover{border-color:transparent}
+.ctl .disc{flex:1 1 auto;min-width:0}
+.disc button.supb{flex:1 1 auto;min-width:0;margin:0 10%} /* the zap counter fills the bar, 10% air on each side */
+@media (max-width:799px){.disc button.supb{margin:0 4%}}
+.supb .supa{flex:1 1 0;min-width:0;overflow:hidden;display:block;text-align:left}
+.supb .supa:empty{display:block}
 @media (max-width:799px){.disc button.supb{gap:5px}}
 @media (max-width:420px){.supn{display:none}.disc button .supa{font-size:11px}}

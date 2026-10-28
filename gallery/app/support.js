@@ -49,10 +49,20 @@
     return true;
   }
 
+  // as many cells as fit the free width of the button (the bar fills the bottom bar)
+  var cw = 0;
+  function cells() {
+    var a = btn.querySelector(".supa");
+    if (!cw) { var s = document.createElement("span"); s.textContent = "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588"; s.style.visibility = "hidden"; s.style.position = "absolute"; a.appendChild(s); cw = s.getBoundingClientRect().width / 10; a.removeChild(s); }
+    return cw ? Math.max(6, Math.floor(a.clientWidth / cw)) : 10;
+  }
+  var rz = 0;
+  window.addEventListener("resize", function () { clearTimeout(rz); rz = setTimeout(function () { cw = 0; if (raised != null) paint(); }, 120); });
+
   function paint() {
     var t = btn.querySelector(".supn");
     if (raised != null) {
-      btn.querySelector(".supa").innerHTML = ascii(10);
+      btn.querySelector(".supa").innerHTML = ascii(cells());
       t.textContent = short(raised) + " / " + short(TARGET);
       btn.title = "Support the list: " + fmt(raised) + " of " + fmt(TARGET) + " sats raised";
     }

@@ -2,6 +2,27 @@
 
 **Last updated:** 2026-10-28.
 
+## Update 2026-10-28 (creator outreach plan, nothing sent)
+
+- Planned only; see PLAN.md Phase 6 and `C:\Users\Lenovo\Hermes\.hermes\plans\2026-10-28_120000-abc-artist-outreach.md`.
+- Order decided by Tomek: social posts first, then email. Email starts with a ~10-person pilot, then a few a day, improving the message after each batch.
+- Corrections come by email reply and the site's suggest form; the people get an ongoing conversation, not a one-off email.
+- Contacts (only what creators published themselves) are private: `C:\Users\Lenovo\.secrets\awesome-bitcoin-culture\` (`contacts.csv`, `reach.csv`). 312 of 314 entries have a channel. Never copy contact data into this repo.
+- Pilot candidates (10, all with own email + X, one per section mix): `pilot.csv` in the same private folder. Tomek picks the first few for social posts.
+
+## Update 2026-10-28 (artist of the day on Nostr, top/bottom bar tweaks)
+
+- Pushed `7df8d05`: bars (below) plus Artist of the day 29.10 PBOY, 30.10 Tatiana Moroz, 31.10 Hashteroids in `featured.json` (moved btc-monk to 2027-01-05, x3n0533d and chiefmonkey to 2027-02-21/22). Live.
+- Matching Nostr posts from the ABC account, one per day at 15:00 UTC: cron `4123415edbc7` (every 15m, script `$HERMES_HOME/scripts/abc_aotd_nostr.py`, reports to HCC topic 4359). Approved event files, images and research live in `C:\Users\Lenovo\.secrets\awesome-bitcoin-culture\posts-pilot\`; each publishes once (marker `<file>.published.json`), sha256-locked to the approved text. Images on blossom.band.
+- Post format Tomek approved: intro line about the list + "Artist of the day", 2-3 researched sentences, image, links to the creator's own site/socials, then the share page `/a/<id>/`. Research each creator (recent posts, what they do now) before drafting.
+- Pushed on Tomek's ok: title initials A, B, C in cream with Bitcoin ticks on the B (`.mark .ini`, `.btc`), borderless search (underline only on focus), Support button borderless in the bottom bar with 10% side margin (4% phone), zap icon between the bar and the 1k count, its zap counter now fills the free width (cell count follows the width, `support.js` `cells()`). Dark theme is the default (no system-preference switch); a saved choice still wins. Search has a light underline always. Phone top: title centred on its own row, then search (230px), + and GitHub on one row.
+
+## Update 2026-10-28 (bars, pushed in 7df8d05)
+
+- Room band label shrunk to the site title size (`--gfs` 19px desktop, 15px phone; count at 0.8x).
+- Bottom control bar thinner: 55px -> 43px desktop, 51px -> 41px phone (smaller paddings).
+- 1px gap under the top bar fixed: `setVars()` in `app.js` floors the bar heights (Chromium/Edge bar is 54.67px, `offsetHeight` rounded up to 55 and left a sub-pixel strip). Verified in Edge at 100/110/125/150% and phone.
+
 ## Update 2026-10-26 (mini gallery pilot, local only)
 
 - Opened entries can show a mini gallery: the main picture plus up to 4 more works, thumbnail strip under the big picture, click the big picture for a full-screen viewer (arrows, Esc). Data: `gallery/data/works.json` -> `wk` in `shared/data.js`; files in `gallery/shared/works/<id>-<n>.webp` (1200px) + `.t.webp` thumbs. Entries without works are unchanged.

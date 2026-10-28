@@ -36,5 +36,15 @@ Gives BFF and Tomek's other projects a natural place to be cited from, self-main
 - GitHub issue form for community suggestions is implemented at `.github/ISSUE_TEMPLATE/suggest-entry.yml` and linked from `CONTRIBUTING.md`.
 - Periodic top-up from BFF network as new artists/films/music surface.
 
+### Phase 6: Creator outreach (planned 2026-10-28, not started)
+Goal: start a lasting conversation with the listed creators, not a one-off campaign.
+1. **Social posts first.** Post about the list and about featured entries (tagging creators) on Tomek's socials before any email goes out, so the email lands on something they may already have seen.
+2. **Then email, pilot first.** Pilot of ~10 creators, then a few a day (small batches, never everyone at once). Review the results after each batch and improve the message before the next.
+3. Sender: tomek@bitcoinfilmfest.com. Every batch starts as Gmail drafts and goes out only after Tomek's yes.
+4. Corrections come from email replies and the site's suggest form. Replies become ongoing conversations, logged per person.
+5. Contacts are only those creators published themselves. Contact data stays private and outside this repo.
+
+Detailed plan (outside the repo): `C:\Users\Lenovo\Hermes\.hermes\plans\2026-10-28_120000-abc-artist-outreach.md`.
+
 ## Status
 Phase 1 and launch are complete. Phase 2 remains ongoing as maintenance, not a blocker: the public README generates 300 gallery entries in 8 rooms, and `gallery/scripts/check_parity.py` passes. Four verified entries and image assets were added in the current local change. The requested link audit and BFF checks are complete. Phase 3 review is complete. Awesome-lint findings are informational; no CI gate is adopted. Do not push the current local changes until Tomek explicitly asks.

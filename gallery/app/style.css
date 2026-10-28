@@ -92,18 +92,23 @@ button,input{font:inherit;color:inherit}
 .top :focus-visible,.ctl :focus-visible{outline-color:rgb(var(--barfg))}
 .top{position:sticky;top:0;z-index:40;border-bottom:2px solid var(--barrule);display:flex;align-items:center;gap:6px 20px;padding:8px var(--pad)}
 .mark{margin:0 auto 0 0;font:400 19px/1 var(--display);text-transform:uppercase;letter-spacing:.01em;display:flex;align-items:center;gap:10px;white-space:nowrap}
+/* A, B, C initials as in the logo (og.jpg / nostr avatar): light initials, the B gets the two Bitcoin ticks top and bottom */
+.mark .ini{color:#fff7ec}
+.mark .btc{position:relative;display:inline-block}
+.mark .btc::before,.mark .btc::after{content:"";position:absolute;left:.2em;width:.1em;height:.17em;background:currentColor;box-shadow:.24em 0 0 currentColor}
+.mark .btc::before{top:-.15em}.mark .btc::after{bottom:-.15em}
 .src{font-size:11.5px;text-transform:uppercase;letter-spacing:.04em;color:inherit;text-decoration:none;white-space:nowrap;font-weight:700;display:inline-flex;align-items:center;gap:8px;padding:2px 0 1px}
 .src svg,.foot svg{width:17px;height:17px;flex:none;fill:currentColor;display:block}
 .src:hover{background:var(--ga);color:var(--gaf);border-color:var(--ga)}
 .ctl{position:fixed;left:0;right:0;bottom:0;z-index:45;border-top:2px solid var(--barrule);display:flex;align-items:center;gap:8px;padding:5px var(--pad) calc(5px + env(safe-area-inset-bottom,0px))}
 .search{position:relative;display:block;flex:0 1 340px;min-width:0}
-.search input{width:100%;background:transparent;color:rgb(var(--barfg));border:2px solid rgba(var(--barfg),.6);transition:background-color .25s ease,border-color .25s ease,color .25s ease;padding:8px 28px 8px 10px;font-size:11.5px;font-weight:700;text-transform:uppercase;letter-spacing:.03em;outline:0}
+.search input{width:100%;background:transparent;color:rgb(var(--barfg));border:0;border-bottom:2px solid rgba(var(--barfg),.45);transition:background-color .25s ease,border-color .25s ease,color .25s ease;padding:8px 28px 6px 0;font-size:11.5px;font-weight:700;text-transform:uppercase;letter-spacing:.03em;outline:0}
 .search input::placeholder{color:rgb(var(--barfg));opacity:.92;transition:color .25s ease}
-.search input:focus{background:var(--ga);color:var(--gaf);border-color:var(--ga)}
-.search input:focus::placeholder{color:var(--gaf);opacity:.8}
-.search input:focus-visible{outline:2px solid rgb(var(--barfg));outline-offset:2px}
+.search input:focus{border-bottom-color:rgb(var(--barfg))} /* no box: type in place, a line only while focused */
+.search input:focus::placeholder{opacity:.45}
+.search input:focus-visible{outline:0}
 .search kbd{position:absolute;right:8px;top:50%;transform:translateY(-50%);font:700 10px var(--mono);border:1px solid currentColor;padding:0 4px;opacity:.92;pointer-events:none}
-.search input:focus~kbd{color:var(--gaf)}
+.search input:focus~kbd{opacity:.4}
 .theme{font:700 11px/1 var(--mono);text-transform:uppercase;letter-spacing:.04em;background:transparent;color:rgb(var(--barfg));border:2px solid rgba(var(--barfg),.6);padding:9px 10px;cursor:pointer;display:inline-flex;gap:7px;align-items:baseline;transition:background-color .25s ease,border-color .25s ease,color .25s ease}
 .theme:hover{border-color:rgb(var(--barfg));background:rgba(var(--barfg),.14);position:relative}
 .theme{padding:0;gap:0;align-items:stretch}
@@ -300,11 +305,12 @@ body.noimg .head:focus-visible,body.noimg .head[aria-expanded="true"],html.hv bo
   html.tophid .top{transform:translateY(-100%)}
   html:not(.tophid) .grp>h2{top:var(--bt)}
   .grp>h2{transition:top .25s ease}
-  .mark{font-size:15px;gap:8px;flex:1 1 auto}
-  .src{order:4;font-size:10.5px;margin-left:auto}
+  .mark{font-size:15px;gap:8px;flex:1 0 100%;justify-content:center;margin:0} /* title centred on its own row */
+  .src{order:4;font-size:10.5px}
   .ctl{gap:6px;padding:4px var(--pad) calc(4px + env(safe-area-inset-bottom,0px))}
-  .search{order:5;flex:1 0 100%;margin:2px 0 0}
-  .search input{font-size:12px;padding:9px 8px;text-transform:none;font-weight:700}
+  .top{justify-content:center}
+  .search{order:2;flex:0 1 230px;margin:0}
+  .search input{font-size:12px;padding:6px 2px 4px;text-transform:none;font-weight:700}
   .search kbd{display:none}
   .theme span{padding:6px 8px;font-size:10px}
   :root[data-theme="light"] .theme .dk,:root[data-theme="dark"] .theme .lt{display:none}
