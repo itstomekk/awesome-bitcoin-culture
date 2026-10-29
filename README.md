@@ -70,7 +70,9 @@ beyond prompting:
 - **Using AI as a form of art:** the artist skillfully directs multiple AI agents and tools to build
   a complex work, such as a film.
 
-Entries that pass say when AI is part of the process.
+Either way the artist needs a **portfolio**: their own site or page with a curated body of work
+(titles, dates, and ideally process), not just a feed or an upload folder. Entries that pass say
+when AI is part of the process.
 
 **Explicitly excluded:** NFT/ordinals PFP collections, exchange-marketing "art" campaigns, meme
 coins, and AI-generated output (see the exception above).
