@@ -2101,17 +2101,6 @@
   "host": "open.spotify.com"
  },
  {
-  "id": "flirting-with-bitcoin",
-  "name": "Flirting With Bitcoin",
-  "url": "https://www.flirtingwithbitcoin.com/podcast/",
-  "desc": "Ian and his wife Mandana talk Bitcoin as a couple, light and personal (121 episodes, 2022-2025).",
-  "room": "Podcasts",
-  "roomLabel": "Podcasts",
-  "roomIcon": "🎙️",
-  "sub": "Stories & People",
-  "host": "flirtingwithbitcoin.com"
- },
- {
   "id": "life-with-bitcoin",
   "name": "Life with Bitcoin",
   "url": "https://fountain.fm/show/sdNx4uRz7tvwVeePyonA",
@@ -2145,17 +2134,6 @@
   "host": "once-bitten.com"
  },
  {
-  "id": "rabbit-hole-stories",
-  "name": "Rabbit Hole Stories",
-  "url": "https://podcasts.apple.com/us/podcast/rabbit-hole-stories/id1661401080",
-  "desc": "Plebs tell how they fell down the Bitcoin rabbit hole, hosted by Joël Kai Lenz and Ian Scanlon (2021-2025).",
-  "room": "Podcasts",
-  "roomLabel": "Podcasts",
-  "roomIcon": "🎙️",
-  "sub": "Stories & People",
-  "host": "podcasts.apple.com"
- },
- {
   "id": "satoshe-stories",
   "name": "SatoShe Stories",
   "url": "https://satoshe.space/en/satoshe-stories/",
@@ -2178,50 +2156,6 @@
   "host": "bitcoinforthearts.org"
  },
  {
-  "id": "women-bitcoin",
-  "name": "Women & Bitcoin",
-  "url": "https://bt.cx/en/women-and-bitcoin",
-  "desc": "Sweden's first Bitcoin podcast for women, hosted by Rebecka and Hani.",
-  "room": "Podcasts",
-  "roomLabel": "Podcasts",
-  "roomIcon": "🎙️",
-  "sub": "Stories & People",
-  "host": "bt.cx"
- },
- {
-  "id": "your-bitcoin-story",
-  "name": "Your Bitcoin Story",
-  "url": "https://podcasts.apple.com/us/podcast/your-bitcoin-story/id1697280071",
-  "desc": "Personal Bitcoin stories, one guest and one story at a time.",
-  "room": "Podcasts",
-  "roomLabel": "Podcasts",
-  "roomIcon": "🎙️",
-  "sub": "Stories & People",
-  "host": "podcasts.apple.com"
- },
- {
-  "id": "the-anita-posch-show",
-  "name": "The Anita Posch Show",
-  "url": "https://anita.onl/",
-  "desc": "Bitcoin, human rights, and financial freedom, with a focus on adoption in Africa.",
-  "room": "Podcasts",
-  "roomLabel": "Podcasts",
-  "roomIcon": "🎙️",
-  "sub": "Community & Places",
-  "host": "anita.onl"
- },
- {
-  "id": "bitcoiners-live-from-bitcoin-beach",
-  "name": "Bitcoiners - Live From Bitcoin Beach",
-  "url": "https://livefrombitcoinbeach.buzzsprout.com/",
-  "desc": "Conversations with Bitcoiners passing through El Zonte, El Salvador.",
-  "room": "Podcasts",
-  "roomLabel": "Podcasts",
-  "roomIcon": "🎙️",
-  "sub": "Community & Places",
-  "host": "livefrombitcoinbeach.buzzsprout.com"
- },
- {
   "id": "einundzwanzig-der-bitcoin-podcast",
   "name": "Einundzwanzig, der Bitcoin Podcast",
   "url": "https://einundzwanzig.space/podcast/",
@@ -2231,17 +2165,6 @@
   "roomIcon": "🎙️",
   "sub": "Community & Places",
   "host": "einundzwanzig.space"
- },
- {
-  "id": "local-bitcoiners",
-  "name": "Local Bitcoiners",
-  "url": "https://localbitcoiners.com/",
-  "desc": "Interviews with meetup organizers about building local Bitcoin communities.",
-  "room": "Podcasts",
-  "roomLabel": "Podcasts",
-  "roomIcon": "🎙️",
-  "sub": "Community & Places",
-  "host": "localbitcoiners.com"
  },
  {
   "id": "one-love-bitcoin",
@@ -2299,28 +2222,6 @@
   "host": "nakamotoinstitute.org"
  },
  {
-  "id": "the-staying-free-podcast",
-  "name": "The Staying Free Podcast",
-  "url": "https://podcasts.apple.com/us/podcast/the-staying-free-podcast/id1598397645",
-  "desc": "Real people around the world on staying free, sovereign, and sane (100 episodes, 2021-2025).",
-  "room": "Podcasts",
-  "roomLabel": "Podcasts",
-  "roomIcon": "🎙️",
-  "sub": "Ideas & Philosophy",
-  "host": "podcasts.apple.com"
- },
- {
-  "id": "the-transformation-of-value",
-  "name": "The Transformation of Value",
-  "url": "https://www.thetransformationofvalue.com/",
-  "desc": "Cody Ellingham explores freedom, money, and creativity through conversations.",
-  "room": "Podcasts",
-  "roomLabel": "Podcasts",
-  "roomIcon": "🎙️",
-  "sub": "Ideas & Philosophy",
-  "host": "thetransformationofvalue.com"
- },
- {
   "id": "de-legende-van-satoshi-nakamoto",
   "name": "De Legende van Satoshi Nakamoto",
   "url": "https://podcasts.apple.com/us/podcast/de-legende-van-satoshi-nakamoto-bnr/id1573914412",
@@ -2330,17 +2231,6 @@
   "roomIcon": "🎙️",
   "sub": "Narrative Series",
   "host": "podcasts.apple.com"
- },
- {
-  "id": "dr-bitcoin-the-man-who-wasn-t-satoshi-nakamoto",
-  "name": "Dr Bitcoin - The Man Who Wasn't Satoshi Nakamoto",
-  "url": "https://drbitcoinpod.com/",
-  "desc": "Narrative series on Craig Wright's Satoshi claim and the court case that exposed it.",
-  "room": "Podcasts",
-  "roomLabel": "Podcasts",
-  "roomIcon": "🎙️",
-  "sub": "Narrative Series",
-  "host": "drbitcoinpod.com"
  },
  {
   "id": "cyphermunk-house",
@@ -2478,7 +2368,7 @@
   "id": "bitcoin-beach",
   "name": "Bitcoin Beach",
   "url": "https://www.bitcoinbeach.com/",
-  "desc": "El Zonte, El Salvador: the first Bitcoin circular economy; its podcast is listed under Podcasts.",
+  "desc": "El Zonte, El Salvador: the first Bitcoin circular economy.",
   "room": "Institutions & Spaces",
   "roomLabel": "Institutions & Spaces",
   "roomIcon": "🏛",

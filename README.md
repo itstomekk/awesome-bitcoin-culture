@@ -506,37 +506,22 @@ still playable.
 
 - [Bitcoin People](https://open.spotify.com/show/4lhAGXtyzQJzcQJ0epPN5C) - Asks who Bitcoin owners
   are, what they hope for, and whether they form a community (64 episodes, 2022-2024).
-- [Flirting With Bitcoin](https://www.flirtingwithbitcoin.com/podcast/) - Ian and his wife Mandana
-  talk Bitcoin as a couple, light and personal (121 episodes, 2022-2025).
 - [Life with Bitcoin](https://fountain.fm/show/sdNx4uRz7tvwVeePyonA) - Stories of people whose
   values and life choices were shaped by Bitcoin.
 - [Meet the Bitcoin Taco Plebs](https://podcasts.apple.com/us/podcast/meet-the-bitcoin-taco-plebs-bitcoin-magazine/id1546678654) - Bitcoin
   Magazine show where plebs tell their own stories (48 episodes, 2020-2022).
 - [Once Bitten! A Bitcoin Podcast](https://www.once-bitten.com/) - Daniel Prince collects real-life
   stories of how Bitcoin changed individuals and families.
-- [Rabbit Hole Stories](https://podcasts.apple.com/us/podcast/rabbit-hole-stories/id1661401080) - Plebs
-  tell how they fell down the Bitcoin rabbit hole, hosted by Joël Kai Lenz and Ian Scanlon
-  (2021-2025).
 - [SatoShe Stories](https://satoshe.space/en/satoshe-stories/) - Women talk about their personal
   path to money and Bitcoin, in German and English.
 - [Share Your Bitcoin Journey](https://www.bitcoinforthearts.org/stories) - Bitcoin for the Arts founder
   Dion Wilson interviews working artists, from dancers to writers, on how sound money changed their
   craft.
-- [Women & Bitcoin](https://bt.cx/en/women-and-bitcoin) - Sweden's first Bitcoin podcast for
-  women, hosted by Rebecka and Hani.
-- [Your Bitcoin Story](https://podcasts.apple.com/us/podcast/your-bitcoin-story/id1697280071) - Personal
-  Bitcoin stories, one guest and one story at a time.
 
 ### Community & Places
 
-- [The Anita Posch Show](https://anita.onl/) - Bitcoin, human rights, and financial freedom, with a
-  focus on adoption in Africa.
-- [Bitcoiners - Live From Bitcoin Beach](https://livefrombitcoinbeach.buzzsprout.com/) - Conversations
-  with Bitcoiners passing through El Zonte, El Salvador.
 - [Einundzwanzig, der Bitcoin Podcast](https://einundzwanzig.space/podcast/) - German weekly show
   from the Einundzwanzig community: interviews, readings, and personal Bitcoin journeys.
-- [Local Bitcoiners](https://localbitcoiners.com/) - Interviews with meetup organizers about
-  building local Bitcoin communities.
 - [One Love Bitcoin](https://onelovebitcoin.com/) - Interviews with Bitcoin advocates around the
   world, one country at a time (four seasons, complete).
 
@@ -550,18 +535,12 @@ still playable.
   cypherpunk history and culture (16 episodes, 2020-2021).
 - [Satoshi Nakamoto Institute](https://nakamotoinstitute.org/podcasts/) - Readings and discussion of
   early Bitcoin, cryptography, and Austrian economics texts (2013-2014, complete).
-- [The Staying Free Podcast](https://podcasts.apple.com/us/podcast/the-staying-free-podcast/id1598397645) - Real
-  people around the world on staying free, sovereign, and sane (100 episodes, 2021-2025).
-- [The Transformation of Value](https://www.thetransformationofvalue.com/) - Cody Ellingham
-  explores freedom, money, and creativity through conversations.
 
 ### Narrative Series
 
 - [De Legende van Satoshi Nakamoto](https://podcasts.apple.com/us/podcast/de-legende-van-satoshi-nakamoto-bnr/id1573914412) - Dutch
   BNR series searching for the real Satoshi Nakamoto and the essence of Bitcoin (8 episodes,
   complete).
-- [Dr Bitcoin - The Man Who Wasn't Satoshi Nakamoto](https://drbitcoinpod.com/) - Narrative series
-  on Craig Wright's Satoshi claim and the court case that exposed it.
 
 ## 🏛 Institutions & Spaces
 
@@ -603,7 +582,7 @@ happened.
 Physical places and local communities where the scene gathers: hubs, venues, and Bitcoin-economy towns.
 
 - [Bitcoin Beach](https://www.bitcoinbeach.com/) - El Zonte, El Salvador: the first Bitcoin circular
-  economy; its podcast is listed under Podcasts.
+  economy.
 - [Bitcoin Chiang Mai](https://www.bitcoinchiangmai.org/) - Physical Bitcoin education and community
   hub in Chiang Mai, Thailand, serving Southeast Asia.
 - [Bitcoin District Próspera](https://thebitcoindistrict.com/) - Bitcoin community inside the Próspera

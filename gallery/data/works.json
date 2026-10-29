@@ -1229,20 +1229,6 @@
    "src": "https://bitcoinersmovie.com/wp-content/uploads/2023/12/Bitcoiners-BTS-Greg-Zaj-and-Big-Sean-Harris-Miami-20221.webp"
   }
  ],
- "bitcoiners-live-from-bitcoin-beach": [
-  {
-   "img": "bitcoiners-live-from-bitcoin-beach-1.webp",
-   "w": 600,
-   "h": 600,
-   "src": "https://livefrombitcoinbeach.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU0NTI2MTYzLCJwdXIiOiJibG9iX2lkIn19--1224de1b7feae74236130a5392f0b643f0c77b64/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzYwMCw2MDAseyJjcm9wIjoiY2VudHJlIn1dLCJzYXZlciI6eyJxdWFsaXR5Ijo2MH0sImNvbG91cnNwYWNlIjoic3JnYiJ9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0b154cb6b88107719b1a277923d35676ba5519cc/Jeremy,%20CK%20&%20Mike%20(1).jpg"
-  },
-  {
-   "img": "bitcoiners-live-from-bitcoin-beach-2.webp",
-   "w": 600,
-   "h": 600,
-   "src": "https://livefrombitcoinbeach.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTc1MTMyNjA1LCJwdXIiOiJibG9iX2lkIn19--939ddb6e34619dd2ffe83f7013adb251729ca5d7/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzYwMCw2MDAseyJjcm9wIjoiY2VudHJlIn1dLCJzYXZlciI6eyJxdWFsaXR5Ijo2MH0sImNvbG91cnNwYWNlIjoic3JnYiJ9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0b154cb6b88107719b1a277923d35676ba5519cc/LFBB%20185%20-%20Dominicana%20+%20Aaronman%20+%20Valentin.jpg"
-  }
- ],
  "bitcoinia": [
   {
    "img": "bitcoinia-1.webp",
@@ -2101,20 +2087,6 @@
    "src": "https://rareordinals.art/wp-content/uploads/2023/02/image-28.png"
   }
  ],
- "dr-bitcoin-the-man-who-wasn-t-satoshi-nakamoto": [
-  {
-   "img": "dr-bitcoin-the-man-who-wasn-t-satoshi-nakamoto-1.webp",
-   "w": 800,
-   "h": 1200,
-   "src": "https://faketoshi.co.uk/wp-content/uploads/2026/10/faketoshi-volume-1-cover.jpg"
-  },
-  {
-   "img": "dr-bitcoin-the-man-who-wasn-t-satoshi-nakamoto-2.webp",
-   "w": 770,
-   "h": 1200,
-   "src": "https://faketoshi.co.uk/wp-content/uploads/2026/10/faketoshi-volume-2-cover.jpg"
-  }
- ],
  "dustin-d-trammell": [
   {
    "img": "dustin-d-trammell-1.webp",
@@ -2225,32 +2197,6 @@
    "w": 810,
    "h": 1200,
    "src": "https://images.squarespace-cdn.com/content/v1/65ca8cefefcb41363f399152/7608a27b-61b9-4822-a559-8ee1c850126d/Finding+Satoshi+%7C+Key+Art+%7C+Final.jpg?format=1500w"
-  }
- ],
- "flirting-with-bitcoin": [
-  {
-   "img": "flirting-with-bitcoin-1.webp",
-   "w": 1200,
-   "h": 675,
-   "src": "https://www.flirtingwithbitcoin.com/media/episodes/fwb044-the-ftx-files.jpg"
-  },
-  {
-   "img": "flirting-with-bitcoin-2.webp",
-   "w": 1200,
-   "h": 675,
-   "src": "https://www.flirtingwithbitcoin.com/media/episodes/fwb119.jpg"
-  },
-  {
-   "img": "flirting-with-bitcoin-3.webp",
-   "w": 1200,
-   "h": 675,
-   "src": "https://www.flirtingwithbitcoin.com/media/episodes/fwb115.jpg"
-  },
-  {
-   "img": "flirting-with-bitcoin-4.webp",
-   "w": 1200,
-   "h": 675,
-   "src": "https://www.flirtingwithbitcoin.com/media/episodes/ep-027-blackrock.jpg"
   }
  ],
  "flo-montoya": [
@@ -5363,20 +5309,6 @@
    "src": "https://bitcoinanatomy.netlify.app/assets/boards/03.03_message_packets.png"
   }
  ],
- "the-anita-posch-show": [
-  {
-   "img": "the-anita-posch-show-1.webp",
-   "w": 1200,
-   "h": 720,
-   "src": "https://anita.onl/user/pages/04.blog/articles-2026/261013-ledger-compromised-devices/ledger-compromised-devices.jpg"
-  },
-  {
-   "img": "the-anita-posch-show-2.webp",
-   "w": 1200,
-   "h": 720,
-   "src": "https://anita.onl/user/pages/04.blog/articles-2026/261008-win-financial-privacy-unhosted-wallets/small-privacy-win.jpg"
-  }
- ],
  "the-bitcoin-executor": [
   {
    "img": "the-bitcoin-executor-1.webp",
@@ -5677,26 +5609,6 @@
    "w": 1200,
    "h": 675,
    "src": "https://denver.space/assets/venue/VenueEvent_deck_016.png"
-  }
- ],
- "the-transformation-of-value": [
-  {
-   "img": "the-transformation-of-value-1.webp",
-   "w": 1200,
-   "h": 675,
-   "src": "https://www.thetransformationofvalue.com/assets/63c9c0c159faaa462747acd6/69c63fc331763322906d8a3c_cody-Ellingham-in-the-studio.jpg"
-  },
-  {
-   "img": "the-transformation-of-value-2.webp",
-   "w": 1200,
-   "h": 675,
-   "src": "https://www.thetransformationofvalue.com/assets/63c9c0c159faaa462747acd6/69c640432d8cb74cfbd681ff_mehdi-in-the-studio.jpg"
-  },
-  {
-   "img": "the-transformation-of-value-3.webp",
-   "w": 927,
-   "h": 1200,
-   "src": "https://www.thetransformationofvalue.com/assets/63c9c0c159faaa462747acd6/696df3246dc2e7d24d2af3f4_cody-Ellingham-presenting.jpg"
   }
  ],
  "the-trusted": [
@@ -6147,14 +6059,6 @@
    "w": 640,
    "h": 640,
    "src": "https://www.herecomesbitcoin.org/_next/image?url=%2Fassets%2FHereComesBitcoinAssets%2FFairy.png&w=640&q=75&dpl=dpl_MT18kZ1DHaaBfYTiyZ7icJMJED7A"
-  }
- ],
- "women-bitcoin": [
-  {
-   "img": "women-bitcoin-1.webp",
-   "w": 1200,
-   "h": 1200,
-   "src": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42936035/42936035-1763118997268-e6c5f99b4d3d7.jpg"
   }
  ],
  "world-of-rusty": [

@@ -251,11 +251,6 @@
   "x": "https://x.com/bitcoinersmovie",
   "youtube": "https://www.youtube.com/@bitcoinersmovie"
  },
- "bitcoiners-live-from-bitcoin-beach": {
-  "instagram": "https://www.instagram.com/bitcoinbeach_sv/",
-  "x": "https://x.com/Bitcoinbeach",
-  "youtube": "https://www.youtube.com/@LiveFromBitcoinBeach"
- },
  "bitcoinia": {
   "x": "https://x.com/bitcoinia"
  },
@@ -411,10 +406,6 @@
   "x": "https://x.com/DirtyCoinDoc",
   "youtube": "https://www.youtube.com/@DirtyCoinTheMovie"
  },
- "dr-bitcoin-the-man-who-wasn-t-satoshi-nakamoto": {
-  "x": "https://x.com/DrBitcoinPod",
-  "youtube": "https://www.youtube.com/@DrBitcoinPod"
- },
  "dustin-d-trammell": {
   "instagram": "https://www.instagram.com/druidian/",
   "nostr": "https://primal.net/p/npub1san22nhe59ct8pstcehav4dtkf94lkn46ltl7d30g3zzl00tg7ussgqjdd",
@@ -437,10 +428,6 @@
  "finding-satoshi": {
   "instagram": "https://www.instagram.com/tooleyentertainment/",
   "x": "https://x.com/tooleyent"
- },
- "flirting-with-bitcoin": {
-  "x": "https://x.com/flirtingwithbtc",
-  "youtube": "https://www.youtube.com/@flirtingwithbitcoin"
  },
  "flo-montoya": {
   "instagram": "https://www.instagram.com/flomontoya.art/",
@@ -678,11 +665,6 @@
  "lisa-t-rner": {
   "instagram": "https://www.instagram.com/lisatornerart/"
  },
- "local-bitcoiners": {
-  "nostr": "https://primal.net/p/npub1cvcgs83gw6pcrhvtmlf8gdqaegx93qkznwry96jteqhh2cexgkfq45rtya",
-  "x": "https://x.com/LocalBitcoiners",
-  "youtube": "https://www.youtube.com/@LocalBitcoiners"
- },
  "longy": {
   "instagram": "https://www.instagram.com/Longy528/",
   "x": "https://x.com/longy528",
@@ -890,10 +872,6 @@
   "instagram": "https://www.instagram.com/yellowsubtab/",
   "x": "https://x.com/yellowsubtab"
  },
- "rabbit-hole-stories": {
-  "x": "https://x.com/rabbitholetales",
-  "youtube": "https://www.youtube.com/@rabbitholestories"
- },
  "rare-scrilla": {
   "instagram": "https://www.instagram.com/thescrillionaire/",
   "x": "https://x.com/ScrillaVentura",
@@ -1078,11 +1056,6 @@
   "nostr": "https://primal.net/p/npub1x6ge8835trg6e7d0ftgdt2q09cwyknck0nlmnjakdcd5xs7uthqq6env64",
   "x": "https://x.com/bitcoinanatomy"
  },
- "the-anita-posch-show": {
-  "nostr": "https://primal.net/p/npub1tjkc9jycaenqzdc3j3wkslmaj4ylv3dqzxzx0khz7h38f3vc6mls4ys9w3",
-  "x": "https://x.com/anitaonl",
-  "youtube": "https://www.youtube.com/@anitaonl"
- },
  "the-bitcoin-executor": {
   "instagram": "https://www.instagram.com/bitcoinexecutor/",
   "nostr": "https://primal.net/p/npub1mvzytp572he449qcgfk6m4sqt7dac64kdjydt9fkl3tkqgnkss8q0fj385",
@@ -1168,17 +1141,6 @@
   "x": "https://x.com/SpaceDenver",
   "youtube": "https://www.youtube.com/@SpaceDenver"
  },
- "the-staying-free-podcast": {
-  "nostr": "https://primal.net/p/npub1hgsxt9fwgywrq8ze46yadhpetjds7kk2xe0mdsv42k7dg8swrftszerxpq",
-  "x": "https://x.com/stayingfreepod",
-  "youtube": "https://www.youtube.com/@stayingfreepod"
- },
- "the-transformation-of-value": {
-  "instagram": "https://www.instagram.com/codyellingham/",
-  "nostr": "https://primal.net/p/npub1uth29ygt090fe640skhc8l34d9s7xlwj4frxs2esezt7n6d64nwsqcmmmu",
-  "x": "https://x.com/TTOVpodcast",
-  "youtube": "https://www.youtube.com/@TTOVPodcast"
- },
  "the-trusted": {
   "instagram": "https://www.instagram.com/thetrusted_/",
   "x": "https://x.com/thetrustedband",
@@ -1263,10 +1225,6 @@
   "nostr": "https://primal.net/p/npub1ze76nrw5xjsm8dcgv2wn5ccwttw73365sxm65ampxn53c5vd5yqqxn0qfc",
   "x": "https://x.com/yonatvaks",
   "youtube": "https://www.youtube.com/@yonatvaks"
- },
- "your-bitcoin-story": {
-  "nostr": "https://primal.net/p/npub140dx4t2ry8krm24sa63ay37tkck9c5h0mrl5538dhufxxyaye74snag4xm",
-  "x": "https://x.com/YourBTCStory"
  },
  "yuzapata": {
   "instagram": "https://www.instagram.com/yuzapata3sc/",

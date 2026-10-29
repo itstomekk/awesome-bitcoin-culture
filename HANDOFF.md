@@ -2,6 +2,11 @@
 
 **Last updated:** 2026-10-29.
 
+## Update 2026-10-29 (10 podcasts removed, local commit)
+
+- Tomek removed 10 podcasts: Bitcoiners - Live From Bitcoin Beach, Dr Bitcoin - The Man Who Wasn't Satoshi Nakamoto, Flirting With Bitcoin, Local Bitcoiners, Rabbit Hole Stories, The Anita Posch Show, The Staying Free Podcast, The Transformation of Value, Women & Bitcoin, Your Bitcoin Story. Their README rows, images, share cards, shots, works, socials and lum keys are deleted. Bitcoin Beach's description no longer points to its podcast. The list is in `research/waiting-room.md` with restore steps (from commit `852bfa8`).
+- 304 entries, Podcasts 19. `check_parity.py` OK; awesome-lint shows the same 8 errors and 6 warnings as before (line numbers only).
+
 ## Update 2026-10-29 (works pass 5, pushed)
 
 - Pass 5 searched again all 130 entries that had only 1 or 2 pictures (main + 0 or 1 works). Tomek approved the contact sheets. 117 pictures were added to 50 entries via `abc-works-harvest/add_all_to_gallery.py --pass5` (the new flag adds only pass 5). 10 weak picks were dropped in review (popups, landing pages, text-heavy screenshots, plus satoshi-gallery #15, which duplicated valentina-picozzi #40); the list is in `abc-works-harvest/logs/pass5/review-drops.txt`. 8 repeats were skipped by source URL.

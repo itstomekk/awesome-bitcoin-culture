@@ -1573,13 +1573,6 @@
   "manual": true,
   "src": "podcast-cover"
  },
- "flirting-with-bitcoin": {
-  "img": "img/flirting-with-bitcoin.webp",
-  "color": "#443321",
-  "w": 720,
-  "h": 405,
-  "src": "https://www.flirtingwithbitcoin.com/media/studio/podcast-hero.jpg"
- },
  "life-with-bitcoin": {
   "img": "img/life-with-bitcoin.webp",
   "color": "#bc7741",
@@ -1602,13 +1595,6 @@
   "manual": true,
   "src": "podcast-cover"
  },
- "rabbit-hole-stories": {
-  "img": "img/rabbit-hole-stories.webp",
-  "color": "#f1f0ea",
-  "w": 720,
-  "h": 720,
-  "src": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5e/73/75/5e73753d-64f7-b054-e98e-d24e32fba375/mza_17341590029667836731.jpg/1200x1200bf-60.jpg"
- },
  "satoshe-stories": {
   "img": "img/satoshe-stories.webp",
   "color": "#efeaf5",
@@ -1616,49 +1602,12 @@
   "h": 378,
   "src": "https://satoshe.space/og/ressourcen-en.jpg"
  },
- "women-bitcoin": {
-  "img": "img/women-bitcoin.webp",
-  "color": "#423e3f",
-  "w": 720,
-  "h": 378,
-  "src": "https://bt.cx/btcx-bitcoin-exchange.png"
- },
- "your-bitcoin-story": {
-  "img": "img/your-bitcoin-story.webp",
-  "color": "#58504d",
-  "w": 720,
-  "h": 720,
-  "src": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/27/f0/f1/27f0f116-a039-4ffd-9c02-b1beb1a23a2d/mza_232378378346749831.jpg/1200x1200bf-60.jpg"
- },
- "the-anita-posch-show": {
-  "img": "img/the-anita-posch-show.webp",
-  "color": "#cbc5c4",
-  "w": 720,
-  "h": 720,
-  "manual": true,
-  "src": "podcast-cover"
- },
- "bitcoiners-live-from-bitcoin-beach": {
-  "img": "img/bitcoiners-live-from-bitcoin-beach.webp",
-  "color": "#3d2e2d",
-  "w": 720,
-  "h": 720,
-  "manual": true,
-  "src": "podcast-cover"
- },
  "einundzwanzig-der-bitcoin-podcast": {
   "img": "img/einundzwanzig-der-bitcoin-podcast.webp",
   "color": "#b5b4b3",
   "w": 720,
   "h": 720,
   "src": "http://einundzwanzig.space/img/cover/news-4fc518ae3ebfcac5525946a0112a2632.png"
- },
- "local-bitcoiners": {
-  "img": "img/local-bitcoiners.webp",
-  "color": "#3c2d1d",
-  "w": 720,
-  "h": 144,
-  "src": "https://localbitcoiners.com/assets/LocalBitcoiners_banner.png"
  },
  "one-love-bitcoin": {
   "img": "img/one-love-bitcoin.webp",
@@ -1697,34 +1646,12 @@
   "h": 405,
   "src": "https://cdn.nakamotoinstitute.org/img/sni_opengraph_1200.jpg"
  },
- "the-staying-free-podcast": {
-  "img": "img/the-staying-free-podcast.webp",
-  "color": "#342e30",
-  "w": 720,
-  "h": 720,
-  "src": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d1/ec/9b/d1ec9b41-80d9-05d6-ce94-4cf9255ae646/mza_15874929465910110521.jpg/1200x1200bf-60.jpg"
- },
- "the-transformation-of-value": {
-  "img": "img/the-transformation-of-value.webp",
-  "color": "#6b6043",
-  "w": 720,
-  "h": 720,
-  "manual": true,
-  "src": "podcast-cover"
- },
  "de-legende-van-satoshi-nakamoto": {
   "img": "img/de-legende-van-satoshi-nakamoto.webp",
   "color": "#9c8c63",
   "w": 720,
   "h": 720,
   "src": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/81/d2/06/81d20649-d934-ff9b-b41b-e08d62c1773e/mza_7695411706394376406.jpeg/1200x1200bf-60.jpg"
- },
- "dr-bitcoin-the-man-who-wasn-t-satoshi-nakamoto": {
-  "img": "img/dr-bitcoin-the-man-who-wasn-t-satoshi-nakamoto.webp",
-  "color": "#9e9593",
-  "w": 720,
-  "h": 720,
-  "src": "https://faketoshi.co.uk/wp-content/uploads/2026/10/FAKETOSHI-Audiobook-Collection-Mockup-1024x1024.png"
  },
  "bitpopart": {
   "img": "img/bitpopart.webp",
