@@ -56,5 +56,7 @@ html.sup-open{overflow:hidden}
 @media (max-width:799px){.disc button.supb{margin:0 4%}}
 .supb .supa{flex:1 1 0;min-width:0;overflow:hidden;display:block;text-align:left}
 .supb .supa:empty{display:block}
+.supb .supa .off{opacity:.8} /* bar in the bottom bar reads clearly */
+.supb .supn{opacity:1;font-weight:700}
 @media (max-width:799px){.disc button.supb{gap:5px}}
 @media (max-width:420px){.supn{display:none}.disc button .supa{font-size:11px}}
