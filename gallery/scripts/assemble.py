@@ -118,7 +118,7 @@ def entry_pages(data):
     for en in data["entries"]:
         url = f"{SITE}a/{en['id']}/"
         card = DIST / "shared" / "og" / (en["id"] + ".jpg")
-        img = f"{SITE}shared/og/{en['id']}.jpg" if card.exists() else f"{SITE}og.jpg?v=2"
+        img = f"{SITE}shared/og/{en['id']}.jpg?v=2" if card.exists() else f"{SITE}og.jpg?v=2"  # bump v when the card design changes
         where = data_room(data, en)
         title = f"{en['name']} - Awesome Bitcoin Culture"
         desc = " ".join(en["desc"].split()) or f"{en['name']} in {where} on Awesome Bitcoin Culture."

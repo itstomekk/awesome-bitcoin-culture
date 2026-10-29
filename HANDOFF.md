@@ -12,6 +12,8 @@
 
 ## Update 2026-10-28 (artist of the day on Nostr, top/bottom bar tweaks)
 
+- Zap alerts: `tools/nostr/zap_notify.py` sends Tomek's personal npub (npub14wxts...) an encrypted Nostr DM (NIP-04) from the ABC account for every new zap receipt on the support goal. Cron `ae4d043a3746` every 15m via `$HERMES_HOME/scripts/abc_zap_dm.py`; only problems go to HCC topic 4359. Seen receipts: `C:\Users\Lenovo\.secrets\abc-nostr\zap-notify-state.json` (marked only after a relay accepts the DM). `--test` resends the latest zap as a [TEST] DM.
+
 - Pushed `7df8d05`: bars (below) plus Artist of the day 29.10 PBOY, 30.10 Tatiana Moroz, 31.10 Hashteroids in `featured.json` (moved btc-monk to 2027-01-05, x3n0533d and chiefmonkey to 2027-02-21/22). Live.
 - Matching Nostr posts from the ABC account, one per day at 15:00 UTC: cron `4123415edbc7` (every 15m, script `$HERMES_HOME/scripts/abc_aotd_nostr.py`, reports to HCC topic 4359). Approved event files, images and research live in `C:\Users\Lenovo\.secrets\awesome-bitcoin-culture\posts-pilot\`; each publishes once (marker `<file>.published.json`), sha256-locked to the approved text. Images on blossom.band.
 - Post format Tomek approved: intro line about the list + "Artist of the day", 2-3 researched sentences, image, links to the creator's own site/socials, then the share page `/a/<id>/`. Research each creator (recent posts, what they do now) before drafting.
@@ -37,8 +39,16 @@
 ## Update 2026-10-28 (nsite mirror on Nostr)
 
 - Live as a NIP-5A root site signed by the project account: https://npub1vj4fdx2299g6mq7keqlpnwu52lvpwsslfna8efee66hguv9qcl0qe5ufj0.nsite.lol/ (also `.nsite.run`). Built from commit `cd7b754` (first publish `7df8d05`, then an update that uploaded only 5 changed files) in a clean worktree (not this working tree), 2,825 files, 133.6 MB, on Blossom servers blossom.primal.net, nostr.download, cdn.hzrd149.com. Server list (kind 10063) published. The domain on GitHub Pages stays canonical (page canonical/og URLs still point there).
-- Update: in a clean checkout run `build.py --no-fetch`, `check_parity.py`, `assemble.py`, then `python C:/Users/Lenovo/Hermes/tools/nsyte/deploy_nsite.py C:/Users/Lenovo/.secrets/abc-nostr/nsec.dpapi <gallery/dist> --skip-secrets-scan`. Only changed files upload. The secrets scan only flags public 64-hex values (pubkeys, zap goal id); the nsec was checked absent from dist. Details: `C:/Users/Lenovo/Hermes/tools/nsyte/README.md`.
-- Known limit: the manifest is one event with 2,835 tags (318 KB). primal (tag cap), purplepag.es (max 2,000 tags), wellorder (256 KB), nos.lol, nostr.mom and relay.nsite.lol refuse it; damus, relay.ditto.pub, relay.dreamith.to and relay.snort.social hold it, and nsite.lol and nsite.run serve it. Images are 88% of the files (works 1,706, img 319, og 316, shots 143). If more relays are wanted or the gallery keeps growing, serve images by Blossom URL in an nsite-only build so the manifest only lists pages, scripts and styles.
+- Slim nsite (since commit `a96596a`): the nsite keeps every entry but one picture each. `C:/Users/Lenovo/Hermes/tools/nsyte/slim_abc.py <gallery/dist> <out>` drops `shared/og/` and the mini galleries (entries whose main picture is art keep just it; the 10 whose main picture is a logo keep their first work), keeps `img/` and `shots/`. 824 files, 18 MB (full site: 2,825 files, 134 MB). The full gallery with all works stays on the domain; more pictures can be added to the nsite later.
+- Update: in a clean checkout run `build.py --no-fetch`, `check_parity.py`, `assemble.py`, then `slim_abc.py`, then `python C:/Users/Lenovo/Hermes/tools/nsyte/deploy_nsite.py C:/Users/Lenovo/.secrets/abc-nostr/nsec.dpapi <slim dir> --skip-secrets-scan`. Only changed files upload. The secrets scan only flags public 64-hex values (pubkeys, zap goal id); the nsec was checked absent from dist. Details: `C:/Users/Lenovo/Hermes/tools/nsyte/README.md`.
+- Relays: the slim manifest (832 tags, 93 KB) is accepted by damus, primal, relay.nsite.lol, purplepag.es, relay.ditto.pub, relay.snort.social and relay.dreamith.to. nos.lol and nostr.mom refuse events over ~64 KB. The first full manifest (2,835 tags, 318 KB) was too big for most relays.
+
+## Update 2026-10-28 (collage share cards)
+
+- `gallery/scripts/og_cards.py` renders all 316 `shared/og/<id>.jpg` cards (1200x630) via Playwright Firefox: layouts 1/3/6 picked by id hash, A/₿/C glyph logo (`scripts/og/glyph-*.png`, fonts in `scripts/og/fonts/`). 154 entries have a GPT collage background of their works (`scripts/og/bg/`, git-ignored; masters in `C:/Users/Lenovo/Hermes/image-gen/2026-10-28-abc-share-cards/bg2/`, import with `--import <dir>`). Moderation blocked 4 (missatoshi-girl, pepelangelo, jure-kastelic, einundzwanzig-der-bitcoin-podcast); they and entries without enough works use their own image.
+- Framed picture: the main image, or the first work when the main image is near-black or listed in `USE_WORK` (`frame_src`).
+- og:image URLs carry `?v=2`; bump it in `assemble.py` when the card design changes. Cards are committed (CI has no fonts). `python scripts/og_cards.py [ids]` re-renders.
+- Open: the collages are AI derivatives of artists' works (consent not asked yet). Sarah Foster's card (lips close-up) kept as is.
 
 ## Update 2026-10-28 (per-entry share links with preview cards)
 
