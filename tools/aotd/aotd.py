@@ -248,9 +248,11 @@ def deploy(msg):
         subprocess.run([PY, f"scripts/{s[0]}", *s[1:]], cwd=G, check=True, capture_output=True)
     paths = ["gallery/data/featured.json", "gallery/shared/data.js"]
     subprocess.run(["git", "commit", "-qm", msg, "--", *paths], cwd=PROJ, check=True)
-    r = subprocess.run(["git", "-c", "credential.helper=", "-c", "credential.helper=!gh auth git-credential",
-                        "push", "origin", "HEAD"], cwd=PROJ, capture_output=True, text=True,
-                       env={**__import__("os").environ, "GIT_TERMINAL_PROMPT": "0"})
+    env = {**__import__("os").environ, "GIT_TERMINAL_PROMPT": "0"}
+    auth = ["-c", "credential.helper=", "-c", "credential.helper=!gh auth git-credential"]
+    subprocess.run(["git", *auth, "pull", "-q", "--rebase", "--autostash", "origin", "master"], cwd=PROJ, env=env,
+                   capture_output=True)  # other sessions push to this repo too
+    r = subprocess.run(["git", *auth, "push", "origin", "HEAD"], cwd=PROJ, capture_output=True, text=True, env=env)
     print("pushed" if r.returncode == 0 else f"push failed: {r.stderr.strip()[-300:]}")
 
 
