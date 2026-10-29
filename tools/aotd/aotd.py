@@ -217,6 +217,7 @@ def send_draft(i, d):
     m = meta(i)
     m["sent_draft"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
     save_meta(i, m)
+    print(f"SENT: draft for {i} ({dm(d)}) delivered to Telegram topic 4359 (graphic + text)")
 
 
 def approve(i):
