@@ -5,7 +5,8 @@ Thanks for helping grow this list. A few ground rules before opening a PR or iss
 ## What belongs here
 
 See [What belongs here](README.md#-what-belongs-here) in the README. Short version: good creative
-work about Bitcoin, by someone you can name (memes excepted), with a link that shows the work.
+work about Bitcoin, by someone you can name (memes excepted), with a portfolio, site or page that
+shows the work.
 
 ## How to submit an entry
 

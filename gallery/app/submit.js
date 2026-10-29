@@ -141,7 +141,7 @@
       '<details class="sg-rules" id="sgRulesD"><summary>The list rules</summary><div class="sg-rules-in"><ol>' +
       "<li>Made with care: good work, worth someone's time.</li>" +
       "<li>Someone behind it: a person, studio, collective or consistent pseudonym (memes can be anonymous).</li>" +
-      "<li>The link shows or plays the actual work.</li></ol>" +
+      "<li>A portfolio you can see: the link goes to a portfolio, site or page that shows or plays the actual work.</li></ol>" +
       "<p><b>Left out:</b> financial products, exchange marketing, PFP and other speculative drops, meme coins. AI-majority art is on hold for now.</p></div></details>" +
       '<div class="sg-f" data-f="rules"><label class="sg-check"><input type="checkbox" id="sg-rules" aria-describedby="sg-rules-e"><span class="sg-box">' + CHECK + "</span><span>I read the rules and this fits.</span></label>" +
       '<p class="sg-msg" id="sg-rules-e" hidden>' + ICON_BAD + "<span></span></p></div></section>" +

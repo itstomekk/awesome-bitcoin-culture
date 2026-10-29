@@ -7,62 +7,25 @@
 
 <div align="center">
 
-[🖼️ Gallery](https://awesomebitcoinculture.com/) · [💡 Suggest an entry](https://awesomebitcoinculture.com/#suggest) · [⚡ Support](#support) · [🟣 Nostr](https://njump.me/npub1vj4fdx2299g6mq7keqlpnwu52lvpwsslfna8efee66hguv9qcl0qe5ufj0)
+[🖼️ Gallery](https://awesomebitcoinculture.com/) · [💡 Suggest an entry](https://awesomebitcoinculture.com/#suggest) · [⚡ Support](#-join-in--support) · [🟣 Nostr](https://njump.me/npub1vj4fdx2299g6mq7keqlpnwu52lvpwsslfna8efee66hguv9qcl0qe5ufj0)
 
 </div>
 
 ## 👋 Hello
 
 Bitcoin has inspired a lot of art, films, books, music and games that have nothing to do with price
-charts. This list gathers that work in one place, so it is easy to find and hard to forget. If you
-make things, love things, or are just curious: welcome. Take a walk and tell us what we missed. 🧡
-
-## 🟢 Where it stands
-
-**Live and growing.** More than 300 hand-picked entries in eight sections. The gallery website is
-rebuilt from this README on every push, so both always match. The list is released under CC0.
+charts. This list gathers that work in one place, so it is easy to find and hard to forget: more
+than 300 hand-picked entries in eight sections, released under CC0. If you make things, love
+things, or are just curious: welcome. Take a walk and tell us what we missed. 🧡
 
 ## 🖼️ The gallery
 
 ![The Awesome Bitcoin Culture gallery, showing the Visual Art room](.github/readme/home.jpg)
 
-Every entry is a banner with the work's own art (or a generated tile), a link to the work and, where we could verify them, the creator's social profiles.
-Search by name, host or text, open the Artist of the day, hit Random, or use Suggest to send us something new.
-There is also a plain-text [llms.txt](https://awesomebitcoinculture.com/llms.txt) copy of the whole list.
-
-## 🧭 What belongs here
-
-Creative work about Bitcoin in any medium, plus the places, archives and events that gather it.
-What we care about is **the quality of the work**:
-
-- **Made with care.** Good work, worth someone's time.
-- **Someone behind it.** A person, studio, collective or consistent pseudonym. Memes can be anonymous.
-- **You can see it.** The link shows or plays the actual work.
-
-Not a fit: financial products, exchange marketing, PFP and other speculative collectible drops, and
-meme coins. **AI-majority art is on hold for now.** AI as one part of hands-on work, or AI used as
-an art form (such as a film made by directing many AI tools), is welcome when it shows real craft
-and the artist has a portfolio.
-
-The maintainer also runs Bitcoin FilmFest, Bitcoin Shipshow, Bitcoin District and Awesome Bitcoin
-Events. They are listed here under the same rules as everyone else.
-
-## 🤝 Join in
-
-This list is only as good as the people who look at it. Every kind of help is welcome.
-
-💡 **You know a creator or work we missed.** Use the Suggest button in the gallery, or [open the issue form](https://github.com/itstomekk/awesome-bitcoin-culture/issues/new?template=suggest-entry.yml). Include a link where the work can actually be seen.
-
-🛠️ **You spotted a dead link or a wrong description.** Open a pull request that edits `README.md`. Keep to one short line per entry, in the section's existing order.
-
-🎨 **You made something about Bitcoin.** Welcome. Send it in the same way. A named person, studio or consistent pseudonym is enough.
-
-🤔 **You are not sure it fits.** Open an issue and ask before you do any work.
-
-⚡ **You like it.** Tell a friend, tell an artist on the list, or use the Support link at the top.
-
-The full rules are in [CONTRIBUTING.md](CONTRIBUTING.md). The list is curated by
-[Tomek Kołodziejczuk](https://github.com/itstomekk), and every suggestion is read by a person.
+[awesomebitcoinculture.com](https://awesomebitcoinculture.com/) is rebuilt from this README on every
+push, so both always match. Every entry gets a banner with the work's own art. Search, open the
+Artist of the day, hit Random, or use Suggest. There is also a plain-text
+[llms.txt](https://awesomebitcoinculture.com/llms.txt) copy of the list.
 
 ## Contents
 
@@ -94,6 +57,8 @@ The full rules are in [CONTRIBUTING.md](CONTRIBUTING.md). The list is curated by
   - [Platforms & Marketplaces](#platforms--marketplaces)
 - [🎪 Events & Festivals](#-events--festivals)
 - [🎮 Games](#-games)
+- [🧭 What belongs here](#-what-belongs-here)
+- [🤝 Join in & support](#-join-in--support)
 
 ---
 
@@ -882,12 +847,28 @@ Three exceptions worth naming directly here, since they're culture-first rather 
 
 ---
 
-## Contributing
+## 🧭 What belongs here
 
-Suggestions, fixes and questions are all welcome. Start with [Join in](#-join-in) above.
+Creative work about Bitcoin in any medium, plus the places, archives and events that gather it.
+What we care about is **the quality of the work**:
 
-## Support
+- **Made with care.** Good work, worth someone's time.
+- **Someone behind it.** A person, studio, collective or consistent pseudonym. Memes can be anonymous.
+- **A portfolio you can see.** The link goes to a portfolio, site or page that shows or plays the
+  actual work.
 
-The list and the gallery are free and curated by hand. Zaps cover the domain, hosting and curation time:
-use the [⚡ Support button on the site](https://awesomebitcoinculture.com/#support) (any Lightning wallet, no account)
-or zap [our Nostr goal](https://njump.me/nevent1qqsqpv2xq4kzk7vnpzlf499ycj3huntjchqxz952jdrn6pf84xzgf5gpz3mhxue69uhhyetvv9ujuerpd46hxtnfduqs6amnwvaz7tmwdaejumr0dspzqe92j6v552234kpadjp7rxaeg47czapp7n860jnnn44w3cc2p377qvzqqqpr2yhmjav0) directly.
+Not a fit: financial products, exchange marketing, PFP and other speculative collectible drops, and
+meme coins. **AI-majority art is on hold for now.** AI as one part of hands-on work, or AI used as
+an art form (such as a film made by directing many AI tools), is welcome when it shows real craft
+and the artist has a portfolio.
+
+## 🤝 Join in & support
+
+Every suggestion is read by a person.
+
+- 💡 **Missing a creator or work?** Use Suggest in the gallery or [the issue form](https://github.com/itstomekk/awesome-bitcoin-culture/issues/new?template=suggest-entry.yml), with a link that shows the work. Your own work is welcome too.
+- 🛠️ **Dead link or wrong description?** Open a pull request on `README.md`, one short line per entry.
+- 🤔 **Not sure it fits?** Open an issue and ask first.
+- ⚡ **Like it?** Tell a friend, or zap via the [Support button](https://awesomebitcoinculture.com/#support) (any Lightning wallet, no account) or [our Nostr goal](https://njump.me/nevent1qqsqpv2xq4kzk7vnpzlf499ycj3huntjchqxz952jdrn6pf84xzgf5gpz3mhxue69uhhyetvv9ujuerpd46hxtnfduqs6amnwvaz7tmwdaejumr0dspzqe92j6v552234kpadjp7rxaeg47czapp7n860jnnn44w3cc2p377qvzqqqpr2yhmjav0). Zaps cover the domain, hosting and curation time.
+
+Full rules: [CONTRIBUTING.md](CONTRIBUTING.md). Curated by [Tom McKay](https://x.com/itstomekk).

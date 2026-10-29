@@ -17,7 +17,7 @@ DATA = ROOT / "shared" / "data.js"
 
 def readme_structure(md):
     md = md.replace("\r\n", "\n")
-    body = md.split("\n---\n", 1)[1]  # skip the Contents list
+    body = md.split("\n---\n")[1]  # the rooms sit between the Contents list and the closing rule
     sections, entries, room, sub = [], [], None, ""
     for line in body.split("\n"):
         m = re.match(r"^##\s+\S+\s+(.*)$", line)
