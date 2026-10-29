@@ -14,7 +14,10 @@ featured.json and their graphic and text travel with them.
   move <who> <date> [--deploy]  move to a date (swaps with whoever has it); --deploy rebuilds and pushes the site
   swap <date> <date> [--deploy]
   research-gate                 cron gate: {"wakeAgent": false} or the entry the D-1 agent must research
-  publish-due                   cron step: publish today's approved post at 15:00 UTC (once, read back)
+  publish-due                   cron step: publish today's approved post at 15:00 UTC (once, read back),
+                                then its approved reply thread, if any
+  thread <who> <thread.json>    store a reply thread: [{"text": "...", "images": ["C:/.../a.jpg"]}, ...]
+  thread-approve <who>          upload the thread images to Blossom, lock the reply events
 
 <who> is an entry id, a date (2026-11-03) or a day.month (03.11).
 """
@@ -243,6 +246,92 @@ def approve(i):
     print(f"approved {i}: {url}")
 
 
+# ---------- reply thread (optional, posted as a chain under the day's post) ----------
+def thread(i, src):
+    t = json.loads(Path(src).read_text(encoding="utf-8"))
+    assert isinstance(t, list) and t and all(x.get("text") for x in t), "need a non-empty list of {text, images}"
+    for x in t:
+        for im in x.get("images", []):
+            if not Path(im).exists():
+                sys.exit(f"missing {im}")
+    (Q / i).mkdir(parents=True, exist_ok=True)
+    (Q / i / "thread.json").write_text(json.dumps(t, ensure_ascii=False, indent=1), encoding="utf-8")
+    m = meta(i)
+    m.pop("thread_sha", None)
+    save_meta(i, m)
+    for k, x in enumerate(t, 1):
+        print(f"--- reply {k}/{len(t)} [{', '.join(Path(im).name for im in x.get('images', [])) or 'no image'}]\n{x['text']}\n")
+
+
+def thread_approve(i):
+    from PIL import Image
+    t = json.loads((Q / i / "thread.json").read_text(encoding="utf-8"))
+    evs = []
+    for x in t:
+        urls, tags = [], []
+        for im in x.get("images", []):
+            r = subprocess.run(["node", str(UPLOAD), str(im)], cwd=UPLOAD.parent, capture_output=True, text=True, timeout=180)
+            url, h = (r.stdout.strip().splitlines() or [""])[-1], sha(im)
+            if not url.startswith("https://") or h not in url:
+                sys.exit(f"blossom upload failed for {im}: {r.stderr.strip()[-300:]}")
+            urllib.request.urlopen(urllib.request.Request(url, method="HEAD"), timeout=60)  # read back
+            with Image.open(im) as pic:
+                w, hh = pic.size
+            urls.append(url)
+            tags.append(["imeta", f"url {url}", "m image/jpeg", f"dim {w}x{hh}", f"x {h}"])
+        evs.append({"kind": 1, "content": "\n\n".join([x["text"].strip(), *urls]), "tags": tags})
+    (Q / i / "thread_events.json").write_text(json.dumps(evs, ensure_ascii=False, indent=1), encoding="utf-8")
+    m = meta(i)
+    m.update(thread_sha=sha(Q / i / "thread_events.json"), thread_approved=datetime.now(timezone.utc).isoformat(timespec="seconds"))
+    save_meta(i, m)
+    print(f"thread approved {i}: {len(evs)} replies")
+
+
+def _nostr_publish(ev_path):
+    r = subprocess.run(["uv", "run", "--python", "3.11", "--with", "nostr-sdk==0.45.1", "--with", "websockets==15.0.1",
+                        "--with", "certifi", "python", "tools/nostr/abc_nostr.py", "publish", str(ev_path)],
+                       cwd=PROJ, capture_output=True, text=True, encoding="utf-8", errors="replace", timeout=240)
+    try:
+        res = json.loads(r.stdout[r.stdout.index("{"):])
+    except Exception:
+        return None, []
+    return res, [x["relay"] for x in res.get("relays", []) if x.get("accepted") and x.get("readback")]
+
+
+def publish_thread(i, name):
+    """Chain the approved replies under the published post. Never re-sends a reply that may have gone out."""
+    m = meta(i)
+    tf = Q / i / "thread_events.json"
+    if not m.get("published") or not m.get("thread_sha") or m.get("thread_done") or m.get("thread_stopped"):
+        return
+    if not tf.exists() or sha(tf) != m["thread_sha"]:
+        m["thread_stopped"] = "hash mismatch"
+        save_meta(i, m)
+        print(f"⚠️ ABC artist of the day ({name}): reply thread NOT posted, the approved replies changed.")
+        return
+    root, relay = m["published"]["id"], m["published"]["relays"][0]
+    done = m.get("thread_ids", [])
+    evs = json.loads(tf.read_text(encoding="utf-8"))
+    for k in range(len(done), len(evs)):
+        ev = dict(evs[k])
+        ev["tags"] = [["e", root, relay, "root"]] + ([["e", done[-1], relay, "reply"]] if done else []) + ev["tags"]
+        tmp = Q / i / f"_reply{k + 1}.json"
+        tmp.write_text(json.dumps(ev, ensure_ascii=False, indent=1), encoding="utf-8")
+        res, ok = _nostr_publish(tmp)
+        if not ok:
+            m["thread_stopped"] = f"reply {k + 1}: " + ("unreadable output" if res is None else "no relay confirmed")
+            m["thread_ids"] = done
+            save_meta(i, m)
+            print(f"⚠️ ABC artist of the day ({name}): reply {k + 1}/{len(evs)} not confirmed, thread stopped, NOT retried.")
+            return
+        done.append(res["id"])
+        m["thread_ids"] = done
+        save_meta(i, m)
+    m["thread_done"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    save_meta(i, m)
+    print(f"✅ ABC artist of the day thread on Nostr: {name}, {len(done)} replies under https://njump.me/{root}")
+
+
 # ---------- calendar ----------
 def deploy(msg):
     for s in (["build.py", "--no-fetch"], ["check_parity.py"]):
@@ -334,9 +423,11 @@ def publish_due():
             continue
         due = datetime(d.year, d.month, d.day, DUE_H, tzinfo=timezone.utc)
         m = meta(i)
+        name = e.get(i, {}).get("name", i)
+        if m.get("published") and now <= due + timedelta(hours=LATE_H):
+            publish_thread(i, name)  # thread approved after the post went out, or a later run
         if now < due or m.get("published") or m.get("stopped"):
             continue
-        name = e.get(i, {}).get("name", i)
         if now > due + timedelta(hours=LATE_H):
             m["stopped"] = "expired"
             save_meta(i, m)
@@ -354,21 +445,17 @@ def publish_due():
             save_meta(i, m)
             print(f"⚠️ ABC artist of the day ({name}) NOT posted: the approved event changed. Needs a fresh approval.")
             continue
-        r = subprocess.run(["uv", "run", "--python", "3.11", "--with", "nostr-sdk==0.45.1", "--with", "websockets==15.0.1",
-                            "--with", "certifi", "python", "tools/nostr/abc_nostr.py", "publish", str(ev)],
-                           cwd=PROJ, capture_output=True, text=True, encoding="utf-8", errors="replace", timeout=240)
-        try:
-            res = json.loads(r.stdout[r.stdout.index("{"):])
-        except Exception:
+        res, ok = _nostr_publish(ev)
+        if res is None:
             m["stopped"] = "unreadable output"
             save_meta(i, m)
             print(f"⚠️ ABC artist of the day ({name}): publish output unreadable, NOT retried. Check relays before any resend.")
             continue
-        ok = [x["relay"] for x in res.get("relays", []) if x.get("accepted") and x.get("readback")]
         if ok:
             m["published"] = {"id": res["id"], "relays": ok, "at": now.isoformat(timespec="seconds")}
             save_meta(i, m)
             print(f"✅ ABC artist of the day on Nostr: {name}, https://njump.me/{res['id']} (confirmed on {len(ok)} relays)")
+            publish_thread(i, name)
         else:
             m["stopped"] = "no relay confirmed"
             save_meta(i, m)
@@ -396,6 +483,10 @@ def main(a):
         swap(resolve(a[1])[1], a[2], dep)
     elif c == "swap" and len(a) == 3:
         swap(a[1], a[2], dep)
+    elif c == "thread" and len(a) == 3:
+        thread(resolve(a[1])[0], a[2])
+    elif c == "thread-approve" and len(a) == 2:
+        thread_approve(resolve(a[1])[0])
     elif c == "research-gate":
         research_gate()
     elif c == "publish-due":
