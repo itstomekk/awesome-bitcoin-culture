@@ -2271,10 +2271,11 @@
  },
  "tj-murphy": {
   "img": "img/tj-murphy.webp",
-  "color": "#b99175",
+  "color": "#91755b",
   "w": 720,
   "h": 405,
-  "src": "https://img.tjm.art/display/esperanza-hero-aba277665d-1134.webp"
+  "manual": true,
+  "src": "https://img.tjm.art/display/honeybadger-and-cub-2026-24cec820be-1600.webp"
  },
  "tesi-cypher-painter": {
   "img": "img/tesi-cypher-painter.webp",
