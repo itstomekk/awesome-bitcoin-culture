@@ -43,6 +43,12 @@
 - Update: in a clean checkout run `build.py --no-fetch`, `check_parity.py`, `assemble.py`, then `slim_abc.py`, then `python C:/Users/Lenovo/Hermes/tools/nsyte/deploy_nsite.py C:/Users/Lenovo/.secrets/abc-nostr/nsec.dpapi <slim dir> --skip-secrets-scan`. Only changed files upload. The secrets scan only flags public 64-hex values (pubkeys, zap goal id); the nsec was checked absent from dist. Details: `C:/Users/Lenovo/Hermes/tools/nsyte/README.md`.
 - Relays: the slim manifest (832 tags, 93 KB) is accepted by damus, primal, relay.nsite.lol, purplepag.es, relay.ditto.pub, relay.snort.social and relay.dreamith.to. nos.lol and nostr.mom refuse events over ~64 KB. The first full manifest (2,835 tags, 318 KB) was too big for most relays.
 
+## Update 2026-10-28 (artist of the day calendar)
+
+- `tools/aotd/aotd.py` runs the calendar (commands in its docstring and in the `abc-artist-of-the-day` skill). State per entry in `C:/Users/Lenovo/.secrets/awesome-bitcoin-culture/aotd/<id>/`, so moves only edit `featured.json`.
+- D-7 graphics (share card) + preview sheet to HCC topic 4359, and D-day publishing of approved posts at 15:00 UTC: both in cron `4123415edbc7` (`abc_aotd_nostr.py`, every 15m). D-1 research and draft: cron `48e2e33fca19` (10:00 and 15:00 local, gate `abc_aotd_gate.py`, prompt `tools/aotd/RESEARCH_PROMPT.md`, sonnet pinned). Only Tomek approves (`aotd.py approve <date>`).
+- Starts with 01.11 (29-31.10 stay on the old posts-pilot items).
+
 ## Update 2026-10-28 (collage share cards)
 
 - `gallery/scripts/og_cards.py` renders all 316 `shared/og/<id>.jpg` cards (1200x630) via Playwright Firefox: layouts 1/3/6 picked by id hash, A/₿/C glyph logo (`scripts/og/glyph-*.png`, fonts in `scripts/og/fonts/`). 154 entries have a GPT collage background of their works (`scripts/og/bg/`, git-ignored; masters in `C:/Users/Lenovo/Hermes/image-gen/2026-10-28-abc-share-cards/bg2/`, import with `--import <dir>`). Moderation blocked 4 (missatoshi-girl, pepelangelo, jure-kastelic, einundzwanzig-der-bitcoin-podcast); they and entries without enough works use their own image.
@@ -64,7 +70,7 @@
 
 ## Update 2026-10-23 (Nostr account, Support goal)
 
-- Nostr account: `npub1vj4fdx2299g6mq7keqlpnwu52lvpwsslfna8efee66hguv9qcl0qe5ufj0` (hex `64aa9699...c7de`), NIP-05 `_@awesomebitcoinculture.com` (`gallery/app/.well-known/nostr.json`), lud16 `itstomekk@getalby.com`, avatar/banner in `gallery/app/nostr/`. Key: DPAPI file `C:\Users\Lenovo\.secrets\abc-nostr\nsec.dpapi`; sign and publish with `tools/nostr/abc_nostr.py` (usage in its docstring). Relays: damus, nos.lol, primal, nostr.mom.
+- Nostr account: `npub1vj4fdx2299g6mq7keqlpnwu52lvpwsslfna8efee66hguv9qcl0qe5ufj0` (hex `64aa9699...c7de`), NIP-05 `_@awesomebitcoinculture.com` (`gallery/app/.well-known/nostr.json`), lud16 `_@awesomebitcoinculture.com` since 2026-10-28 (`gallery/app/.well-known/lnurlp/_`, a static copy of Alby's `itstomekk` LNURL document; keep its metadata byte-identical or every payment fails the description-hash check; GitHub Pages serves it with CORS `*`; was `itstomekk@getalby.com`), follows Tomek (kind 3), avatar/banner in `gallery/app/nostr/`. Key: DPAPI file `C:\Users\Lenovo\.secrets\abc-nostr\nsec.dpapi`; sign and publish with `tools/nostr/abc_nostr.py` (usage in its docstring). Relays: damus, nos.lol, primal, nostr.mom.
 - Zap goal (NIP-75 kind 9041): `00b146056c2b799308be9a94a4c4a37e4d72c5c061168a93473d0527a98484d1`, 100,000 sats. The Support button (`gallery/app/support.js`, `support.css`, QR via vendored `vendor/qrcode.js`, MIT) sums kind 9735 receipts tagged with that goal and signed by Alby's key `79f00d3f...f432`. Donations use one pre-signed anonymous zap request (no amount tag) so the site needs no keys; payment is confirmed through the LUD-21 verify URL. `#support` opens the dialog. A new goal means new constants in support.js and a new zap request.
 - README has a hero image linking to the site and a Support section. Repo homepage and description point at the domain.
 
