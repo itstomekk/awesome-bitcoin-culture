@@ -187,6 +187,8 @@
   function readHash() {
     var raw = location.hash.replace(/^#/, "");
     try { raw = decodeURIComponent(raw); } catch (_) { /* keep as is */ }
+    var pm = !raw && /^\/a\/([^\/]+)\/?$/.exec(location.pathname); // /a/<id>/ shown in the address bar
+    if (pm) raw = pm[1];
     if (byId.hasOwnProperty(raw)) raw = "open=" + raw; // short entry anchor: #tj-murphy
     var p = new URLSearchParams(raw);
     var r = (p.get("room") || "").split(",")[0];
@@ -211,12 +213,15 @@
     return p.length ? "#" + p.join("&") : "";
   }
   var lastHash = "";
+  // address key: the short entry anchor is shown as /a/<id>/ (that page carries the entry's preview card)
+  function navKey() { return location.pathname + location.hash; }
   function writeHash() {
-    var h = hashString();
-    if (h === (location.hash || "")) { lastHash = h; return; }
-    try { history.replaceState(null, "", h || (location.pathname + location.search)); }
+    var h = hashString(), web = /^https?:$/.test(location.protocol), m = /^#([^&=]+)$/.exec(h), home = location.pathname.indexOf("/a/") === 0 ? "/" : location.pathname;
+    var url = web && m && byId.hasOwnProperty(decodeURIComponent(m[1])) ? "/a/" + m[1] + "/" : (h ? home + location.search + h : home + location.search);
+    if (url === location.pathname + location.search + location.hash || (!h && url === location.pathname + location.search)) { lastHash = navKey(); return; }
+    try { history.replaceState(null, "", url); }
     catch (_) { /* file:// quirks: leave the address as is */ }
-    lastHash = location.hash || "";
+    lastHash = navKey();
   }
 
   /* ---------- data ---------- */
@@ -670,8 +675,8 @@
   totop.addEventListener("click", function () { window.scrollTo(0, 0); qEl.blur(); });
 
   function onNav() {
-    if ((location.hash || "") === lastHash) return;
-    lastHash = location.hash || "";
+    if (navKey() === lastHash) return;
+    lastHash = navKey();
     var prevRoom = state.room;
     readHash(); render();
     if (state.open) showEntry(state.open);
@@ -740,7 +745,7 @@
   readHash();
   setVars();
   render();
-  lastHash = location.hash || "";
+  lastHash = navKey();
   if (state.room) {
     jumpTo(state.room, true);
     var again = function () {

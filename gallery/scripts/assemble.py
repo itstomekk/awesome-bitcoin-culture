@@ -192,8 +192,14 @@ def main():
     for f in DIST.rglob("*"):
         if f.suffix in (".html", ".js", ".css") and f.is_file():
             t = f.read_text(encoding="utf-8")
-            if "../shared/" in t:
-                f.write_text(t.replace("../shared/", "shared/"), encoding="utf-8")
+            # absolute paths: the address bar can show /a/<id>/, so lazy-loaded files must not be relative
+            u = t.replace("../shared/", "/shared/")
+            if f.name == "index.html":
+                u = u.replace('src="submit.js"', 'src="/submit.js"')
+            if f.name == "support.js":
+                u = u.replace('"vendor/qrcode.js"', '"/vendor/qrcode.js"')
+            if u != t:
+                f.write_text(u, encoding="utf-8")
                 n += 1
     seo(load_data())
     size = sum(f.stat().st_size for f in DIST.rglob("*") if f.is_file()) / 1e6
