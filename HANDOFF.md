@@ -1,6 +1,12 @@
 # HANDOFF — awesome-bitcoin-culture
 
-**Last updated:** 2026-10-28.
+**Last updated:** 2026-10-29.
+
+## Update 2026-10-29 (works pass 5, pushed)
+
+- Pass 5 searched again all 130 entries that had only 1 or 2 pictures (main + 0 or 1 works). Tomek approved the contact sheets. 117 pictures were added to 50 entries via `abc-works-harvest/add_all_to_gallery.py --pass5` (the new flag adds only pass 5). 10 weak picks were dropped in review (popups, landing pages, text-heavy screenshots, plus satoshi-gallery #15, which duplicated valentina-picozzi #40); the list is in `abc-works-harvest/logs/pass5/review-drops.txt`. 8 repeats were skipped by source URL.
+- `works.json` now has 275 entries and 970 pictures; site total is 1,286 pictures. Pictures per entry: 1 = 41 (was 56), 2 = 47 (was 74), 3 = 38, 4 = 24, 5 = 55, 6 = 111. Backup: `abc-works-harvest/logs/works.json.bak-20261029-093256`.
+- Built with `lum_works.py` (117 added), `build.py --no-fetch`, `check_parity.py` (OK), `assemble.py`. Local Firefox check (blu3baer, hotel-bitcoin, maximalist-episode-1, fountain): 6 pictures in each strip, 0 broken images, no JS errors. Committed from a clean worktree on top of origin/master (local master's unpushed aotd thread commit 3b15265 was left out).
 
 ## Update 2026-10-28 (TJ Murphy issues #2-#4, pushed a1485df, live)
 
