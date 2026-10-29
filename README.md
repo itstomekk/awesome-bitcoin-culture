@@ -242,7 +242,6 @@ The full rules are in [CONTRIBUTING.md](CONTRIBUTING.md). The list is curated by
   profile](https://timechainartmagazine.com/artist/dustin-trammell/))
 - [Gus Grillasca](https://timechainartmagazine.com/artist/gus-grillasca/) - Illustration and
   conceptual design with cyberpunk aesthetics on Bitcoin, privacy, and sovereignty.
-- [HACKZERO](https://x.com/hack355) - AI/Midjourney promptcraft, prolific Bitcoin imagery.
 - [Here Comes Bitcoin](https://herecomesbitcoin.org/) - License-free PNG and SVG library of Bitty,
   the Bitcoin puppet from *Who Is Bitcoin?*, free to use in any project.
 - [Luis Simo](https://scarce.city/creators/luis-simo) - Pixel mosaic, "Pepernica".
@@ -253,7 +252,6 @@ The full rules are in [CONTRIBUTING.md](CONTRIBUTING.md). The list is curated by
   materials; graffiti language about privacy and freedom.
   ([X/Twitter](https://x.com/Missatoshi_girl),
   [Nostr](https://primal.net/p/npub1cax06cljhz5mugtrrxdjvhw8ekepum7l4c7etmj6nwaunzdtxmyqf3cjwe))
-- [Moozi](https://x.com/l3itc0in) - Custom-trained AI models, Persian-inspired painterly style.
 - [Mr Meadow](https://www.mrmeadow.org/) - Indian filmmaker and designer making comic-book Bitcoin
   art, such as the "Bitcoin Mech-Suit" print.
 - [MrHansel](https://x.com/bettidlomas) - Bristol collage and acrylic work reworking Pepe imagery;

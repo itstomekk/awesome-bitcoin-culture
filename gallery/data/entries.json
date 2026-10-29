@@ -583,17 +583,6 @@
   "host": "timechainartmagazine.com"
  },
  {
-  "id": "hackzero",
-  "name": "HACKZERO",
-  "url": "https://x.com/hack355",
-  "desc": "AI/Midjourney promptcraft, prolific Bitcoin imagery.",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Illustration & Digital Art",
-  "host": "x.com"
- },
- {
   "id": "here-comes-bitcoin",
   "name": "Here Comes Bitcoin",
   "url": "https://herecomesbitcoin.org/",
@@ -636,17 +625,6 @@
   "roomIcon": "🎨",
   "sub": "Illustration & Digital Art",
   "host": "instagram.com"
- },
- {
-  "id": "moozi",
-  "name": "Moozi",
-  "url": "https://x.com/l3itc0in",
-  "desc": "Custom-trained AI models, Persian-inspired painterly style.",
-  "room": "Visual Art",
-  "roomLabel": "Visual Art",
-  "roomIcon": "🎨",
-  "sub": "Illustration & Digital Art",
-  "host": "x.com"
  },
  {
   "id": "mr-meadow",

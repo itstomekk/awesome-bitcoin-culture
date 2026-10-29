@@ -12,7 +12,7 @@
 
 - Issues #2-#4 were opened by TJ Murphy himself (GitHub @timothyjosephmurphy) and asked for his works to be used as the gallery row background. Permission covers the gallery only; ask him before using the images elsewhere.
 - Main picture is now "Honeybadger and Cub with Genesis Block" (720x405 on a blurred backdrop, `manual`, replaces the Esperanza hero). Warszawska Syrenka and El Zonte at Dawn were already works 3 and 5. README description names Syrenka. Share card re-rendered. Issues closed with thank-you comments.
-- Open: #5 archjourney (real Greek artist, AI-assisted, fits the AI rule with disclosure), not added yet. PR #1: all artists are on main except Ninefold, which stays excluded.
+- 2026-10-29: Tomek parked AI-made work for now. HACKZERO and Moozi were removed from the list, and archjourney (#5, issue left open) was not added. All three are in `research/waiting-room.md`, which also explains how to restore them. Don't run `og_cards.py` while they are parked. PR #1: all artists are on main except Ninefold, which stays excluded.
 
 ## Update 2026-10-28 (creator outreach plan, nothing sent)
 
