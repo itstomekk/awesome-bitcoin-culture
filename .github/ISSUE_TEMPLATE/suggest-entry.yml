@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: >-
-        Thanks for helping improve this curated list. Suggestions are reviewed by a maintainer and are not automatically accepted. Please read the README's scope and inclusion criteria first.
+        Thanks for helping improve this curated list. Suggestions are reviewed by a maintainer and are not automatically accepted. Please read "What belongs here" in the README first.
 
   - type: input
     id: entry

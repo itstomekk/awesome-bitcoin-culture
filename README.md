@@ -13,22 +13,14 @@
 
 ## 👋 Hello
 
-Bitcoin has made a lot of art, films, books, music and games that have nothing to do with price charts.
-This list gathers that work in one place, so it is easy to find and hard to forget. If you make
-things, love things, or just wonder what Bitcoin culture looks like: welcome. Take a walk through it
-and tell us what we missed. 🧡
-
-Bitcoin has produced a real body of creative and cultural work, separate from its use as money
-or its developer tooling. This list catalogs that work: the people who made it, where to see it,
-and the institutions that support it. It is deliberately **not** another `awesome-bitcoin`
-dev-tools/wallets/services list - those already exist and are well maintained elsewhere.
+Bitcoin has inspired a lot of art, films, books, music and games that have nothing to do with price
+charts. This list gathers that work in one place, so it is easy to find and hard to forget. If you
+make things, love things, or are just curious: welcome. Take a walk and tell us what we missed. 🧡
 
 ## 🟢 Where it stands
 
-**Live and growing.** The list is public, curated by hand and updated as new work turns up. It has more than 300
-entries in eight sections: Visual Art, Literature, Music & Performing Arts, Film & Documentary, Podcasts,
-Institutions & Spaces, Events & Festivals and Games. The gallery website is rebuilt from this README on every
-push, so what you read here is always what the site shows. The list is released under CC0.
+**Live and growing.** More than 300 hand-picked entries in eight sections. The gallery website is
+rebuilt from this README on every push, so both always match. The list is released under CC0.
 
 ## 🖼️ The gallery
 
@@ -40,46 +32,20 @@ There is also a plain-text [llms.txt](https://awesomebitcoinculture.com/llms.txt
 
 ## 🧭 What belongs here
 
-### Scope
+Creative work about Bitcoin in any medium, plus the places, archives and events that gather it.
+What we care about is **the quality of the work**:
 
-Bitcoin as subject and inspiration for human creative work - film, literature, visual art,
-sculpture, music, dance and stage, podcasts and other long-form media, and games - plus the archives,
-spaces, institutions, and events that preserve and gather that work. A game counts when the game
-itself is the work; earning or paying sats inside it is fine. Wagering & Casino is a small
-subsection for Bitcoin-native games played for stakes, not a gambling directory. This is not a
-directory of financial products, exchanges, or speculative collectible drops.
+- **Made with care.** Good work, worth someone's time.
+- **Someone behind it.** A person, studio, collective or consistent pseudonym. Memes can be anonymous.
+- **You can see it.** The link shows or plays the actual work.
 
-### Inclusion criteria
+Not a fit: financial products, exchange marketing, PFP and other speculative collectible drops, and
+meme coins. **AI-majority art is on hold for now.** AI as one part of hands-on work, or AI used as
+an art form (such as a film made by directing many AI tools), is welcome when it shows real craft
+and the artist has a portfolio.
 
-1. **Primary intent is creative, not financial.** A painting about Bitcoin qualifies. A PFP
-   collection sold for profit doesn't, even if well-made, unless it clears #2.
-2. **Attributable to a named human creator or identifiable studio/collective** - a consistent
-   public pseudonym counts; an anonymous generative contract does not. (Meme art, filed under
-   Digital & Graphic Artists, is the one deliberate exception: entries there don't need individual
-   attribution, just to be a recognizable, lasting part of Bitcoin's internet culture.)
-3. **Publicly viewable or verifiable.** The link must show or play the actual work.
-4. **Someone can personally vouch for it.** Curation over comprehensiveness.
-5. **Active or complete**, not an abandoned stub.
-
-**AI-majority art is on hold for now.** Awesome Bitcoin Culture is not adding work that is mostly
-AI-generated. Exceptions need a named artist who shows extensive work and creativity of their own,
-beyond prompting:
-
-- **AI as part of manual work:** AI is one step in an otherwise hands-on process (sketches, painting
-  or drawing over, compositing, models trained on their own art).
-- **Using AI as a form of art:** the artist skillfully directs multiple AI agents and tools to build
-  a complex work, such as a film.
-
-Either way the artist needs a **portfolio**: their own site or page with a curated body of work
-(titles, dates, and ideally process), not just a feed or an upload folder. Entries that pass say
-when AI is part of the process.
-
-**Explicitly excluded:** NFT/ordinals PFP collections, exchange-marketing "art" campaigns, meme
-coins, and AI-generated output (see the exception above).
-
-**Disclosure:** the maintainer also runs Bitcoin FilmFest, Bitcoin Shipshow, Bitcoin District, and
-Awesome Bitcoin Events, which are all listed here. They were held to the same criteria as every
-other entry.
+The maintainer also runs Bitcoin FilmFest, Bitcoin Shipshow, Bitcoin District and Awesome Bitcoin
+Events. They are listed here under the same rules as everyone else.
 
 ## 🤝 Join in
 

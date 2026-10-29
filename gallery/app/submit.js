@@ -139,12 +139,10 @@
       '<p class="sg-pvcap">A maintainer adds a picture. Until then the row wears a generated tint.</p></section>' +
       '<section class="sg-sec" aria-labelledby="sgH5"><h3 class="sg-h" id="sgH5"><i>5</i>Before you send</h3>' +
       '<details class="sg-rules" id="sgRulesD"><summary>The list rules</summary><div class="sg-rules-in"><ol>' +
-      "<li>Primary intent is creative, not financial.</li>" +
-      "<li>Made by a named human creator or an identifiable studio or collective (meme art is the exception).</li>" +
-      "<li>Publicly viewable or verifiable.</li>" +
-      "<li>Someone can vouch for it.</li>" +
-      "<li>Active or complete, not an abandoned stub.</li></ol>" +
-      "<p><b>Left out:</b> NFT or ordinals PFP collections, exchange marketing, meme coins, bulk AI slop.</p></div></details>" +
+      "<li>Made with care: good work, worth someone's time.</li>" +
+      "<li>Someone behind it: a person, studio, collective or consistent pseudonym (memes can be anonymous).</li>" +
+      "<li>The link shows or plays the actual work.</li></ol>" +
+      "<p><b>Left out:</b> financial products, exchange marketing, PFP and other speculative drops, meme coins. AI-majority art is on hold for now.</p></div></details>" +
       '<div class="sg-f" data-f="rules"><label class="sg-check"><input type="checkbox" id="sg-rules" aria-describedby="sg-rules-e"><span class="sg-box">' + CHECK + "</span><span>I read the rules and this fits.</span></label>" +
       '<p class="sg-msg" id="sg-rules-e" hidden>' + ICON_BAD + "<span></span></p></div></section>" +
       "</form>" +

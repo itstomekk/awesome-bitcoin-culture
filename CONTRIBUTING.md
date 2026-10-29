@@ -4,10 +4,8 @@ Thanks for helping grow this list. A few ground rules before opening a PR or iss
 
 ## What belongs here
 
-Read the [Scope](README.md#scope) and [Inclusion criteria](README.md#inclusion-criteria) in the
-README first. Short version: real creative work about Bitcoin, made by a named person or
-identifiable group (a consistent pseudonym counts; memes are the one exception to naming),
-publicly viewable, and something a maintainer can vouch for.
+See [What belongs here](README.md#-what-belongs-here) in the README. Short version: good creative
+work about Bitcoin, by someone you can name (memes excepted), with a link that shows the work.
 
 ## How to submit an entry
 
@@ -23,14 +21,11 @@ Prefer a guided submission? [Use the suggestion form on the gallery](https://awe
 
 ## What gets rejected
 
-- Financial products, exchange marketing, speculative collectible drops.
-- Anonymous generative/bulk-minted collections.
+- Financial products, exchange marketing, speculative collectible drops, meme coins.
 - Dead links or abandoned stubs.
-- AI-majority art (on hold for now). Exceptions: AI as one step in an artist's otherwise manual
-  work, or AI used as a form of art, where an artist skillfully directs multiple agents and tools
-  to build a complex work such as a film. Either way the artist has to show extensive work and
-  creativity of their own and have a portfolio (their own site or page with a curated body of
-  work, not just a feed or an upload folder). If it passes, say so in the entry.
+- AI-majority art, on hold for now. AI as one part of hands-on work, or AI used as an art form
+  (such as a film made by directing many AI tools), is welcome when it shows real craft and the
+  artist has a portfolio. Say so in the entry.
 
 ## Style
 
