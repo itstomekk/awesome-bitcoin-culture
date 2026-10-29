@@ -377,6 +377,14 @@
    "src": "https://itstomekk.github.io/awesome-bitcoin-events/"
   }
  ],
+ "behemoth": [
+  {
+   "img": "behemoth-1.webp",
+   "w": 1200,
+   "h": 675,
+   "src": "https://fanfares.io/_next/image?url=https%3A%2F%2Fapi.fanfares.live%2Fcdn%2F71635de88fab627154d82b79e219c86253a5b67c82ec172e047b78c0a3e43b1c.jpg&w=3840&q=75"
+  }
+ ],
  "benjamin-ella": [
   {
    "img": "benjamin-ella-1.webp",
@@ -3325,6 +3333,20 @@
    "src": "https://justlenasart.com/cdn/shop/files/21_Limited.jpg?v=1680776819"
   }
  ],
+ "lightning-poker": [
+  {
+   "img": "lightning-poker-1.webp",
+   "w": 1200,
+   "h": 506,
+   "src": "https://bitcoin-bumblebee.com/wp-content/uploads/2023/01/lightningpoker415.png"
+  },
+  {
+   "img": "lightning-poker-2.webp",
+   "w": 565,
+   "h": 1200,
+   "src": "https://bitcoin-bumblebee.com/wp-content/uploads/2023/01/mobile2.jpg"
+  }
+ ],
  "lina-seiche": [
   {
    "img": "lina-seiche-1.webp",
@@ -3799,6 +3821,14 @@
    "w": 500,
    "h": 500,
    "src": "https://cdn.sanity.io/images/w4avejpr/production/a7b387bc4e56e0c0a6cf7df41feb5d4ffa99ddcc-854x641.png?rect=107,0,641,641&w=500&h=500&q=75&auto=format"
+  }
+ ],
+ "money-electric-the-bitcoin-mystery": [
+  {
+   "img": "money-electric-the-bitcoin-mystery-1.webp",
+   "w": 480,
+   "h": 360,
+   "src": "https://i.ytimg.com/vi/iSF0KGsFuI8/hqdefault.jpg"
   }
  ],
  "moon": [
@@ -5139,6 +5169,14 @@
    "src": "https://imgprxy.stacker.news/DkBeTLY8evMgYnbuUqMzm8iwZM1fd6W2JYGWdNKVai8/rs:fit:2560:1440/aHR0cHM6Ly9tLnN0YWNrZXIubmV3cy80NzM0Nw"
   }
  ],
+ "statue-of-satoshi": [
+  {
+   "img": "statue-of-satoshi-1.webp",
+   "w": 1200,
+   "h": 675,
+   "src": "https://i.ytimg.com/vi/em74TdeSsbw/maxresdefault.jpg"
+  }
+ ],
  "studio-zeitwerk": [
   {
    "img": "studio-zeitwerk-1.webp",
@@ -5395,6 +5433,20 @@
    "src": "https://www.bookofbitcoin.org/img/enter-the-bitrix_2.webp?v=1879fdcd"
   }
  ],
+ "the-cultural-tutor": [
+  {
+   "img": "the-cultural-tutor-1.webp",
+   "w": 1155,
+   "h": 1200,
+   "src": "https://pbs.twimg.com/media/HLF6TM5XAAAukSv?format=webp&name=large"
+  },
+  {
+   "img": "the-cultural-tutor-2.webp",
+   "w": 1026,
+   "h": 1200,
+   "src": "https://pbs.twimg.com/media/HKdIN66WwAAGujM?format=webp&name=large"
+  }
+ ],
  "the-daily-thunder": [
   {
    "img": "the-daily-thunder-1.webp",
@@ -5463,6 +5515,14 @@
    "w": 1112,
    "h": 1200,
    "src": "https://static.wixstatic.com/media/30ce44_6c3825c126a845de8fabcfffa1631052~mv2.jpg"
+  }
+ ],
+ "the-great-reset-and-the-rise-of-bitcoin": [
+  {
+   "img": "the-great-reset-and-the-rise-of-bitcoin-1.webp",
+   "w": 848,
+   "h": 1200,
+   "src": "https://bitcoinfilmfest.com/assets/images/cinema/films/the-great-reset-and-the-rise-of-bitcoin-poster.jpg"
   }
  ],
  "the-higher-low": [

@@ -2,7 +2,12 @@
 
 **Last updated:** 2026-10-29.
 
-## Update 2026-10-29 (10 podcasts removed, local commit)
+## Update 2026-10-29 (works pass 6 + podcast cut, pushed)
+
+- Pass 6 searched the 41 entries that still had only the main picture, using new sources (podcast RSS episode art, own YouTube thumbnails, Wayback, Nostr, GitHub). 18 picks for 13 entries; Tomek approved 8 pictures for 6 entries (statue-of-satoshi, behemoth, money-electric-the-bitcoin-mystery, the-great-reset-and-the-rise-of-bitcoin, the-cultural-tutor x2, lightning-poker x2) via `abc-works-harvest/add_all_to_gallery.py --pass6` (reads `picks/pass6-approved.json`). Drops: `abc-works-harvest/logs/pass6/review-drops.txt`. The other 28 entries have no further own pictures; Tomek chose to keep just the main picture there (no generated images, no placeholders, no "send pictures" link).
+- `works.json`: 275 entries, 964 pictures. Built with `lum_works.py`, `build.py --no-fetch`, `check_parity.py` (OK, 304 entries), `assemble.py`; Firefox check 0 broken images, no JS errors.
+
+## Update 2026-10-29 (10 podcasts removed, pushed)
 
 - Tomek removed 10 podcasts: Bitcoiners - Live From Bitcoin Beach, Dr Bitcoin - The Man Who Wasn't Satoshi Nakamoto, Flirting With Bitcoin, Local Bitcoiners, Rabbit Hole Stories, The Anita Posch Show, The Staying Free Podcast, The Transformation of Value, Women & Bitcoin, Your Bitcoin Story. Their README rows, images, share cards, shots, works, socials and lum keys are deleted. Bitcoin Beach's description no longer points to its podcast. The list is in `research/waiting-room.md` with restore steps (from commit `852bfa8`).
 - 304 entries, Podcasts 19. `check_parity.py` OK; awesome-lint shows the same 8 errors and 6 warnings as before (line numbers only).
