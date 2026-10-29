@@ -2,6 +2,12 @@
 
 **Last updated:** 2026-10-28.
 
+## Update 2026-10-28 (TJ Murphy issues #2-#4, pushed a1485df, live)
+
+- Issues #2-#4 were opened by TJ Murphy himself (GitHub @timothyjosephmurphy) and asked for his works to be used as the gallery row background. Permission covers the gallery only; ask him before using the images elsewhere.
+- Main picture is now "Honeybadger and Cub with Genesis Block" (720x405 on a blurred backdrop, `manual`, replaces the Esperanza hero). Warszawska Syrenka and El Zonte at Dawn were already works 3 and 5. README description names Syrenka. Share card re-rendered. Issues closed with thank-you comments.
+- Open: #5 archjourney (real Greek artist, AI-assisted, fits the AI rule with disclosure), not added yet. PR #1: all artists are on main except Ninefold, which stays excluded.
+
 ## Update 2026-10-28 (creator outreach plan, nothing sent)
 
 - Planned only; see PLAN.md Phase 6 and `C:\Users\Lenovo\Hermes\.hermes\plans\2026-10-28_120000-abc-artist-outreach.md`.
