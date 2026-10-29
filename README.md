@@ -61,10 +61,16 @@ directory of financial products, exchanges, or speculative collectible drops.
 4. **Someone can personally vouch for it.** Curation over comprehensiveness.
 5. **Active or complete**, not an abandoned stub.
 
-**AI-made work is not accepted**, with one exception: a named artist who can show extensive work
-and creativity of their own, beyond prompting. That means a visible process (sketches, painting or
-drawing over, compositing, models trained on their own art) and a consistent body of work they
-stand behind. Entries that pass say when AI is part of the process.
+**AI-majority art is on hold for now.** Awesome Bitcoin Culture is not adding work that is mostly
+AI-generated. Exceptions need a named artist who shows extensive work and creativity of their own,
+beyond prompting:
+
+- **AI as part of manual work:** AI is one step in an otherwise hands-on process (sketches, painting
+  or drawing over, compositing, models trained on their own art).
+- **Using AI as a form of art:** the artist skillfully directs multiple AI agents and tools to build
+  a complex work, such as a film.
+
+Entries that pass say when AI is part of the process.
 
 **Explicitly excluded:** NFT/ordinals PFP collections, exchange-marketing "art" campaigns, meme
 coins, and AI-generated output (see the exception above).

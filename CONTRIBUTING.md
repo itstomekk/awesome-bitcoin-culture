@@ -26,8 +26,10 @@ Prefer a guided submission? [Use the suggestion form on the gallery](https://awe
 - Financial products, exchange marketing, speculative collectible drops.
 - Anonymous generative/bulk-minted collections.
 - Dead links or abandoned stubs.
-- AI-made work, unless a named artist shows extensive work and creativity of their own beyond
-  prompting (a visible process and a consistent body of work). If it passes, say so in the entry.
+- AI-majority art (on hold for now). Exceptions: AI as one step in an artist's otherwise manual
+  work, or AI used as a form of art, where an artist skillfully directs multiple agents and tools
+  to build a complex work such as a film. Either way the artist has to show extensive work and
+  creativity of their own. If it passes, say so in the entry.
 
 ## Style
 
