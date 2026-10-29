@@ -148,7 +148,7 @@ def layout(en):
     return LAYOUTS[int(hashlib.sha1(en["id"].encode()).hexdigest(), 16) % len(LAYOUTS)]
 
 
-USE_WORK = {"superama"}  # main img is a site screenshot with a popup baked in
+USE_WORK = {"superama", "tesi-cypher-painter"}  # main img is a site screenshot (popup, text-only profile page)
 
 
 def frame_src(en):
