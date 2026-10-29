@@ -26,8 +26,8 @@ Prefer a guided submission? [Use the suggestion form on the gallery](https://awe
 - Financial products, exchange marketing, speculative collectible drops.
 - Anonymous generative/bulk-minted collections.
 - Dead links or abandoned stubs.
-- Bulk-generated AI output with no identifiable author. AI-assisted work by a named artist who
-  stands behind it is fine; say so in the entry.
+- AI-made work, unless a named artist shows extensive work and creativity of their own beyond
+  prompting (a visible process and a consistent body of work). If it passes, say so in the entry.
 
 ## Style
 

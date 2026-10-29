@@ -61,12 +61,13 @@ directory of financial products, exchanges, or speculative collectible drops.
 4. **Someone can personally vouch for it.** Curation over comprehensiveness.
 5. **Active or complete**, not an abandoned stub.
 
-**AI-assisted work** is welcome when a named artist directs it and stands behind it as their own
-practice; entries say when AI is part of the process. Bulk-generated output with no identifiable
-author is not.
+**AI-made work is not accepted**, with one exception: a named artist who can show extensive work
+and creativity of their own, beyond prompting. That means a visible process (sketches, painting or
+drawing over, compositing, models trained on their own art) and a consistent body of work they
+stand behind. Entries that pass say when AI is part of the process.
 
 **Explicitly excluded:** NFT/ordinals PFP collections, exchange-marketing "art" campaigns, meme
-coins, and bulk-generated AI output with no identifiable author.
+coins, and AI-generated output (see the exception above).
 
 **Disclosure:** the maintainer also runs Bitcoin FilmFest, Bitcoin Shipshow, Bitcoin District, and
 Awesome Bitcoin Events, which are all listed here. They were held to the same criteria as every
