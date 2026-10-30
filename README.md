@@ -304,7 +304,7 @@ Artist of the day, hit Random, or use Suggest. There is also a plain-text
 - [Volatile21](https://www.volatile21.com/) - Photography that projects light and Bitcoin imagery
   onto bodies; physical prints in editions of 21 (artistic nudity).
 - [Yonat Vaks](https://www.yonatvaks.com/aboutme) - Painting, sculpture, and re-imagined artifacts;
-  "Bitcoin Art(e)facts" series on money and civilization.
+  "Bitcoin Art(e)facts" series on money and civilization. Her X bio: "Telling the story of #bitcoin, one tale at a time."
 - [ZETRA](https://zetra.studio/) - Painting, print, sculpture, and installation mixing street art
   with system-based abstraction.
 
