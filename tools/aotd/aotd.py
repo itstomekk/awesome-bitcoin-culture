@@ -32,7 +32,7 @@ Q = Path(r"C:/Users/Lenovo/.secrets/awesome-bitcoin-culture/aotd")
 ENV = Path(r"C:/Users/Lenovo/AppData/Local/hermes/.env")
 UPLOAD = Path(r"C:/Users/Lenovo/Hermes/tools/blossom-upload/upload.js")
 PY = r"C:/Python314/python.exe"
-CHAT, TOPIC = "-1003646507115", 4359  # HCC, GENERAL 2
+CHAT, TOPIC = "-1003646507115", 148  # HCC, Crons topic (Tomek: cron output never in GENERAL 2)
 AHEAD = 7                             # graphics this many days ahead
 LEGACY_UNTIL = date(2026, 10, 31)     # 29-31.10 run from the hand-made posts-pilot items
 DUE_H = 15                            # post time, UTC
@@ -220,7 +220,7 @@ def send_draft(i, d):
     m = meta(i)
     m["sent_draft"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
     save_meta(i, m)
-    print(f"SENT: draft for {i} ({dm(d)}) delivered to Telegram topic 4359 (graphic + text)")
+    print(f"SENT: draft for {i} ({dm(d)}) delivered to Telegram topic {TOPIC} (graphic + text)")
 
 
 def approve(i):
