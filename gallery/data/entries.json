@@ -2508,6 +2508,17 @@
   "host": "denver.space"
  },
  {
+  "id": "art-and-bitcoin-open-call",
+  "name": "Art and Bitcoin open call",
+  "url": "https://nsupraha.cz/en/program/art-and-bitcoin-2/",
+  "desc": "International open call for a new, openly licensed Bitcoin artwork in any medium, from Prague's NSU Foundation for Contemporary Art and Jednadvacet.org; deadline 10 Nov 2026.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Grants, Funders & Patronage",
+  "host": "nsupraha.cz"
+ },
+ {
   "id": "bitcoin-for-the-arts-bfta",
   "name": "Bitcoin for the Arts (BFTA)",
   "url": "https://www.bitcoinforthearts.org/",

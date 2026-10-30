@@ -613,6 +613,9 @@ Physical places and local communities where the scene gathers: hubs, venues, and
 Organizations that fund or support Bitcoin-native creative work directly - grants, residencies,
 sponsorships, patronage infrastructure.
 
+- [Art and Bitcoin open call](https://nsupraha.cz/en/program/art-and-bitcoin-2/) - International
+  open call for a new, openly licensed Bitcoin artwork in any medium, from Prague's NSU Foundation
+  for Contemporary Art and Jednadvacet.org; deadline 10 Nov 2026.
 - [Bitcoin for the Arts (BFTA)](https://www.bitcoinforthearts.org/) - US nonprofit giving artists
   quarterly micro-grants in Bitcoin; runs Bitcoin Arts Park at the
   Midwest Bitcoin Summit (Columbus, Sept 2026).

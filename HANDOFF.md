@@ -2,6 +2,14 @@
 
 **Last updated:** 2026-10-29.
 
+## Update 2026-10-30 (Art and Bitcoin open call added, local only, not pushed)
+
+- Tomek asked to add the NSU Prague x Jednadvacet.org open call (https://nsupraha.cz/en/program/art-and-bitcoin-2/). It is a competition, not an artist: listed as `art-and-bitcoin-open-call` under Institutions & Spaces > Grants, Funders & Patronage, next to Satoshee (commissions and contests) and BFTA. Events & Festivals was rejected: that section only links out to Awesome Bitcoin Events and "tracks creative work, not events".
+- Facts verified on the call page and rules PDF: announced 2026-09-12, deadline 2026-11-10 23:59 CET, any medium, open licence, 5 finalists x 21,000 CZK, winner +95,000 CZK, realisation budget up to 1,000,000 CZK. Initiator Jednadvacet.org (The Malahar Network z.s.), organiser NSU.
+- Main picture is the call's own square mint-green title graphic (text only; no further own pictures, so no works strip). Socials: Jednadvacet.org X and Instagram (linked from its site). Private contact row (nsu@nsupraha.cz, published on the call page) added to `contacts.csv` and `reach.csv` outside the repo.
+- Time-limited: after 2026-11-10 (results due within 30 days) the entry should be reworded to the outcome (winner/finalists) or removed. Owner decision pending on that, and on pushing.
+- Built with `build.py`, `check_parity.py` (OK, 305 entries), `lum_works.py`, `assemble.py`, `og_cards.py art-and-bitcoin-open-call`. Note: `og_cards.py` removed hackzero.jpg and moozi.jpg even with an id passed; restored with `git checkout`. Firefox check of `/a/art-and-bitcoin-open-call/`: panel, picture and card OK, 0 broken images, no JS errors.
+
 ## Update 2026-10-29 (works pass 6 + podcast cut, pushed)
 
 - Pass 6 searched the 41 entries that still had only the main picture, using new sources (podcast RSS episode art, own YouTube thumbnails, Wayback, Nostr, GitHub). 18 picks for 13 entries; Tomek approved 8 pictures for 6 entries (statue-of-satoshi, behemoth, money-electric-the-bitcoin-mystery, the-great-reset-and-the-rise-of-bitcoin, the-cultural-tutor x2, lightning-poker x2) via `abc-works-harvest/add_all_to_gallery.py --pass6` (reads `picks/pass6-approved.json`). Drops: `abc-works-harvest/logs/pass6/review-drops.txt`. The other 28 entries have no further own pictures; Tomek chose to keep just the main picture there (no generated images, no placeholders, no "send pictures" link).
