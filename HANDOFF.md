@@ -2,6 +2,13 @@
 
 **Last updated:** 2026-10-29.
 
+## Update 2026-10-31 (Bitcoin white paper page, 18th anniversary)
+
+- New page https://awesomebitcoinculture.com/bitcoin-whitepaper/ (English full text: figures, MathML equations, code listing, result tables, references) and the original PDF at https://awesomebitcoinculture.com/bitcoin.pdf (sha256 `b1674191...f553`, 184292 bytes, byte-identical to the Hermes whitepaper pack). Requested by Tomek; nothing was posted anywhere.
+- Source: `gallery/data/whitepaper-en.json` (copied from the Dwadzieście Jeden project, key `en`), renderer `gallery/scripts/whitepaper_page.py` -> writes `gallery/app/bitcoin-whitepaper/index.html` (committed output, so the Pages workflow needs no extra step). Styles `gallery/app/whitepaper.css` on top of `style.css` tokens (dark default, same `abc-theme` key). Figures in `gallery/app/bitcoin-whitepaper/fig/`, OG image `gallery/app/bitcoin-whitepaper/whitepaper-18-og.jpg`, PDF `gallery/app/bitcoin.pdf`.
+- `assemble.py` adds the page to `sitemap.xml` and `llms.txt`. The page is not part of the README or `check_parity.py`. Ends with a note linking the Polish reading version on dwadziesciajeden.pl (translation by meeDamian).
+- To change the page: edit the script or CSS, run `python gallery/scripts/whitepaper_page.py`, commit the generated `index.html`.
+
 ## Update 2026-10-30 (Art and Bitcoin open call added, local only, not pushed)
 
 - Tomek asked to add the NSU Prague x Jednadvacet.org open call (https://nsupraha.cz/en/program/art-and-bitcoin-2/). It is a competition, not an artist: listed as `art-and-bitcoin-open-call` under Institutions & Spaces > Grants, Funders & Patronage, next to Satoshee (commissions and contests) and BFTA. Events & Festivals was rejected: that section only links out to Awesome Bitcoin Events and "tracks creative work, not events".

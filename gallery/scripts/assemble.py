@@ -96,6 +96,7 @@ def llms_txt(data):
         f"- [Website]({SITE}): searchable gallery of every entry, with images",
         f"- [Source list]({REPO}/blob/master/README.md): the canonical Markdown list",
         f"- [Raw Markdown]({RAW}/README.md): the same list as plain Markdown",
+        f"- [Bitcoin white paper]({SITE}bitcoin-whitepaper/): Satoshi Nakamoto's paper as a web page, with the original PDF at {SITE}bitcoin.pdf",
         f"- [Inclusion criteria and suggestions]({REPO}/blob/master/CONTRIBUTING.md): how entries are chosen and how to suggest one",
         "- License: CC0 1.0 (public domain)", "",
     ]
@@ -169,6 +170,7 @@ def seo(data):
     (DIST / "sitemap.xml").write_text(
         '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
         f"  <url><loc>{SITE}</loc><lastmod>{today}</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>\n"
+        + f"  <url><loc>{SITE}bitcoin-whitepaper/</loc><lastmod>2026-10-31</lastmod><priority>0.7</priority></url>\n"
         + "".join(f"  <url><loc>{SITE}a/{en['id']}/</loc><priority>0.6</priority></url>\n" for en in data["entries"])
         + "</urlset>\n",
         encoding="utf-8")
