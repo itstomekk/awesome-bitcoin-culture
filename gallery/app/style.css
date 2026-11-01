@@ -100,6 +100,7 @@ button,input{font:inherit;color:inherit}
 .src{font-size:11.5px;text-transform:uppercase;letter-spacing:.04em;color:inherit;text-decoration:none;white-space:nowrap;font-weight:700;display:inline-flex;align-items:center;gap:8px;padding:2px 0 1px}
 .src svg,.foot svg{width:17px;height:17px;flex:none;fill:currentColor;display:block}
 .src:hover{background:var(--ga);color:var(--gaf);border-color:var(--ga)}
+.wpl{padding:4px 0 3px;border-bottom:2px solid transparent}.wpl:hover,.wpl:focus-visible{background:none;color:inherit;border-bottom-color:currentColor}
 .ctl{position:fixed;left:0;right:0;bottom:0;z-index:45;border-top:2px solid var(--barrule);display:flex;align-items:center;gap:8px;padding:5px var(--pad) calc(5px + env(safe-area-inset-bottom,0px))}
 .search{position:relative;display:block;flex:0 1 340px;min-width:0}
 .search input{width:100%;background:transparent;color:rgb(var(--barfg));border:0;border-bottom:2px solid rgba(var(--barfg),.45);transition:background-color .25s ease,border-color .25s ease,color .25s ease;padding:8px 28px 6px 0;font-size:11.5px;font-weight:700;text-transform:uppercase;letter-spacing:.03em;outline:0}
@@ -309,7 +310,7 @@ body.noimg .head:focus-visible,body.noimg .head[aria-expanded="true"],html.hv bo
   .src{order:4;font-size:10.5px}
   .ctl{gap:6px;padding:4px var(--pad) calc(4px + env(safe-area-inset-bottom,0px))}
   .top{justify-content:center}
-  .search{order:2;flex:0 1 230px;margin:0}
+  .search{order:2;flex:0 1 150px;margin:0} /* 150: leaves room for the White paper link on the same row as + and GitHub */
   .search input{font-size:12px;padding:6px 2px 4px;text-transform:none;font-weight:700}
   .search kbd{display:none}
   .theme span{padding:6px 8px;font-size:10px}

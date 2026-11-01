@@ -2,6 +2,12 @@
 
 **Last updated:** 2026-10-29.
 
+## Update 2026-11-01 (white paper round 2: own graphic + visible link)
+
+- New share image `gallery/app/bitcoin-whitepaper/whitepaper-18-abc-og.jpg` (1200x630, own look: orange/near-black flat poster, the stacked A/B/C wordmark from `scripts/og/glyph-*.png` + Archivo Black / Space Mono, English text "18 years / The Bitcoin white paper"). `whitepaper_page.py` now points og:image and twitter:image at it; the round-1 file `whitepaper-18-og.jpg` stays in place (older posts and caches). Art (gpt-image-2, text-free) and the composer script are in the Hermes `image-gen/2026-10-31-21-whitepaper-18/round2/abc/` folder (`post-1600x900.png` for tweets).
+- The white paper is now linked from the home page: a "White paper" text link in the top bar next to the GitHub icon (class `wpl`, `app/index.html`; on phones the search field basis shrank 230 -> 150px so + , White paper and GitHub stay on one row) and "Bitcoin white paper (18 years)" in the list footer.
+- No old `/whitepaper/` page exists on this site, so there is no redirect or canonical to maintain.
+
 ## Update 2026-10-31 (Bitcoin white paper page, 18th anniversary)
 
 - New page https://awesomebitcoinculture.com/bitcoin-whitepaper/ (English full text: figures, MathML equations, code listing, result tables, references) and the original PDF at https://awesomebitcoinculture.com/bitcoin.pdf (sha256 `b1674191...f553`, 184292 bytes, byte-identical to the Hermes whitepaper pack). Requested by Tomek; nothing was posted anywhere.

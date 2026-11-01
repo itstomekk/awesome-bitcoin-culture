@@ -17,7 +17,7 @@ SITE = "https://awesomebitcoinculture.com"
 PAGE_URL = SITE + "/bitcoin-whitepaper/"
 SHA = "b1674191a88ec5cdd733e4240a81803105dc412d6c6708d53ab94fc248f4f553"
 SIZE = "180 KB"
-OG = SITE + "/bitcoin-whitepaper/whitepaper-18-og.jpg"
+OG = SITE + "/bitcoin-whitepaper/whitepaper-18-abc-og.jpg"
 TITLE = "Bitcoin: A Peer-to-Peer Electronic Cash System"
 DESC = ("The Bitcoin white paper by Satoshi Nakamoto, published 31 October 2008: full text with figures, equations "
         "and references, plus the original PDF.")
