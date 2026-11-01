@@ -704,6 +704,17 @@
   "host": "timechainartmagazine.com"
  },
  {
+  "id": "rocco-gentile",
+  "name": "Rocco Gentile",
+  "url": "https://beacons.ai/altafacha69",
+  "desc": "Venezuelan artist and designer behind ₿FACHA, creating Bitcoin-inspired posters and art.",
+  "room": "Visual Art",
+  "roomLabel": "Visual Art",
+  "roomIcon": "🎨",
+  "sub": "Illustration & Digital Art",
+  "host": "beacons.ai"
+ },
+ {
   "id": "shipwreck-sean",
   "name": "Shipwreck Sean",
   "url": "https://x.com/artbyshipwreck",

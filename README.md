@@ -206,6 +206,7 @@ Artist of the day, hit Random, or use Suggest. There is also a plain-text
   meets meme culture.
 - [Psyfer](https://timechainartmagazine.com/artist/psyfer/) - Multidisciplinary, digital-numismatics-focused
   art; London-based practice examining the semiotics of power.
+- [Rocco Gentile](https://beacons.ai/altafacha69) - Venezuelan artist and designer behind ₿FACHA, creating Bitcoin-inspired posters and art.
 - [Shipwreck Sean](https://x.com/artbyshipwreck) - Illustration, "HODL On" (2026). Auctioned via
   Bitcoin for the Arts. ([Instagram](https://www.instagram.com/shipwrecksean/))
 - [Superama](https://www.xverse.app/blog/bitcoin-art) - AR art, "Satoshi is Female". Latin American.

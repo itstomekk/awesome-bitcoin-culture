@@ -1956,6 +1956,14 @@
   "manual": true,
   "src": "https://aaron-koenig.net/wp-content/uploads/2026/07/LE_Cover_s.jpg"
  },
+ "rocco-gentile": {
+  "img": "img/rocco-gentile.webp",
+  "color": "#513b35",
+  "w": 720,
+  "h": 400,
+  "manual": true,
+  "src": "https://cdn.sanity.io/images/w4avejpr/production/82d19907854f41c586d70df7bb59dbf1d64407aa-4961x7016.jpg?auto=format"
+ },
  "roger9000": {
   "img": "img/roger9000.webp",
   "color": "#2e2925",
