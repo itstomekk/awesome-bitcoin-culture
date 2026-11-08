@@ -2360,5 +2360,12 @@
   "w": 720,
   "h": 720,
   "src": "https://nsupraha.cz/wp-content/uploads/2026/09/web-art-and-bitcoin-image.jpg"
+ },
+ "open-markets-foundation": {
+  "img": "img/open-markets-foundation.webp",
+  "color": "#dcddd5",
+  "w": 720,
+  "h": 378,
+  "src": "https://openmarkets.pub/og/open-markets.jpg"
  }
 }

@@ -2695,6 +2695,17 @@
   "host": "indeehub.studio"
  },
  {
+  "id": "open-markets-foundation",
+  "name": "Open Markets Foundation",
+  "url": "https://openmarkets.pub/",
+  "desc": "Community for independent commerce on Bitcoin and Nostr: a directory of open marketplaces and storefronts, merchant guides, and public community calls.",
+  "room": "Institutions & Spaces",
+  "roomLabel": "Institutions & Spaces",
+  "roomIcon": "🏛",
+  "sub": "Platforms & Marketplaces",
+  "host": "openmarkets.pub"
+ },
+ {
   "id": "scarce-city",
   "name": "scarce.city",
   "url": "https://scarce.city",

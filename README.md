@@ -657,6 +657,8 @@ distinct from the grants/patronage orgs above, these are self-serve tools any ar
   grants paid in Bitcoin and Lightning.
 - [IndeeHub Studio](https://indeehub.studio) - Lightning film streaming platform that pays
   filmmakers in real time per second watched.
+- [Open Markets Foundation](https://openmarkets.pub/) - Community for independent commerce on Bitcoin
+  and Nostr: a directory of open marketplaces and storefronts, merchant guides, and public community calls.
 - [scarce.city](https://scarce.city) - Recurring commercial marketplace/auction hub; de facto
   backbone linking most named artists above.
 - [Stacker News](https://stacker.news/) - Hacker News-style community where links, posts, and comments
