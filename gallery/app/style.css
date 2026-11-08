@@ -305,11 +305,12 @@ body.noimg .head:focus-visible,body.noimg .head[aria-expanded="true"],html.hv bo
   html.tophid .top{transform:translateY(-100%)}
   html:not(.tophid) .grp>h2{top:var(--bt)}
   .grp>h2{transition:top .25s ease}
-  .mark{font-size:12px;gap:6px;flex:0 0 auto;margin:0} /* small title, same row as search, + and GitHub */
-  .src{order:4;font-size:10.5px}
+  .mark{font-size:clamp(10px,3.1vw,13px);gap:6px;flex:0 0 auto;margin:0} /* one line at any phone width, same row as search and + */
+  .top .src{display:none} /* GitHub icon: footer only on phones */
   .ctl{gap:6px;padding:4px var(--pad) calc(4px + env(safe-area-inset-bottom,0px))}
   .search{order:2;flex:1 1 auto;margin:0} /* takes whatever the row has left */
-  .sgbtn{flex:none}
+  .top .sgbtn{flex:none;width:28px;height:30px}
+  .top .sgbtn .pl{font-size:20px}
   .search input{font-size:12px;padding:6px 2px 4px;text-transform:none;font-weight:700}
   .search kbd{display:none}
   .theme span{padding:6px 8px;font-size:10px}
@@ -380,9 +381,6 @@ html.hv body.noimg .si:hover{background:none;color:var(--fg)}
 .socl{display:flex;flex-wrap:wrap;gap:6px 14px}
 .sl{display:inline-flex;align-items:center;gap:6px;color:inherit}
 .sl svg{width:15px;height:15px;fill:currentColor;flex:none}
-@media (max-width:399px){
-  .mark>span{white-space:normal;max-width:11.5em;line-height:1.15} /* AWESOME BITCOIN / CULTURE */
-}
 @media (max-width:799px){
   .disc{flex:1 1 auto;min-width:0}
   .disc button{flex:0 1 auto;font-size:10px;padding:5px 9px}
